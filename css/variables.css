@@ -1,0 +1,114 @@
+/* ========================================
+   CSS Variables - Design Tokens
+   All colors, fonts, spacing, breakpoints
+======================================== */
+
+:root {
+    /* Colors - Primary */
+    --primary-dark: #0A2472;
+    --primary: #1E3A8A;
+    --primary-light: #3B5BA5;
+    
+    /* Colors - Secondary */
+    --secondary: #1E7B6B;
+    --secondary-light: #2A9D8F;
+    
+    /* Colors - Accent */
+    --accent: #F4A261;
+    --accent-light: #F8B77E;
+    --accent-dark: #E76F51;
+    
+    /* Colors - Neutral */
+    --white: #FFFFFF;
+    --gray-50: #F8F9FA;
+    --gray-100: #F1F3F5;
+    --gray-200: #E9ECEF;
+    --gray-300: #DEE2E6;
+    --gray-400: #CED4DA;
+    --gray-500: #ADB5BD;
+    --gray-600: #6C757D;
+    --gray-700: #495057;
+    --gray-800: #343A40;
+    --gray-900: #212529;
+    --black: #000000;
+    
+    /* Semantic Colors */
+    --text-primary: var(--gray-900);
+    --text-secondary: var(--gray-700);
+    --text-muted: var(--gray-600);
+    --text-light: var(--gray-50);
+    
+    --bg-primary: var(--white);
+    --bg-secondary: var(--gray-50);
+    --bg-tertiary: var(--gray-100);
+    
+    --border-color: var(--gray-300);
+    --border-color-light: var(--gray-200);
+    
+    --success: #28A745;
+    --warning: #FFC107;
+    --danger: #DC3545;
+    --info: #17A2B8;
+    
+    /* Typography */
+    --font-primary: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-heading: 'Poppins', var(--font-primary);
+    
+    /* Font Sizes - Fluid with clamp */
+    --text-xs: clamp(0.75rem, 2vw, 0.875rem);      /* 12-14px */
+    --text-sm: clamp(0.875rem, 2.5vw, 1rem);       /* 14-16px */
+    --text-base: clamp(1rem, 3vw, 1.125rem);       /* 16-18px */
+    --text-md: clamp(1.125rem, 3.5vw, 1.25rem);    /* 18-20px */
+    --text-lg: clamp(1.25rem, 4vw, 1.5rem);        /* 20-24px */
+    --text-xl: clamp(1.5rem, 5vw, 1.875rem);       /* 24-30px */
+    --text-2xl: clamp(1.875rem, 6vw, 2.25rem);     /* 30-36px */
+    --text-3xl: clamp(2.25rem, 7vw, 3rem);         /* 36-48px */
+    --text-4xl: clamp(3rem, 8vw, 3.75rem);         /* 48-60px */
+    
+    /* Spacing - Fluid */
+    --space-xs: clamp(0.5rem, 1vw, 0.75rem);       /* 8-12px */
+    --space-sm: clamp(0.75rem, 2vw, 1rem);         /* 12-16px */
+    --space-md: clamp(1rem, 3vw, 1.5rem);          /* 16-24px */
+    --space-lg: clamp(1.5rem, 4vw, 2rem);          /* 24-32px */
+    --space-xl: clamp(2rem, 5vw, 3rem);            /* 32-48px */
+    --space-2xl: clamp(3rem, 6vw, 4rem);           /* 48-64px */
+    --space-3xl: clamp(4rem, 8vw, 6rem);           /* 64-96px */
+    
+    /* Layout */
+    --container-max-width: 1280px;
+    --container-padding: var(--space-md);
+    
+    /* === PROBLEM 8: Header height reduced for compactness === */
+    --header-height: 70px; /* was 80px */
+    
+    /* Breakpoints */
+    --bp-sm: 640px;
+    --bp-md: 768px;
+    --bp-lg: 1024px;
+    --bp-xl: 1280px;
+    
+    /* Borders */
+    --radius-sm: 4px;
+    --radius-md: 8px;
+    --radius-lg: 16px;
+    --radius-xl: 24px;
+    --radius-full: 9999px;
+    
+    /* Shadows */
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.1);
+    --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1);
+    --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1);
+    --shadow-xl: 0 20px 25px rgba(0, 0, 0, 0.1);
+    
+    /* Transitions */
+    --transition-fast: 150ms ease;
+    --transition-base: 300ms ease;
+    --transition-slow: 500ms ease;
+    
+    /* Z-index */
+    --z-dropdown: 100;
+    --z-sticky: 200;
+    --z-modal: 300;
+    --z-popover: 400;
+    --z-toast: 500;
+}

@@ -1,0 +1,478 @@
+/* ========================================
+   Components - Reusable UI elements
+======================================== */
+
+/* Buttons */
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-xs);
+    padding: var(--space-sm) var(--space-lg);
+    font-weight: 500;
+    border-radius: var(--radius-md);
+    transition: all var(--transition-base);
+    cursor: pointer;
+    border: 2px solid transparent;
+    white-space: nowrap;
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+}
+
+.btn:active {
+    transform: translateY(0);
+}
+
+/* Button Sizes */
+.btn-small {
+    padding: var(--space-xs) var(--space-md);
+    font-size: var(--text-sm);
+}
+
+.btn-large {
+    padding: var(--space-md) var(--space-xl);
+    font-size: var(--text-lg);
+}
+
+.btn-full {
+    width: 100%;
+}
+
+/* Button Variants */
+.btn-primary {
+    background-color: var(--primary);
+    color: var(--white);
+}
+
+.btn-primary:hover {
+    background-color: var(--primary-dark);
+    border-color: var(--primary-dark);
+}
+
+.btn-secondary {
+    background-color: var(--secondary);
+    color: var(--white);
+}
+
+.btn-secondary:hover {
+    background-color: var(--secondary-light);
+}
+
+.btn-outline {
+    background-color: transparent;
+    border-color: var(--primary);
+    color: var(--primary);
+}
+
+.btn-outline:hover {
+    background-color: var(--primary);
+    color: var(--white);
+}
+
+.btn-light {
+    background-color: var(--white);
+    color: var(--primary);
+}
+
+.btn-light:hover {
+    background-color: var(--gray-100);
+}
+
+/* Cards */
+.card {
+    background-color: var(--white);
+    border-radius: var(--radius-lg);
+    padding: var(--space-lg);
+    box-shadow: var(--shadow-sm);
+    transition: all var(--transition-base);
+}
+
+.card:hover {
+    box-shadow: var(--shadow-lg);
+    transform: translateY(-4px);
+}
+
+/* Forms */
+.form-group {
+    margin-bottom: var(--space-md);
+}
+
+.form-label {
+    display: block;
+    font-weight: 500;
+    margin-bottom: var(--space-xs);
+    color: var(--text-secondary);
+}
+
+.form-input,
+.form-select,
+.form-textarea {
+    width: 100%;
+    padding: var(--space-sm) var(--space-md);
+    border: 2px solid var(--border-color);
+    border-radius: var(--radius-md);
+    background-color: var(--white);
+    transition: all var(--transition-fast);
+    font-size: var(--text-base);
+}
+
+.form-input:focus,
+.form-select:focus,
+.form-textarea:focus {
+    border-color: var(--primary);
+    box-shadow: 0 0 0 3px rgba(10, 36, 114, 0.1);
+    outline: none;
+}
+
+.form-input.error,
+.form-select.error,
+.form-textarea.error {
+    border-color: var(--danger);
+}
+
+.form-help {
+    font-size: var(--text-xs);
+    color: var(--text-muted);
+    margin-top: var(--space-xs);
+}
+
+.form-error {
+    font-size: var(--text-xs);
+    color: var(--danger);
+    margin-top: var(--space-xs);
+}
+
+.form-checkbox {
+    display: flex;
+    align-items: center;
+    gap: var(--space-xs);
+    margin-bottom: var(--space-md);
+}
+
+.form-checkbox input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+}
+
+.form-checkbox label {
+    cursor: pointer;
+    color: var(--text-secondary);
+}
+
+/* ========================================
+   NAVIGATION - IMPROVED (Problem 8)
+   ======================================== */
+.navbar {
+    background-color: var(--white);
+    box-shadow: var(--shadow-sm);
+    position: sticky;
+    top: 0;
+    z-index: var(--z-sticky);
+    height: var(--header-height);
+}
+
+.navbar-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    padding: 0 var(--container-padding);
+}
+
+.logo {
+    font-family: var(--font-heading);
+    font-size: var(--text-xl);
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+/* === PROBLEM 8: Logo size controlled via CSS (overrides inline style) === */
+.logo img {
+    height: 34px !important;  /* <-- add !important */
+    width: auto;
+    display: block;
+    transition: height var(--transition-fast);
+}
+
+.logo-text {
+    color: var(--primary-dark);
+}
+
+.logo-highlight {
+    color: var(--secondary);
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    gap: var(--space-lg);
+}
+
+.nav-link {
+    color: var(--text-secondary);
+    font-weight: 500;
+    transition: color var(--transition-fast);
+    font-size: var(--text-sm);
+    position: relative;
+    padding: 4px 0;
+}
+
+.nav-link:hover {
+    color: var(--primary);
+}
+
+/* Active navigation link styles */
+.nav-link.active {
+    color: var(--primary);
+    font-weight: 600;
+}
+
+.nav-link.active::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, var(--primary), var(--secondary));
+    border-radius: var(--radius-full);
+}
+
+/* Mobile menu toggle button */
+.mobile-menu-toggle {
+    display: none;
+    font-size: var(--text-xl);
+    color: var(--primary);
+    cursor: pointer;
+    background: none;
+    border: none;
+    z-index: 1002;
+    transition: all 0.3s ease;
+    width: 40px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    border-radius: var(--radius-full);
+}
+
+.mobile-menu-toggle:hover {
+    background: var(--gray-100);
+}
+
+/* Mobile Navigation - Slide from Right */
+.mobile-nav {
+    display: none;
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 80%;
+    max-width: 320px;
+    height: 100vh;
+    background-color: var(--white);
+    box-shadow: -5px 0 30px rgba(0,0,0,0.15);
+    z-index: 1001;
+    padding: var(--space-lg) var(--space-md) var(--space-md);
+    transition: right 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    overflow-y: auto;
+}
+
+.mobile-nav.active {
+    right: 0;
+    display: block;
+}
+
+/* Close button inside mobile nav */
+.mobile-close-btn {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    width: 36px;
+    height: 36px;
+    border: none;
+    background: var(--primary);
+    color: white;
+    border-radius: 50%;
+    font-size: var(--text-lg);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1002;
+    box-shadow: var(--shadow-md);
+    transition: background var(--transition-fast);
+}
+
+.mobile-close-btn:hover {
+    background: var(--primary-dark);
+}
+
+#mobileNavLinks {
+    position: relative;
+    z-index: 1001;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+/* === PROBLEM 8: Improved mobile nav links (larger touch targets) === */
+.mobile-nav-link {
+    display: flex;
+    align-items: center;
+    min-height: 48px;
+    padding: var(--space-xs) var(--space-sm);
+    color: var(--text-secondary);
+    font-weight: 500;
+    font-size: var(--text-base);
+    border-radius: var(--radius-md);
+    transition: all var(--transition-fast);
+    text-decoration: none;
+    position: relative;
+    z-index: 1001;
+}
+
+.mobile-nav-link:hover {
+    background: var(--gray-50);
+    color: var(--primary);
+}
+
+.mobile-nav-link.active {
+    color: var(--primary);
+    font-weight: 600;
+    background: var(--gray-100);
+}
+
+.mobile-nav-btn {
+    margin-top: var(--space-md);
+    width: 100%;
+    position: relative;
+    z-index: 1001;
+}
+
+/* Mobile Overlay */
+.mobile-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+}
+
+.mobile-overlay.active {
+    display: block;
+    opacity: 1;
+    pointer-events: auto;
+}
+
+/* Alerts */
+.alert {
+    padding: var(--space-sm) var(--space-md);
+    border-radius: var(--radius-md);
+    margin-bottom: var(--space-md);
+    font-weight: 500;
+}
+
+.alert-success {
+    background-color: rgba(40, 167, 69, 0.1);
+    color: var(--success);
+    border: 1px solid var(--success);
+}
+
+.alert-error {
+    background-color: rgba(220, 53, 69, 0.1);
+    color: var(--danger);
+    border: 1px solid var(--danger);
+}
+
+.alert-warning {
+    background-color: rgba(255, 193, 7, 0.1);
+    color: var(--warning);
+    border: 1px solid var(--warning);
+}
+
+.alert-info {
+    background-color: rgba(23, 162, 184, 0.1);
+    color: var(--info);
+    border: 1px solid var(--info);
+}
+
+/* Badges */
+.badge {
+    display: inline-block;
+    padding: var(--space-xs) var(--space-sm);
+    border-radius: var(--radius-full);
+    font-size: var(--text-xs);
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.badge-professional {
+    background-color: var(--primary);
+    color: var(--white);
+}
+
+.badge-trade {
+    background-color: var(--secondary);
+    color: var(--white);
+}
+
+.badge-entrepreneurial {
+    background-color: var(--accent);
+    color: var(--white);
+}
+
+/* =========================================
+   RESPONSIVE HEADER (Problem 8)
+   ========================================= */
+@media (max-width: 768px) {
+    .nav-links {
+        display: none;
+    }
+    
+    .mobile-menu-toggle {
+        display: flex !important;
+    }
+    
+    .mobile-nav {
+        display: block;
+    }
+    
+    /* === PROBLEM 8: Smaller logo on mobile === */
+    .logo img {
+        height: 40px;
+    }
+    
+    .navbar {
+        height: 60px;
+    }
+    
+    .navbar-container {
+        padding: 0 var(--space-sm);
+    }
+    
+    .mobile-close-btn {
+        top: 12px;
+        right: 12px;
+        width: 32px;
+        height: 32px;
+        font-size: var(--text-base);
+    }
+    
+    .mobile-nav-link {
+        font-size: var(--text-sm);
+        min-height: 44px;
+        padding: var(--space-xs) var(--space-sm);
+    }
+}
