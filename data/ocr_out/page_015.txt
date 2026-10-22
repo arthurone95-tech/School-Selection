@@ -1,0 +1,70 @@
+PROGRAMMES w
+
+a
+
+SCHOOL Hom. | vis. | GEN. | GEN. Lane | NO. OF Zz
+
+S/N REGION DISTRICT SCHOOL NAME LOCATION GENDER STATUS
+
+CODE AGRIC | BUS | TECH | Econ. | arts | arts | sci | SEM | LANG PROG 3
+
+101 201 301 401 402 501 = 503 n
+204) G. Accra La Dade-Kotopon Municipal |0010117 |Labone Senior High Labone Mixed X X X X xX Day/Boarding SHS
+205] G. Accra La Dade-Kotopon Municipal |0010115 | Forces Senior High/Tech, Burma Camp Burma Camp i X X x x x Day/Boarding | SHTS
+206) G. Accra La Nkwantanang Madina Mun/0010502 | West Africa Senior High Adenta i xX x xX x xX Day/Boarding* | SHS
+207/G. Accra Krowor Municipal 0010114 |Nungua Senior High Nungua i X X X X X Day/Boarding | SHS
+208) G. Accra Ningo Prampram 0010403 _ |Ningo Senior High Old Ningo i Xx X x x x Day/Boarding | SHTS
+209] G. Accra Ningo Prampram 0010404 |Prampram Senior High Prampram i X X X X X Day/Boarding | SHS
+210|G. Accra Shai-Osudoku Ghanata Senior High Dodowa Day/Boarding SHS
+
+nee ieee orem mem fe | ft [2 ffieyr) | ft eae
+212) G. Accra Tema Metro 0010213 |Our Lady ¢ of Mercy Senior High Tema Comm 4 Mixed Day SHS
+eee [eee epee eee eee
+214) Northern Sagnerigu Municipal 0080105 Kalpohin S Senior High Tamale Mixed Day/Boarding
+
+215] Northern Yendi Municipal Yendi Day/Boarding
+216) Oti Jasikan \. Baglo 6 Day/Boarding
+217) Oti Jasikan j i i . Okadjakrom i 7 Day/Boarding
+218) Oti Jasikan Bueman Senior High. Jasikan i 6 Day/Boarding
+219] Upper East Bawku East Municipal Bawku Senior High Bawku Day/Boarding
+221| Upper West Nadowli 0100503 | Queen of Peace Senior High, Nadowli Nadowli Mixed Day/Boarding SHS
+ee ee eee
+223/Upper West Wa Municipal 0100106 |T.I. Ahmadiyya Senior High, Wa “ Mixed Day/Boarding
+Lassie
+
+224| Upper West Wa Municipal Day/Boarding
+Day/Boarding
+0071003 |Agate Comm. Senior High Agate Day/Boarding
+
+Guan
+
+225] Upper West Wa West
+226) Volta Afadzato South
+228) Volta Central Tongu 0070802 | Mafi-Kumasi Senior High/Tech Mafi-Kumasi Mixed Day/Boarding SHTS
+230] Volta Ho Municipal 0070104 Awudome Senior High. Mixed Day/Boarding
+
+Keta Municipal 0070502 _ |Keta Senior High/Tech. Keta
+234) Volta Kpando Municipal 0070602 |Kpando Senior High . Kpando
+239|Western Ahanta West 0040201 |St. Mary's Boys' Senior High, Apowa Apowa Boys - § |parbowan
+240| Western Ellembele 0040303 | Esiama Senior High/Tech Esiama Day/Boarding | SHTS
+241) Western Jomoro Half Assini Senior High Half Assini Srieceeetece ee Day/Boarding SHS
+242| Western Mpohor 0041102 |Mpohor Senior High Mpohor Day/Boarding SHS
+
+0070114 |Abutia Senior High/Tchnical Abutia Day/Boarding
+0071005 |St. Mary's Sem.& Senior High School Lolobi Day/Boarding
+Day/Boarding
+Day/Boarding
+235) Volta North Dayi 0070605 Vakpo Senior High Vakpo Day/Boarding
+SS ee eee
+237) Volta South Dayi 0070609 _|Tongor Senior High Tech. Tsannkpe Tongor Mixed Day/Boarding SHTS
+244| Western Nzema East Municipal 0040301 |Kwame Nkrumah Senior High Nsein Axim Mixed Day/Boarding SHS
+Sco Soe ee ee eee
+246] Western Sekondi Takoradi Metro 0040110 |Adiembra Senior High Adiembra Mixed Day/Boarding SHS
+
+247|Western Shama 0040111 |Shama Senior High Shama Mixed Day/Boarding SHS
+248] Western Shama Ahanta East 0040106 |Ahantaman Girls' Senior High Sekondi-Ketan Girls X x x x x 5 Day/Boarding SHS
+249| Western Tarkwa-Nsuaem Municipal |0040904 |Tarkwa Senior High Tarkwa Mixed Xx Xx x Xx x 5 Day/Boarding SHS
+250] Western Wassa Amenfi East 0040502 | Amenfiman Senior High Wasa Akropong Mixed X X X X X X 6 Day/Boarding SHS
+
+2025 SECOND CYCLE PUBLIC
+CATEGORY B Page 12 of 61 SCHOOLS REGISTER

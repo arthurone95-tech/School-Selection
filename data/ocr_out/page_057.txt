@@ -1,0 +1,49 @@
+CODE TYPE
+
+[331|G.Accra __|Kpone-Katamanso_ 0010227 [KponeComm.SeniorHigh [Katamanso [Mixed [Day | C__[SHS |
+|332|G.Accra __|LaDade-KotoponMunicipal_ 0010128 [LaPresbySeniorHign [La Emmaus [Mixed [Day | CI SHS |
+|333|G.Accra _|LedzokukuMunicipal «0010116 [PresbySeniorHigh,Teshie —s[Teshie [Mixed [Day || SHS |
+|334|G.Accra|TemaMetro «0010205 [TemaMeth.DaySeniorHigh ss [TemaCommil [Mixed [Day |__| SHS |
+|335|G.Accra —|TemaMetro «0010210 [PresbySeniorHigh,Tema [Tema Community11 [Mixed [Day |__| SHS |
+|336|G.Accra [Tema WestMunicipal «0010545 [LashibiComm.Day SS 'Sakumono [Mixed [Day | SHS |
+|337|G.Accra____—|GaSouthMunicipal_ «0010711 [BortianorSeniorHighSchool _—[Bortianor [Mixed [Day | CC SHS |
+[338 [NorthEast |Bunkrupgu-Yunguo «0081101 [NakpanduriSeniorHigh SS [Nakpanduri [Mixed |#N/A_ | CSS |
+|339|NorthEast___|Chereponi_——SSSS«*0080901 [ChereponiSeniorHigh/Tech. Ss [Chereponi__— [Mixed |Day/Boarding| _C__|SHTS|
+[340 [NorthEast |MampruguMoaduri_ «0080604 [YagabaSeniorHighSchool —[Yagaba [Mixed [Day/Boarding| C__|SHS |
+[341 [NorthEast |WestMamprusi__— «0080608 [JangaSeniorHigh/Tech Ss Janga [Mixed [Day | SHTS|
+[342 [NorthEast |EastMamprusi_ «0080506 [SakoguSeniorHigh/Tech [Sakogu [Mixed [Day | SHTS|
+[343 [NorthEast |EastMamprusi_ «0080507 [LangbinsiSeniorHigh/Tech Ss [Langbinsi_—— [Mixed [Day |__| SHTS|
+[344 [NorthEast |Bunkpurugu-Nankpanduri_ 0080505 [PresbySHTS,Nankpanduri Ss [Nakpanduri_ [Mixed [Day |__| SHS |
+[345 [NorthEast |Yunyoo-Nasuan «0080508 [YunyooSeniorHighSchool ss [Yunyoo [Mixed [Day | CC SHS |
+[346 [NorthEast |Yunyoo-Nasuan «0080509 [NasuanSeniorHighSchool ss [Nasuan [Mixed |Day/Boarding| C__|SHS |
+[347 [NorthEast |EastMamprusi__— «0080511 [GhintiriSeniorHigh/Tech SG bintiri__ [Mixed [Day | C__— SHTS|
+[348 [NorthEast |MampruguMoaduri_ «0080619 [VizesiSeniorHighSchool _—s—s*dVizesi__— Mixed [Day/Boarding| C__|SHS |
+[349 [NorthEast |Bunkpurugu-Nankpanduri_ (0081412 [BimbaguSeniorHigh/Tech_ __—[Bimbagu [Mixed |Day/Boarding| C__|SHTS|
+|350|Northern _——|Gushegu_SSSC«*d0071012 [GusheguSeniorHigh Ss Gushegu [Mixed [Day/Boarding| C__|SHS |
+[351 [Northern |Karaga «0081401 [KaragaSeniorHigh [Karaga [Mixed [Day/Boarding|  C__|SHS |
+|352[Northern [Mion «0080805 [SangComm.DaySchoot (Sang, [Mixed [Day | [SHS |
+[353 [Northern |[NanumbaSouth 0080402 [WulensiSeniorHigh  [Wullensi_ [Mixed [Day/Boarding|  C__|SHS |
+[354 Northern |Saboba «0080903 [WapuliComm.SeniorHigh SS [Wapuli_ [Mixed [Day | SHS |
+[355 [Northern |Saboba «0080902 [Saboba E.P.SeniorHigh [Saboba_ [Mixed [Day/Boarding| C__|SHS |
+[356 [Northern |TamaleMetro «0080132 [Nuriyalslamic Senior High, Tamale [GUKPEGU-TUA__[Mixed_|Day/Boarding|  C__|SHS |
+[357 [Northern __|TataleSanguli_ «0081102 |E.P. Agric SeniorHigh/Tech. —[Tatale [Mixed [Day/Boarding| C__|SHTS|
+[358 [Northern |Zabzugu 0081101 [ZabzuguSeniorHigh SS [Zabzugu Mixed [Day/Boarding| C__|SHS |
+|359|Northern —|Tolon «0081203 [Kasuliyili Senior High SS [Kasuliyili Mixed [Day | SHS |
+[360 [Northern [Nanton «0081514 [Nanton Senior HighTech [Nanton [Mixed [Day/Boarding| C__| SHTS|
+|3eijoti ss Biakoye — CCSC*dtOO7106 _[Tapaman Senior High/Tech ——[Tapa-Amanfrom __ [Mixed _|Day/Boarding| _C_|SHTS|
+|3e2|oti si Biakoye = CCSC*C*dtOOTZ1109 [Biaakoye Comma. School [NKonya-wurupong [Mixed |Day/Boarding| _C_|SHS |
+[3e3[oti Ss Biakoye «0071108 [BowiriComm.DaySeniorHigh/Tech. __[Kwamekrom [Mixed [Day |__| SHTS|
+[3ealoti Ss Biakoye «0071103 [NKonyaSenior HighSchoot [Nkonya-Ahenkro [Mixed |Day/Boarding| C__|SHS |
+[3es[oti [Kadjebi 0071203 [Ahamansulslamic Senior HighSchool___—[Ahamansu____ [Mixed _|Day/Boarding| C__|SHS |
+|see[oti Ss [Kadjebi_ «0071202 [Dodi-Papase SeniorHigh/Tech [DodiPapase [Mixed _|Day/Boarding|  C__|SHTS|
+|3e7|oti Ss KrachiEast_ 0070211 [YabramComm.DaySchoot Ss [Dambai__— [Mixed [Day | CC SHS |
+|3esloti Ss |KrachiEast_ «0070204 [AsukawkawSeniorHigh [Asukawkaw [Mixed _|Day/Boarding| C__|SHS |
+|3eooti SS |KrachiNchumuru 0070208 [NchumurumanComm.DaySeniorHigh _[Chinderi__— [Mixed [Day |__| SHS |
+|37oloti_——|KrachiWest_ «0070202 |Kete Krachi Senior High/Tech. __—[Kete-Krachi___——_ [Mixed _|Day/Boarding| _ C__|SHTS|
+[371 {oti |NkwantaSouth «0070304 [NkwantaComm.SeniorHigh/Tech —[Nkwanta_ [Mixed [Day || CC SHTS|
+|372|oti_ Ss |NkwantaSouth «(0070305 [KyaboboGirls'School SS [NKwanta Girls [Day/Boarding| C_|SHS |
+|373|oti_ Ss [NkwantaSouth «0070302 [NtrubomanSeniorHign Ss s[Brewaniase [Mixed |Day/Boarding| _C_|SHS |
+ja7afoti Guan «if0077002 [AkpafuSeniorHigh/Tech. SS [Akpafu [Mixed [Day/Boarding| Cc __| SHTS|
+
+2025 SECOND CYCLE PUBLIC
+APPENDIX 3 Page 54 of 61 SCHOOLS REGISTER

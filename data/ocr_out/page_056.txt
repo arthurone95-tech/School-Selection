@@ -1,0 +1,47 @@
+Mozano Mixed _[Day/oarang] 6 [ss |
+288 |Gentrat | Komenda/Eaina/Eguafo/Rbirem Municipal[0030202  [Eguafo:Abrem Senior High Eguafo Abram | Mixed ~[Day/Boaraing| [SHS |
+269 [Centrat|Mfantseman Municipal [0030308 |Aboadze State College Abend Dominase |Mixed [Day/Boaraing| [SHS |
+| 290|Centrat_ __[TwifoHemangLowerDenkyira 0031102 [JukwaSeniorHigh/Tech ss Jukwa [Mixed [Day/Boarding|  C__|SHTS|
+| 291 |Centrat_____—[UpperDenkyiraWest_—— «0031006 |AyanfuriSeniorHign  fAanfuri_ [Mixed [Day/Boarding|  C__|SHS |
+| 292|Centrat___—[UpperDenkyiraEastMunicipal___—_——__—|0031007_|Kyekyewere Comm. Senior HighSchool___[Denkyira-Kyekyewere [Mixed [Day |G SHS |
+| 293|Centrat Ss [Ekumfi__— «0030312 Akyin Senior HighSchool Ss Arkra-Mbroboto [Mixed [Day | C—O SHS |
+| 294|Central___—|GomoaCentral Ss « 0030509 |OgyeedomComm.SnrHigh/Tech _——|Gomoaafransi__—[Mixed [Day | —C__— SHTS|
+| 295 |Centrat___—_—[TwifuAttiMokwaa «0031107 |MokwaaSeniorHighSchool = [Mokwaa [Mixed [Day/Boarding| C__|SHS |
+| 296|Central ——[GomoaEast_ «0030624 St. Gregory CatholicSeniorHighSchool __[Buduburam_ [Mixed [Day | C_ [SHS |
+| 297|Centrat_ _——[Mfantseman «0030313 [KobinaAnsahSHS SS [Kobina Ansah_ [Mixed [Day |_—C__—[SHS |
+| 298|Centrat_ _——[GomoaCentral «0030907 |S.D.A Senior High School,GomoaJukwa_____|GomoaJukwa____[Mixed_[Day/Boarding| C__ [SHS |
+| 299|Centrat_ ——[AwutuSenya «0030633 [BontraseSeniorHighTech.Sch_[AwutuBontrase [Mixed [Day |__| SHTS|
+| 300|Centrat_ _—[AwutuSenyaWest_ [0030613 [AwutuWintonSeniorHign [Awutu [Mixed [Day || BSS |
+| 301|Centrat_ ___—[UpperDenkyiraWest_ «(0031003 [DiasoSeniorHigh Dias [Mixed [Day/Boarding| B__ [SHS |
+| 302|Eastern ——[KwahuAframPlainsNorth [0020903 |Mem-ChemfreComm.SeniorHign __——[Mem-Chemfre_ [Mixed [Day |__| SHS |
+| 303 Eastern |[KwahuAframPlainsNorth 0020901 [Donkorkrom Agric SeniorHigh SS [Donkorkrom Mixed _[Day/Boarding| _ C__|SHS |
+| 304 Eastern |[KwahuAframPlainsSouth 0020904 |Maame KroboComm. Senior High [MaameKrobo [Mixed [Day | C—O SHS
+| 305 |Eastern _—|[KwahuAframPlainsSouth «0020902 |St.FidelisSeniorHigh/Tech_ [Tease [Mixed [Day/Boarding| C__|SHTS|
+| 306 |Eastern _—[AkwapimNorthMunicipal__———*|0020409 |MangoaseSeniorHigh ss [Mangoase [Mixed [Day/Boarding| _C__|SHS |
+| 307 |Eastern ——[Akyemansa «0020701 [AkokoasoSeniorHigh/Tech Ss [AKimAkokoaso_—[Mixed_[Day/Boarding| C__|SHTS|
+| 308|Eastern —[Akyemansa «0020703 [AyirebiSeniorHigh i Ayirebi_ Mixed [Day/Boarding|  C__ [SHS |
+| 309|Eastern ——[Asuogyaman «0020804 [BosoSeniorHigh/Tech Bosco Mixed [Day/Boarding|  C__[SHTS|
+[310 Eastern [Asuogyaman «0020805 [ApegusoSeniorHigh ss Apeguso [Mixed [Day/Boarding|  C__ [SHS |
+|311|Eastern —[Asuogyaman «0020802 [AdjenaSeniorHigh/Tech. s[Adiena [Mixed [Day/Boarding|  C__|SHTS|
+|312|Eastern ——[AtiwaEast «0021601 |S.D.A. Senior High. AkimSekyere —[AkimSekyere [Mixed [Day/Boarding|  C_|SHS |
+[313 Eastern [Avensuano «0020808 [AnuMAPapamComm.Day [AnumApapam [Mixed [Day || C___[SHS |
+|314|Eastern ——[Avensuano «0020203 |Kraboa-Coaltar Presby Snr.High/Tech. ___|Kraboa-Coaltar__—[Mixed_|Day/Boarding| _C__|SHTS|
+|315|Eastern __——[Asene/Manso/Akroso «0020608 |AtweamanSeniorHigh Ss [AKim Manso [Mixed [Day/Boarding| _ C__|SHS |
+[316 |Eastern _—|[BirimNorth «0020704 St. Michael's Senior High, Akoase (Nkawkaw) |Akoase,Nkawkaw [Mixed [Day _—|_—C___— SHS |
+|317|Eastern _——[Achiase FC CCSC«*0020611 Aperade Senior High/Tech. Ss AKimAperade [Mixed [Day || CC SHTS|
+|318|Eastern _——[Denkyembour «0021105 [Takrowase Comm. SeniorHigh = [Tarkrowase [Mixed [Day || C—O SHS |
+|319|Eastern —[Denkyembour_ «0021106 [PresbyBoysModelSeniorHigh [Boadua— [Boys [DayBoarding | C_[SHS |
+| 320|Eastern —[Denkyembour 0021104 [Salvation Army Senior High, AkimWenchi____[AkimWenchi___—[Mixed_[Day/Boarding| _C__|SHS |
+| 321 Eastern —[FanteakwaSouthMunicipal_ 0021314 |ApedwaPresbySeniorHigh ss [Apedwa_ [Mixed [Day | SHS |
+| 322|Eastern ——[AbuakwaSouthMunicipal_ 0021304 St. Stephen's Presby Snr.High/Tech, Asiakwa |Asiakwa_ Mixed _[Day/Boarding| —C__|SHTS|
+| 323 Eastern [KwahuWestMunicipal_ 0021018 |FodoaComm.SeniorHigh ss [FodoaNkawkaw [Mixed [Day |__| SHS |
+| 324 Eastern [UpperManyaKrobo «0021503 |AsesewaSeniorHigh/Tech —s[Asesewa [Mixed [Day/Boarding| C__|SHTS|
+| 325 |Eastern [Upper WestAkim Municipal [0020507 |KwaobaahNyanoaComm.SeniorHigh __—[Nyanoa_ [Mixed [Day |__| SHS |
+| 326 |Eastern _—_—|ViloKrobo «0021402 |Klo-Agogo Senior High/Tech —|Klo-Agogo [Mixed [Day/Boarding| C__|SHTS|
+| 327 |Eastern _—_—|ViloKrobo «0021404 |ApesuaComm.SeniorHigh —s—s[Apesua [Mixed [Day | SHS |
+| 328 Eastern _——|BirimNorth «0020705 |AmuanaPrasoSeniorHigh sss [AmuanaPraso [Mixed [Day | C—O SHS |
+| 329|G.Accra __—|GaWestMunicipal_ «(0010186 [AdjenKotokuSeniorHigh Sse Kotoku [Mixed [Day || C= SHS |
+|330|G.Accra |GaWestMunicipal 0010195 [AkramamanSeniorHigh SS [AKramaman [Mixed [Day | —C__—[ SHS |
+
+2025 SECOND CYCLE PUBLIC
+APPENDIX 3 Page 53 of 61 SCHOOLS REGISTER

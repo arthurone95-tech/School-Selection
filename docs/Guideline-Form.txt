@@ -1,0 +1,100 @@
+Yes, I understand. The JSON file is your converted version of the printed 2025 school register. It contains school records, while the handbook and selection guidelines determine how those schools can be selected. A school may belong to a category and also appear in a special group such as STEM, TVET, or an institution list, so we must follow the applicable rules rather than rely on the school name alone.
+
+I’ll first list the guidelines in the order you provided them. Then I’ll demonstrate how to fill the selection form using those guidelines. I’ll distinguish confirmed rules from anything that still needs clarification.
+
+## 1. The 2025 school-selection guidelines
+
+### A. Main school choices
+
+1. Select five schools and rank them according to preference, with Choice 1 being the most preferred.
+2. Select a programme and a residential preference for each main choice.
+3. The five main choices should comprise three Boarding choices and two Day choices.
+4. A candidate may select one Category B school as Boarding and another Category B school as Day.
+5. A candidate may select one Category C school as Boarding and another Category C school as Day.
+6. A candidate must not select more than one school from Category A.
+7. A candidate must not select more than two schools from Category B.
+8. A candidate may select all five main choices from Category C, subject to the stated residential arrangement of three Boarding and two Day.
+
+### B. Alternative school choices
+
+9. Select two alternative schools: one Category B school and one Category C school.
+10. Select the alternative schools from Appendix 3 of the 2025 guidelines.
+11. Do not repeat any of the five main-choice schools among the two alternative choices.
+12. Alternative placement may be considered if the candidate is not placed in any of the five main choices.
+13. A candidate who is placed in any of the choices will not be changed, according to the form’s note.
+
+### C. Special programme and school groups
+
+14. For a candidate choosing pure TVET programmes, select all five TVET institutes from Categories A, B, or C, as Day or Boarding, following the referenced selection criteria.
+15. For a candidate interested in a STEM/Science career, select STEM schools or schools offering STEM subjects across all five main choices from Categories A, B, or C, as Day or Boarding.
+16. The handbook includes separate appendices for:
+
+- Appendix 1: Technical Institution (TI) programmes.
+- Appendix 2: Technical programmes offered in Senior High Technical Schools (SHTS).
+- Appendix 3: Alternative school choices.
+- Appendix 4: Special Education Needs (SEN) schools.
+- Appendix 5: STEM schools and SHSs offering STEM subjects.
+
+### D. Candidate details, consent and validation
+
+17. Enter the candidate’s details on the selection form.
+18. For each main choice, provide the school code/name, category, programme code/name, and Day or Boarding preference.
+19. Enter the two alternative school choices in their designated section.
+20. Obtain the parent/guardian’s name, contact, signature and date.
+21. Obtain the headteacher’s contact, stamp and signature.
+22. The form requires parent/guardian consent and headteacher validation.
+
+These are the guidelines from the material you transcribed and sent me. They are not yet a claim that every interaction between the general rules and the special TVET/STEM/SEN cases has been fully resolved.
+
+## 2. Filling a sample school-selection form
+
+There is one important limitation before I choose the actual schools: the JSON file we examined does not reliably provide the official A/B/C categories. Its `getSchoolCategory()` helper currently returns Category C for every school. I therefore should not pretend I can verify a real selection from that file alone.
+
+Here is the form structure I would fill once the schools and their official classifications are confirmed.
+
+## 2025 BECE Candidates’ School Selection Form
+
+Demonstration template — not an official completed submission
+
+Candidate information
+
+Candidate's name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+BECE index number: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+JHS / school name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Five main choices
+
+| Choice | School name/code | Category | Programme | Residence |
+| ------ | ---------------- | -------- | --------- | --------- |
+| 1      | To be confirmed  | —        | —         | —         |
+| 2      | To be confirmed  | —        | —         | —         |
+| 3      | To be confirmed  | —        | —         | —         |
+| 4      | To be confirmed  | —        | —         | —         |
+| 5      | To be confirmed  | —        | —         | —         |
+
+Validation: maximum one Category A school, maximum two Category B schools, and three Boarding plus two Day choices, subject to the applicable special-programme rules.
+
+Two alternative choices
+
+| Choice        | School name/code | Category |
+| ------------- | ---------------- | -------- |
+| Alternative 1 | To be confirmed  | B        |
+| Alternative 2 | To be confirmed  | C        |
+
+The alternatives must come from Appendix 3 and must not repeat the five main-choice schools.
+
+Approvals
+
+Parent/guardian name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Contact and signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Headteacher's name, contact, stamp and signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+I have not filled in invented school names or programme codes, because that would make the demonstration look more reliable than the available data supports.
+
+Next, we should use the actual 2025 handbook/register to identify schools with their official categories and special classifications. Then I can complete a realistic sample form and explain why each choice passes the rules.

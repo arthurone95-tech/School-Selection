@@ -1,0 +1,60 @@
+PROGRAMMES wi
+
+a
+
+S/N| REGION DISTRICT SCHOOL SCHOOL NAME LOCATION GENDER | acric | pus | tecH | HOM: | WIS: | GEN. | GEN. | ey | tang | NO-OF | status e
+
+CODE ECON. | ARTS | ARTS Scl PROG Fs
+
+101 201 401 402 501 502 503 504 n
+93 | Ashanti Offinso Municipal 0050804 | St. Jerome Senior High, Abofour Abofour Mixed x x <_< x x x x 6 Day/Boarding | SHS
+94 | Ashanti Offinso Municipal 0050801 |Dwamena Akenten Senior High Offinso Mixed x Xx Xx Xx x 5 Day/Boarding SHS
+95 | Ashanti Sekyere Central 0050508 /|Ghana Muslim Mission Senior High Beposo Mixed x x x x Xx 5 Day/Boarding SHS
+96 | Ashanti Sekyere Central 0050501 |Nsutaman Cath. Senior High Nsuta Mixed X X X X X X 6 Day/Boarding | SHS
+97 | Ashanti Sekyere East 0051803 _|T.I. Ahmadiyya Girl's Senior High Asokore Girls x = x xX x X 5 Day/Boarding SHS
+98 | Ashanti Sekyere Kumawu 0051802 |Tweneboa Kodua Senior High Kumawu Mixed X X X X X X 6 Day/Boarding | SHS
+99 | Ashanti Sekyere Kumawu 0050903 |Bankoman Senior High Banko Mixed Xx Xx Xx Xx Xx Xx 6 Day/Boarding SHS
+100} Ashanti Sekyere South 0050603 | Konadu Yiadom Catholic Senior High Asamang Mixed Xx x x x x Xx 6 Day/Boarding SHS
+101| Ashanti Sekyere South 0050602 /|S.D.A. Senior High, Agona Agona Mixed X X X X X X 6 Day/Boarding | SHS
+102 Ashanti Sekyere South 0050606 _|Agona Senior High/Tech Agona Mixed X x x X x X 7 Day/Boarding | SHTS
+103) Ashanti Sekyere South 0050601 |Okomfo Anokye Senior High Wiamoase Mixed X xX X X X X 6 Day/Boarding SHS
+104] Bono Berekum Municipal 0060301 |Berekum Senior High Berekum Mixed Xx Xx Xx Xx Xx Xx 6 Day/Boarding SHS
+105] Bono Berekum Municipal 0060302 __|Jinijini Senior High Jinijini Mixed Xx x x x Xx 5 Day/Boarding SHS
+106] Bono Dormaa Central Municipal |0061001 |Dormaa Senior High Dormaa Ahenkro Mixed X X X X X X 6 Day/Boarding | SHS
+107|Bono Dormaa Central Municipal {0061005 [Salvation Army Senior High Aboabo-Dormaa Mixed X x 6 Day/Boarding SHS
+108] Bono Dormaa East 0061003 |Mansen Senior High Wamfie Mixed X X 6 Day/Boarding | SHS
+109] Bono Dormaa East 0061002 |Wamanafo Senior High/Tech Wamanafo Mixed x Xx 5 Day/Boarding | SHTS
+110] Bono Dormaa West 0061004 |Nkrankwanta Senior High/Tech Nkrankwanta Mixed X Xx 6 Day/Boarding | SHTS
+111} Bono Jaman North 0060507 |Diamono Senior High Sch. Duadaso No.2 Mixed x Xx 5 Day/Boarding SHS
+112| Bono Jaman North 0060502 _ | Nafana Senior High Sampa Mixed X x 6 Day/Boarding SHS
+113] Bono Jaman North 0060503 |Sumaman Senior High Suma-Ahenkro Mixed X 4 Day/Boarding | SHS
+114) Bono Jaman North 0060504 _ |Goka Senior High/Tech. Goka Mixed Xx XxX 6 Day/Boarding | SHTS
+115] Bono Jaman North 0060513 |St. Ann's Girls Senior High, Sampa Sampa Girls 3 Day/Boarding SHS
+116} Bono Jaman South 0060501 | Drobo Senior High Drobo Mixed Xx XxX 6 Day/Boarding SHS
+117|Bono Sunyani Municipal 0060111 |S.D.A Senior High, Sunyani Sunyani Mixed x 5 Day SHS
+118] Bono Sunyani Municipal 0060101 |Twene Amanfo Senior High/Tech. Sunyani Mixed X 6 Day SHTS
+119] Bono Sunyani West 0060105 | Sacred Heart Senior High, Nsoatre Nsoatre Mixed Xx XxX 6 Day/Boarding SHS
+120] Bono Sunyani West 0060103 |Odomaseman Senior High Odomase Mixed Xx x 6 Day/Boarding SHS
+121|Bono Sunyani West 0060102 |Chiraa Senior High Chiraa Mixed Xx Xx 6 Day/Boarding SHS
+122| Bono Tain 0060605 |Menji Senior High Menji Mixed X 5 Day SHS
+123}]Bono Tain 0060608 _ |Nsawkaw State Senior High Nsawkaw Mixed x 4 Day/Boarding SHS
+124) Bono Tain 0060602 /|Badu Senior High/Tech. Badu/Wenchi Mixed Xx Xx 6 Day/Boarding | SHTS
+125] Bono Tain 0060604 |Nkoranman Senior High Seikwa Mixed Xx x 6 Day/Boarding SHS
+126/ Bono Wenchi Municipal 0060607 _|Istiquaama Snr. High Wenchi Mixed X X 6 Day/Boarding | SHS
+127|Bono Wenchi Municipal 0060601 |Wenchi Meth. Senior High Wenchi Mixed xX Xx 6 Day/Boarding SHS
+128] Bono East Atebubu-Amantin 0060404 |Amanten Senior High Amanten Mixed X Xx Xx 7 Day/Boarding SHS
+129) Bono East Kintampo South 0060802 /|Jema Senior High Jema Mixed Xx XxX 6 Day/Boarding SHS
+130] Bono East Nkoranza North 0060903 | Osei Bonsu Senior High Yefri Mixed Xx x 6 Day/Boarding SHS
+131] Bono East Nkoranza South Municipal 0060904 _ |Kwabre Senior High Akuma Mixed Xx XxX 5 Day/Boarding SHS
+132) Bono East Nkoranza South Municipal 0060901 _ |Nkoranza Senior High/Tech Nkoranza Mixed Xx Xx 7 Day/Boarding | SHTS
+133] Bono East Pru 0060403 _|Prang Senior High Prang Mixed X X 6 Day/Boarding | SHS
+134] Bono East Pru 0060401 = |Yeji Senior High/Tech Yeji Mixed X x 7 Day/Boarding | SHTS
+135] Bono East Sene East 0061102 | Kajaji Senior High Kajaji Mixed Xx Xx 5 Day/Boarding SHS
+136] Bono East Techiman Municipal 0060701 |Techiman Senior High Techiman Mixed Xx Xx 6 Day/Boarding SHS
+137|Bono East Techiman Municipal 0060707 |Our Lady of Mount Carmel Girls Senior High | Techiman Girls x 4 Day/Boarding SHS
+138] Bono East Techiman Municipal 0060709 | Yeboah Asuamah Senior High Nsuta Mixed X Xx 4 Day/Boarding SHS
+139] Bono East Techiman North 0060705 |Guakro Effah Senior High Offuman Mixed Xx XxX 5 Day/Boarding SHS
+140| Bono East Techiman North 0060703 |Tuobodom Senior High/Tech Tuobodom Mixed X X 6 Day/Boarding | SHTS
+
+2025 SECOND CYCLE PUBLIC
+CATEGORY B Page 9 of 61 SCHOOLS REGISTER

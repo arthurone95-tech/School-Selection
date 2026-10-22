@@ -1,0 +1,6111 @@
+{
+ "Cat A": [
+  {
+   "code": "9060200",
+   "region": "Ahafo",
+   "phrase": "YamfoTechnicalinstitute s' Yamfo si"
+  },
+  {
+   "code": "9050101",
+   "region": "Ashanti",
+   "phrase": "Kumasi Tech. Inst. Kumasi"
+  },
+  {
+   "code": "9050103",
+   "region": "Ashanti",
+   "phrase": "SuameTechnicalInstitute Suame i 7f"
+  },
+  {
+   "code": "9061001",
+   "region": "Central",
+   "phrase": "Dormaa Technical Institute Dormaa Ahenkro"
+  },
+  {
+   "code": "9060901",
+   "region": null,
+   "phrase": "Nk Tech Inst. Nkoranza"
+  },
+  {
+   "code": "9030401",
+   "region": "Central",
+   "phrase": "Asuansi Tech. Inst. Asuansi"
+  },
+  {
+   "code": "9030701",
+   "region": "Central",
+   "phrase": "Assin Foso Technical Institute Assin Fosu"
+  },
+  {
+   "code": "9030101",
+   "region": "Central",
+   "phrase": "Cape Coast Tech. Inst. Cape Coast"
+  },
+  {
+   "code": "9030900",
+   "region": "Central",
+   "phrase": "Winneba Technical Institute Winneba"
+  },
+  {
+   "code": "9030601",
+   "region": "Central",
+   "phrase": "Panfokrom Technical Institute Panfokrom"
+  },
+  {
+   "code": "9030301",
+   "region": "Central",
+   "phrase": "Biriwa Technical Institute Biriwa"
+  },
+  {
+   "code": "9021101",
+   "region": "Eastern",
+   "phrase": "Akwatia Tech. Inst. Akwatia"
+  },
+  {
+   "code": "9021001",
+   "region": null,
+   "phrase": "oes Kakarantury"
+  },
+  {
+   "code": "9021002",
+   "region": "Eastern",
+   "phrase": "Abetifikyemase Technical Institute Abetifi Mixed"
+  },
+  {
+   "code": "9020500",
+   "region": "Eastern",
+   "phrase": "St. Mary's Technical Institute, Asamankese Asamankese Mixed"
+  },
+  {
+   "code": "9010104",
+   "region": "Greater Accra",
+   "phrase": "NewCenturyTechnicalinstitute Dansoman Mixed"
+  },
+  {
+   "code": "9011601",
+   "region": "Greater Accra",
+   "phrase": "AdaTech.Inst. Ada"
+  },
+  {
+   "code": "9010105",
+   "region": "Central",
+   "phrase": "PilotTechnicalinstitute Ss Kokomlemle Mixed"
+  },
+  {
+   "code": "9010101",
+   "region": "Greater Accra",
+   "phrase": "A Tech. Trg. Cent Kokomleml"
+  },
+  {
+   "code": "4449991",
+   "region": "Greater Accra",
+   "phrase": "Madina Technical Institute Madina"
+  },
+  {
+   "code": "9010201",
+   "region": "Greater Accra",
+   "phrase": "Tema Tech. Inst. Tema"
+  },
+  {
+   "code": "9011400",
+   "region": "Greater Accra",
+   "phrase": "East Legon Applied Technology Institute East Legon"
+  },
+  {
+   "code": "9090101",
+   "region": "Upper East",
+   "phrase": "Bawku Tech. Inst. Bawku"
+  },
+  {
+   "code": "9070501",
+   "region": "Volta",
+   "phrase": "Anlo Tech. Inst. Anloga"
+  },
+  {
+   "code": "9070601",
+   "region": "Volta",
+   "phrase": "Kpando Tech. Inst. Kpando"
+  },
+  {
+   "code": "9040101",
+   "region": null,
+   "phrase": "Takoradi Tech. Inst. Takoradi"
+  },
+  {
+   "code": "9040401",
+   "region": null,
+   "phrase": "Kikam Tech. Inst. Kikam"
+  },
+  {
+   "code": "0030103",
+   "region": "Central",
+   "phrase": "/ Holy Child School, Cape Coast Cape Coast eis x x lal xl xl s peyaoaraing SHS"
+  },
+  {
+   "code": "0030104",
+   "region": "Central",
+   "phrase": "Mfantsipim School Cape Coast pys x fylylxl a"
+  },
+  {
+   "code": "0030101",
+   "region": null,
+   "phrase": "St. Augustine's College, Cape Coast Cope Coast Coast"
+  },
+  {
+   "code": "0020402",
+   "region": "Eastern",
+   "phrase": "Okuapeman Senior High Akropong"
+  },
+  {
+   "code": "0020301",
+   "region": "Eastern",
+   "phrase": "Aburi"
+  },
+  {
+   "code": "0021103",
+   "region": "Eastern",
+   "phrase": "St. Rose's Senior High, Akwatia 3"
+  },
+  {
+   "code": "0021302",
+   "region": "Eastern",
+   "phrase": "Ofori Panin Senior High relaranam aoe pope ors"
+  },
+  {
+   "code": "0021003",
+   "region": "Eastern",
+   "phrase": "St. Peter's Senior High, Nkwatia Nwata bows PRP RRL S fPavitoadng) SH8"
+  },
+  {
+   "code": "0021501",
+   "region": "Eastern",
+   "phrase": "Krobo"
+  },
+  {
+   "code": "0020104",
+   "region": "Eastern",
+   "phrase": "Ghana Senior High, Koforidua Koforidua i"
+  },
+  {
+   "code": "0020101",
+   "region": "Eastern",
+   "phrase": "Koforidua Senior High/Tech Koforidua oye aT bavboaraing"
+  },
+  {
+   "code": "0020102",
+   "region": "Eastern",
+   "phrase": "Pope John Snr. High & Min. Sem., Koforidua"
+  },
+  {
+   "code": "0010110",
+   "region": "Greater Accra",
+   "phrase": "Achimota Senior High Achimota D"
+  },
+  {
+   "code": "0010102",
+   "region": "Greater Accra",
+   "phrase": "/ St. Mary's Senior High, Korle Gonno Korle Gonno pevscrdng"
+  },
+  {
+   "code": "0010105",
+   "region": "Greater Accra",
+   "phrase": "St. Thomas Aquinas Senior High, Cantoments"
+  },
+  {
+   "code": "0080102",
+   "region": "Northern",
+   "phrase": "Ghana Senior High School, Tamale Tamale x D"
+  },
+  {
+   "code": "0090401",
+   "region": "Upper East",
+   "phrase": "Bolga"
+  },
+  {
+   "code": "0090501",
+   "region": "Upper East",
+   "phrase": "Navrongo Senior High Janania-Navrongo"
+  },
+  {
+   "code": "0051616",
+   "region": "Ashanti",
+   "phrase": "Bosomtwe"
+  },
+  {
+   "code": "0051617",
+   "region": "Ashanti",
+   "phrase": "Bosomtwe STEM Academy Jachie"
+  },
+  {
+   "code": "0021315",
+   "region": "Eastern",
+   "phrase": "Abomosu STEM Senior High Abomosu"
+  },
+  {
+   "code": "0040706",
+   "region": "Western",
+   "phrase": "Awaso STEM Senior High Awaso i"
+  }
+ ],
+ "Cat B": [
+  {
+   "code": "9060802",
+   "region": "Ahafo",
+   "phrase": "Bechem Technical Institute Bechem"
+  },
+  {
+   "code": "9051300",
+   "region": "Ashanti",
+   "phrase": "Asankare Technical Institute Asankare"
+  },
+  {
+   "code": "9052800",
+   "region": "Ashanti",
+   "phrase": "St. Michael's Technical Institute Pramso"
+  },
+  {
+   "code": "9050102",
+   "region": "Ashanti",
+   "phrase": "Methodist Technincal Institute Kwadaso"
+  },
+  {
+   "code": "9051801",
+   "region": "Ashanti",
+   "phrase": "Krobea Asante Technical & Vocational Inst. Asokore"
+  },
+  {
+   "code": "9052701",
+   "region": "Ashanti",
+   "phrase": "Agona Technical Institute Agona Ashanti"
+  },
+  {
+   "code": "9061100",
+   "region": "Bono",
+   "phrase": "Our Lady of Fatima Technical Institute Sampa"
+  },
+  {
+   "code": "9062601",
+   "region": "Bono",
+   "phrase": "Don Bosco Voc./Tech. Inst. Odumase"
+  },
+  {
+   "code": "9062602",
+   "region": "Bono",
+   "phrase": "Nsoatre Technical Institute Nsoatre"
+  },
+  {
+   "code": "9031101",
+   "region": "Central",
+   "phrase": "Agona Swedru Technical Institute Agona Swedru"
+  },
+  {
+   "code": "9030801",
+   "region": "Central",
+   "phrase": "Enyan-Abaasa Technical Institute Enyan Abaasa"
+  },
+  {
+   "code": "9030500",
+   "region": "Central",
+   "phrase": "Gomoa Adaa Technical Institute Gomoa Adaa"
+  },
+  {
+   "code": "9020800",
+   "region": "Eastern",
+   "phrase": "Anum Presby Technical Institute Anum"
+  },
+  {
+   "code": "9020901",
+   "region": "Eastern",
+   "phrase": "Amankwakrom Fisheries Agric. Tech. Inst. Amankwakrom"
+  },
+  {
+   "code": "9022001",
+   "region": "Eastern",
+   "phrase": "St. Joseph's Tech. Inst. Kwahu Tafo"
+  },
+  {
+   "code": "9021001",
+   "region": "Eastern",
+   "phrase": "Abetifi Tech. Inst. Abetifi"
+  },
+  {
+   "code": "9020701",
+   "region": "Eastern",
+   "phrase": "Suhum Technical Institute Suhum"
+  },
+  {
+   "code": "9010102",
+   "region": "Greater Accra",
+   "phrase": "Sacred Heart Tech. Inst. Jamsetown"
+  },
+  {
+   "code": "9010602",
+   "region": "Greater Accra",
+   "phrase": "Afienya Technical Institute Afienya"
+  },
+  {
+   "code": "9010108",
+   "region": "Greater Accra",
+   "phrase": "Government Technical Institute Kaneshie-Accra"
+  },
+  {
+   "code": "9080901",
+   "region": "Northern",
+   "phrase": "St. Joseph's Tech. Inst., Saboba Saboba"
+  },
+  {
+   "code": "9090600",
+   "region": "Upper East",
+   "phrase": "/ Kusanaba Technical Institute Binaba"
+  },
+  {
+   "code": "9101001",
+   "region": "Upper West",
+   "phrase": "St. Basilides Voc./Tech. Inst. Kaleo"
+  },
+  {
+   "code": "9100901",
+   "region": "Upper West",
+   "phrase": "/ St. John's Voc. Tech. Institute Nandom"
+  },
+  {
+   "code": "9100902",
+   "region": "Upper West",
+   "phrase": "St Anne's Vocational Training Institute Nandom"
+  },
+  {
+   "code": "9072101",
+   "region": "Volta",
+   "phrase": "St. Daniel Comboni Technical Institute Liati"
+  },
+  {
+   "code": "9072100",
+   "region": "Volta",
+   "phrase": "Have Tech. Inst. Have"
+  },
+  {
+   "code": "9070901",
+   "region": "Volta",
+   "phrase": "Comboni Tech/Voc Inst. Sogakope"
+  },
+  {
+   "code": "9040402",
+   "region": "Western",
+   "phrase": "Charlotte Dolphyne Technical Institute Sanzule"
+  },
+  {
+   "code": "9040301",
+   "region": "Western",
+   "phrase": "Axim Technical Institute Axim"
+  },
+  {
+   "code": "9040102",
+   "region": "Western",
+   "phrase": "Sekondi Takoradi Technical Institute Takoradi"
+  },
+  {
+   "code": "9040201",
+   "region": "Western",
+   "phrase": "Tarkwa Technical Institute Tarkwa"
+  },
+  {
+   "code": "0061302",
+   "region": "Ahafo",
+   "phrase": "Ahafoman Senior High/Tech Goaso"
+  },
+  {
+   "code": "0061301",
+   "region": "Ahafo",
+   "phrase": "Mim Senior High Mim"
+  },
+  {
+   "code": "0061303",
+   "region": "Ahafo",
+   "phrase": "Kukuom Agric Senior High Kukuom"
+  },
+  {
+   "code": "0061304",
+   "region": "Ahafo",
+   "phrase": "Sankore Senior High Sankore"
+  },
+  {
+   "code": "0061204",
+   "region": "Ahafo",
+   "phrase": "Gyamfi Kumanini Senior High/Tech Wamahinso"
+  },
+  {
+   "code": "0061202",
+   "region": "Ahafo",
+   "phrase": "Acherensua Senior High Acherensua"
+  },
+  {
+   "code": "0061203",
+   "region": "Ahafo",
+   "phrase": "Hwidiem Senior High Hwidiem"
+  },
+  {
+   "code": "0060206",
+   "region": "Ahafo",
+   "phrase": "Boakye Tromo Senior High/Tech Duayaw Nkwanta"
+  },
+  {
+   "code": "0060208",
+   "region": "Ahafo",
+   "phrase": "Yamfo Anglican Senior High School Yamfo"
+  },
+  {
+   "code": "0060205",
+   "region": "Ahafo",
+   "phrase": "Bomaa Comm. Senior High Bomaa"
+  },
+  {
+   "code": "0060207",
+   "region": "Ahafo",
+   "phrase": "Derma Comm. Day School Derma"
+  },
+  {
+   "code": "0060202",
+   "region": "Ahafo",
+   "phrase": "Samuel Otu Presby Senior High. Techimantia"
+  },
+  {
+   "code": "0051203",
+   "region": "Ashanti",
+   "phrase": "FomenaT.I. Ahmadiyya Senior High Fomena i"
+  },
+  {
+   "code": "0051206",
+   "region": "Ashanti",
+   "phrase": "Asare Bediako Senior High. Akrokerti"
+  },
+  {
+   "code": "0051205",
+   "region": "Ashanti",
+   "phrase": "Akrofuom Senior High/Tech Akrofuom"
+  },
+  {
+   "code": "0050604",
+   "region": "Ashanti",
+   "phrase": "Otumfuo Osei Tutu II College Tetrem"
+  },
+  {
+   "code": "0050704",
+   "region": "Ashanti",
+   "phrase": "Aduman Senior High Aduman"
+  },
+  {
+   "code": "0050708",
+   "region": "Ashanti",
+   "phrase": "St. Michael's Senior High, Ahenkro Ahenkro"
+  },
+  {
+   "code": "0051401",
+   "region": "Ashanti",
+   "phrase": "Tepa Senior High Tepa"
+  },
+  {
+   "code": "0051704",
+   "region": "Ashanti",
+   "phrase": "St. Mary's"
+  },
+  {
+   "code": "0051703",
+   "region": "Ashanti",
+   "phrase": "Wesley Senior High, Konongo - Konongo"
+  },
+  {
+   "code": "0051102",
+   "region": "Ashanti",
+   "phrase": "Presby Senior High, Bompata Bompata"
+  },
+  {
+   "code": "0050105",
+   "region": "Ashanti",
+   "phrase": "Kumasi Academy Asokore Mampong"
+  },
+  {
+   "code": "0050150",
+   "region": "Ashanti",
+   "phrase": "Sakafia Islamic Senior High Sawaba i"
+  },
+  {
+   "code": "0050203",
+   "region": "Ashanti",
+   "phrase": "Osei Tutu Senior High, Akropong Akropong"
+  },
+  {
+   "code": "0050202",
+   "region": "Ashanti",
+   "phrase": "Toase Senior High Toase"
+  },
+  {
+   "code": "0050304",
+   "region": "Ashanti",
+   "phrase": "St. Joseph Senior High/Tech, Ahwiren Ahwiren i"
+  },
+  {
+   "code": "0050172",
+   "region": "Ashanti",
+   "phrase": "Ofoase Kokoben Senior High Ofoase Kokobin i"
+  },
+  {
+   "code": "0050302",
+   "region": "Ashanti",
+   "phrase": "Oppong Mem. Senior High Kokofu i"
+  },
+  {
+   "code": "0051702",
+   "region": "Ashanti",
+   "phrase": "Beposo Senior High Beposo i"
+  },
+  {
+   "code": "0051604",
+   "region": "Ashanti",
+   "phrase": "Ejisu Senior High/Tech Ejisu i"
+  },
+  {
+   "code": "0050902",
+   "region": "Ashanti",
+   "phrase": "Sekyedumase Senior High/Tech Sekyedumase i"
+  },
+  {
+   "code": "0050107",
+   "region": "Ashanti",
+   "phrase": "Anglican Senior High, Kumasi Asem-Kumasi i"
+  },
+  {
+   "code": "0050109",
+   "region": "Ashanti",
+   "phrase": "KNUST Senior High KNUST/Boadi Junctiq Mi"
+  },
+  {
+   "code": "0050175",
+   "region": "Ashanti",
+   "phrase": "Nuru-Ameen Islamic Senior High, Asewase Asewase"
+  },
+  {
+   "code": "0050156",
+   "region": "Ashanti",
+   "phrase": "Al-Azariya Islamic Snr. High, Kumasi Old Tafo, Kumasi"
+  },
+  {
+   "code": "0050115",
+   "region": "Ashanti",
+   "phrase": "Adventist Senior High, Kumasi Bantama-Kumasi"
+  },
+  {
+   "code": "0050103",
+   "region": "Ashanti",
+   "phrase": "Kumasi"
+  },
+  {
+   "code": "0050139",
+   "region": "Ashanti",
+   "phrase": "Serwaah Nyarko"
+  },
+  {
+   "code": "0050113",
+   "region": "Ashanti",
+   "phrase": "Armed Forces Senior High/Tech, Kumasi Bantama-Kumasi i"
+  },
+  {
+   "code": "0050106",
+   "region": "Ashanti",
+   "phrase": "Osei Kyeretwie Senior High Old Tafo - Kumasi i"
+  },
+  {
+   "code": "0050140",
+   "region": "Ashanti",
+   "phrase": "Tawheed Senior High. Kumasi-Akwatia Ling"
+  },
+  {
+   "code": "0050607",
+   "region": "Ashanti",
+   "phrase": "Kofiase Adventist Senior High/Tech. Kofiase"
+  },
+  {
+   "code": "0050502",
+   "region": "Ashanti",
+   "phrase": "St. Monica's Senior High, Mampong Mampong"
+  },
+  {
+   "code": "0051204",
+   "region": "Ashanti",
+   "phrase": "Christ the King Cath., Obuasi Obuasi"
+  },
+  {
+   "code": "0050804",
+   "region": "Ashanti",
+   "phrase": "St. Jerome Senior High, Abofour Abofour"
+  },
+  {
+   "code": "0050801",
+   "region": "Ashanti",
+   "phrase": "Dwamena Akenten Senior High Offinso"
+  },
+  {
+   "code": "0050508",
+   "region": "Ashanti",
+   "phrase": "/ Ghana Muslim Mission Senior High Beposo"
+  },
+  {
+   "code": "0050501",
+   "region": "Ashanti",
+   "phrase": "Nsutaman Cath. Senior High Nsuta"
+  },
+  {
+   "code": "0051803",
+   "region": "Ashanti",
+   "phrase": "T.I. Ahmadiyya"
+  },
+  {
+   "code": "0051802",
+   "region": "Ashanti",
+   "phrase": "Tweneboa Kodua Senior High Kumawu"
+  },
+  {
+   "code": "0050903",
+   "region": "Ashanti",
+   "phrase": "Bankoman Senior High Banko"
+  },
+  {
+   "code": "0050603",
+   "region": "Ashanti",
+   "phrase": "Konadu Yiadom Catholic Senior High Asamang"
+  },
+  {
+   "code": "0050602",
+   "region": "Ashanti",
+   "phrase": "/ S.D.A. Senior High, Agona Agona"
+  },
+  {
+   "code": "0050606",
+   "region": "Ashanti",
+   "phrase": "Agona Senior High/Tech Agona"
+  },
+  {
+   "code": "0050601",
+   "region": "Ashanti",
+   "phrase": "Okomfo Anokye Senior High Wiamoase"
+  },
+  {
+   "code": "0060301",
+   "region": "Bono",
+   "phrase": "Berekum Senior High Berekum"
+  },
+  {
+   "code": "0060302",
+   "region": "Bono",
+   "phrase": "Jinijini Senior High Jinijini"
+  },
+  {
+   "code": "0061001",
+   "region": "Central",
+   "phrase": "Dormaa Senior High Dormaa Ahenkro"
+  },
+  {
+   "code": "0061005",
+   "region": "Central",
+   "phrase": "Salvation Army Senior High Aboabo-Dormaa"
+  },
+  {
+   "code": "0061003",
+   "region": "Bono",
+   "phrase": "Mansen Senior High Wamfie"
+  },
+  {
+   "code": "0061002",
+   "region": "Bono",
+   "phrase": "Wamanafo Senior High/Tech Wamanafo"
+  },
+  {
+   "code": "0061004",
+   "region": "Bono",
+   "phrase": "Nkrankwanta Senior High/Tech Nkrankwanta"
+  },
+  {
+   "code": "0060507",
+   "region": "Bono",
+   "phrase": "Diamono Senior High Sch. Duadaso No.2"
+  },
+  {
+   "code": "0060502",
+   "region": "Bono",
+   "phrase": "Nafana Senior High Sampa"
+  },
+  {
+   "code": "0060503",
+   "region": "Bono",
+   "phrase": "Sumaman Senior High Suma-Ahenkro"
+  },
+  {
+   "code": "0060504",
+   "region": "Bono",
+   "phrase": "Goka Senior High/Tech. Goka"
+  },
+  {
+   "code": "0060513",
+   "region": "Bono",
+   "phrase": "St. Ann's"
+  },
+  {
+   "code": "0060501",
+   "region": "Bono",
+   "phrase": "Drobo Senior High Drobo"
+  },
+  {
+   "code": "0060111",
+   "region": "Bono",
+   "phrase": "S.D.A Senior High, Sunyani Sunyani"
+  },
+  {
+   "code": "0060101",
+   "region": "Bono",
+   "phrase": "Twene Amanfo Senior High/Tech. Sunyani"
+  },
+  {
+   "code": "0060105",
+   "region": "Bono",
+   "phrase": "Sacred Heart Senior High, Nsoatre Nsoatre"
+  },
+  {
+   "code": "0060103",
+   "region": "Bono",
+   "phrase": "Odomaseman Senior High Odomase"
+  },
+  {
+   "code": "0060102",
+   "region": "Bono",
+   "phrase": "Chiraa Senior High Chiraa"
+  },
+  {
+   "code": "0060605",
+   "region": "Bono",
+   "phrase": "Menji Senior High Menji"
+  },
+  {
+   "code": "0060608",
+   "region": "Bono",
+   "phrase": "Nsawkaw State Senior High Nsawkaw"
+  },
+  {
+   "code": "0060602",
+   "region": "Bono",
+   "phrase": "/ Badu Senior High/Tech. Badu/Wenchi"
+  },
+  {
+   "code": "0060604",
+   "region": "Bono",
+   "phrase": "Nkoranman Senior High Seikwa"
+  },
+  {
+   "code": "0060607",
+   "region": "Bono",
+   "phrase": "Istiquaama Snr. High Wenchi"
+  },
+  {
+   "code": "0060601",
+   "region": "Bono",
+   "phrase": "Wenchi Meth. Senior High Wenchi"
+  },
+  {
+   "code": "0060404",
+   "region": "Bono East",
+   "phrase": "Amanten Senior High Amanten"
+  },
+  {
+   "code": "0060802",
+   "region": "Bono East",
+   "phrase": "/ Jema Senior High Jema"
+  },
+  {
+   "code": "0060903",
+   "region": "Bono East",
+   "phrase": "Osei Bonsu Senior High Yefri"
+  },
+  {
+   "code": "0060904",
+   "region": "Bono East",
+   "phrase": "Kwabre Senior High Akuma"
+  },
+  {
+   "code": "0060901",
+   "region": "Bono East",
+   "phrase": "Nkoranza Senior High/Tech Nkoranza"
+  },
+  {
+   "code": "0060403",
+   "region": "Bono East",
+   "phrase": "Prang Senior High Prang"
+  },
+  {
+   "code": "0060401",
+   "region": "Bono East",
+   "phrase": "Yeji Senior High/Tech Yeji"
+  },
+  {
+   "code": "0061102",
+   "region": "Bono East",
+   "phrase": "Kajaji Senior High Kajaji"
+  },
+  {
+   "code": "0060701",
+   "region": "Bono East",
+   "phrase": "Techiman Senior High Techiman"
+  },
+  {
+   "code": "0060707",
+   "region": "Bono East",
+   "phrase": "Our Lady of Mount Carmel"
+  },
+  {
+   "code": "0060709",
+   "region": "Bono East",
+   "phrase": "Yeboah Asuamah Senior High Nsuta"
+  },
+  {
+   "code": "0060705",
+   "region": "Bono East",
+   "phrase": "Guakro Effah Senior High Offuman"
+  },
+  {
+   "code": "0060703",
+   "region": "Bono East",
+   "phrase": "Tuobodom Senior High/Tech Tuobodom"
+  },
+  {
+   "code": "0030401",
+   "region": "Central",
+   "phrase": "Aggrey Mem. A. M. E.Zion Snr. High Cape Coast"
+  },
+  {
+   "code": "0030903",
+   "region": "Central",
+   "phrase": "Nsaba Presby Senior High Nsaba"
+  },
+  {
+   "code": "0030906",
+   "region": "Central",
+   "phrase": "Siddiq Senior High Sch. Agona Nyakrom"
+  },
+  {
+   "code": "0031205",
+   "region": "Central",
+   "phrase": "Adankwaman Senior High Assin Darmang i"
+  },
+  {
+   "code": "0030613",
+   "region": "Central",
+   "phrase": "Awutu Winton Senior High Awutu"
+  },
+  {
+   "code": "0030109",
+   "region": "Central",
+   "phrase": "Academy of Christ the King Cape Coast"
+  },
+  {
+   "code": "0030601",
+   "region": "Central",
+   "phrase": "Winneba Senior High Winneba"
+  },
+  {
+   "code": "0030501",
+   "region": "Central",
+   "phrase": "Apam Senior High Apam"
+  },
+  {
+   "code": "0030504",
+   "region": "Central",
+   "phrase": "Mozano Senior High Mozano"
+  },
+  {
+   "code": "0030304",
+   "region": "Central",
+   "phrase": "Methodist High School,Saltpond Saltpond"
+  },
+  {
+   "code": "0031101",
+   "region": "Central",
+   "phrase": "Twifo Praso Senior High Twifo Praso"
+  },
+  {
+   "code": "0031104",
+   "region": "Central",
+   "phrase": "Twifo Hemang Senior High/Tech Twifo Hemang"
+  },
+  {
+   "code": "0031001",
+   "region": "Central",
+   "phrase": "Boa-Amponsem Senior High Dunkwa-On-Offin"
+  },
+  {
+   "code": "0031003",
+   "region": "Central",
+   "phrase": "Diaso Senior High Diaso"
+  },
+  {
+   "code": "0020410",
+   "region": "Eastern",
+   "phrase": "Methodist"
+  },
+  {
+   "code": "0020403",
+   "region": "Eastern",
+   "phrase": "Benkum Senior High Larteh-Akwapim"
+  },
+  {
+   "code": "0020401",
+   "region": "Eastern",
+   "phrase": "Nifa Senior High Adukrom"
+  },
+  {
+   "code": "0020302",
+   "region": "Eastern",
+   "phrase": "Adonten Senior High Aburi"
+  },
+  {
+   "code": "0020803",
+   "region": "Eastern",
+   "phrase": "Akwamuman Senior High Atimpoku-Akosomb"
+  },
+  {
+   "code": "0021307",
+   "region": "Eastern",
+   "phrase": "Kwabeng Anglican Senior High/Tech Kwabeng"
+  },
+  {
+   "code": "0020603",
+   "region": "Central",
+   "phrase": "/ St. Francis Senior High/Tech Akim Oda"
+  },
+  {
+   "code": "0020601",
+   "region": "Central",
+   "phrase": "Oda Senior High Akim Oda"
+  },
+  {
+   "code": "0020606",
+   "region": "Central",
+   "phrase": "Attafuah Senior High/Tech Akim Oda"
+  },
+  {
+   "code": "0020602",
+   "region": "Eastern",
+   "phrase": "Akim Swedru Senior High Akim Swedru"
+  },
+  {
+   "code": "0020604",
+   "region": "Eastern",
+   "phrase": "Achiase Senior High Achiase"
+  },
+  {
+   "code": "0021303",
+   "region": "Eastern",
+   "phrase": "Abuakwa State College Kibi"
+  },
+  {
+   "code": "0021305",
+   "region": "Eastern",
+   "phrase": "Kibi Senior High/Tech Kibi"
+  },
+  {
+   "code": "0021313",
+   "region": "Eastern",
+   "phrase": "Saviour Senior High, Osiem Osiem"
+  },
+  {
+   "code": "0021301",
+   "region": "Eastern",
+   "phrase": "/ W.B.M. Zion Senior High, Old Tafo Old Tafo"
+  },
+  {
+   "code": "0021201",
+   "region": "Eastern",
+   "phrase": "Presby Senior High, Begoro Begoro"
+  },
+  {
+   "code": "0021102",
+   "region": "Eastern",
+   "phrase": "Kade Senior High/Tech. Kade"
+  },
+  {
+   "code": "0021001",
+   "region": "Eastern",
+   "phrase": "Abetifi Presby Senior High Abetifi"
+  },
+  {
+   "code": "0021006",
+   "region": "Eastern",
+   "phrase": "Nkwatia Presby Senior High/Com Nkwatia"
+  },
+  {
+   "code": "0021010",
+   "region": "Eastern",
+   "phrase": "Kwahu Tafo Senior High Kwahu Tafo"
+  },
+  {
+   "code": "0021008",
+   "region": "Eastern",
+   "phrase": "St. Dominic's Senior High/Tech, Pepease Pepease"
+  },
+  {
+   "code": "0021002",
+   "region": "Eastern",
+   "phrase": "Mpraeso Senior High Mpraeso"
+  },
+  {
+   "code": "0021005",
+   "region": "Eastern",
+   "phrase": "Kwahu Ridge Senior High Obo-Kwahu"
+  },
+  {
+   "code": "0021004",
+   "region": "Eastern",
+   "phrase": "Nkawkaw Senior High Nkawkaw"
+  },
+  {
+   "code": "0021502",
+   "region": "Eastern",
+   "phrase": "Manya Krobo Senior High Nuaso New Town"
+  },
+  {
+   "code": "0020108",
+   "region": "Eastern",
+   "phrase": "/ Pentecost Senior High,Koforidua Koforidua"
+  },
+  {
+   "code": "0020109",
+   "region": "Eastern",
+   "phrase": "/ S.D.A Senior High, Koforidua Asokore-Koforidua"
+  },
+  {
+   "code": "0020106",
+   "region": "Eastern",
+   "phrase": "Oyoko Methodist Senior High Oyoko"
+  },
+  {
+   "code": "0020103",
+   "region": "Eastern",
+   "phrase": "NewJuaben Senior High/Com Koforidua"
+  },
+  {
+   "code": "0020105",
+   "region": "Eastern",
+   "phrase": "Oti Boateng Senior High Koforidua"
+  },
+  {
+   "code": "0020303",
+   "region": "Eastern",
+   "phrase": "/ St. Martin's Senior High, Nsawam Nsawam"
+  },
+  {
+   "code": "0020204",
+   "region": "Eastern",
+   "phrase": "Islamic"
+  },
+  {
+   "code": "0020201",
+   "region": "Eastern",
+   "phrase": "/ Suhum Senior High/Tech Suhum"
+  },
+  {
+   "code": "0020501",
+   "region": "Eastern",
+   "phrase": "Asamankese Senior High Asamankese"
+  },
+  {
+   "code": "0010106",
+   "region": "Greater Accra",
+   "phrase": "Accra Senior High Asylum Down"
+  },
+  {
+   "code": "0010142",
+   "region": "Greater Accra",
+   "phrase": "St. Margaret Mary Snr.High/Tech Dansoman"
+  },
+  {
+   "code": "0010103",
+   "region": "Greater Accra",
+   "phrase": "Wesley Grammar School Dansoman"
+  },
+  {
+   "code": "0010301",
+   "region": "Greater Accra",
+   "phrase": "Ada Senior High Ada-Foah"
+  },
+  {
+   "code": "0012305",
+   "region": "Greater Accra",
+   "phrase": "Accra STEM Academy East Legon"
+  },
+  {
+   "code": "0010118",
+   "region": "Central",
+   "phrase": "Odorgonno Senior High Awoshie"
+  },
+  {
+   "code": "0010501",
+   "region": null,
+   "phrase": "St. John's Grammar Senior High Achimota"
+  },
+  {
+   "code": "0010117",
+   "region": "Greater Accra",
+   "phrase": "Labone Senior High Labone"
+  },
+  {
+   "code": "0010115",
+   "region": "Greater Accra",
+   "phrase": "Forces Senior High/Tech, Burma Camp Burma Camp i X X x x x"
+  },
+  {
+   "code": "0010502",
+   "region": "Greater Accra",
+   "phrase": "West Africa Senior High Adenta i xX x xX x xX"
+  },
+  {
+   "code": "0010114",
+   "region": "Greater Accra",
+   "phrase": "Nungua Senior High Nungua i X X X X X"
+  },
+  {
+   "code": "0010403",
+   "region": "Greater Accra",
+   "phrase": "Ningo Senior High Old Ningo i Xx X x x x"
+  },
+  {
+   "code": "0010404",
+   "region": "Greater Accra",
+   "phrase": "Prampram Senior High Prampram i X X X X X"
+  },
+  {
+   "code": "0010213",
+   "region": "Greater Accra",
+   "phrase": "Our Lady of Mercy Senior High Tema Comm 4"
+  },
+  {
+   "code": "0080105",
+   "region": "Northern",
+   "phrase": "Kalpohin S Senior High Tamale"
+  },
+  {
+   "code": "0100503",
+   "region": "Upper West",
+   "phrase": "Queen of Peace Senior High, Nadowli Nadowli"
+  },
+  {
+   "code": "0100106",
+   "region": "Upper West",
+   "phrase": "T.I. Ahmadiyya Senior High, Wa"
+  },
+  {
+   "code": "0071003",
+   "region": null,
+   "phrase": "Agate Comm. Senior High Agate"
+  },
+  {
+   "code": "0070802",
+   "region": "Central",
+   "phrase": "Mafi-Kumasi Senior High/Tech Mafi-Kumasi"
+  },
+  {
+   "code": "0070104",
+   "region": "Volta",
+   "phrase": "Awudome Senior High"
+  },
+  {
+   "code": "0070502",
+   "region": null,
+   "phrase": "Keta Senior High/Tech. Keta"
+  },
+  {
+   "code": "0070602",
+   "region": "Volta",
+   "phrase": "Kpando Senior High . Kpando"
+  },
+  {
+   "code": "0040201",
+   "region": "Western",
+   "phrase": "St. Mary's"
+  },
+  {
+   "code": "0040303",
+   "region": "Western",
+   "phrase": "Esiama Senior High/Tech Esiama"
+  },
+  {
+   "code": "0041102",
+   "region": "Western",
+   "phrase": "Mpohor Senior High Mpohor"
+  },
+  {
+   "code": "0070114",
+   "region": null,
+   "phrase": "Abutia Senior High/Tchnical Abutia"
+  },
+  {
+   "code": "0071005",
+   "region": null,
+   "phrase": "St. Mary's Sem.& Senior High School Lolobi"
+  },
+  {
+   "code": "0070605",
+   "region": "Volta",
+   "phrase": "Vakpo Senior High Vakpo"
+  },
+  {
+   "code": "0070609",
+   "region": "Volta",
+   "phrase": "Tongor Senior High Tech. Tsannkpe Tongor"
+  },
+  {
+   "code": "0040301",
+   "region": "Western",
+   "phrase": "Kwame Nkrumah Senior High Nsein Axim"
+  },
+  {
+   "code": "0040110",
+   "region": "Western",
+   "phrase": "Adiembra Senior High Adiembra"
+  },
+  {
+   "code": "0040111",
+   "region": "Western",
+   "phrase": "Shama Senior High Shama"
+  },
+  {
+   "code": "0040106",
+   "region": "Western",
+   "phrase": "Ahantaman"
+  },
+  {
+   "code": "0040904",
+   "region": "Western",
+   "phrase": "Tarkwa Senior High Tarkwa"
+  },
+  {
+   "code": "0040502",
+   "region": "Western",
+   "phrase": "Amenfiman Senior High Wasa Akropong"
+  },
+  {
+   "code": "0040802",
+   "region": "Western North",
+   "phrase": "Bia Senior High/Tech Debiso Essiam"
+  },
+  {
+   "code": "0040702",
+   "region": "Western North",
+   "phrase": "Sefwi Bekwai Senior High Sefwi Bekwai"
+  },
+  {
+   "code": "0040803",
+   "region": "Western North",
+   "phrase": "Bodi Senior High Bodi"
+  },
+  {
+   "code": "0040801",
+   "region": "Western North",
+   "phrase": "Juaboso Senior High Juaboso"
+  },
+  {
+   "code": "0040604",
+   "region": "Western North",
+   "phrase": "Akontombra Senior High Akontombra"
+  },
+  {
+   "code": "0040601",
+   "region": "Western North",
+   "phrase": "Sefwi-Wiawso Senior High Sefwi-Wiawso"
+  },
+  {
+   "code": "0040602",
+   "region": "Western North",
+   "phrase": "Sefwi-Wiawso Senior High/Tech Sefwi-Wiawso"
+  },
+  {
+   "code": "0040603",
+   "region": "Western North",
+   "phrase": "Asawinso Senior High Asawinso"
+  },
+  {
+   "code": "0040605",
+   "region": "Western North",
+   "phrase": "St. Joseph Senior High, Sefwi Wiawso Sefwi Wiawso"
+  },
+  {
+   "code": "0041002",
+   "region": "Western North",
+   "phrase": "Dadieso Senior High Dadieso"
+  }
+ ],
+ "Cat C": [
+  {
+   "code": "5062400",
+   "region": "Ahafo",
+   "phrase": "Gyedu Technical nettute eyed Minea"
+  },
+  {
+   "code": "9060800",
+   "region": "Ahafo",
+   "phrase": "TSC Technicallnstitute,Bechem Bechem"
+  },
+  {
+   "code": "9060139",
+   "region": "Ahafo",
+   "phrase": "AkrodieTechnicalInstitute ss Akrodie"
+  },
+  {
+   "code": "9060201",
+   "region": "Ahafo",
+   "phrase": "AdrobaaTechnicalinstitute Adrobaa"
+  },
+  {
+   "code": "9063011",
+   "region": "Ahafo",
+   "phrase": "KwapongTechnicalInstitute Ss Kwapong"
+  },
+  {
+   "code": "9060205",
+   "region": "Ahafo",
+   "phrase": "Islamic Mission Technical institute Duayaw Nkwanta"
+  },
+  {
+   "code": "9052000",
+   "region": "Ashanti",
+   "phrase": "HemangBuohoTechnical Institute HemangBuoho"
+  },
+  {
+   "code": "9050900",
+   "region": "Ashanti",
+   "phrase": "TSCTechnicallnstitute, Konongo Konongo"
+  },
+  {
+   "code": "9050104",
+   "region": "Ashanti",
+   "phrase": "Business Secretarial and Technical Institute Chirapatre"
+  },
+  {
+   "code": "9051400",
+   "region": "Ashanti",
+   "phrase": "NerebehiTechnicalinstitute Nerebehi"
+  },
+  {
+   "code": "9052300",
+   "region": "Ashanti",
+   "phrase": "TwedieTechnicalinstitute ss (Twedie"
+  },
+  {
+   "code": "9050401",
+   "region": "Ashanti",
+   "phrase": "NanaAmpontuaTechnicalinstitute Bekwai"
+  },
+  {
+   "code": "9057771",
+   "region": "Ashanti",
+   "phrase": "Yaa Pokua Technical Institute Nkekaasu"
+  },
+  {
+   "code": "9050403",
+   "region": "Ashanti",
+   "phrase": "AmoafoTechnicalinstitute ss Bekwai"
+  },
+  {
+   "code": "9052802",
+   "region": "Ashanti",
+   "phrase": "TetrefuTechnicalinstitute Tetrefu"
+  },
+  {
+   "code": "050302",
+   "region": "Ashanti",
+   "phrase": "7 Ejuraman Technical Institute Rawors ices"
+  },
+  {
+   "code": "9050312",
+   "region": "Ashanti",
+   "phrase": "Achiase Technical Institute Achiase"
+  },
+  {
+   "code": "9057772",
+   "region": "Ashanti",
+   "phrase": "Akumadan Applied Technology Institute Akumadan"
+  },
+  {
+   "code": "9050109",
+   "region": "Ashanti",
+   "phrase": "SuntresoTechnical institute North Suntreso"
+  },
+  {
+   "code": "9050500",
+   "region": "Ashanti",
+   "phrase": "TSC Technical institute, Mampong Mampong"
+  },
+  {
+   "code": "9050600",
+   "region": "Ashanti",
+   "phrase": "OffinsoTechnicalinstitute Offinso"
+  },
+  {
+   "code": "9052900",
+   "region": "Ashanti",
+   "phrase": "Kumawu Technical institute Kumawu"
+  },
+  {
+   "code": "9052803",
+   "region": "Ashanti",
+   "phrase": "Jachie Technical Institute ss Jachie"
+  },
+  {
+   "code": "9053000",
+   "region": "Ashanti",
+   "phrase": "TSC Technical Institute, Sekyere Kumawu Sekyere Kumawu"
+  },
+  {
+   "code": "9050319",
+   "region": "Ashanti",
+   "phrase": "KokobenTechnicalinstitute Asiwa-Kokoben"
+  },
+  {
+   "code": "9051301",
+   "region": "Ashanti",
+   "phrase": "Dwease-Praaso Technical Institute Dwease-Praaso Mixed"
+  },
+  {
+   "code": "9050105",
+   "region": "Ashanti",
+   "phrase": "Catholic Technical Institute Kumasi"
+  },
+  {
+   "code": "9050112",
+   "region": "Ashanti",
+   "phrase": "RamseyerTechnical institute Asokwa"
+  },
+  {
+   "code": "9050303",
+   "region": "Ashanti",
+   "phrase": "JuabenTechnicalinstitute Juaben"
+  },
+  {
+   "code": "9054022",
+   "region": "Ashanti",
+   "phrase": "PakyiAppliedTechnologyinstitute Pakyi"
+  },
+  {
+   "code": "9061000",
+   "region": "Central",
+   "phrase": "TSC Technical 19061000 TSC Technical Institute, Dormaa Ahenkro Dormaa Ahenkro"
+  },
+  {
+   "code": "9060106",
+   "region": "Bono",
+   "phrase": "/ Sunyani Technical Institute Sunyani"
+  },
+  {
+   "code": "9060107",
+   "region": "Bono",
+   "phrase": "Social Welfare Technical Institute, Sunyani Sunyani"
+  },
+  {
+   "code": "9060101",
+   "region": "Bono",
+   "phrase": "SunyaniMethodistTechnicalinst. Sunyani"
+  },
+  {
+   "code": "9060905",
+   "region": "Bono East",
+   "phrase": "NkwabengTechnicalinstitute Nkwabeng"
+  },
+  {
+   "code": "9060301",
+   "region": "Bono East",
+   "phrase": "KintampoTechnicalinstitute Kintampo"
+  },
+  {
+   "code": "9061200",
+   "region": "Bono East",
+   "phrase": "TechimanTechnical Institute Techiman"
+  },
+  {
+   "code": "9030802",
+   "region": "Central",
+   "phrase": "Ajumako-Afranse Technical Institute Ajumako"
+  },
+  {
+   "code": "9031300",
+   "region": "Central",
+   "phrase": "BremanAsikuma Technical Institute Breman-Asikuma"
+  },
+  {
+   "code": "9031200",
+   "region": "Central",
+   "phrase": "TSC Technical Institute, Awutu Breku Awutu Senya"
+  },
+  {
+   "code": "9030102",
+   "region": "Central",
+   "phrase": "GRATISTechnical Institute, CapeCoast CapeCoast"
+  },
+  {
+   "code": "9030300",
+   "region": "Central",
+   "phrase": "Mankessim Technical Institute Mankessim"
+  },
+  {
+   "code": "9030414",
+   "region": "Central",
+   "phrase": "NewEbuTechnicalinstitute ss NewEbu"
+  },
+  {
+   "code": "9030321",
+   "region": "Central",
+   "phrase": "AsaforaTechnicalinstitute Ss Asafora"
+  },
+  {
+   "code": "9030707",
+   "region": "Central",
+   "phrase": "Assin Jakai Applied Technology Institute AssinSouth"
+  },
+  {
+   "code": "9021601",
+   "region": "Eastern",
+   "phrase": "6. Knol Technical institute Adulrom Akuapem"
+  },
+  {
+   "code": "9022200",
+   "region": "Eastern",
+   "phrase": "AkrofufuTechnicalinstitute Akrofufu"
+  },
+  {
+   "code": "9020902",
+   "region": "Eastern",
+   "phrase": "/ St. Mary's Voc./Tech. Inst. Adiembra"
+  },
+  {
+   "code": "9020903",
+   "region": "Eastern",
+   "phrase": "TSC Technical Institute, Donkorkrom Donkorkrom"
+  },
+  {
+   "code": "9020104",
+   "region": "Eastern",
+   "phrase": "Koforidua GRATIS Technical Institute Koforidua"
+  },
+  {
+   "code": "9020102",
+   "region": "Eastern",
+   "phrase": "Effiduase Technicalinstitute Effiduase-Koforidu"
+  },
+  {
+   "code": "9020301",
+   "region": "Eastern",
+   "phrase": "Akuapem Technical Institute Kitase-Aburi Mined"
+  },
+  {
+   "code": "9020501",
+   "region": "Eastern",
+   "phrase": "TSC Technical Institute, Asamankese"
+  },
+  {
+   "code": "9022301",
+   "region": "Eastern",
+   "phrase": "Asakraka Technical Institute Asakraka s"
+  },
+  {
+   "code": "9021401",
+   "region": "Eastern",
+   "phrase": "Somanya Technical Institute Somanya si"
+  },
+  {
+   "code": "9010123",
+   "region": "Greater Accra",
+   "phrase": "Opportunities Industrialization Tech. Inst. EastLegon"
+  },
+  {
+   "code": "9010106",
+   "region": "Greater Accra",
+   "phrase": "KandaTechnicalinstitute Kanda"
+  },
+  {
+   "code": "9010500",
+   "region": "Greater Accra",
+   "phrase": "BedekuTechnicalinstitute ss Bedeku"
+  },
+  {
+   "code": "9011302",
+   "region": "Greater Accra",
+   "phrase": "Ngleshie Amanfro Technical Institute Ngleshie Amanfro"
+  },
+  {
+   "code": "9011701",
+   "region": "Greater Accra",
+   "phrase": "TeshieTech.Instittute ss Teshie"
+  },
+  {
+   "code": "9010601",
+   "region": "Greater Accra",
+   "phrase": "PrampramTechnical Institute Prampram"
+  },
+  {
+   "code": "9010702",
+   "region": "Greater Accra",
+   "phrase": "Agomeda Technical Institute Agomeda"
+  },
+  {
+   "code": "9010700",
+   "region": "Greater Accra",
+   "phrase": "DodowaTechnicalinstitute ss Dodowa"
+  },
+  {
+   "code": "9010906",
+   "region": "Greater Accra",
+   "phrase": "DanfaTechnicalinstitute Danfa"
+  },
+  {
+   "code": "9010112",
+   "region": "Greater Accra",
+   "phrase": "NimaTechnicalinstitute Nima"
+  },
+  {
+   "code": "9081000",
+   "region": "North East",
+   "phrase": "NaleriguTechnicalinstitute Nalerigu"
+  },
+  {
+   "code": "9080601",
+   "region": "North East",
+   "phrase": "Walewale Technical institute Walawale"
+  },
+  {
+   "code": "9080701",
+   "region": "North East",
+   "phrase": "LoagriTechnicalinstitute Loagri"
+  },
+  {
+   "code": "9080102",
+   "region": "Northern",
+   "phrase": "St.Mary'sTechnicallnstitute,Tamale Tamale"
+  },
+  {
+   "code": "9080103",
+   "region": "Northern",
+   "phrase": "LamasheguTechnicalInstitute Tamale"
+  },
+  {
+   "code": "9087782",
+   "region": "Northern",
+   "phrase": "Kumbungu Vocational Technecal Institute Kumbungu"
+  },
+  {
+   "code": "9080104",
+   "region": "Northern",
+   "phrase": "GRATISTechnical institute, Tamale Tamale"
+  },
+  {
+   "code": "9080105",
+   "region": "Northern",
+   "phrase": "NyohiniCommunityTechnical institute Tamale"
+  },
+  {
+   "code": "9082045",
+   "region": "Northern",
+   "phrase": "Tatale Technicalinstitute sss s Tatale"
+  },
+  {
+   "code": "9081601",
+   "region": "Northern",
+   "phrase": "Kofi Annan Technical Institute Nwodua"
+  },
+  {
+   "code": "9080301",
+   "region": "Northern",
+   "phrase": "NyongTechnicalinstitute Ss Nyong"
+  },
+  {
+   "code": "9081903",
+   "region": "Northern",
+   "phrase": "SaveluguTechnical institute Savelugu"
+  },
+  {
+   "code": "9070401",
+   "region": "Oti",
+   "phrase": "Fr. DogliMemorialTechnicalInstitute NewAyoma"
+  },
+  {
+   "code": "9072001",
+   "region": "Oti",
+   "phrase": "KaalyiTechnicalinstitute KeteKrachi"
+  },
+  {
+   "code": "9072112",
+   "region": "Oti",
+   "phrase": "LolobiTechnicalinstitute LolobiAshiambi"
+  },
+  {
+   "code": "9080700",
+   "region": "Savannah",
+   "phrase": "Bole Technical Institute Bole"
+  },
+  {
+   "code": "9081501",
+   "region": "Savannah",
+   "phrase": "BuipeTechnicalinstitute Buipe"
+  },
+  {
+   "code": "9080655",
+   "region": "Savannah",
+   "phrase": "SawlaGirlsVocationalInstitute Sawla"
+  },
+  {
+   "code": "9081500",
+   "region": "Savannah",
+   "phrase": "Salaga Technical Institute Salaga ss"
+  },
+  {
+   "code": "9082100",
+   "region": "Savannah",
+   "phrase": "Damongo Technical Institute Damongo"
+  },
+  {
+   "code": "9090701",
+   "region": "Upper East",
+   "phrase": "Bongo Technical Institute Bongo s"
+  },
+  {
+   "code": "9091000",
+   "region": "Upper East",
+   "phrase": "Sandema Technical Institute Sandema"
+  },
+  {
+   "code": "9090800",
+   "region": "Upper East",
+   "phrase": "TSC Technical Institute - Garu Gauss"
+  },
+  {
+   "code": "9090902",
+   "region": "Upper East",
+   "phrase": "Navrongo Technical Institute INavrongo s"
+  },
+  {
+   "code": "9091200",
+   "region": "Upper East",
+   "phrase": "Namalteng Technical Institute Gbeogo Namalteng"
+  },
+  {
+   "code": "9100800",
+   "region": "Upper West",
+   "phrase": "Issa Technical Institute lissa ss"
+  },
+  {
+   "code": "9100104",
+   "region": "Upper West",
+   "phrase": "Naa-Momori Technical Institute Wa ee"
+  },
+  {
+   "code": "9100415",
+   "region": "Upper West",
+   "phrase": "Tibani Technical Institute lTibani ss"
+  },
+  {
+   "code": "9100741",
+   "region": "Upper West",
+   "phrase": "Birifo Technical Institute auto a"
+  },
+  {
+   "code": "9071014",
+   "region": "Volta",
+   "phrase": "Ve- Golokwati Technical Institute Kwati ss"
+  },
+  {
+   "code": "9070150",
+   "region": "Volta",
+   "phrase": "Avenui-Awudome Technical Institute Avenui-Awudome"
+  },
+  {
+   "code": "9072401",
+   "region": "Volta",
+   "phrase": "Ave Technical Institute Ave sd s"
+  },
+  {
+   "code": "9070702",
+   "region": "Volta",
+   "phrase": "( Volta Tech Inst"
+  },
+  {
+   "code": "9070704",
+   "region": "Volta",
+   "phrase": "Ho -Lokoe Technical Institute"
+  },
+  {
+   "code": "9070703",
+   "region": "Volta",
+   "phrase": "Ho Technical Institute"
+  },
+  {
+   "code": "9070101",
+   "region": null,
+   "phrase": "Amedzofe Technical institute Amedzofe Mined"
+  },
+  {
+   "code": "9070113",
+   "region": "Volta",
+   "phrase": "Tsibu Technical Institute TsibuAwodume"
+  },
+  {
+   "code": "9071002",
+   "region": "Volta",
+   "phrase": "E.P. Tech/Voc Inst Alavanyo"
+  },
+  {
+   "code": "9070602",
+   "region": "Volta",
+   "phrase": "C.Y.O. Tech/Voc. Inst. ISovie i"
+  },
+  {
+   "code": "9071200",
+   "region": "Volta",
+   "phrase": "Toh-Kpalime Technical Institute Toh-Kpalime"
+  },
+  {
+   "code": "9070705",
+   "region": "Volta",
+   "phrase": "Klefe Technical Institute Klefe si"
+  },
+  {
+   "code": "9071904",
+   "region": "Volta",
+   "phrase": "Sogakope Technial Institute"
+  },
+  {
+   "code": "9070515",
+   "region": null,
+   "phrase": "Woe Technical Institute Woe"
+  },
+  {
+   "code": "9070155",
+   "region": "Volta",
+   "phrase": "Anfoeta Technical Institute Anfoeta Gborgame"
+  },
+  {
+   "code": "9041300",
+   "region": "Western",
+   "phrase": "TSC Technical Institute - Asankragwa Asankragwa i s"
+  },
+  {
+   "code": "9040107",
+   "region": "Western",
+   "phrase": "Takoradi Community Technical Institute Anaji"
+  },
+  {
+   "code": "9040415",
+   "region": "Western",
+   "phrase": "Asasetre Technical Institute Asasetre"
+  },
+  {
+   "code": "9040700",
+   "region": "Western",
+   "phrase": "TSC Technical Institute - Half Assini HalfAssini"
+  },
+  {
+   "code": "9040105",
+   "region": "Western",
+   "phrase": "Opportunities Industralisation Technical Inst. Takoradi"
+  },
+  {
+   "code": "9040106",
+   "region": "Western",
+   "phrase": "Essipun Technical Institute Shane Sekondi - xe"
+  },
+  {
+   "code": "9041100",
+   "region": "Western",
+   "phrase": "Shama Technical institute"
+  },
+  {
+   "code": "9041412",
+   "region": "Western",
+   "phrase": "MesuAkompiTechnicalinstitute WassaSaa"
+  },
+  {
+   "code": "9040800",
+   "region": "Western",
+   "phrase": "AburaTechnicalinstitute Abura"
+  },
+  {
+   "code": "9040901",
+   "region": "Western North",
+   "phrase": "Bonso NkwantaTechnical institute ( BonsuNkwanta"
+  },
+  {
+   "code": "0061206",
+   "region": "Ahafo",
+   "phrase": "were Ampem Senior High School wenese"
+  },
+  {
+   "code": "0050403",
+   "region": "Ashanti",
+   "phrase": "Manso-AdubiaSeniorHigh Manso Adubia"
+  },
+  {
+   "code": "0050401",
+   "region": "Ashanti",
+   "phrase": "MansomanSeniorHign Manso Atwere"
+  },
+  {
+   "code": "0050402",
+   "region": "Ashanti",
+   "phrase": "EsaaseBontefufuoSnr.High/Tech. Esaase Bontefufuo"
+  },
+  {
+   "code": "0051001",
+   "region": "Ashanti",
+   "phrase": "Agogo State College SS iAggO SSSS"
+  },
+  {
+   "code": "0051004",
+   "region": "Ashanti",
+   "phrase": "OwerrimanSeniorHigh/Tech Domeabra"
+  },
+  {
+   "code": "0051608",
+   "region": "Ashanti",
+   "phrase": "/ St. George's Senior High Tech. Se eal)"
+  },
+  {
+   "code": "0051613",
+   "region": "Ashanti",
+   "phrase": "Bosomtwe Oyoko Comm. Senior High Bosomtwe Oyoko"
+  },
+  {
+   "code": "0051614",
+   "region": "Ashanti",
+   "phrase": "OseiAdutwum Senior High Jachie Mined x txt txt x area a"
+  },
+  {
+   "code": "0051601",
+   "region": "Ashanti",
+   "phrase": "Ejisuman Senior High Ejisu Heike TT"
+  },
+  {
+   "code": "0051605",
+   "region": "Ashanti",
+   "phrase": "BonwireSeniorHigh/Tech Bonwire Dex pcx px 7"
+  },
+  {
+   "code": "0050901",
+   "region": "Ashanti",
+   "phrase": "Ejuraman Anglican Senior igh fjwra Med x x x x x x' x 6 ("
+  },
+  {
+   "code": "0050159",
+   "region": "Ashanti",
+   "phrase": "MancellGirls'SeniorHigh/Tech. Oduom 6 ("
+  },
+  {
+   "code": "0050707",
+   "region": "Ashanti",
+   "phrase": "Adventist"
+  },
+  {
+   "code": "0050703",
+   "region": "Ashanti",
+   "phrase": "AdanwomaseSeniorHigh Ss Adanwomase Pc cx 5"
+  },
+  {
+   "code": "0080701",
+   "region": "Ashanti",
+   "phrase": "lAntoaSenior igh antoa"
+  },
+  {
+   "code": "0050706",
+   "region": "Ashanti",
+   "phrase": "Gyaama Pensan Senior High/Tech Aboaso-Ashanti Haixe TI"
+  },
+  {
+   "code": "0050503",
+   "region": "Ashanti",
+   "phrase": "AmaniampongSeniorHigh Ss Mampong 6"
+  },
+  {
+   "code": "0080804",
+   "region": "Ashanti",
+   "phrase": "St. Joseph Sern/Senior High, Mampong Mampong"
+  },
+  {
+   "code": "0050803",
+   "region": "Ashanti",
+   "phrase": "Namong Senior High/Tech Namong Hake TI Spi boora Se"
+  },
+  {
+   "code": "0050806",
+   "region": "Ashanti",
+   "phrase": "Asuoso Comm. Senior High Asuoso"
+  },
+  {
+   "code": "0050805",
+   "region": "Ashanti",
+   "phrase": "NkenkansuCommunity Senior High Nkenkansu 4"
+  },
+  {
+   "code": "0080778",
+   "region": null,
+   "phrase": "Afigya Senior High/Tech Boamang"
+  },
+  {
+   "code": "0050505",
+   "region": "Ashanti",
+   "phrase": "Presby Senior High/Tech, Kwamang Kwamang"
+  },
+  {
+   "code": "0051805",
+   "region": "Ashanti",
+   "phrase": "TijjaniyaSeniorHigh Ss ASOkore 4"
+  },
+  {
+   "code": "0081801",
+   "region": "Ashanti",
+   "phrase": "Fffiduase Senior High/Com lfffiduase"
+  },
+  {
+   "code": "0051808",
+   "region": "Ashanti",
+   "phrase": "Bodomase Senior High/Tech Bodomase Mixes"
+  },
+  {
+   "code": "0050605",
+   "region": "Ashanti",
+   "phrase": "AduGyamfiSeniorHigh Ss Jamasi 5"
+  },
+  {
+   "code": "0051503",
+   "region": "Ashanti",
+   "phrase": "Sabronum Methodist Senior High/Tech Sabronum/Habitat"
+  },
+  {
+   "code": "0051007",
+   "region": "Ashanti",
+   "phrase": "Jubilee Senior High Dampong GLEPER EE"
+  },
+  {
+   "code": "0051607",
+   "region": "Ashanti",
+   "phrase": "Church OfChristSeniorHign Ss Adadientem"
+  },
+  {
+   "code": "0050808",
+   "region": "Ashanti",
+   "phrase": "Wiafe AkentenPresbySeniorHigh Afrancho"
+  },
+  {
+   "code": "0050214",
+   "region": "Ashanti",
+   "phrase": "Spiritan Senior High/Tech SS Adankwame"
+  },
+  {
+   "code": "0051615",
+   "region": "Ashanti",
+   "phrase": "OnweSeniorHighSchoot Onwe-Ashanti"
+  },
+  {
+   "code": "0050212",
+   "region": "Ashanti",
+   "phrase": "J. A.KufuorSeniorHigh Sokoban Pxf Tx xix 4 pay/"
+  },
+  {
+   "code": "0051618",
+   "region": "Ashanti",
+   "phrase": "Bosomtwe Senior High/Tech Ankaase Lakeside Sonnelaal Papert) ee ee"
+  },
+  {
+   "code": "0051619",
+   "region": "Ashanti",
+   "phrase": "Feyiase Senior High School Beposse I Mixer Der a"
+  },
+  {
+   "code": "0051611",
+   "region": "Ashanti",
+   "phrase": "Bepoase Snts Bepoase Pea beac 5"
+  },
+  {
+   "code": "0060406",
+   "region": "Bono East",
+   "phrase": "Abeaseman Comm"
+  },
+  {
+   "code": "1006072",
+   "region": "Bono East",
+   "phrase": "Kesse Basehvi Senior HighSehool Techiman Oforirou"
+  },
+  {
+   "code": "0060806",
+   "region": "Bono East",
+   "phrase": "Krobo Comm.Senior High Basse Mixer tones"
+  },
+  {
+   "code": "0061103",
+   "region": "Bono East",
+   "phrase": "Bassa Community Senior High Bassas 5"
+  },
+  {
+   "code": "0030909",
+   "region": "Central",
+   "phrase": "AgonaNamonworaComm.Senior High AgonaNamonwora"
+  },
+  {
+   "code": "0030701",
+   "region": "Central",
+   "phrase": "Mando Serio gh/Tesh. Mando Wines xx x Dx bx Dx 7 eave Sis"
+  },
+  {
+   "code": "0030803",
+   "region": "Central",
+   "phrase": "Brakwa Senior High/Tech Brakwa"
+  },
+  {
+   "code": "0031207",
+   "region": "Central",
+   "phrase": "AssinStateCollege Asin Bereku x xt xt xt 6"
+  },
+  {
+   "code": "0951202",
+   "region": null,
+   "phrase": "Obil Yeboah Senior Migh/Tecnmieal Assinrest es EE RPS) 8S Baibening See"
+  },
+  {
+   "code": "0031204",
+   "region": "Central",
+   "phrase": "Assin North SeniorHigh/Tech Asin Asempaneye"
+  },
+  {
+   "code": "0031201",
+   "region": "Central",
+   "phrase": "Assin Manso Senior High Assin Manso"
+  },
+  {
+   "code": "0031208",
+   "region": "Central",
+   "phrase": "Nyankumasi Ahenkro Snr. High NyankumasiAhenkiMixed 5"
+  },
+  {
+   "code": "0030602",
+   "region": "Central",
+   "phrase": "sone Senior High School Senya Beraku mE Perae 2 eels"
+  },
+  {
+   "code": "0950202",
+   "region": null,
+   "phrase": "fFauafo-Abrem SeniorHigh austere fitined PRP ERY RF 8 Daven oe"
+  },
+  {
+   "code": "0031002",
+   "region": null,
+   "phrase": "Dunkwa Senior High/Tech Dunkwa-on-OFin Mined x x x x x 7"
+  },
+  {
+   "code": "0031007",
+   "region": "Central",
+   "phrase": "Kyekyewere Comm. Senior High School Denkyire. mofeg Pere eae"
+  },
+  {
+   "code": "0030312",
+   "region": "Central",
+   "phrase": "Alyin Senior High School Arkra-Mbroboto"
+  },
+  {
+   "code": "0030624",
+   "region": null,
+   "phrase": "St. Gregory Catholic Senior High School Buduburarm Mi 3"
+  },
+  {
+   "code": "0020901",
+   "region": "Eastern",
+   "phrase": "Donkorkrom Agric SeniorHigh Donkorkrom"
+  },
+  {
+   "code": "0020904",
+   "region": "Eastern",
+   "phrase": "MaameKroboComm.SeniorHigh MaameKrobo"
+  },
+  {
+   "code": "0020902",
+   "region": "Eastern",
+   "phrase": "St. Fidelis Senior High/Tech Tease"
+  },
+  {
+   "code": "0020406",
+   "region": "Eastern",
+   "phrase": "H'MountSinaiSenior High School Akropong Moed x Txt px x pt 8"
+  },
+  {
+   "code": "0020407",
+   "region": "Eastern",
+   "phrase": "Presby Senior HighTech, Aduleom adulrom ned x xX xx x x 6 ooyrcaraing HTS"
+  },
+  {
+   "code": "0020409",
+   "region": "Eastern",
+   "phrase": "MangoaseSeniorHigh Ss Mangoase"
+  },
+  {
+   "code": "0020307",
+   "region": "Eastern",
+   "phrase": "Diaspora"
+  },
+  {
+   "code": "0020701",
+   "region": "Eastern",
+   "phrase": "AkokoasoSeniorHigh/Tech Aim Akokoaso 5"
+  },
+  {
+   "code": "0020804",
+   "region": "Eastern",
+   "phrase": "BosoSeniorHighTechnical ss Boso sMixed x xX X x x x 6"
+  },
+  {
+   "code": "0020802",
+   "region": "Eastern",
+   "phrase": "AdjenaSeniorHigh/Tech. Adena"
+  },
+  {
+   "code": "0020808",
+   "region": "Eastern",
+   "phrase": "AnumApapamComm.Day Ss AnumApapam"
+  },
+  {
+   "code": "0020608",
+   "region": "Eastern",
+   "phrase": "Atweaman Senior High Akim Manso"
+  },
+  {
+   "code": "0020607",
+   "region": "Eastern",
+   "phrase": "AkrosoSeniorHigh/Tech IMixed x x x x x xi x 7"
+  },
+  {
+   "code": "0020704",
+   "region": "Eastern",
+   "phrase": "St. Michael's Senior High, Akoase (Nkawkaw) Akoase, Nkawkaw"
+  },
+  {
+   "code": "0020611",
+   "region": "Eastern",
+   "phrase": "Aperade SeniorHigh/Tech. AkimAperade"
+  },
+  {
+   "code": "0021106",
+   "region": "Eastern",
+   "phrase": "Presby"
+  },
+  {
+   "code": "0021104",
+   "region": "Eastern",
+   "phrase": "Salvation Army Senior High, AkimWenchi AkimWenchi"
+  },
+  {
+   "code": "0021314",
+   "region": "Eastern",
+   "phrase": "ApedwaPresbySeniorHigh ss Apedwa Txt x x xd 4 pay"
+  },
+  {
+   "code": "0021203",
+   "region": "Eastern",
+   "phrase": "New Nsutam Senior High/Tech Akyem Nsutam"
+  },
+  {
+   "code": "0021202",
+   "region": "Eastern",
+   "phrase": "OsinoPresby Senior High/Tech. IMixed x x x x x x x 7"
+  },
+  {
+   "code": "0021009",
+   "region": "Eastern",
+   "phrase": "BepongSeniorHigh School Bepong M"
+  },
+  {
+   "code": "0021018",
+   "region": "Eastern",
+   "phrase": "Fodoa Comm. Senior High Fodoa Nkawkaw"
+  },
+  {
+   "code": "0021505",
+   "region": "Eastern",
+   "phrase": "AkroSeniorHigh/Tech Ss Odumase Moed XXL XL PRL 8 bayrioarg"
+  },
+  {
+   "code": "0020304",
+   "region": "Eastern",
+   "phrase": "NsawamSeniorHign IMixed x x x x x x 6 by"
+  },
+  {
+   "code": "0021503",
+   "region": "Eastern",
+   "phrase": "Asesewa Senior High/Tech Asesewa"
+  },
+  {
+   "code": "0020507",
+   "region": "Upper West",
+   "phrase": "KwaobaahNyanoaComm.SeniorHigh Nyanoa"
+  },
+  {
+   "code": "0020502",
+   "region": "Eastern",
+   "phrase": "St.Thomas Senior High/Tech ASamankese"
+  },
+  {
+   "code": "0021402",
+   "region": "Eastern",
+   "phrase": "Klo-Agogo Senior High/Tech Klo-Agogo"
+  },
+  {
+   "code": "0021404",
+   "region": "Eastern",
+   "phrase": "Apesua Comm. Senior High Apesua"
+  },
+  {
+   "code": "0020705",
+   "region": "Eastern",
+   "phrase": "Amuana Praso Senior High Amuana Praso"
+  },
+  {
+   "code": "0010107",
+   "region": "Greater Accra",
+   "phrase": "PresbySeniorHigh,Osu Osu"
+  },
+  {
+   "code": "0010120",
+   "region": "Greater Accra",
+   "phrase": "Kaneshie Senior High/Tech. Kaneshie"
+  },
+  {
+   "code": "0010109",
+   "region": null,
+   "phrase": "Kinbu Senior igh/Tech Tudu- avers Mise x x xx x Dx x"
+  },
+  {
+   "code": "0010838",
+   "region": "Greater Accra",
+   "phrase": "Frafraha Comm. Senior High Frafrana ixed x x x x x X 5 Dy i SHS"
+  },
+  {
+   "code": "0010534",
+   "region": "Greater Accra",
+   "phrase": "Kwabenya Comm. Senior High Kwabenya"
+  },
+  {
+   "code": "0010119",
+   "region": "Greater Accra",
+   "phrase": "Christian Methodist Senior High Aplaku (Weija) Mixed"
+  },
+  {
+   "code": "0010504",
+   "region": "Greater Accra",
+   "phrase": "amasaman Senior High/Tech fAmasaman mixed x x x x x x X 6"
+  },
+  {
+   "code": "0010195",
+   "region": "Greater Accra",
+   "phrase": "Akramaman Senior High Akramaman"
+  },
+  {
+   "code": "0010227",
+   "region": null,
+   "phrase": "Kpone Comm. Senior High Katamanso ised x xx xx"
+  },
+  {
+   "code": "0010116",
+   "region": "Greater Accra",
+   "phrase": "PresbySeniorHigh,Teshie s Teshie"
+  },
+  {
+   "code": "0010108",
+   "region": "Greater Accra",
+   "phrase": "O'Reilly Senior High OvpeiGonno ixed x x x x x x x 6 Dev/Bosrding SHS"
+  },
+  {
+   "code": "0040210",
+   "region": null,
+   "phrase": "Presby Senior High, ema Tema Communfyy IMxea 0"
+  },
+  {
+   "code": "0010204",
+   "region": "Greater Accra",
+   "phrase": "Tema Manhean Senior High/Tech TemaNewTown mixed x x x x x x x 7"
+  },
+  {
+   "code": "0080503",
+   "region": "North East",
+   "phrase": "Nakpanduri Senior High Nakpanduri"
+  },
+  {
+   "code": "0080502",
+   "region": "North East",
+   "phrase": "BunkpuruguSeniorHigh/Tech Bunkupurugu"
+  },
+  {
+   "code": "0080501",
+   "region": "North East",
+   "phrase": "NaleriguSeniorHigh Nalerigu"
+  },
+  {
+   "code": "0080602",
+   "region": "North East",
+   "phrase": "WuluguSeniorHigh Wurlug"
+  },
+  {
+   "code": "0080505",
+   "region": "North East",
+   "phrase": "PresbySHTS,Nankpanduri Nakpanduri"
+  },
+  {
+   "code": "0080506",
+   "region": "North East",
+   "phrase": "Yunyoo Senior High School Yunyoo"
+  },
+  {
+   "code": "0080509",
+   "region": "North East",
+   "phrase": "Nasuan Senior High School INasuan"
+  },
+  {
+   "code": "0080511",
+   "region": "North East",
+   "phrase": "Gbintiri Senior High/Tech Gbintiri"
+  },
+  {
+   "code": "0080619",
+   "region": "North East",
+   "phrase": "Yizesi Senior High School Yizesi"
+  },
+  {
+   "code": "0081412",
+   "region": "North East",
+   "phrase": "Bimbagu Senior High/Tech Bimbagu"
+  },
+  {
+   "code": "0081401",
+   "region": "Northern",
+   "phrase": "KaragaSeniorHigh SS Karaga"
+  },
+  {
+   "code": "0081202",
+   "region": null,
+   "phrase": "Kumbungu Senior High 6 Pay/Boaraing SHS"
+  },
+  {
+   "code": "0080402",
+   "region": "Northern",
+   "phrase": "WulensiSeniorHigh ss Wulensi paipeerding ne"
+  },
+  {
+   "code": "0080902",
+   "region": "Northern",
+   "phrase": "SabobaE.P.SeniorHign Saboba Mi emma ore"
+  },
+  {
+   "code": "0081302",
+   "region": "Northern",
+   "phrase": "Pong-TamaleSenior High Pong-Tamale"
+  },
+  {
+   "code": "0080111",
+   "region": "Northern",
+   "phrase": "PresbySeniorHigh,Tamale Tamale 4"
+  },
+  {
+   "code": "0080106",
+   "region": "Northern",
+   "phrase": "Vitting Senior High/Tech. vemate mer herh i ieee"
+  },
+  {
+   "code": "0080117",
+   "region": "Northern",
+   "phrase": "AnbariyaSeniorHighSch. Tamale"
+  },
+  {
+   "code": "0081201",
+   "region": "Northern",
+   "phrase": "TolonSeniorHigh Toto Mi 6"
+  },
+  {
+   "code": "0081203",
+   "region": "Northern",
+   "phrase": "KasuliyiliSeniorHign Kasuliyiti"
+  },
+  {
+   "code": "0081514",
+   "region": "Northern",
+   "phrase": "Nanton SeniorHigh/Tech foment DTP"
+  },
+  {
+   "code": "0071106",
+   "region": "Oti",
+   "phrase": "TapamanSeniorHigh/Tech Tapa-Amanfrom Mi X Xf x xt x X"
+  },
+  {
+   "code": "0071103",
+   "region": "Oti",
+   "phrase": "NkonyaSeniorHighSchool Nkonya-Ahenkro xc xx"
+  },
+  {
+   "code": "0071203",
+   "region": "Oti",
+   "phrase": "Ahamansulslamic Senior High School x px txt fx fx 5"
+  },
+  {
+   "code": "0071202",
+   "region": null,
+   "phrase": "Dodi-Papase Senior High/Tech Dodi Papase Mixea RHHHumm ES ceibs"
+  },
+  {
+   "code": "0070211",
+   "region": "Oti",
+   "phrase": "YabramComm.DaySchool Dambai 6 py"
+  },
+  {
+   "code": "0070203",
+   "region": "Oti",
+   "phrase": "OtiSeniorHigh/TechSch SS Dambai x xi xi xt xx 6"
+  },
+  {
+   "code": "0070201",
+   "region": null,
+   "phrase": "KrachiSeniorHigh 6"
+  },
+  {
+   "code": "0070304",
+   "region": "Oti",
+   "phrase": "Nkwanta Comm.Senior High/Tech Sariraearses"
+  },
+  {
+   "code": "0070305",
+   "region": null,
+   "phrase": "Kyabobo"
+  },
+  {
+   "code": "0070302",
+   "region": null,
+   "phrase": "Ntruboman Senior High Brewaniase"
+  },
+  {
+   "code": "0071002",
+   "region": null,
+   "phrase": "akpafu Senior High/Tech. Akpafu Mixed x x J x x x x x onvecerang ss"
+  },
+  {
+   "code": "0081504",
+   "region": "Savannah",
+   "phrase": "Mpaha Comm. Senior High School Mpaha"
+  },
+  {
+   "code": "0080207",
+   "region": "Savannah",
+   "phrase": "LarabangaSeniorHigh Larabanga"
+  },
+  {
+   "code": "0080703",
+   "region": "Savannah",
+   "phrase": "St.AnthonyofPaduaSeniorHigh/Tech Bamboi"
+  },
+  {
+   "code": "0081503",
+   "region": "Savannah",
+   "phrase": "BuipeSeniorHigh Ss (Buipe"
+  },
+  {
+   "code": "0080301",
+   "region": "Savannah",
+   "phrase": "SalagaSeniorHign Ss s(Salaga"
+  },
+  {
+   "code": "0080308",
+   "region": null,
+   "phrase": "SalagaT.l.Ahmad Senior High Salaga"
+  },
+  {
+   "code": "0080702",
+   "region": "Savannah",
+   "phrase": "Tuna Senior High/Tech. Px Px po 8"
+  },
+  {
+   "code": "0090102",
+   "region": "Upper East",
+   "phrase": "BawkuSeniorHigh/Tech. ss Bawku"
+  },
+  {
+   "code": "0090202",
+   "region": "Upper East",
+   "phrase": "KusanabaSeniorHighSchool Kusanaba"
+  },
+  {
+   "code": "0090402",
+   "region": "Upper East",
+   "phrase": "Zamee Senior High/Tech bolgatanga Med x xx x xx x 7 oayoorang SHS"
+  },
+  {
+   "code": "0090602",
+   "region": "Upper East",
+   "phrase": "Gowrie Senior Migh/Tech. Gowrie Mea x x x x x x x 7"
+  },
+  {
+   "code": "0090601",
+   "region": "Upper East",
+   "phrase": "BongoSSenior High Bongo Mea x x x x x x 6"
+  },
+  {
+   "code": "0090603",
+   "region": "Upper East",
+   "phrase": "zorkor Senior High ( Zorkor (Mea x x x x 4"
+  },
+  {
+   "code": "0090903",
+   "region": "Upper East",
+   "phrase": "SandemaSenior High S S dSandema C (Mixe x x x x x x 6"
+  },
+  {
+   "code": "0000501",
+   "region": null,
+   "phrase": "NasbAzantiow Senior igh/Tesh. BtnsarSandome wine x x x x x x 6 fooyooorane sus"
+  },
+  {
+   "code": "0090502",
+   "region": "Upper East",
+   "phrase": "O.L.L"
+  },
+  {
+   "code": "0090504",
+   "region": "Upper East",
+   "phrase": "Awe SeniorHigh/Tech. Navrongo"
+  },
+  {
+   "code": "0090507",
+   "region": "Upper East",
+   "phrase": "St.John'sIntegratedSnr.High/Tech Tonos"
+  },
+  {
+   "code": "0090503",
+   "region": "Upper East",
+   "phrase": "ChianaSeniorHign Chiana"
+  },
+  {
+   "code": "0090511",
+   "region": "Upper East",
+   "phrase": "Nabango Senior High Tech Nabango"
+  },
+  {
+   "code": "0090509",
+   "region": "Upper East",
+   "phrase": "PagaSeniorHigh Pagal"
+  },
+  {
+   "code": "0090304",
+   "region": "Upper East",
+   "phrase": "Wiaga Comm. SeniorHign Wiaga '(Mixea x x 2"
+  },
+  {
+   "code": "0090604",
+   "region": "Upper East",
+   "phrase": "Azeem-NamoaSeniorHigh/Tech Namoo"
+  },
+  {
+   "code": "0090107",
+   "region": "Upper East",
+   "phrase": "PusigaComm.DaySeniorHighSch. Pusiga"
+  },
+  {
+   "code": "0100304",
+   "region": "Upper West",
+   "phrase": "JirapaSeniorHign SS Jirapa-Town x x xx 5"
+  },
+  {
+   "code": "0100303",
+   "region": "Upper West",
+   "phrase": "Piina Senior High"
+  },
+  {
+   "code": "0100601",
+   "region": "Upper West",
+   "phrase": "LambussieComm. Senior High School Lambussie 5 Da"
+  },
+  {
+   "code": "0100505",
+   "region": "Upper West",
+   "phrase": "Augustine Senior High/Tech, Saan CharikpqSaan, Rape"
+  },
+  {
+   "code": "0100504",
+   "region": "Upper West",
+   "phrase": "TakpoSeniorHighSch. Ss Takpo 4"
+  },
+  {
+   "code": "0100205",
+   "region": "Upper West",
+   "phrase": "HolyFamilySeniorHigh Hamile"
+  },
+  {
+   "code": "0100402",
+   "region": "Upper West",
+   "phrase": "TumuSeniorHigh/Tech. Tumu Mixea x x x x x x 6"
+  },
+  {
+   "code": "0100404",
+   "region": "Upper West",
+   "phrase": "/Holy Gi Senor High oho mol fees med aS"
+  },
+  {
+   "code": "0100108",
+   "region": "Upper West",
+   "phrase": "FunsiSeniorHighSchool 3"
+  },
+  {
+   "code": "0100105",
+   "region": "Upper West",
+   "phrase": "Islamic Senior High, Wa Wa"
+  },
+  {
+   "code": "0100101",
+   "region": "Upper West",
+   "phrase": "Wa Senior High/Tech"
+  },
+  {
+   "code": "0100110",
+   "region": "Upper West",
+   "phrase": "Jamiat Al-Hidaya Islamic"
+  },
+  {
+   "code": "0100506",
+   "region": "Upper West",
+   "phrase": "Sombo Senior High Sombo"
+  },
+  {
+   "code": "0070108",
+   "region": null,
+   "phrase": "AdakluSeniorHigh"
+  },
+  {
+   "code": "0071009",
+   "region": "Volta",
+   "phrase": "VeComm.SeniorHigh Ve Koloenu x x x x x x 6"
+  },
+  {
+   "code": "0070113",
+   "region": "Volta",
+   "phrase": "AgotimeSeniorHigh Ss Kpetoe x x x xi xix"
+  },
+  {
+   "code": "0070402",
+   "region": null,
+   "phrase": "AveSeniorHign s Ave-Dakpa x x x x x 5 oayrBoeraing SHS"
+  },
+  {
+   "code": "0070506",
+   "region": "Volta",
+   "phrase": "Atiavi Senior High/Tech Atiavi"
+  },
+  {
+   "code": "0070511",
+   "region": "Volta",
+   "phrase": "VoltaSeniorHighSchoot Dzita-Aghledomi 4"
+  },
+  {
+   "code": "0070505",
+   "region": "Volta",
+   "phrase": "Zion SeniorHigh Alogi x px xt fx txt xt x 6 Pay/Boaraing SHS"
+  },
+  {
+   "code": "0070508",
+   "region": "Volta",
+   "phrase": "AnloAwomefiaSeniorHigh Ss Anyako x Boe ace X"
+  },
+  {
+   "code": "0070801",
+   "region": "Central",
+   "phrase": "AdidomeSeniorHigh Aide"
+  },
+  {
+   "code": "0070122",
+   "region": "Volta",
+   "phrase": "ShiaSeniorHighTechnical Shia"
+  },
+  {
+   "code": "0070119",
+   "region": "Volta",
+   "phrase": "SokodeSeniorHigh/Tech Sokode"
+  },
+  {
+   "code": "0070107",
+   "region": "Volta",
+   "phrase": "TaviefeSeniorHign ss s Taviefe"
+  },
+  {
+   "code": "0070130",
+   "region": "Volta",
+   "phrase": "ZiaviSeniorHigh/Tech Ss Zievi"
+  },
+  {
+   "code": "0070112",
+   "region": null,
+   "phrase": "TanyigheSeniorHigh Ss Tanyigbe"
+  },
+  {
+   "code": "0070105",
+   "region": "Volta",
+   "phrase": "KpedzeSeniorHigh ss Kpedze"
+  },
+  {
+   "code": "0070103",
+   "region": "Volta",
+   "phrase": "Javatime Senior High Wane mined x x x x x 8 Pey/Boaraing SHTS"
+  },
+  {
+   "code": "0070110",
+   "region": "Volta",
+   "phrase": "TsitoSeniorHigh/Tech Ss Tsito"
+  },
+  {
+   "code": "0070109",
+   "region": "Volta",
+   "phrase": "Dzolo Senior High Rohea"
+  },
+  {
+   "code": "0071006",
+   "region": "Volta",
+   "phrase": "E.P.SeniorHigh SSCS P 6"
+  },
+  {
+   "code": "0071008",
+   "region": null,
+   "phrase": "Alavanye Senior High/Tech. Alavanyo-Kpeme Med -x- - x x x x x 6 bay/eoeraing SHS"
+  },
+  {
+   "code": "0071012",
+   "region": "Volta",
+   "phrase": "Santa Esther"
+  },
+  {
+   "code": "0070709",
+   "region": "Volta",
+   "phrase": "lafite Senior High Tech. Jaffe uiined x x x tx x 8 pey sus"
+  },
+  {
+   "code": "0070706",
+   "region": null,
+   "phrase": "Wovenu Senor High Technical Tadzewar i x xt x txt xt xt 7 Dev/"
+  },
+  {
+   "code": "0070701",
+   "region": "Volta",
+   "phrase": "St. Paul's Senior High, Denu Kier Denu mixer"
+  },
+  {
+   "code": "0070705",
+   "region": "Volta",
+   "phrase": "KlikorSeniorHigh/Tech, x Beppe 5 oeyiBosrang SHS"
+  },
+  {
+   "code": "0070704",
+   "region": "Volta",
+   "phrase": "Three Town Senior High ben Mea x x x x x x 6 bayreoeraing SHS"
+  },
+  {
+   "code": "0070711",
+   "region": "Volta",
+   "phrase": "AflaoCommunitySHTS Aflac"
+  },
+  {
+   "code": "0070604",
+   "region": null,
+   "phrase": "AnfoegaSeniorHigh (Anfoega ("
+  },
+  {
+   "code": "0070805",
+   "region": "Volta",
+   "phrase": "Dofor Senior High Megs Mixer"
+  },
+  {
+   "code": "0070607",
+   "region": null,
+   "phrase": "PekiSeniorHigh/Technical ss Peki"
+  },
+  {
+   "code": "0070510",
+   "region": "Volta",
+   "phrase": "St. Catherine"
+  },
+  {
+   "code": "0040202",
+   "region": "Western",
+   "phrase": "BaidooBonsoSeniorHigh/Tech AgonaNkwanta"
+  },
+  {
+   "code": "0040304",
+   "region": "Western",
+   "phrase": "Bonzo-KakuSeniorHign ss Awiebo"
+  },
+  {
+   "code": "0040402",
+   "region": "Western",
+   "phrase": "AnnorAdjayeSeniorHigh Ezilibo"
+  },
+  {
+   "code": "0040305",
+   "region": "Western",
+   "phrase": "AximGirlsSeniorHigh Axim"
+  },
+  {
+   "code": "0040902",
+   "region": null,
+   "phrase": "St. Augustine's Senior High, Bogoso Bogoso"
+  },
+  {
+   "code": "0040905",
+   "region": null,
+   "phrase": "PresteaSeniorHigh/Tech Prestea"
+  },
+  {
+   "code": "0040903",
+   "region": "Western",
+   "phrase": "Fieseman Senior High Bont Tarwa"
+  },
+  {
+   "code": "0040501",
+   "region": "Western",
+   "phrase": "AsanirangwaSenior High Asankragwa ixed x x x x x x 6"
+  },
+  {
+   "code": "0040704",
+   "region": "Western",
+   "phrase": "QuearsGia'Seir igh SehAwtinos seer anatinss erie xxx DD Leone Sr"
+  },
+  {
+   "code": "0040607",
+   "region": "Western North",
+   "phrase": "Nsawora Edumafa Senior High School Nsawora Edumafa"
+  },
+  {
+   "code": "0040504",
+   "region": "Western North",
+   "phrase": "Manso-Amenfi Comm. Day School Manso-Amenfi"
+  }
+ ],
+ "Appendix 1": [
+  {
+   "code": "9060400",
+   "region": "Ahafo",
+   "phrase": "TSC Technical Institute,Goaso Goaso"
+  },
+  {
+   "code": "9061400",
+   "region": "Ahafo",
+   "phrase": "Fawohoyeden Technical Institute Fawohoyeden"
+  },
+  {
+   "code": "9062400",
+   "region": "Ahafo",
+   "phrase": "Gyedu Technical Institute Gyedu"
+  },
+  {
+   "code": "9060802",
+   "region": "Ahafo",
+   "phrase": "Bechem Technical Institute Bechem"
+  },
+  {
+   "code": "9060200",
+   "region": "Ahafo",
+   "phrase": "Yamfo Technical Institute Yamfo"
+  },
+  {
+   "code": "9060800",
+   "region": "Ahafo",
+   "phrase": "/TSC Technical Institute, Bechem Bechem"
+  },
+  {
+   "code": "9060139",
+   "region": "Ahafo",
+   "phrase": "Akrodie Technical Institute Akrodie"
+  },
+  {
+   "code": "9060201",
+   "region": "Ahafo",
+   "phrase": "Adrobaa Technical Institute Adrobaa"
+  },
+  {
+   "code": "9063011",
+   "region": "Ahafo",
+   "phrase": "Kwapong Technical Institute Kwapong"
+  },
+  {
+   "code": "9060205",
+   "region": "Ahafo",
+   "phrase": "Islamic Mission Technical Duayaw Nkwanta"
+  },
+  {
+   "code": "9052000",
+   "region": "Ashanti",
+   "phrase": ") it ne Hemang Buoho"
+  },
+  {
+   "code": "9050900",
+   "region": "Ashanti",
+   "phrase": "TSC Technical Institute, Konongo Konongo"
+  },
+  {
+   "code": "9051300",
+   "region": "Ashanti",
+   "phrase": "Asankare Technical Institute Asankare"
+  },
+  {
+   "code": "9050104",
+   "region": "Ashanti",
+   "phrase": "pusiness Secretatat and Chirapatre"
+  },
+  {
+   "code": "9051400",
+   "region": "Ashanti",
+   "phrase": "Nerebehi Technical Institute Nerebehi"
+  },
+  {
+   "code": "9052300",
+   "region": "Ashanti",
+   "phrase": "Twedie Technical Institute Twedie"
+  },
+  {
+   "code": "9050401",
+   "region": "Ashanti",
+   "phrase": "Nana Ampontua Technical Bekwai"
+  },
+  {
+   "code": "9050402",
+   "region": "Ashanti",
+   "phrase": "/TSC Technical Institute, Bekwai Bekwai"
+  },
+  {
+   "code": "9057771",
+   "region": "Ashanti",
+   "phrase": "Yaa Pokua Technical Institute Nkekaasu"
+  },
+  {
+   "code": "9050403",
+   "region": "Ashanti",
+   "phrase": "Amoafo Technical Institute Bekwai"
+  },
+  {
+   "code": "9052800",
+   "region": "Ashanti",
+   "phrase": "St. Michael's Technical Institute Pramso"
+  },
+  {
+   "code": "9053001",
+   "region": "Ashanti",
+   "phrase": "Abosamso Technical Institute Abosamso"
+  },
+  {
+   "code": "9052801",
+   "region": "Ashanti",
+   "phrase": "Konkoma Technical Institute Konkomba"
+  },
+  {
+   "code": "9052802",
+   "region": "Ashanti",
+   "phrase": "Tetrefu Technical Institute Tetrefu"
+  },
+  {
+   "code": "9054012",
+   "region": "Ashanti",
+   "phrase": "Afoako Technical Institute Afoako"
+  },
+  {
+   "code": "9050301",
+   "region": "Ashanti",
+   "phrase": "Adako Jachie Technical Institute Kwamo"
+  },
+  {
+   "code": "9056014",
+   "region": "Ashanti",
+   "phrase": "Ejuraman Technical Institute Ejura"
+  },
+  {
+   "code": "9050302",
+   "region": "Ashanti",
+   "phrase": "Baworo Technical Institute Baworo"
+  },
+  {
+   "code": "9055601",
+   "region": "Ashanti",
+   "phrase": "Otaakrom Technical Institute Otaakrom"
+  },
+  {
+   "code": "9050101",
+   "region": "Ashanti",
+   "phrase": "Kumasi Tech. Inst. Kumasi"
+  },
+  {
+   "code": "9050312",
+   "region": "Ashanti",
+   "phrase": "Achiase Technical Institute Achiase"
+  },
+  {
+   "code": "9057772",
+   "region": "Ashanti",
+   "phrase": "PP 8Y Akumadan"
+  },
+  {
+   "code": "9050109",
+   "region": "Ashanti",
+   "phrase": "Suntreso Technical Institute North Suntreso"
+  },
+  {
+   "code": "9050103",
+   "region": "Ashanti",
+   "phrase": "Suame Technical Institute Suame"
+  },
+  {
+   "code": "9050102",
+   "region": "Ashanti",
+   "phrase": "Methodist Technincal Institute Kwadaso"
+  },
+  {
+   "code": "9050500",
+   "region": "Ashanti",
+   "phrase": "/ TSC Technical Institute, Mampong Mampong"
+  },
+  {
+   "code": "9050600",
+   "region": "Ashanti",
+   "phrase": "Offinso Technical Institute Offinso"
+  },
+  {
+   "code": "9052900",
+   "region": "Ashanti",
+   "phrase": "Kumawu Technical Institute Kumawu"
+  },
+  {
+   "code": "9051801",
+   "region": "Ashanti",
+   "phrase": "robea Asante Technical and a otore"
+  },
+  {
+   "code": "9052803",
+   "region": "Ashanti",
+   "phrase": "Jachie Technical Institute Jachie"
+  },
+  {
+   "code": "9053000",
+   "region": "Ashanti",
+   "phrase": "Seky Sekyere Kumawu"
+  },
+  {
+   "code": "9052701",
+   "region": "Ashanti",
+   "phrase": "Agona Technical Institute Agona Ashanti"
+  },
+  {
+   "code": "9050319",
+   "region": "Ashanti",
+   "phrase": "Kokoben Technical Institute Asiwa-Kokoben"
+  },
+  {
+   "code": "9051301",
+   "region": "Ashanti",
+   "phrase": "DWease-Praaso Technical Dwease-Praaso"
+  },
+  {
+   "code": "9050105",
+   "region": "Ashanti",
+   "phrase": "Catholic Technical Institute Kumasi"
+  },
+  {
+   "code": "9050112",
+   "region": "Ashanti",
+   "phrase": "Ramseyer Technical Institute Asokwa"
+  },
+  {
+   "code": "9050303",
+   "region": "Ashanti",
+   "phrase": "Juaben Technical Institute Juaben"
+  },
+  {
+   "code": "9054022",
+   "region": "Ashanti",
+   "phrase": "yi Ppl ey Pakyi"
+  },
+  {
+   "code": "9061000",
+   "region": "Central",
+   "phrase": "Ahenkro Dormaa Ahenkro"
+  },
+  {
+   "code": "9061001",
+   "region": "Central",
+   "phrase": "Dormaa Technical Institute Dormaa Ahenkro"
+  },
+  {
+   "code": "9060500",
+   "region": "Bono",
+   "phrase": "TSC Technical Institute, Drobo Drobo"
+  },
+  {
+   "code": "9061100",
+   "region": "Bono",
+   "phrase": "Institute Sampa"
+  },
+  {
+   "code": "9060106",
+   "region": "Bono",
+   "phrase": "Sunyani Technical Institute Sunyani"
+  },
+  {
+   "code": "9060107",
+   "region": "Bono",
+   "phrase": "Institute, Sunyani Sunyani"
+  },
+  {
+   "code": "9060101",
+   "region": "Bono",
+   "phrase": "Sunyani Methodist Technical Inst. Sunyani"
+  },
+  {
+   "code": "9062601",
+   "region": "Bono",
+   "phrase": "Don Bosco Voc./Tech. Inst. Odumase"
+  },
+  {
+   "code": "9062602",
+   "region": "Bono",
+   "phrase": "Nsoatre Technical Institute Nsoatre"
+  },
+  {
+   "code": "9060905",
+   "region": "Bono East",
+   "phrase": "Nkwabeng Technical Institute Nkwabeng"
+  },
+  {
+   "code": "9060301",
+   "region": "Bono East",
+   "phrase": "Kintampo Technical Institute Kintampo"
+  },
+  {
+   "code": "9060901",
+   "region": "Bono East",
+   "phrase": "Nkoranza Tech Inst. Nkoranza"
+  },
+  {
+   "code": "9061200",
+   "region": "Bono East",
+   "phrase": "Techiman Technical Institute Techiman"
+  },
+  {
+   "code": "9067793",
+   "region": "Bono East",
+   "phrase": "Kajaji Technical Institute Kajaji"
+  },
+  {
+   "code": "9030401",
+   "region": "Central",
+   "phrase": "Asuansi Tech. Inst. Asuansi"
+  },
+  {
+   "code": "9031101",
+   "region": "Central",
+   "phrase": "Agona Swedru Technical Institute Agona Swedru"
+  },
+  {
+   "code": "9030802",
+   "region": "Central",
+   "phrase": "Institute Ajumako"
+  },
+  {
+   "code": "9030801",
+   "region": "Central",
+   "phrase": "Enyan-Abaasa Technical Institute Enyan Abaasa"
+  },
+  {
+   "code": "9031300",
+   "region": "Central",
+   "phrase": "Institute Breman-Asikuma"
+  },
+  {
+   "code": "9030700",
+   "region": "Central",
+   "phrase": "Edubiase Assin Edubiase"
+  },
+  {
+   "code": "9030701",
+   "region": "Central",
+   "phrase": "Assin Foso Technical Institute Assin Fosu"
+  },
+  {
+   "code": "9031200",
+   "region": "Central",
+   "phrase": "Breku Awutu Senya"
+  },
+  {
+   "code": "9030101",
+   "region": "Central",
+   "phrase": "Cape Coast Tech. Inst. Cape Coast"
+  },
+  {
+   "code": "9030102",
+   "region": "Central",
+   "phrase": "Coast Cape Coast"
+  },
+  {
+   "code": "9030103",
+   "region": "Central",
+   "phrase": ") Institute, Pedu Pedu"
+  },
+  {
+   "code": "9030900",
+   "region": "Central",
+   "phrase": "Winneba Technical Institute Winneba"
+  },
+  {
+   "code": "9030601",
+   "region": "Central",
+   "phrase": "Panfokrom Technical Institute Panfokrom"
+  },
+  {
+   "code": "9030500",
+   "region": "Central",
+   "phrase": "Gomoa Adaa Technical Institute Gomoa Adaa"
+  },
+  {
+   "code": "9030300",
+   "region": "Central",
+   "phrase": "Mankessim Technical Institute Mankessim"
+  },
+  {
+   "code": "9030414",
+   "region": "Central",
+   "phrase": "New Ebu Technical Institute New Ebu"
+  },
+  {
+   "code": "9030301",
+   "region": "Central",
+   "phrase": "Biriwa Technical Institute Biriwa"
+  },
+  {
+   "code": "9030321",
+   "region": "Central",
+   "phrase": "Asafora Technical Institute Asafora"
+  },
+  {
+   "code": "9030707",
+   "region": "Central",
+   "phrase": "Institute Assin South"
+  },
+  {
+   "code": "9021601",
+   "region": "Eastern",
+   "phrase": "J.G. Knol Technical Instititute Akuapem"
+  },
+  {
+   "code": "9022200",
+   "region": "Eastern",
+   "phrase": "Akrofufu Technical Institute Akrofufu"
+  },
+  {
+   "code": "9020800",
+   "region": "Eastern",
+   "phrase": "Institute v Anum"
+  },
+  {
+   "code": "9021101",
+   "region": "Eastern",
+   "phrase": "Akwatia Tech. Inst. Akwatia"
+  },
+  {
+   "code": "9021302",
+   "region": "Eastern",
+   "phrase": "Kibi Technical Institute Kibi"
+  },
+  {
+   "code": "9021301",
+   "region": "Eastern",
+   "phrase": "St. Paul's Tech. Inst. Kukurantumi"
+  },
+  {
+   "code": "9022600",
+   "region": "Eastern",
+   "phrase": "Takrowase Technical Institute Takrowasi"
+  },
+  {
+   "code": "9020901",
+   "region": "Eastern",
+   "phrase": "Tech Ince tsheries Agric. amankwakrom"
+  },
+  {
+   "code": "9020902",
+   "region": "Eastern",
+   "phrase": "St. Mary's Voc./Tech. Inst. Adiembra"
+  },
+  {
+   "code": "9020903",
+   "region": "Eastern",
+   "phrase": "Donkorkrom"
+  },
+  {
+   "code": "9022001",
+   "region": "Eastern",
+   "phrase": "St. Joseph's Tech. Inst. Kwahu Tafo"
+  },
+  {
+   "code": "9021001",
+   "region": "Eastern",
+   "phrase": "Abetifi Tech. Inst. Abetifi"
+  },
+  {
+   "code": "9021002",
+   "region": "Eastern",
+   "phrase": "Inexitute Abetifi"
+  },
+  {
+   "code": "9021502",
+   "region": "Eastern",
+   "phrase": "Kpong Technical Institute Kpong"
+  },
+  {
+   "code": "9020104",
+   "region": "Eastern",
+   "phrase": "Koforidua"
+  },
+  {
+   "code": "9020101",
+   "region": "Eastern",
+   "phrase": "Koforidua Tech. Inst. Koforidua"
+  },
+  {
+   "code": "9020102",
+   "region": "Eastern",
+   "phrase": "/ Effiduase Technical Institute Koforid"
+  },
+  {
+   "code": "9021602",
+   "region": "Eastern",
+   "phrase": "Piriw Presbyterian Technical yi"
+  },
+  {
+   "code": "9020301",
+   "region": "Eastern",
+   "phrase": "Akuapem Technical Institute Kitase-Aburi"
+  },
+  {
+   "code": "9020701",
+   "region": "Eastern",
+   "phrase": "Suhum Technical Institute Suhum"
+  },
+  {
+   "code": "9020500",
+   "region": "Eastern",
+   "phrase": ") ye echnical Institute, asamankese"
+  },
+  {
+   "code": "9020501",
+   "region": "Eastern",
+   "phrase": "Asamankese"
+  },
+  {
+   "code": "9021105",
+   "region": "Eastern",
+   "phrase": "Denkyembour Technical Institute Boadua"
+  },
+  {
+   "code": "9022301",
+   "region": "Eastern",
+   "phrase": "Asakraka Technical Institute Asakraka"
+  },
+  {
+   "code": "9021401",
+   "region": "Eastern",
+   "phrase": "Somanya Technical Institute Somanya"
+  },
+  {
+   "code": "9021603",
+   "region": "Eastern",
+   "phrase": ") Tutu Methodist Technical Institute Tutu"
+  },
+  {
+   "code": "9022201",
+   "region": "Eastern",
+   "phrase": "owing echnology Institute Anyinam"
+  },
+  {
+   "code": "9010104",
+   "region": "Greater Accra",
+   "phrase": "/ New Century Technical Institute Dansoman"
+  },
+  {
+   "code": "9010102",
+   "region": "Greater Accra",
+   "phrase": "Sacred Heart Tech. Inst. Jamsetown"
+  },
+  {
+   "code": "9011601",
+   "region": "Greater Accra",
+   "phrase": "Ada Tech. Inst. Ada"
+  },
+  {
+   "code": "9011001",
+   "region": "Greater Accra",
+   "phrase": "Ashiaman Technical Institute Ashaiman"
+  },
+  {
+   "code": "9010123",
+   "region": "Greater Accra",
+   "phrase": "PPor East Legon"
+  },
+  {
+   "code": "9010105",
+   "region": "Greater Accra",
+   "phrase": "Pilot Technical Institute Kokomlemle"
+  },
+  {
+   "code": "9010106",
+   "region": "Greater Accra",
+   "phrase": "Kanda Technical Institute Kanda"
+  },
+  {
+   "code": "9010101",
+   "region": "Greater Accra",
+   "phrase": "Accra Tech. Trg. Centre Kokomlemle"
+  },
+  {
+   "code": "9010500",
+   "region": "Greater Accra",
+   "phrase": "Bedeku Technical Institute Bedeku"
+  },
+  {
+   "code": "9011302",
+   "region": "Greater Accra",
+   "phrase": "e . Ngleshie Amanfro"
+  },
+  {
+   "code": "9010901",
+   "region": "Greater Accra",
+   "phrase": "Madina Technical Institute Madin"
+  },
+  {
+   "code": "9011701",
+   "region": "Greater Accra",
+   "phrase": "Teshie Tech. Instittute Teshie"
+  },
+  {
+   "code": "9010602",
+   "region": "Greater Accra",
+   "phrase": "Afienya Technical Institute Afienya"
+  },
+  {
+   "code": "9010601",
+   "region": "Greater Accra",
+   "phrase": "Prampram Technical Institute Prampram"
+  },
+  {
+   "code": "9010107",
+   "region": null,
+   "phrase": "South Labone"
+  },
+  {
+   "code": "9010702",
+   "region": "Greater Accra",
+   "phrase": "Agomeda Technical Institute Agomeda"
+  },
+  {
+   "code": "9010700",
+   "region": "Greater Accra",
+   "phrase": "Dodowa Technical Institute Dodowa"
+  },
+  {
+   "code": "9010201",
+   "region": "Greater Accra",
+   "phrase": "Tema Tech. Inst. Tema"
+  },
+  {
+   "code": "9010206",
+   "region": "Greater Accra",
+   "phrase": "Tema Mission Technical Institute Tema"
+  },
+  {
+   "code": "9010108",
+   "region": "Greater Accra",
+   "phrase": "Government Technical Institute Kaneshie-Accra"
+  },
+  {
+   "code": "9011400",
+   "region": "Greater Accra",
+   "phrase": "i PP ey East Legon"
+  },
+  {
+   "code": "9081000",
+   "region": "North East",
+   "phrase": "Nalerigu Technical Institute Nalerigu"
+  },
+  {
+   "code": "9080601",
+   "region": "North East",
+   "phrase": "Walewale Technical Institute Walawale"
+  },
+  {
+   "code": "9080701",
+   "region": "North East",
+   "phrase": "Loagri Technical Institute Loagri"
+  },
+  {
+   "code": "9081600",
+   "region": "Northern",
+   "phrase": "Zugu Dabogni Technical Institute Zugu Dabogni"
+  },
+  {
+   "code": "9081901",
+   "region": "Northern",
+   "phrase": "Tamale Technical Institute Tamale"
+  },
+  {
+   "code": "9080110",
+   "region": "Northern",
+   "phrase": "Gbewa Technical Institute Tamale"
+  },
+  {
+   "code": "9080901",
+   "region": "Northern",
+   "phrase": "St. Joseph's Tech. Inst., Saboba Saboba"
+  },
+  {
+   "code": "9080101",
+   "region": "Northern",
+   "phrase": "Dabokpa Voc/Tech. Inst. Tamale"
+  },
+  {
+   "code": "9080102",
+   "region": "Northern",
+   "phrase": "Institute, Tamale Tamale"
+  },
+  {
+   "code": "9080103",
+   "region": "Northern",
+   "phrase": "Lamashegu Technical Institute Tamale"
+  },
+  {
+   "code": "9087782",
+   "region": "Northern",
+   "phrase": "Institute Kumbungu"
+  },
+  {
+   "code": "9080104",
+   "region": "Northern",
+   "phrase": "Tamale Tamale"
+  },
+  {
+   "code": "9080105",
+   "region": "Northern",
+   "phrase": "Institute Tamale"
+  },
+  {
+   "code": "9082045",
+   "region": "Northern",
+   "phrase": "Tatale Technical Institute Tatale"
+  },
+  {
+   "code": "9081606",
+   "region": "Northern",
+   "phrase": "Zabzugu Technical Institute Zabzugu"
+  },
+  {
+   "code": "9081601",
+   "region": "Northern",
+   "phrase": "Kofi Annan Technical Institute Nwodua"
+  },
+  {
+   "code": "9080301",
+   "region": "Northern",
+   "phrase": "Nyong Technical Institute Nyong"
+  },
+  {
+   "code": "9081903",
+   "region": "Northern",
+   "phrase": "Savelugu Technical Institute Savelugu"
+  },
+  {
+   "code": "9070401",
+   "region": "Oti",
+   "phrase": "Institute New Ayoma"
+  },
+  {
+   "code": "9072001",
+   "region": "Oti",
+   "phrase": "Kaakyi Technical Institute Kete Krachi"
+  },
+  {
+   "code": "9070800",
+   "region": "Oti",
+   "phrase": "St Theresa's Technical Institute Chinderi"
+  },
+  {
+   "code": "9072112",
+   "region": "Oti",
+   "phrase": "Lolobi Technical Institute Lolobi Ashiambi"
+  },
+  {
+   "code": "9073012",
+   "region": "Oti",
+   "phrase": "Dambai Technical Institute Dambai"
+  },
+  {
+   "code": "9080700",
+   "region": "Savannah",
+   "phrase": "Bole Technical Institute Bole"
+  },
+  {
+   "code": "9081501",
+   "region": "Savannah",
+   "phrase": "Buipe Technical Institute Buipe"
+  },
+  {
+   "code": "9080655",
+   "region": "Savannah",
+   "phrase": "Sawla"
+  },
+  {
+   "code": "9081500",
+   "region": "Savannah",
+   "phrase": "Salaga Technical Institute Salaga"
+  },
+  {
+   "code": "9082100",
+   "region": "Savannah",
+   "phrase": "Damongo Technical Institute Damongo"
+  },
+  {
+   "code": "9090101",
+   "region": "Upper East",
+   "phrase": "Bawku Tech. Inst. Bawku"
+  },
+  {
+   "code": "9090102",
+   "region": "Upper East",
+   "phrase": "Kpalwega Technical Institute Bawku"
+  },
+  {
+   "code": "9090600",
+   "region": "Upper East",
+   "phrase": "Kusanaba Technical Institute Binaba"
+  },
+  {
+   "code": "9090401",
+   "region": "Upper East",
+   "phrase": "Bolga Tech. Inst. Bolgatanga"
+  },
+  {
+   "code": "9090403",
+   "region": "Upper East",
+   "phrase": "Institute Bolgatanga"
+  },
+  {
+   "code": "9090402",
+   "region": "Upper East",
+   "phrase": "GRATIS Technical Institute, Bolga Bolgatanga"
+  },
+  {
+   "code": "9090701",
+   "region": "Upper East",
+   "phrase": "Bongo Technical Institute Bongo"
+  },
+  {
+   "code": "9091000",
+   "region": "Upper East",
+   "phrase": "Sandema Technical Institute Sandema"
+  },
+  {
+   "code": "9090800",
+   "region": "Upper East",
+   "phrase": ") TSC Technical Institute - Garu Garu"
+  },
+  {
+   "code": "9090901",
+   "region": "Upper East",
+   "phrase": "Institute Navrongo"
+  },
+  {
+   "code": "9090903",
+   "region": "Upper East",
+   "phrase": "Nankana"
+  },
+  {
+   "code": "9095606",
+   "region": "Upper East",
+   "phrase": "Nabango Technical Institute Nabango"
+  },
+  {
+   "code": "9090902",
+   "region": "Upper East",
+   "phrase": "Navrongo Technical Institute Navrongo"
+  },
+  {
+   "code": "9091200",
+   "region": "Upper East",
+   "phrase": "Namalteng Technical Institute Gbeogo Namalteng"
+  },
+  {
+   "code": "9100800",
+   "region": "Upper West",
+   "phrase": "/Issa Technical Institute Issa"
+  },
+  {
+   "code": "9101001",
+   "region": "Upper West",
+   "phrase": "St. Basilides Voc./Tech. Inst. Kaleo"
+  },
+  {
+   "code": "9101002",
+   "region": "Upper West",
+   "phrase": "Kaleo Nadowli"
+  },
+  {
+   "code": "9100901",
+   "region": "Upper West",
+   "phrase": "St. John's Voc. Tech. Institute Nandom"
+  },
+  {
+   "code": "9100902",
+   "region": "Upper West",
+   "phrase": "Institute Nandom"
+  },
+  {
+   "code": "9100400",
+   "region": "Upper West",
+   "phrase": "St. Clare's Technical Institute Tumu"
+  },
+  {
+   "code": "9100103",
+   "region": "Upper West",
+   "phrase": "GRATIS Technical Institute, Wa Wa"
+  },
+  {
+   "code": "9100104",
+   "region": "Upper West",
+   "phrase": "Naa-Momori Technical Institute Wa"
+  },
+  {
+   "code": "9100415",
+   "region": "Upper West",
+   "phrase": "Tibani Technical Institute Tibani"
+  },
+  {
+   "code": "9100741",
+   "region": "Upper West",
+   "phrase": "Birifo Technical Institute Birifo"
+  },
+  {
+   "code": "9100101",
+   "region": "Upper West",
+   "phrase": "Wa Tech. Inst. Wa"
+  },
+  {
+   "code": "9100102",
+   "region": "Upper West",
+   "phrase": "Nakori Chansa Technical Institute Wa"
+  },
+  {
+   "code": "9101103",
+   "region": "Upper West",
+   "phrase": "Guo Technical Insititute Guo"
+  },
+  {
+   "code": "9072101",
+   "region": "Volta",
+   "phrase": "Pe pana compontTechnical Liati"
+  },
+  {
+   "code": "9072100",
+   "region": "Volta",
+   "phrase": "Have Tech. Inst. Have"
+  },
+  {
+   "code": "9072400",
+   "region": "Volta",
+   "phrase": "Avenorpeme Technical Institute Avenorpeme"
+  },
+  {
+   "code": "9071014",
+   "region": "Volta",
+   "phrase": "/Ve- Golokwati Technical Institute Kwati"
+  },
+  {
+   "code": "9070150",
+   "region": "Volta",
+   "phrase": "venul wucome leennical Avenui-Awudome"
+  },
+  {
+   "code": "9072401",
+   "region": "Volta",
+   "phrase": "Ave Technical Institute Ave"
+  },
+  {
+   "code": "9070702",
+   "region": "Volta",
+   "phrase": "Volta Tech Inst Matse"
+  },
+  {
+   "code": "9070704",
+   "region": "Volta",
+   "phrase": "Ho -Lokoe Technical Institute Ho"
+  },
+  {
+   "code": "9070703",
+   "region": "Volta",
+   "phrase": "Ho Technical Institute Ho"
+  },
+  {
+   "code": "9070101",
+   "region": "Volta",
+   "phrase": "Amedzofe Technical Institute Amedzofe"
+  },
+  {
+   "code": "9070113",
+   "region": "Volta",
+   "phrase": "Tsibu Technical Institute Tsibu Awodume"
+  },
+  {
+   "code": "9071002",
+   "region": "Volta",
+   "phrase": "/E.P. Tech/Voc Inst Alavanyo"
+  },
+  {
+   "code": "9070501",
+   "region": "Volta",
+   "phrase": "Anlo Tech. Inst. Anloga"
+  },
+  {
+   "code": "9070503",
+   "region": "Volta",
+   "phrase": "Caring Sisters Technical Institute Tegbi"
+  },
+  {
+   "code": "9070500",
+   "region": "Volta",
+   "phrase": "Atorkor Technical Institute Atorkor"
+  },
+  {
+   "code": "9070514",
+   "region": "Volta",
+   "phrase": "Kedzi Technical Institute Kedzi"
+  },
+  {
+   "code": "9070601",
+   "region": "Volta",
+   "phrase": "Kpando Tech. Inst. Kpando"
+  },
+  {
+   "code": "9070602",
+   "region": "Volta",
+   "phrase": "C.Y.O. Tech/Voc. Inst. Sovie"
+  },
+  {
+   "code": "9071200",
+   "region": "Volta",
+   "phrase": "Toh-Kpalime Technical Institute Toh-Kpalime"
+  },
+  {
+   "code": "9070901",
+   "region": "Volta",
+   "phrase": "Comboni Tech/Voc Inst. Sogakope"
+  },
+  {
+   "code": "9070705",
+   "region": "Volta",
+   "phrase": "Klefe Technical Institute Klefe"
+  },
+  {
+   "code": "9070710",
+   "region": "Volta",
+   "phrase": "Dzodze Technical Institute Dzodze"
+  },
+  {
+   "code": "9071904",
+   "region": "Volta",
+   "phrase": "Sogakope Technial Institute Sogakope"
+  },
+  {
+   "code": "9071201",
+   "region": "Volta",
+   "phrase": "Botoku Technical Insitute Botoku"
+  },
+  {
+   "code": "9070515",
+   "region": "Volta",
+   "phrase": "Woe Technical Institute Woe"
+  },
+  {
+   "code": "9070155",
+   "region": "Volta",
+   "phrase": "Anfoeta Technical Institute Anfoeta Gborgame"
+  },
+  {
+   "code": "9041300",
+   "region": "Western",
+   "phrase": "Asankragwa Asankragwa"
+  },
+  {
+   "code": "9040101",
+   "region": "Western",
+   "phrase": "Takoradi Tech. Inst. Takoradi"
+  },
+  {
+   "code": "9040107",
+   "region": "Western",
+   "phrase": "Institute Anaji"
+  },
+  {
+   "code": "9040402",
+   "region": "Western",
+   "phrase": "Institute Sanzule"
+  },
+  {
+   "code": "9040401",
+   "region": "Western",
+   "phrase": "Kikam Tech. Inst. Kikam"
+  },
+  {
+   "code": "9040415",
+   "region": "Western",
+   "phrase": "Asasetre Technical Institute Asasetre"
+  },
+  {
+   "code": "9040700",
+   "region": "Western",
+   "phrase": "Assini i"
+  },
+  {
+   "code": "9040301",
+   "region": "Western",
+   "phrase": "Axim Technical Institute Axim"
+  },
+  {
+   "code": "9040102",
+   "region": "Western",
+   "phrase": "Institute Takoradi"
+  },
+  {
+   "code": "9040105",
+   "region": "Western",
+   "phrase": "Technical Institute - Takoradi Takoradi"
+  },
+  {
+   "code": "9040106",
+   "region": "Western",
+   "phrase": "Essipun Technical Institute Essipun Sekondi"
+  },
+  {
+   "code": "9041100",
+   "region": "Western",
+   "phrase": "Shama Technical Institute Shama"
+  },
+  {
+   "code": "9041200",
+   "region": "Central",
+   "phrase": "Manso-Amenfi Technical Institute Manso Amenfi"
+  },
+  {
+   "code": "9040201",
+   "region": "Western",
+   "phrase": "Tarkwa Technical Institute Tarkwa"
+  },
+  {
+   "code": "9041412",
+   "region": "Western",
+   "phrase": "Mesu Akompi Technical Institute Wassa Saa"
+  },
+  {
+   "code": "9040800",
+   "region": "Western",
+   "phrase": "Abura Technical Institute Abura"
+  },
+  {
+   "code": "9041201",
+   "region": "Western",
+   "phrase": "St. Ann's Technical Institute Sekondi"
+  },
+  {
+   "code": "9040705",
+   "region": "Western",
+   "phrase": "Libermann Technical Institute Sowodadzem"
+  },
+  {
+   "code": "9040108",
+   "region": "Western",
+   "phrase": "Sekondi Technical Institute Sekondi"
+  },
+  {
+   "code": "9040600",
+   "region": "Western North",
+   "phrase": "TSC Technical Institute - Bibiani Bibiani"
+  },
+  {
+   "code": "9040901",
+   "region": "Western North",
+   "phrase": "Institute Bonsu Nkwanta"
+  }
+ ],
+ "Appendix 2": [],
+ "Appendix 3": [
+  {
+   "code": "9060802",
+   "region": "Ahafo",
+   "phrase": "Bechem Technical Institute lBechem sid fazed Geert) 8 ver"
+  },
+  {
+   "code": "9060201",
+   "region": null,
+   "phrase": "Adrobaa Technical Institute ey ic trv"
+  },
+  {
+   "code": "9060139",
+   "region": null,
+   "phrase": "Akrodie Technical Institute a Dey/"
+  },
+  {
+   "code": "9062400",
+   "region": "Ahafo",
+   "phrase": "Gyedu Technical institute"
+  },
+  {
+   "code": "9061400",
+   "region": "Ahafo",
+   "phrase": "Fawohoyeden Technical Institute Fawohoyeden"
+  },
+  {
+   "code": "9060800",
+   "region": "Ahafo",
+   "phrase": "TSC Technical Institute, Bechem Bechem"
+  },
+  {
+   "code": "9060400",
+   "region": "Ahafo",
+   "phrase": "TSC Technical Institute, Goaso IGoaso t i( sCS Cd"
+  },
+  {
+   "code": "9051300",
+   "region": "Ashanti",
+   "phrase": "AsankareTechnicalinstitute Asankare"
+  },
+  {
+   "code": "9050319",
+   "region": "Ashanti",
+   "phrase": "Kokoben Technical Institute Asiwa-Kokoben"
+  },
+  {
+   "code": "9054012",
+   "region": "Ashanti",
+   "phrase": "Afoako Technical Institute Afoako"
+  },
+  {
+   "code": "9053000",
+   "region": "Ashanti",
+   "phrase": "TSC Technical Institute, Sekyere Kumawu SekyereKumawu"
+  },
+  {
+   "code": "9053001",
+   "region": "Ashanti",
+   "phrase": "Abosamso Technical Institute Abosamso"
+  },
+  {
+   "code": "9052000",
+   "region": "Ashanti",
+   "phrase": "Hemang Buoho Technical Institute Hemang Buoho"
+  },
+  {
+   "code": "9050302",
+   "region": "Ashanti",
+   "phrase": "Baworo Technical Institute Baworo"
+  },
+  {
+   "code": "9057771",
+   "region": "Ashanti",
+   "phrase": "Yaa PokuaTechnicalinstitute Nkekaasu Mixes Dey rver"
+  },
+  {
+   "code": "9051400",
+   "region": "Ashanti",
+   "phrase": "NerebehiTechnicalinstitute Nerebei"
+  },
+  {
+   "code": "9081301",
+   "region": "Ashanti",
+   "phrase": "Dwease-PraasoTechnicalinstitute Dwease-Praaso Mixed Pav/"
+  },
+  {
+   "code": "9052803",
+   "region": "Ashanti",
+   "phrase": "JachieTechnicatinstitute Jachie, Mixes Dav/Boarcing iver"
+  },
+  {
+   "code": "9050903",
+   "region": "Ashanti",
+   "phrase": "suabenTechnicatinstitute suaben Mixes Dey e rver"
+  },
+  {
+   "code": "9050104",
+   "region": "Ashanti",
+   "phrase": "Business Secretarialand Technical institute Chirapatre"
+  },
+  {
+   "code": "9052801",
+   "region": "Ashanti",
+   "phrase": "Konkoma Technicatinstiute Konkombe"
+  },
+  {
+   "code": "9050401",
+   "region": "Ashanti",
+   "phrase": "Nana AmpontuaTechnical institute Bekwai Mixed"
+  },
+  {
+   "code": "082802",
+   "region": "Ashanti",
+   "phrase": "TetrefuTechnicalinstitute tetrefu tixet"
+  },
+  {
+   "code": "9050109",
+   "region": "Ashanti",
+   "phrase": "Suntreso Technical Institute North Suntreso"
+  },
+  {
+   "code": "9050600",
+   "region": "Ashanti",
+   "phrase": "Offinso Technical Institute lofinso"
+  },
+  {
+   "code": "9052300",
+   "region": "Ashanti",
+   "phrase": "TwedieTechnicatinstitute Twedie"
+  },
+  {
+   "code": "9062601",
+   "region": null,
+   "phrase": "DonBoscoVec./Techinst. Odumase Mined Pay tver"
+  },
+  {
+   "code": "9061100",
+   "region": "Bono",
+   "phrase": "Our Lady of Fatima Technical Institute Sampa"
+  },
+  {
+   "code": "9062602",
+   "region": "Bono",
+   "phrase": "Nsoatre Technical Institute INsoatre"
+  },
+  {
+   "code": "9060500",
+   "region": "Bono",
+   "phrase": "TSC Technical Institute, Drobo Drobo Cc TVET"
+  },
+  {
+   "code": "9061000",
+   "region": "Central",
+   "phrase": "TSC Technical Institute, Dormaa Ahenkro Dormaa Ahenkro Mixes P2 /Be2rcing liver"
+  },
+  {
+   "code": "9060107",
+   "region": "Bono",
+   "phrase": "Social Welfare Technical Institute, Sunyani Sunyani Cc TVET"
+  },
+  {
+   "code": "9060101",
+   "region": "Bono",
+   "phrase": "Sunyani Methodist Technical Inst. Sunyani Mixes (P/Beerding fave"
+  },
+  {
+   "code": "9060905",
+   "region": null,
+   "phrase": "Nkwabeng Technical Institute Nkwabeng ea P 822rding Lever"
+  },
+  {
+   "code": "9060106",
+   "region": "Bono",
+   "phrase": "Sunyani Technical Institute Sunyani iced ay/oarding"
+  },
+  {
+   "code": "9067793",
+   "region": "Bono East",
+   "phrase": "Kajaji Technical Institute kciot ntwea PY aver"
+  },
+  {
+   "code": "9061200",
+   "region": "Bono East",
+   "phrase": "Techiman Technical Institute Techiman iced P2 /P22rdingg Ler"
+  },
+  {
+   "code": "9060301",
+   "region": "Bono East",
+   "phrase": "Kintampo Technical Institute kintampo"
+  },
+  {
+   "code": "9030500",
+   "region": "Central",
+   "phrase": "Gomoa Adaa Technical Institute Gomoa Adaa cea P2 802rding Liver"
+  },
+  {
+   "code": "9030801",
+   "region": "Central",
+   "phrase": "Enyan-Abaasa Technical Institute Enyan Abaasa TVET"
+  },
+  {
+   "code": "9030102",
+   "region": "Central",
+   "phrase": "GRATIS Technical Institute, Cape Caost Cape Coast Med PY g ver"
+  },
+  {
+   "code": "9030700",
+   "region": "Central",
+   "phrase": "TSC Technical Institute, Assin Edubiase Assin Edubiase mixed PY Iver"
+  },
+  {
+   "code": "9031200",
+   "region": null,
+   "phrase": "TSC Technical Institute, Awutu Senya fawtusenya vos g rver"
+  },
+  {
+   "code": "030321",
+   "region": null,
+   "phrase": "Asafora Technical Institute caters (ines e aver"
+  },
+  {
+   "code": "9030300",
+   "region": null,
+   "phrase": "Mankessim Technical Institute Mankessim nines g frver"
+  },
+  {
+   "code": "9030103",
+   "region": null,
+   "phrase": "Social Welfare"
+  },
+  {
+   "code": "9030802",
+   "region": null,
+   "phrase": "Ajumako-Afranse Technical Institute jumeko minea /B08r80- ) gave"
+  },
+  {
+   "code": "9020901",
+   "region": "Eastern",
+   "phrase": "Amankwakrom Fisheries Agric. Tech. Inst. Amankwakrom s Mixed"
+  },
+  {
+   "code": "9020800",
+   "region": null,
+   "phrase": "Anum Presbyterian Technical Institute TVET"
+  },
+  {
+   "code": "9020501",
+   "region": "Eastern",
+   "phrase": "TSC Technical Institute, Asamankese Asamenkese utios g rver"
+  },
+  {
+   "code": "9021603",
+   "region": "Eastern",
+   "phrase": "Tutu Methodist Technical Institute row ato (8 e aver"
+  },
+  {
+   "code": "9022600",
+   "region": null,
+   "phrase": "Takrowase Technical Institute Takrowasi Cc TVET"
+  },
+  {
+   "code": "9020902",
+   "region": "Eastern",
+   "phrase": "St. Mary's Voc./Tech. Inst. adiembra fons 9 808 8- ) g aver"
+  },
+  {
+   "code": "9020104",
+   "region": null,
+   "phrase": "Koforidua GRATIS Technical Institute Kotritua (nies e over"
+  },
+  {
+   "code": "9021602",
+   "region": null,
+   "phrase": "Abiriw Presbyterian Technical Institute Cc TVET"
+  },
+  {
+   "code": "9020102",
+   "region": null,
+   "phrase": "Effiduase Technical Institute Effiduase-Koforidua Cc TVET"
+  },
+  {
+   "code": "2021502",
+   "region": "Eastern",
+   "phrase": "Kpong Technical Institute koong ative 27808806 Gaver"
+  },
+  {
+   "code": "9020301",
+   "region": null,
+   "phrase": "Akuapem Technical Institute Kitase-Aburi ives aver"
+  },
+  {
+   "code": "9021401",
+   "region": null,
+   "phrase": "Somanya Technical Institute Somanya ines P2008 aver"
+  },
+  {
+   "code": "9021601",
+   "region": null,
+   "phrase": "J.G. Knol Technical Instititute Adukrom Akuapem Mice 2 /Beerding lave"
+  },
+  {
+   "code": "9010108",
+   "region": null,
+   "phrase": "Government Technical Institute aneshie-ncora mines p rver"
+  },
+  {
+   "code": "9011001",
+   "region": null,
+   "phrase": "Ashiaman Technical Institute (e7 TVET"
+  },
+  {
+   "code": "9010702",
+   "region": null,
+   "phrase": "Agomeda Technical Institute agomeda utnea g frver"
+  },
+  {
+   "code": "9010106",
+   "region": null,
+   "phrase": "Kanda Technical Institute onda itzea /802 C6) liver"
+  },
+  {
+   "code": "9010906",
+   "region": null,
+   "phrase": "Danfa Technical Institute penta inten frver"
+  },
+  {
+   "code": "9011701",
+   "region": null,
+   "phrase": "Teshie Tech. Instittute Teshie Cc TVET"
+  },
+  {
+   "code": "9010601",
+   "region": null,
+   "phrase": "Prampram Technical Institute prampram minea P /802 306 g rver"
+  },
+  {
+   "code": "9080701",
+   "region": null,
+   "phrase": "Loagri Technical Institute ee eee"
+  },
+  {
+   "code": "9081000",
+   "region": null,
+   "phrase": "Nalerigu Technical Institute ee ee"
+  },
+  {
+   "code": "9080601",
+   "region": null,
+   "phrase": "Walewale Technical Institute wotawate otiea 280072006 lave"
+  },
+  {
+   "code": "9080901",
+   "region": "Northern",
+   "phrase": "St. Joseph Tech. Inst., Saboba Saboba ives P2/P0 rcing gave"
+  },
+  {
+   "code": "9080104",
+   "region": null,
+   "phrase": "GRATIS Technical Institute, Tamale ramoto ices 2 aver"
+  },
+  {
+   "code": "9081606",
+   "region": null,
+   "phrase": "Zabzugu Technical Institute ae"
+  },
+  {
+   "code": "9087782",
+   "region": "Northern",
+   "phrase": "Kumbungu Vocational Techncal Institute umbungu oticos e frver"
+  },
+  {
+   "code": "9080102",
+   "region": "Northern",
+   "phrase": "St. Mary's Technical Institute, Tamale Tamate loins 2/0886 gave"
+  },
+  {
+   "code": "9080105",
+   "region": null,
+   "phrase": "Nyohini Community Technical Institute Tamate minxea 2 /B08r80-6) gave"
+  },
+  {
+   "code": "9080301",
+   "region": null,
+   "phrase": "Nyong Technical Institute yong nines P2 B09P8I-G g lever"
+  },
+  {
+   "code": "9080110",
+   "region": "Northern",
+   "phrase": "Gbewa Technical Institute Tamate (nines e frver"
+  },
+  {
+   "code": "9073012",
+   "region": null,
+   "phrase": "Dambai Technical Institute amos sxe PX e aver"
+  },
+  {
+   "code": "9072001",
+   "region": null,
+   "phrase": "Kaakyi Technical Institute Cc TVET"
+  },
+  {
+   "code": "9070401",
+   "region": null,
+   "phrase": "Fr. Dogli Memorial Technical Institute New ayome ties 280226 liver"
+  },
+  {
+   "code": "280226",
+   "region": null,
+   "phrase": "liver"
+  },
+  {
+   "code": "9081500",
+   "region": null,
+   "phrase": "Salaga Technical Institute setoga rien P2 /B08P80-6) gave"
+  },
+  {
+   "code": "9090600",
+   "region": "Upper East",
+   "phrase": "Kusanaba Technical Institute inane Mine P2 /0RrCNg og Laver"
+  },
+  {
+   "code": "9090402",
+   "region": "Upper East",
+   "phrase": "GRATIS Technical Institute, Bolga Bolgatanga Cc TVET"
+  },
+  {
+   "code": "9070901",
+   "region": null,
+   "phrase": "Comboni Tech/Voc Inst. Sogakope mivxea 22020206 gy lyver"
+  },
+  {
+   "code": "9071201",
+   "region": null,
+   "phrase": "Botoku Technical Insitute own ixes e aver"
+  },
+  {
+   "code": "9070515",
+   "region": "Volta",
+   "phrase": "Woe Technical Institute Woe Cc TVET"
+  },
+  {
+   "code": "9071014",
+   "region": null,
+   "phrase": "Ve- Golokwati Technical Institute wot ato (2 e aver"
+  },
+  {
+   "code": "9071904",
+   "region": null,
+   "phrase": "Sogakope Technial Institute Sogakope mea 2 g frver"
+  },
+  {
+   "code": "9072401",
+   "region": "Volta",
+   "phrase": "Ave Technical Institute Cc TVET"
+  },
+  {
+   "code": "9070705",
+   "region": null,
+   "phrase": "Klefe Technical Institute icte ines Y B08NBIMG) gave"
+  },
+  {
+   "code": "9070503",
+   "region": null,
+   "phrase": "Caring Sisters Technical Institute rei ixea 2Y PORNGIMG) gave"
+  },
+  {
+   "code": "9070704",
+   "region": null,
+   "phrase": "Ho -Lokoe Technical Institute toate P2082 lever"
+  },
+  {
+   "code": "9070710",
+   "region": null,
+   "phrase": "Dzodze Technical Institute proto (atid ( e rver"
+  },
+  {
+   "code": "9070500",
+   "region": null,
+   "phrase": "Atorkor Technical Institute vorkor ute P /8088I0 ) gave"
+  },
+  {
+   "code": "9070514",
+   "region": null,
+   "phrase": "Kedzi Technical Institute ee ee eee"
+  },
+  {
+   "code": "9070702",
+   "region": null,
+   "phrase": "Volta Tech Inst metse mines P /P08r8I-G) gave"
+  },
+  {
+   "code": "9072400",
+   "region": null,
+   "phrase": "Avenorpeme Technical Institute venorpeme tinea P2 /208r80-6) gave"
+  },
+  {
+   "code": "9071200",
+   "region": null,
+   "phrase": "Toh-Kpalime Technical Institute Toh-Kpalime Mixer P2/B02rding Gaver"
+  },
+  {
+   "code": "9070602",
+   "region": null,
+   "phrase": "C.Y.0. Tech/Voc. Inst. ove fate P2 802 26 liver"
+  },
+  {
+   "code": "9070703",
+   "region": null,
+   "phrase": "Ho Technical Institute toate P8808 aver"
+  },
+  {
+   "code": "9071002",
+   "region": null,
+   "phrase": "E.P.Tech/Voc Inst pce fs Prone ove"
+  },
+  {
+   "code": "9040301",
+   "region": "Western",
+   "phrase": "Axim Technical Institute laxim ss"
+  },
+  {
+   "code": "9040201",
+   "region": "Western",
+   "phrase": "Tarkwa Technical Institute tarkwa"
+  },
+  {
+   "code": "9040102",
+   "region": null,
+   "phrase": "Sekondi Takoradi Technical Institute Takoraci aires PY rver"
+  },
+  {
+   "code": "9040108",
+   "region": "Western",
+   "phrase": "Sekondi Technical Institute fstendi fiaad fPey oc rver"
+  },
+  {
+   "code": "9041412",
+   "region": "Western",
+   "phrase": "Mesu Akompi Technical Institute"
+  },
+  {
+   "code": "9040700",
+   "region": "Western",
+   "phrase": "TSC Technical Insitute - Half Assin ee jt ooionas fo"
+  },
+  {
+   "code": "9041300",
+   "region": "Western",
+   "phrase": "rS Technical institute - Asankragwa fsnicagea fwied O07 fver"
+  },
+  {
+   "code": "9041201",
+   "region": null,
+   "phrase": "St. Ann's Technical Institute ISekondi"
+  },
+  {
+   "code": "9040415",
+   "region": null,
+   "phrase": "Asasetre Technical Institute sete nea"
+  },
+  {
+   "code": "9040107",
+   "region": "Western",
+   "phrase": "Takoradi Community Technical institute ana Mixes Dav/Boaraing ver"
+  },
+  {
+   "code": "9041200",
+   "region": "Western",
+   "phrase": "Manso-AmenfiTechnicalinstitute (MansoAmenfi"
+  },
+  {
+   "code": "2040105",
+   "region": "Western",
+   "phrase": "opportunities Industralisation Technical nstitulTakoradi Mined Pay e irver"
+  },
+  {
+   "code": "9040800",
+   "region": "Western",
+   "phrase": "AburaTechnicalinstitute Abura Mixes"
+  },
+  {
+   "code": "040106",
+   "region": "Western",
+   "phrase": "EssipunTechnicalinstitute Essipun Sekondi"
+  },
+  {
+   "code": "9040600",
+   "region": "Western North",
+   "phrase": "TscTechnicalinstitute-Bibiani Bibiani"
+  },
+  {
+   "code": "0061205",
+   "region": "Ahafo",
+   "phrase": "DansoAgyeiSeniorHigh/Tech Nkaseim"
+  },
+  {
+   "code": "061206",
+   "region": null,
+   "phrase": "Twereku Ampem Senior High School Ntotroso Mined"
+  },
+  {
+   "code": "0060209",
+   "region": "Ahafo",
+   "phrase": "TerchireSeniorHigh Terchire"
+  },
+  {
+   "code": "0061304",
+   "region": "Ahafo",
+   "phrase": "SankoreSeniorHigh Sankore"
+  },
+  {
+   "code": "0060205",
+   "region": "Ahafo",
+   "phrase": "BomaaComm.SeniorHigh Bomaa"
+  },
+  {
+   "code": "0060207",
+   "region": "Ahafo",
+   "phrase": "DermaComm.DaySchool Derma"
+  },
+  {
+   "code": "0051302",
+   "region": "Ashanti",
+   "phrase": "BodwesangoSeniorHigh ss Bodwesango"
+  },
+  {
+   "code": "0051305",
+   "region": "Ashanti",
+   "phrase": "ApagyaSeniorHigh ss AdansiApagya"
+  },
+  {
+   "code": "0050609",
+   "region": "Ashanti",
+   "phrase": "AfigyamanSeniorHighSchool Kyekyewere"
+  },
+  {
+   "code": "0051502",
+   "region": "Ashanti",
+   "phrase": "AdugyamaComm.SeniorHigh ss Adugyama"
+  },
+  {
+   "code": "0051504",
+   "region": "Ashanti",
+   "phrase": "WiosoSHS Ss Kunso-Wioso"
+  },
+  {
+   "code": "0050312",
+   "region": "Ashanti",
+   "phrase": "Tweapease Senior HighSchool Tweapease"
+  },
+  {
+   "code": "0050403",
+   "region": "Ashanti",
+   "phrase": "Manso-AdubiaSeniorHighn Manso Adubia"
+  },
+  {
+   "code": "0050401",
+   "region": "Ashanti",
+   "phrase": "MansomanSeniorHigh Manso Atwere"
+  },
+  {
+   "code": "0050402",
+   "region": "Ashanti",
+   "phrase": "Esaase BontefufuoSnr.High/Tech. EsaaseBontefufuo"
+  },
+  {
+   "code": "0051104",
+   "region": "Ashanti",
+   "phrase": "BankaComm.SeniorHigh Banka"
+  },
+  {
+   "code": "0050194",
+   "region": "Ashanti",
+   "phrase": "ParkosoComm.SeniorHigh Parkoso"
+  },
+  {
+   "code": "0050208",
+   "region": "Ashanti",
+   "phrase": "AtwimaKwanwomaSnrHigh/Tech Trede"
+  },
+  {
+   "code": "0050213",
+   "region": "Ashanti",
+   "phrase": "Anum AsamoahSeniorHigh/Tech AdumKwanwoma"
+  },
+  {
+   "code": "0050211",
+   "region": "Ashanti",
+   "phrase": "AdobeworaComm.SeniorHigh Adobewora"
+  },
+  {
+   "code": "0050207",
+   "region": "Ashanti",
+   "phrase": "NyinahinCath.SeniorHigh Ss Nyinahin"
+  },
+  {
+   "code": "0050206",
+   "region": "Ashanti",
+   "phrase": "BarekeseSeniorHighSchool SS Barekese"
+  },
+  {
+   "code": "0050309",
+   "region": "Ashanti",
+   "phrase": "DenyasemanCath.SeniorHigh Poano"
+  },
+  {
+   "code": "0050305",
+   "region": "Ashanti",
+   "phrase": "Bosome Senior High/Tech. Aiwa"
+  },
+  {
+   "code": "0051608",
+   "region": "Ashanti",
+   "phrase": "St.George'sSeniorHighTech. Kuntanase"
+  },
+  {
+   "code": "0051613",
+   "region": "Ashanti",
+   "phrase": "Bosomtwe Oyoko Comm. Senior High BosomtweOyoko"
+  },
+  {
+   "code": "0051612",
+   "region": "Ashanti",
+   "phrase": "StSebastianCath.SeniorHigh Adumasa"
+  },
+  {
+   "code": "0051606",
+   "region": "Ashanti",
+   "phrase": "AchinakromSeniorHighn Ss Achinakrom"
+  },
+  {
+   "code": "0050907",
+   "region": "Ashanti",
+   "phrase": "AkwesiAwobaaSeniorHigh/Tech Anyinasu"
+  },
+  {
+   "code": "0050158",
+   "region": "Ashanti",
+   "phrase": "UthmaniyaSeniorHigh,Tafo Tafo"
+  },
+  {
+   "code": "0050193",
+   "region": "Ashanti",
+   "phrase": "AgricNzemaSeniorHigh,Kumasi Kumasi, Agric Nzema"
+  },
+  {
+   "code": "0050159",
+   "region": "Ashanti",
+   "phrase": "MancellGirls'SeniorHigh/Tech. Oduom"
+  },
+  {
+   "code": "0050706",
+   "region": "Ashanti",
+   "phrase": "GyaamaPensanSeniorHigh/Tech Aboaso-Ashanti Mixed"
+  },
+  {
+   "code": "0050608",
+   "region": "Ashanti",
+   "phrase": "OpokuAgyemanSeniorHigh/Tech Apaah"
+  },
+  {
+   "code": "0050806",
+   "region": "Ashanti",
+   "phrase": "AsucsoComm.SeniorHigh Asuoso"
+  },
+  {
+   "code": "0050805",
+   "region": "Ashanti",
+   "phrase": "NKkenkansuCommunitySeniorHigh Nkenkansu"
+  },
+  {
+   "code": "0050716",
+   "region": "Ashanti",
+   "phrase": "AfigyaSeniorHigh/Tech Ss Boamang"
+  },
+  {
+   "code": "0050505",
+   "region": "Ashanti",
+   "phrase": "Presby Senior High/Tech,Kwamang Kwamang"
+  },
+  {
+   "code": "0051805",
+   "region": "Ashanti",
+   "phrase": "TijjaniyaSeniorHigh Ss Asokore"
+  },
+  {
+   "code": "0051806",
+   "region": "Ashanti",
+   "phrase": "Effiduase Senior High/Tech ssi Effiduase"
+  },
+  {
+   "code": "0051804",
+   "region": "Ashanti",
+   "phrase": "Dadease AgricSeniorHigh Dadease"
+  },
+  {
+   "code": "0051808",
+   "region": "Ashanti",
+   "phrase": "Bodomase Senior High/Tech Bodomase"
+  },
+  {
+   "code": "0050612",
+   "region": "Ashanti",
+   "phrase": "BoanimSeniorHigh/TechSch Boanim"
+  },
+  {
+   "code": "0051503",
+   "region": "Ashanti",
+   "phrase": "Sabronum MethodistSenior High/Tech Sabronum/Habitat"
+  },
+  {
+   "code": "0050117",
+   "region": "Ashanti",
+   "phrase": "Prince OfPeaceGirls South Suntreso"
+  },
+  {
+   "code": "0051007",
+   "region": "Ashanti",
+   "phrase": "Jubilee SeniorHigh ss Dampong"
+  },
+  {
+   "code": "0051607",
+   "region": "Ashanti",
+   "phrase": "Church OFChristSeniorHigh Adadientem"
+  },
+  {
+   "code": "0051008",
+   "region": "Ashanti",
+   "phrase": "KurofaMethodistSeniorHighTech Kurofa"
+  },
+  {
+   "code": "0050808",
+   "region": "Ashanti",
+   "phrase": "Wiafe AkentenPresbySeniorHign Afrancho"
+  },
+  {
+   "code": "0050214",
+   "region": "Ashanti",
+   "phrase": "SpiritanSenior High/Tech Ss Adankwame"
+  },
+  {
+   "code": "0051615",
+   "region": "Ashanti",
+   "phrase": "OnweSeniorHighSchoot Ss Onwe-Ashanti"
+  },
+  {
+   "code": "0050212",
+   "region": "Ashanti",
+   "phrase": "J.A.KufuorSeniorHign Sokoban"
+  },
+  {
+   "code": "0050196",
+   "region": "Ashanti",
+   "phrase": "PresbyGirls Senior HighSchool Chirapatre"
+  },
+  {
+   "code": "0051618",
+   "region": "Ashanti",
+   "phrase": "Bosomtwe Senior High/Tech ss AnkaaseLakeside"
+  },
+  {
+   "code": "0051610",
+   "region": "Ashanti",
+   "phrase": "IbadurRahmanAcademy Buobai"
+  },
+  {
+   "code": "0051009",
+   "region": "Ashanti",
+   "phrase": "MorsoSeniorHigh/Tech Morso"
+  },
+  {
+   "code": "0051620",
+   "region": "Ashanti",
+   "phrase": "GhanaStemTechnicalSchool Sewua"
+  },
+  {
+   "code": "0053013",
+   "region": "Ashanti",
+   "phrase": "DrobonsoSeniorHighSchool Ss Drobonso"
+  },
+  {
+   "code": "0051812",
+   "region": "Ashanti",
+   "phrase": "SekyereKusiSeniorHighSchool Sekyere"
+  },
+  {
+   "code": "0051619",
+   "region": "Ashanti",
+   "phrase": "Feyiase Senior HighSchool Feyiase"
+  },
+  {
+   "code": "0051511",
+   "region": "Ashanti",
+   "phrase": "BepoaseShts Bepoase"
+  },
+  {
+   "code": "0050811",
+   "region": "Ashanti",
+   "phrase": "J.A.KufourStem/TechnicalSchool Dabaa"
+  },
+  {
+   "code": "0050172",
+   "region": "Ashanti",
+   "phrase": "Ofoase KokobenSeniorHigh SS Ofoase Kokobin"
+  },
+  {
+   "code": "0051702",
+   "region": "Ashanti",
+   "phrase": "BeposoSeniorHigh ss (Beposo"
+  },
+  {
+   "code": "0050607",
+   "region": "Ashanti",
+   "phrase": "Kofiase Adventist Senior High/Tech. Kofiase"
+  },
+  {
+   "code": "0050903",
+   "region": "Ashanti",
+   "phrase": "BankomanSeniorHigh Ss Banko"
+  },
+  {
+   "code": "0060125",
+   "region": "Bono",
+   "phrase": "Kye Amponsah Senior High School, Fiapre Fiapre"
+  },
+  {
+   "code": "0060308",
+   "region": "Bono",
+   "phrase": "St. Augustine Senior High School, Nsapor-Berek/Nsapor-Berekum"
+  },
+  {
+   "code": "0060512",
+   "region": "Bono",
+   "phrase": "DuadasoNo.1SeniorHigh/Tech. Duadaso"
+  },
+  {
+   "code": "0060611",
+   "region": "Bono",
+   "phrase": "NkyeraaSeniorHighSch. Ss Nehiraa"
+  },
+  {
+   "code": "0060509",
+   "region": "Bono",
+   "phrase": "Hidaayah Islamic Senior High School Japekrom"
+  },
+  {
+   "code": "0061005",
+   "region": "Central",
+   "phrase": "Salvation Army Senior High, Aboabo Dormaa Aboabo-Dormaa"
+  },
+  {
+   "code": "0061003",
+   "region": "Bono",
+   "phrase": "MansenSeniorHigh ss Wamfie"
+  },
+  {
+   "code": "0061004",
+   "region": "Bono",
+   "phrase": "Nkrankwanta Senior High/Tech Nkrankwanta"
+  },
+  {
+   "code": "0060507",
+   "region": "Bono",
+   "phrase": "DiamonoSeniorHighSch. DuadasoNo.2"
+  },
+  {
+   "code": "0060504",
+   "region": "Bono",
+   "phrase": "GokaSeniorHigh/Tech. Ss Goka"
+  },
+  {
+   "code": "0060513",
+   "region": "Bono",
+   "phrase": "St.Ann'sGirlsSeniorHigh,Sampa Sampa ("
+  },
+  {
+   "code": "0060111",
+   "region": "Bono",
+   "phrase": "S.D.ASenior High, Sunyani SS Sunyani"
+  },
+  {
+   "code": "0060605",
+   "region": "Bono",
+   "phrase": "MenjiSeniorHigh Meni"
+  },
+  {
+   "code": "0060406",
+   "region": "Bono East",
+   "phrase": "AbeasemanComm.DaySeniorHigh Abease"
+  },
+  {
+   "code": "0060714",
+   "region": "Bono East",
+   "phrase": "KwartengAnkomah SeniorHigh Tanoso-Techmian"
+  },
+  {
+   "code": "0060713",
+   "region": "Bono East",
+   "phrase": "GyarkoComm.DaySeniorHigh Ss Techiman"
+  },
+  {
+   "code": "0060712",
+   "region": "Bono East",
+   "phrase": "KesseBasahyiaSeniorHighSchool ( TechimanOforikrom"
+  },
+  {
+   "code": "0060704",
+   "region": "Bono East",
+   "phrase": "St.Francis Seminary Senior High, Buoyem Buoyem"
+  },
+  {
+   "code": "0060806",
+   "region": "Bono East",
+   "phrase": "KroboComm.SeniorHigh SS Krobo"
+  },
+  {
+   "code": "0061103",
+   "region": "Bono East",
+   "phrase": "Bassa CommunitySeniorHigh Bassa"
+  },
+  {
+   "code": "0060715",
+   "region": "Bono East",
+   "phrase": "AbrafiSeniorHign Ss Techiman"
+  },
+  {
+   "code": "0060905",
+   "region": "Bono East",
+   "phrase": "Donkro-NkwantaSenior HighSchool Donkro-Nkwanta"
+  },
+  {
+   "code": "0060705",
+   "region": "Bono East",
+   "phrase": "GuakroEffahSeniorHigh Offuman"
+  },
+  {
+   "code": "0030406",
+   "region": "Central",
+   "phrase": "MoreeComm.SeniorHigh Moree"
+  },
+  {
+   "code": "0030909",
+   "region": "Central",
+   "phrase": "AgonaNamonworaComm.Senior High AgonaNamonwora"
+  },
+  {
+   "code": "0030915",
+   "region": "Central",
+   "phrase": "AgonaFankobaaSeniorHigh Aon Abodom"
+  },
+  {
+   "code": "0030706",
+   "region": "Central",
+   "phrase": "EnyanMaimComm.DaySchool EnyanMaim"
+  },
+  {
+   "code": "0030803",
+   "region": "Central",
+   "phrase": "BrakwaSeniorHigh/Tech Ss Brakwa"
+  },
+  {
+   "code": "0031208",
+   "region": "Central",
+   "phrase": "Gyaase Community Senior High Assin-Akonfudi"
+  },
+  {
+   "code": "0031206",
+   "region": "Central",
+   "phrase": "Asin NsutaSeniorHighSchool AssinNsuta"
+  },
+  {
+   "code": "0031203",
+   "region": "Central",
+   "phrase": "NyankumasiAhenkroSnr.Hign NyankumasiAhenkro"
+  },
+  {
+   "code": "0030628",
+   "region": "Central",
+   "phrase": "Awutu Bawjiase Comm. Senior HighSchool AwutuBawjiase"
+  },
+  {
+   "code": "0030629",
+   "region": "Central",
+   "phrase": "OdupongComm.DaySchool KasoaOfaakor"
+  },
+  {
+   "code": "0030309",
+   "region": "Central",
+   "phrase": "EA. Mills Senior High Otuam"
+  },
+  {
+   "code": "0030508",
+   "region": "Central",
+   "phrase": "GomoaGyamanSeniorHigh GomoaGyaman"
+  },
+  {
+   "code": "0030202",
+   "region": null,
+   "phrase": "Eguafo Abrem Senior High Eguafo Abram"
+  },
+  {
+   "code": "0030308",
+   "region": null,
+   "phrase": "Aboadze State College Abend Dominase"
+  },
+  {
+   "code": "0031102",
+   "region": null,
+   "phrase": "JukwaSeniorHigh/Tech ss Jukwa"
+  },
+  {
+   "code": "0031006",
+   "region": null,
+   "phrase": "AyanfuriSeniorHign fAanfuri"
+  },
+  {
+   "code": "0031007",
+   "region": null,
+   "phrase": "Kyekyewere Comm. Senior HighSchool Denkyira-Kyekyewere"
+  },
+  {
+   "code": "0030312",
+   "region": null,
+   "phrase": "Akyin Senior HighSchool Ss Arkra-Mbroboto"
+  },
+  {
+   "code": "0030509",
+   "region": "Central",
+   "phrase": "OgyeedomComm.SnrHigh/Tech Gomoaafransi"
+  },
+  {
+   "code": "0031107",
+   "region": null,
+   "phrase": "MokwaaSeniorHighSchool Mokwaa"
+  },
+  {
+   "code": "0030624",
+   "region": "Central",
+   "phrase": "St. Gregory CatholicSeniorHighSchool Buduburam"
+  },
+  {
+   "code": "0030313",
+   "region": null,
+   "phrase": "KobinaAnsahSHS SS Kobina Ansah"
+  },
+  {
+   "code": "0030907",
+   "region": "Central",
+   "phrase": "S.D.A Senior High School,GomoaJukwa GomoaJukwa Mixed"
+  },
+  {
+   "code": "0030633",
+   "region": null,
+   "phrase": "BontraseSeniorHighTech.Sch AwutuBontrase"
+  },
+  {
+   "code": "0030613",
+   "region": null,
+   "phrase": "AwutuWintonSeniorHign Awutu"
+  },
+  {
+   "code": "0031003",
+   "region": null,
+   "phrase": "DiasoSeniorHigh Dias"
+  },
+  {
+   "code": "0020903",
+   "region": "Eastern",
+   "phrase": "Mem-ChemfreComm.SeniorHign Mem-Chemfre"
+  },
+  {
+   "code": "0020901",
+   "region": "Eastern",
+   "phrase": "Donkorkrom Agric SeniorHigh SS Donkorkrom"
+  },
+  {
+   "code": "0020904",
+   "region": "Eastern",
+   "phrase": "Maame KroboComm. Senior High MaameKrobo"
+  },
+  {
+   "code": "0020902",
+   "region": "Eastern",
+   "phrase": "St.FidelisSeniorHigh/Tech Tease"
+  },
+  {
+   "code": "0020409",
+   "region": "Eastern",
+   "phrase": "MangoaseSeniorHigh ss Mangoase"
+  },
+  {
+   "code": "0020701",
+   "region": "Eastern",
+   "phrase": "AkokoasoSeniorHigh/Tech Ss AKimAkokoaso Mixed"
+  },
+  {
+   "code": "0020703",
+   "region": "Eastern",
+   "phrase": "AyirebiSeniorHigh i Ayirebi"
+  },
+  {
+   "code": "0020804",
+   "region": "Eastern",
+   "phrase": "BosoSeniorHigh/Tech Bosco"
+  },
+  {
+   "code": "0020805",
+   "region": "Eastern",
+   "phrase": "ApegusoSeniorHigh ss Apeguso"
+  },
+  {
+   "code": "0020802",
+   "region": "Eastern",
+   "phrase": "AdjenaSeniorHigh/Tech. s Adiena"
+  },
+  {
+   "code": "0021601",
+   "region": "Eastern",
+   "phrase": "S.D.A. Senior High. AkimSekyere AkimSekyere"
+  },
+  {
+   "code": "0020808",
+   "region": "Eastern",
+   "phrase": "AnuMAPapamComm.Day AnumApapam"
+  },
+  {
+   "code": "0020203",
+   "region": "Eastern",
+   "phrase": "Kraboa-Coaltar Presby Snr.High/Tech. Kraboa-Coaltar Mixed"
+  },
+  {
+   "code": "0020608",
+   "region": "Eastern",
+   "phrase": "AtweamanSeniorHigh Ss AKim Manso"
+  },
+  {
+   "code": "0020704",
+   "region": "Eastern",
+   "phrase": "St. Michael's Senior High, Akoase (Nkawkaw) Akoase,Nkawkaw"
+  },
+  {
+   "code": "0020611",
+   "region": "Eastern",
+   "phrase": "Aperade Senior High/Tech. Ss AKimAperade"
+  },
+  {
+   "code": "0021105",
+   "region": "Eastern",
+   "phrase": "Takrowase Comm. SeniorHigh Tarkrowase"
+  },
+  {
+   "code": "0021106",
+   "region": "Eastern",
+   "phrase": "PresbyBoysModelSeniorHigh Boadua"
+  },
+  {
+   "code": "0021104",
+   "region": "Eastern",
+   "phrase": "Salvation Army Senior High, AkimWenchi AkimWenchi Mixed"
+  },
+  {
+   "code": "0021314",
+   "region": "Eastern",
+   "phrase": "ApedwaPresbySeniorHigh ss Apedwa"
+  },
+  {
+   "code": "0021304",
+   "region": "Eastern",
+   "phrase": "St. Stephen's Presby Snr.High/Tech, Asiakwa Asiakwa"
+  },
+  {
+   "code": "0021018",
+   "region": "Eastern",
+   "phrase": "FodoaComm.SeniorHigh ss FodoaNkawkaw"
+  },
+  {
+   "code": "0021503",
+   "region": "Eastern",
+   "phrase": "AsesewaSeniorHigh/Tech s Asesewa"
+  },
+  {
+   "code": "0020507",
+   "region": "Upper West",
+   "phrase": "KwaobaahNyanoaComm.SeniorHigh Nyanoa"
+  },
+  {
+   "code": "0021402",
+   "region": "Eastern",
+   "phrase": "Klo-Agogo Senior High/Tech Klo-Agogo"
+  },
+  {
+   "code": "0021404",
+   "region": "Eastern",
+   "phrase": "ApesuaComm.SeniorHigh s s Apesua"
+  },
+  {
+   "code": "0020705",
+   "region": "Eastern",
+   "phrase": "AmuanaPrasoSeniorHigh sss AmuanaPraso"
+  },
+  {
+   "code": "0010186",
+   "region": "Greater Accra",
+   "phrase": "AdjenKotokuSeniorHigh Sse Kotoku"
+  },
+  {
+   "code": "0010195",
+   "region": "Greater Accra",
+   "phrase": "AkramamanSeniorHigh SS AKramaman"
+  },
+  {
+   "code": "0010227",
+   "region": "Greater Accra",
+   "phrase": "KponeComm.SeniorHigh Katamanso"
+  },
+  {
+   "code": "0010128",
+   "region": "Greater Accra",
+   "phrase": "LaPresbySeniorHign La Emmaus"
+  },
+  {
+   "code": "0010116",
+   "region": "Greater Accra",
+   "phrase": "PresbySeniorHigh,Teshie s Teshie"
+  },
+  {
+   "code": "0010205",
+   "region": "Greater Accra",
+   "phrase": "TemaMeth.DaySeniorHigh ss TemaCommil"
+  },
+  {
+   "code": "0010210",
+   "region": "Greater Accra",
+   "phrase": "PresbySeniorHigh,Tema Tema Community11"
+  },
+  {
+   "code": "0010545",
+   "region": "Greater Accra",
+   "phrase": "LashibiComm.Day SS 'Sakumono"
+  },
+  {
+   "code": "0010711",
+   "region": "Greater Accra",
+   "phrase": "BortianorSeniorHighSchool Bortianor"
+  },
+  {
+   "code": "0081101",
+   "region": "North East",
+   "phrase": "NakpanduriSeniorHigh SS Nakpanduri"
+  },
+  {
+   "code": "0080901",
+   "region": "North East",
+   "phrase": "ChereponiSeniorHigh/Tech. Ss Chereponi"
+  },
+  {
+   "code": "0080604",
+   "region": "North East",
+   "phrase": "YagabaSeniorHighSchool Yagaba"
+  },
+  {
+   "code": "0080608",
+   "region": "North East",
+   "phrase": "JangaSeniorHigh/Tech Ss Janga"
+  },
+  {
+   "code": "0080506",
+   "region": "North East",
+   "phrase": "SakoguSeniorHigh/Tech Sakogu"
+  },
+  {
+   "code": "0080507",
+   "region": "North East",
+   "phrase": "LangbinsiSeniorHigh/Tech Ss Langbinsi"
+  },
+  {
+   "code": "0080505",
+   "region": "North East",
+   "phrase": "PresbySHTS,Nankpanduri Ss Nakpanduri"
+  },
+  {
+   "code": "0080508",
+   "region": "North East",
+   "phrase": "YunyooSeniorHighSchool ss Yunyoo"
+  },
+  {
+   "code": "0080509",
+   "region": "North East",
+   "phrase": "NasuanSeniorHighSchool ss Nasuan"
+  },
+  {
+   "code": "0080511",
+   "region": "North East",
+   "phrase": "GhintiriSeniorHigh/Tech SG bintiri"
+  },
+  {
+   "code": "0080619",
+   "region": "North East",
+   "phrase": "VizesiSeniorHighSchool s s dVizesi"
+  },
+  {
+   "code": "0081412",
+   "region": "North East",
+   "phrase": "BimbaguSeniorHigh/Tech Bimbagu"
+  },
+  {
+   "code": "0071012",
+   "region": "Volta",
+   "phrase": "SantaEstherGirls'SeniorHigh WU"
+  },
+  {
+   "code": "0081401",
+   "region": "Northern",
+   "phrase": "KaragaSeniorHigh Karaga"
+  },
+  {
+   "code": "0080805",
+   "region": "Northern",
+   "phrase": "SangComm.DaySchoot (Sang"
+  },
+  {
+   "code": "0080402",
+   "region": "Northern",
+   "phrase": "WulensiSeniorHigh Wullensi"
+  },
+  {
+   "code": "0080903",
+   "region": "Northern",
+   "phrase": "WapuliComm.SeniorHigh SS Wapuli"
+  },
+  {
+   "code": "0080902",
+   "region": "Northern",
+   "phrase": "Saboba E.P.SeniorHigh Saboba"
+  },
+  {
+   "code": "0080132",
+   "region": "Northern",
+   "phrase": "Nuriyalslamic Senior High, Tamale GUKPEGU-TUA Mixed"
+  },
+  {
+   "code": "0081102",
+   "region": "Northern",
+   "phrase": "E.P. Agric SeniorHigh/Tech. Tatale"
+  },
+  {
+   "code": "0081203",
+   "region": "Northern",
+   "phrase": "Kasuliyili Senior High SS Kasuliyili"
+  },
+  {
+   "code": "0081514",
+   "region": "Northern",
+   "phrase": "Nanton Senior HighTech Nanton"
+  },
+  {
+   "code": "0071108",
+   "region": "Oti",
+   "phrase": "BowiriComm.DaySeniorHigh/Tech. Kwamekrom"
+  },
+  {
+   "code": "0071103",
+   "region": "Oti",
+   "phrase": "NKonyaSenior HighSchoot Nkonya-Ahenkro"
+  },
+  {
+   "code": "0071203",
+   "region": "Oti",
+   "phrase": "Ahamansulslamic Senior HighSchool Ahamansu"
+  },
+  {
+   "code": "0071202",
+   "region": "Oti",
+   "phrase": "Dodi-Papase SeniorHigh/Tech DodiPapase"
+  },
+  {
+   "code": "0070211",
+   "region": "Oti",
+   "phrase": "YabramComm.DaySchoot Ss Dambai"
+  },
+  {
+   "code": "0070204",
+   "region": "Oti",
+   "phrase": "AsukawkawSeniorHigh Asukawkaw"
+  },
+  {
+   "code": "0070208",
+   "region": "Oti",
+   "phrase": "NchumurumanComm.DaySeniorHigh Chinderi"
+  },
+  {
+   "code": "0070202",
+   "region": "Oti",
+   "phrase": "Kete Krachi Senior High/Tech. Kete-Krachi"
+  },
+  {
+   "code": "0070304",
+   "region": "Oti",
+   "phrase": "NkwantaComm.SeniorHigh/Tech Nkwanta"
+  },
+  {
+   "code": "0070305",
+   "region": "Oti",
+   "phrase": "KyaboboGirls'School SS NKwanta"
+  },
+  {
+   "code": "0070302",
+   "region": "Oti",
+   "phrase": "NtrubomanSeniorHign Ss s Brewaniase"
+  },
+  {
+   "code": "0077002",
+   "region": "Oti",
+   "phrase": "AkpafuSeniorHigh/Tech. SS Akpafu"
+  },
+  {
+   "code": "0077001",
+   "region": "Oti",
+   "phrase": "Likpe Senior High i Likpe-Mate"
+  },
+  {
+   "code": "0071105",
+   "region": "Oti",
+   "phrase": "Baglo Ridge Senior High/Tech. ss Baglo"
+  },
+  {
+   "code": "0081504",
+   "region": "Savannah",
+   "phrase": "MpahaComm.SeniorHighSchool Mpaha"
+  },
+  {
+   "code": "0080207",
+   "region": "Savannah",
+   "phrase": "LarabangaSeniorHign Ss fLarabanga"
+  },
+  {
+   "code": "0080704",
+   "region": "Savannah",
+   "phrase": "BamboiComm. Senior High Bamboi"
+  },
+  {
+   "code": "0080703",
+   "region": "Savannah",
+   "phrase": "St. Anthony of Padua Senior High/Tech Bamboi"
+  },
+  {
+   "code": "0081503",
+   "region": "Savannah",
+   "phrase": "Buipe Senior High ss CBipe"
+  },
+  {
+   "code": "0080303",
+   "region": "Savannah",
+   "phrase": "SalagaT.1. Ahmad SeniorHigh Ss Salaga"
+  },
+  {
+   "code": "0082201",
+   "region": "Savannah",
+   "phrase": "DaboyaComm.DaySchool ss Daboya"
+  },
+  {
+   "code": "0080205",
+   "region": "Savannah",
+   "phrase": "SawlaSeniorHighSch. Sawla"
+  },
+  {
+   "code": "0080702",
+   "region": "Savannah",
+   "phrase": "TunaSeniorHigh/Tech. Tuna"
+  },
+  {
+   "code": "0080202",
+   "region": "Savannah",
+   "phrase": "NdewuratakpaSeniorHigh/Tech. Damongo"
+  },
+  {
+   "code": "0090701",
+   "region": "Upper East",
+   "phrase": "BinduriComm.DaySeniorHigh Binduri"
+  },
+  {
+   "code": "0090414",
+   "region": "Upper East",
+   "phrase": "GambigoComm.DaySeniorHigh Gambigo"
+  },
+  {
+   "code": "0090413",
+   "region": "Upper East",
+   "phrase": "BolgaSheriguComm.SeniorHigh Bolga"
+  },
+  {
+   "code": "0090603",
+   "region": "Upper East",
+   "phrase": "Zorkor Senior High (Zorkor"
+  },
+  {
+   "code": "0090305",
+   "region": "Upper East",
+   "phrase": "KanjargaComm.SeniorHigh Kanjarga"
+  },
+  {
+   "code": "0090302",
+   "region": "Upper East",
+   "phrase": "FumbisiSeniorHigh Fumbisi"
+  },
+  {
+   "code": "0090106",
+   "region": "Upper East",
+   "phrase": "GaruComm.DaySeniorHigh Ss Garu"
+  },
+  {
+   "code": "0090506",
+   "region": "Upper East",
+   "phrase": "SiriguSeniorHign Sd Siig"
+  },
+  {
+   "code": "0090503",
+   "region": "Upper East",
+   "phrase": "ChianaSeniorHigh Chiana"
+  },
+  {
+   "code": "0090510",
+   "region": "Upper East",
+   "phrase": "MiriguCommunityDaySenior High Mirigu"
+  },
+  {
+   "code": "0090511",
+   "region": "Upper East",
+   "phrase": "NabangoSeniorHighTech Ss Nabango"
+  },
+  {
+   "code": "0090509",
+   "region": "Upper East",
+   "phrase": "PagaSeniorHigh Pagal"
+  },
+  {
+   "code": "0090412",
+   "region": "Upper East",
+   "phrase": "TongoSeniorHigh/Tech Ss Tongo"
+  },
+  {
+   "code": "0090304",
+   "region": "Upper East",
+   "phrase": "WiagaComm.SeniorHign Wiaga"
+  },
+  {
+   "code": "0090604",
+   "region": "Upper East",
+   "phrase": "Azeem-NamoaSeniorHigh/Tech ss Namoo"
+  },
+  {
+   "code": "0090107",
+   "region": "Upper East",
+   "phrase": "PusigaComm.DaySeniorHighSch. Pusiga"
+  },
+  {
+   "code": "0070108",
+   "region": "Volta",
+   "phrase": "AdakluSeniorHigh Ss Adaklu"
+  },
+  {
+   "code": "0071004",
+   "region": null,
+   "phrase": "tekiebi Senior High tekiebi"
+  },
+  {
+   "code": "0071009",
+   "region": "Volta",
+   "phrase": "VeComm.SeniorHigh Ve Koloenu"
+  },
+  {
+   "code": "0071010",
+   "region": "Volta",
+   "phrase": "Jim BourtonMem Agric. Senior High LogbaAdzokoe Mixed"
+  },
+  {
+   "code": "0070125",
+   "region": "Volta",
+   "phrase": "Ziope Senior HighSch. Ss s(Ziope"
+  },
+  {
+   "code": "0070113",
+   "region": "Volta",
+   "phrase": "Agotime SeniorHigh Ss sKpetoe"
+  },
+  {
+   "code": "0070402",
+   "region": "Volta",
+   "phrase": "Ave SeniorHigh Ss CdAVeDakpa"
+  },
+  {
+   "code": "0070403",
+   "region": "Volta",
+   "phrase": "AvenorSeniorHigh SS Avenorpeme"
+  },
+  {
+   "code": "0070506",
+   "region": "Volta",
+   "phrase": "AtiaviSeniorHigh/Tech Atiavi"
+  },
+  {
+   "code": "0070511",
+   "region": "Volta",
+   "phrase": "VoltaSeniorHighSchool Dzita-Agbledomi"
+  },
+  {
+   "code": "0070509",
+   "region": "Volta",
+   "phrase": "TsiameSeniorHigh ss sTsiame"
+  },
+  {
+   "code": "0070508",
+   "region": "Volta",
+   "phrase": "AnloAwomefiaSeniorHign Anyako"
+  },
+  {
+   "code": "0070507",
+   "region": "Volta",
+   "phrase": "Anlo AfiadenyighaSenior High Anil Afiadenyigba"
+  },
+  {
+   "code": "0070122",
+   "region": "Volta",
+   "phrase": "ShiaSeniorHig/Tech Shia"
+  },
+  {
+   "code": "0070107",
+   "region": "Volta",
+   "phrase": "Taviefe SeniorHigh ss Taviefe"
+  },
+  {
+   "code": "0070130",
+   "region": "Volta",
+   "phrase": "ZiaviSenior HighTech sZipvi"
+  },
+  {
+   "code": "0070112",
+   "region": "Volta",
+   "phrase": "Tanyighe SeniorHigh sss Tanyigbe"
+  },
+  {
+   "code": "0070105",
+   "region": "Volta",
+   "phrase": "Kpedize Senior High Ss sdKpedize"
+  },
+  {
+   "code": "0070103",
+   "region": "Volta",
+   "phrase": "Avatime SeniorHigh sane"
+  },
+  {
+   "code": "0070111",
+   "region": "Volta",
+   "phrase": "AkomeSeniorHigh/Tech. AKome"
+  },
+  {
+   "code": "0070109",
+   "region": "Volta",
+   "phrase": "DzoloSeniorHigh SS Dzolo"
+  },
+  {
+   "code": "0071007",
+   "region": "Volta",
+   "phrase": "AfadjatoSeniorHigh/Tech. Ss Gbledi-Gbogame"
+  },
+  {
+   "code": "0071008",
+   "region": "Volta",
+   "phrase": "AlavanyoSeniorHigh/Tech. Alavanyo-Kpeme"
+  },
+  {
+   "code": "0070709",
+   "region": "Volta",
+   "phrase": "Afife Senior HighTech. CdAfife"
+  },
+  {
+   "code": "0070708",
+   "region": "Volta",
+   "phrase": "WetaSeniorHigh/Tech, Weta"
+  },
+  {
+   "code": "0070701",
+   "region": "Volta",
+   "phrase": "St. Paul's Senior High, Denu Ss Hatsukope/Denu"
+  },
+  {
+   "code": "0070705",
+   "region": "Volta",
+   "phrase": "Klikor Senior High/Tech, i Klikor"
+  },
+  {
+   "code": "0070711",
+   "region": "Volta",
+   "phrase": "Aflac CommunitySHTS CAflao"
+  },
+  {
+   "code": "0070808",
+   "region": "Volta",
+   "phrase": "VoloComm.SeniorHign solo"
+  },
+  {
+   "code": "0070805",
+   "region": "Volta",
+   "phrase": "DoforSeniorHign Ss Juapong"
+  },
+  {
+   "code": "0070804",
+   "region": "Volta",
+   "phrase": "Mepe St. KizitoSeniorHigh/Tech. ss Mepe"
+  },
+  {
+   "code": "0070803",
+   "region": "Volta",
+   "phrase": "Aveyime Battor Senior High/Tech. Aveyime-Battor"
+  },
+  {
+   "code": "0070608",
+   "region": "Volta",
+   "phrase": "Kpeve SeniorHighTech Ss Kpeve"
+  },
+  {
+   "code": "0070131",
+   "region": "Volta",
+   "phrase": "GhekorSeniorHighSchool SS Adaklu"
+  },
+  {
+   "code": "0071003",
+   "region": "Volta",
+   "phrase": "AgateComm.SeniorHigh Agate"
+  },
+  {
+   "code": "0070609",
+   "region": "Volta",
+   "phrase": "TongorSeniorHighTech. TsannkpeTongor"
+  },
+  {
+   "code": "0040203",
+   "region": "Western",
+   "phrase": "Sankor Senior HighSchool Sankor"
+  },
+  {
+   "code": "0040306",
+   "region": "Western",
+   "phrase": "Uthman Bin AffanislamicSHS Kamgbunti"
+  },
+  {
+   "code": "0040304",
+   "region": "Western",
+   "phrase": "Bonzo-KakuSeniorHigh ss Awiebo"
+  },
+  {
+   "code": "0040402",
+   "region": "Western",
+   "phrase": "Annor Adjaye SeniorHigh Ss CEzilibo"
+  },
+  {
+   "code": "0040308",
+   "region": "Western",
+   "phrase": "GwiramanComm.SeniorHigh ss Bamianko"
+  },
+  {
+   "code": "0040112",
+   "region": "Western",
+   "phrase": "MethodistSenior High, Sekondi Ss Sekondi"
+  },
+  {
+   "code": "0040906",
+   "region": "Western",
+   "phrase": "Benso Senior High/Tech Benso s s d"
+  },
+  {
+   "code": "0040806",
+   "region": "Western North",
+   "phrase": "Adabokrom Comm. SHS sdaboon"
+  },
+  {
+   "code": "0040804",
+   "region": "Western North",
+   "phrase": "Adjoafua Comm. Senior High Adjoafua"
+  },
+  {
+   "code": "0040708",
+   "region": "Western North",
+   "phrase": "Chirano Comm. Day School Chirano"
+  },
+  {
+   "code": "0040607",
+   "region": "Western",
+   "phrase": "Nsawera EdumafaSevior High School Nsawva Eumafa"
+  },
+  {
+   "code": "0040504",
+   "region": "Western North",
+   "phrase": "Manso-AmenfiComm.DaySchool Manso-Amenfi"
+  }
+ ],
+ "Appendix 4": [],
+ "Appendix 5": [
+  {
+   "code": "0051616",
+   "region": "Ashanti",
+   "phrase": "Bosomtwe"
+  },
+  {
+   "code": "0051617",
+   "region": "Ashanti",
+   "phrase": "Bosomtwe STEM Academy Jachie"
+  },
+  {
+   "code": "0050108",
+   "region": "Ashanti",
+   "phrase": "Prempeh College Sofoline-Kumasi"
+  },
+  {
+   "code": "005170",
+   "region": null,
+   "phrase": "Afua Kobi Ampem"
+  },
+  {
+   "code": "0050105",
+   "region": "Ashanti",
+   "phrase": "Kumasi Academy"
+  },
+  {
+   "code": "0050159",
+   "region": "Ashanti",
+   "phrase": "Mancell"
+  },
+  {
+   "code": "0051620",
+   "region": "Ashanti",
+   "phrase": "Ghana STEM Technical School"
+  },
+  {
+   "code": "0050811",
+   "region": null,
+   "phrase": "J.A. Kufour STEM Technical School Dabaa"
+  },
+  {
+   "code": "0060603",
+   "region": null,
+   "phrase": "Koase Senior High/Tech Koase/Wenchi"
+  },
+  {
+   "code": "0020410",
+   "region": null,
+   "phrase": "Methodist"
+  },
+  {
+   "code": "0021106",
+   "region": "Eastern",
+   "phrase": "Presby"
+  },
+  {
+   "code": "0010106",
+   "region": "Greater Accra",
+   "phrase": "Accra Senior High"
+  },
+  {
+   "code": "0010110",
+   "region": "Greater Accra",
+   "phrase": "Achimota Senior High"
+  }
+ ]
+}

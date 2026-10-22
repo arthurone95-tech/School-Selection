@@ -1,0 +1,49 @@
+js [Recon | DISTRICT ope. NAME OF SCHOOL LOCATION [cenpeR| STATUS CATEGORY over
+
+[419|volta [Adak (0070108 [AdakluSeniorHigh Ss Adaklu Mixed [Day/Boarding|  C__|SHS |
+'a20|Vatta | Afadzato South 0071004 [tekiebi Senior High ]tekiebi | Mixed [Day/Boaraing| | SH5 |
+[421 |Volta —|AfadzatoSouth «0071009 |VeComm.SeniorHigh = Ve“Koloenu [Mixed [Day/Boarding|  C__|SHS |
+[422 |Volta ——|AfadzatoSouth «0071010 [Jim BourtonMem Agric. Senior High [LogbaAdzokoe _—[Mixed_[Day/Boarding| _C__|SHS |
+[423 |Volta | AgortimeZiope «0070125 |Ziope Senior HighSch. Ss s(Ziope Mixed [Day/Boarding| C__|SHS |
+[424 |Volta | AgortimeZiope Fs «0070113 [Agotime SeniorHigh Ss sKpetoe Mixed [Day/Boarding| C__|SHS |
+[425 [Volta —|AkatsiNorth «0070402 Ave SeniorHigh Ss CdAVeDakpa [Mixed [Day/Boarding| C__|SHS |
+[426 |volta|AkatsiSouth «0070403 [AvenorSeniorHigh SS Avenorpeme [Mixed [Day | __[SHS |
+[427 [volta |AnloKetaMunicipal «0070506 [AtiaviSeniorHigh/Tech Atiavi_ [Mixed [Day | SHTSS
+[428 |Volta |AnloKetaMunicipal 0070511 |VoltaSeniorHighSchool [Dzita-Agbledomi_— [Mixed [Day || C__— [SHS |
+[429 |Volta|AnloKetaMunicipal «0070509 [TsiameSeniorHigh ss sTsiame [Mixed [Day | SHS |
+[430 [Volta |AnloKetaMunicipal «0070508 |AnloAwomefiaSeniorHign —[Anyako [Mixed [Day/Boarding|  C__ [SHS |
+[431 [Volta |KetaMunicipal «0070507 [Anlo AfiadenyighaSenior High [Anil Afiadenyigba [Mixed [Day/Boarding|  C__|SHS |
+[432 |Vvolta  [HoMunicipal «0070122 [ShiaSeniorHig/Tech Shia Mixed [Day | SC SHS
+[433 Volta |HoMunicipal «0070107 [Taviefe SeniorHigh ss Taviefe Mixed [Day/Boarding| C__|SHS |
+[434 [Volta |HoMunicipal «0070130 |ZiaviSenior HighTech sZipvi_ Mixed [Day | SC SHS
+[435 |Volta Ss |HoMunicipal «0070112 [Tanyighe SeniorHigh sss Tanyigbe Mixed [Day/Boarding| C__|SHS |
+[436 |Volta ss |HoWest_ —CCC«*d0070105 |Kpedize Senior High Ss sdKpedize Mixed [Day/Boarding| C__|SHS |
+[437 |Volta ss |HoWest_ — CCCSC*dt0070103 [Avatime SeniorHigh sane [Mixed [Day/Boarding| C__|SHS |
+[438 [volta |HoWest_ «0070111 [AkomeSeniorHigh/Tech. —[AKome [Mixed [Day/Boarding|  C__[SHTS|
+[439|volta ss |HoWest_ «0070109 [DzoloSeniorHigh SS Dzolo Mixed [Day/Boarding]  C__ [SHS |
+[440 Volta |Hohoe Municipal «0071007 |AfadjatoSeniorHigh/Tech. Ss [Gbledi-Gbogame [Mixed _[Day/Boarding|  C__|SHTS|
+[441 [Volta |Hohoe Municipal «0071008 [AlavanyoSeniorHigh/Tech. [Alavanyo-Kpeme [Mixed [Day/Boarding|  C__[SHTS|
+[442 |Volta|Hohoe Municipal «0071012 [SantaEstherGirls'SeniorHigh [WU Girls [Day/Boarding| C__ [SHS |
+[443 |volta ss |KetuNorth «0070709 Afife Senior HighTech. CdAfife Mixed [Day | SHS
+[444 |volta ss |KetuNorth «0070708 |WetaSeniorHigh/Tech, [Weta [Mixed [Day/Boarding| C__|SHTS|
+[445 Volta |KetuSouth «0070701 St. Paul's Senior High, Denu Ss [Hatsukope/Denu [Boys __[Day/Boarding| _C__|SHS |
+[446 Volta |KetuSouth «0070705 |Klikor Senior High/Tech, i Klikor_— Mixed [Day/Boarding| C__|SHTS|
+[447 |Volta ss |KetuSouth 0070711 [Aflac CommunitySHTS CAflao Mixed [Day | SHS |
+[448 Volta |NorthTongu «0070808 |VoloComm.SeniorHign solo Mixed [Day | SHS |
+[449 |Volta —|NorthTongu ss CCCSCSC*dOO7!BOG [Bator Senior High sss Bator Mixed [Day/Boarding| C__|SHS |
+[450 [Volta |NorthTongu «0070805 [DoforSeniorHign Ss [Juapong [Mixed [Day/Boarding|  C__ [SHS |
+[451 [Volta |NorthTongu «0070804 |Mepe St. KizitoSeniorHigh/Tech. ss [Mepe_ [Mixed [Day/Boarding|  C__[SHTS|
+[452 [Volta |NorthTongu «0070803 [Aveyime Battor Senior High/Tech. _[Aveyime-Battor [Mixed [Day/Boarding| = C__|SHTS|
+[453 [Volta |SouthDayi_ «0070608 |Kpeve SeniorHighTech Ss Kpeve [Mixed [Day/Boarding| = C__[SHTS|
+[454 |volta [Adak «0070131 |GhekorSeniorHighSchool SS [Adaklu Mixed [Day/Boarding|  C__ [SHS |
+[455 |Volta |AfadzatoSouth «0071003 [AgateComm.SeniorHigh Agate [Mixed [Day/Boarding| B__[SHS |
+[456 |Volta |SouthDayi_ «0070609 [TongorSeniorHighTech. [TsannkpeTongor [Mixed [Day/Boarding| _B__|SHTS|
+[457 [Western __—[AhantaWest_— «0040203 [Sankor Senior HighSchool —[Sankor [Mixed [Day/Boarding|  C__|SHS |
+[458 [Western _—|Ellembele «0040306 [Uthman Bin AffanislamicSHS [Kamgbunti__— [Mixed _[Day/Boarding| C__|SHS |
+|459|Western _—|Ellembele «0040304 |Bonzo-KakuSeniorHigh ss [Awiebo [Mixed [Day/Boarding| C__|SHS |
+[460 |Western _—Jomoro «0040402 [Annor Adjaye SeniorHigh Ss CEzilibo Mixed [Day/Boarding| C__|SHS |
+[461 |Western _—|[NzemaEastMunicipal «0040308 |GwiramanComm.SeniorHigh ss [Bamianko [Mixed [Day | SHS |
+[462 [Western _—|SekondiTakoradiMetro 0040112 [MethodistSenior High, Sekondi_ Ss [Sekondi__— [Mixed [Day || __—[SHS |
+
+2025 SECOND CYCLE PUBLIC
+APPENDIX 3 Page 56 of 61 SCHOOLS REGISTER

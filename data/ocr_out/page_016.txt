@@ -1,0 +1,20 @@
+PROGRAMMES w
+
+S/N} REGION DISTRICT SCHOOL SCHOOL NAME LOCATION GENDER | acric | sus | tecH | HOM | VIS: | GEN | GEN.) ey | sang | NO-OF | status e
+
+CODE ECON. | ARTS | ARTS | SCI PROG Fs}
+
+101 201 | 301 401 402 501 | 502 | 503 504 n
+251| Western North | Bia West 0040802 |Bia Senior High/Tech Debiso Essiam Mixed X X Se 6 Day/Boarding | SHTS
+252) Western North | Bibiani/Anhwiaso/ Bekwai 0040702 |Sefwi Bekwai Senior High Sefwi Bekwai Mixed X xX 6 Day/Boarding SHS
+253|Western North |Bodi 0040803 _|Bodi Senior High Bodi Mixed X X Se=e= 5 Day SHS
+254) Western North | Juaboso 0040801 |Juaboso Senior High Juaboso Mixed X 5 Day/Boarding | SHS
+255] Western North | Sefwi Akontombra 0040604 |Akontombra Senior High Akontombra Mixed X X 5 Day/Boarding | SHS
+256] Western North | Sefwi Wiawso 0040601 |Sefwi-Wiawso Senior High Sefwi-Wiawso Mixed X X 6 Day/Boarding | SHS
+257] Western North | Sefwi Wiawso 0040602 |Sefwi-Wiawso Senior High/Tech Sefwi-Wiawso Mixed X X 7 Day/Boarding | SHTS
+258] Western North | Sefwi Wiawso 0040603 |Asawinso Senior High Asawinso Mixed X xX 6 Day/Boarding | SHS
+259|Western North | Sefwi Wiawso 0040605 | St. Joseph Senior High, Sefwi Wiawso Sefwi Wiawso Mixed xX X 6 Day/Boarding | SHS
+260) Western North | Suaman 0041002 |Dadieso Senior High Dadieso Mixed X X RR X X X 6 Day/Boarding | SHS
+
+2025 SECOND CYCLE PUBLIC
+CATEGORY B Page 13 of 61 SCHOOLS REGISTER

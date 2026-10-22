@@ -10,6 +10,20 @@
     padding: 0 var(--container-padding);
 }
 
+/* ----------------------------------------
+   Sticky site header
+   ----------------------------------------
+   layout.js injects the demo banner and the .navbar into #site-header. A
+   `position: sticky` box can only travel inside its own containing block, and
+   #site-header was only as tall as its own content - so the navbar could not
+   stick and scrolled away with the page. Taking #site-header out of the box
+   tree with `display: contents` makes the injected banner and navbar direct
+   children of <body>, so .navbar (already `position: sticky; top: 0`) now
+   pins to the top of the viewport while the thin notice banner scrolls away. */
+#site-header {
+    display: contents;
+}
+
 /* Grid System - Note: .grid and .flex are now defined in utilities.css */
 .grid-cols-2 {
     grid-template-columns: repeat(2, 1fr);

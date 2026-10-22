@@ -1,0 +1,1620 @@
+{
+ "method": "b",
+ "method_text": "raw OCR boxes (data/ocr_boxes/page_XXX.json); rendered page images NOT used (model does not support image input)",
+ "pdf": "docs/2025-SECOND-CYCLE-SCHOOLS-REGISTER-NEW-FINAL-160525_for-approval-2 (1).pdf",
+ "page_map": {
+  "Category A": "p6-p9",
+  "Category B": "p10-p16",
+  "Category C": "p17-p31",
+  "Appendix 1": "p32-p38",
+  "Appendix 2": "p39-p45",
+  "Appendix 3": "p46-p60",
+  "Appendix 4": "p61",
+  "Appendix 5": "p62"
+ },
+ "records": [
+  {
+   "id": 1,
+   "name": "Adrobaa Technical Institute",
+   "code": "9060201",
+   "region": "Ahafo",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    17,
+    32,
+    46
+   ],
+   "pdf_name_pages": [
+    17,
+    32,
+    46
+   ],
+   "evidence": {
+    "Category C": [
+     17
+    ],
+    "Appendix 1": [
+     32
+    ],
+    "Appendix 3": [
+     46
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "Ahafo Tano North 9060201 Adrobaa Technical Institute Adrobaa Mixed Refer to Appendix 1 for detailed technical Programs Day TVET",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 20,
+   "name": "Yamfo Technical Institute",
+   "code": "9060200",
+   "region": "Ahafo",
+   "claimed_labels": [
+    "Category A",
+    "Appendix 1"
+   ],
+   "pdf_code_pages": [
+    6,
+    32
+   ],
+   "pdf_name_pages": [
+    6,
+    32
+   ],
+   "evidence": {
+    "Category A": [
+     6
+    ],
+    "Appendix 1": [
+     32
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "Ahafo Tano North 9060200 Yamfo Technical Institute Yamfo Mixed Refer to Appendix 1 for detailed technical Programs Day/Boarding TVET",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 38,
+   "name": "Agona Technical Institute",
+   "code": "9052701",
+   "region": "Ashanti",
+   "claimed_labels": [
+    "Category B",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    10,
+    33,
+    46
+   ],
+   "pdf_name_pages": [
+    10,
+    33,
+    46
+   ],
+   "evidence": {
+    "Category B": [
+     10
+    ],
+    "Appendix 1": [
+     33
+    ],
+    "Appendix 3": [
+     46
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "Ashanti Sekyere South 9052701 Agona Technical Institute Agona Ashanti Mixed Refer to Appendix 1 for detailed technical Programs Day/Boarding TVET",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 57,
+   "name": "Atwima Kwanwoma Snr High/Tech",
+   "code": "0050208",
+   "region": "Ashanti",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 2",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    21,
+    54
+   ],
+   "pdf_name_pages": [
+    21,
+    39,
+    54
+   ],
+   "evidence": {
+    "Category C": [
+     21
+    ],
+    "Appendix 2": [
+     39
+    ],
+    "Appendix 3": [
+     54
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "187|Ashanti Atwima Kwanwoma 0050208 Atwima Kwanwoma Snr High/Tech Trede Mixed Day/Boarding SHTS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 75,
+   "name": "Christ the King Cath., Obuasi",
+   "code": "0051204",
+   "region": "Ashanti",
+   "claimed_labels": [
+    "Category B"
+   ],
+   "pdf_code_pages": [
+    11
+   ],
+   "pdf_name_pages": [
+    11,
+    40
+   ],
+   "evidence": {
+    "Category B": [
+     11
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "92 Ashanti Obuasi Municipal 0051204 Christ the King Cath., Obuasi Obuasi Mixed Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [
+    "Appendix 2"
+   ],
+   "verdict": "FAIL",
+   "method": "b"
+  },
+  {
+   "id": 93,
+   "name": "Ghana Muslim Mission Senior High",
+   "code": "0050508",
+   "region": "Ashanti",
+   "claimed_labels": [
+    "Category B"
+   ],
+   "pdf_code_pages": [
+    12
+   ],
+   "pdf_name_pages": [
+    12
+   ],
+   "evidence": {
+    "Category B": [
+     12
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "95 Ashanti Sekyere Central 0050508 Ghana Muslim Mission Senior High Beposo Mixed Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 114,
+   "name": "Kofiase Adventist Senior High/Tech.",
+   "code": "0050607",
+   "region": "Ashanti",
+   "claimed_labels": [
+    "Category B",
+    "Appendix 2",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    11,
+    55
+   ],
+   "pdf_name_pages": [
+    11,
+    55
+   ],
+   "evidence": {
+    "Category B": [
+     11
+    ],
+    "Appendix 2": [
+     39
+    ],
+    "Appendix 3": [
+     55
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "90 Ashanti Mampong Municipal 0050607 Kofiase Adventist Senior High/Tech. Kofiase Mixed Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 135,
+   "name": "Manso-Adubia Senior High",
+   "code": "0050403",
+   "region": "Ashanti",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    21,
+    53
+   ],
+   "pdf_name_pages": [
+    21,
+    53
+   ],
+   "evidence": {
+    "Category C": [
+     21
+    ],
+    "Appendix 3": [
+     53
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "178 Ashanti Amansie South 0050403 Manso-Adubia Senior High Manso Adubia Mixed Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 153,
+   "name": "Okomfo Anokye Senior High",
+   "code": "0050601",
+   "region": "Ashanti",
+   "claimed_labels": [
+    "Category B"
+   ],
+   "pdf_code_pages": [
+    12
+   ],
+   "pdf_name_pages": [
+    12
+   ],
+   "evidence": {
+    "Category B": [
+     12
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "103 Ashanti Sekyere South 0050601 Okomfo Anokye Senior High Wiamoase Mixed Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 171,
+   "name": "Prince Of Peace Girls",
+   "code": "0050117",
+   "region": "Ashanti",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    22,
+    54
+   ],
+   "pdf_name_pages": [
+    22,
+    54
+   ],
+   "evidence": {
+    "Category C": [
+     22
+    ],
+    "Appendix 3": [
+     54
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "234|Ashanti Kumasi Metro 0050117 Prince Of Peace Girls South Suntreso Girls Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 190,
+   "name": "St. Mary's Girl's Senior High, Konongo",
+   "code": "0051704",
+   "region": "Ashanti",
+   "claimed_labels": [
+    "Category B"
+   ],
+   "pdf_code_pages": [
+    11
+   ],
+   "pdf_name_pages": [
+    11
+   ],
+   "evidence": {
+    "Category B": [
+     11
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "Ashanti Asante Akim Central Muni. 0051704 St. Mary's Girl's Senior High, Konongo Konongo Girls Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 208,
+   "name": "Twedie Technical Institute",
+   "code": "9052300",
+   "region": "Ashanti",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    17,
+    32,
+    47
+   ],
+   "pdf_name_pages": [
+    17,
+    32,
+    47
+   ],
+   "evidence": {
+    "Category C": [
+     17
+    ],
+    "Appendix 1": [
+     32
+    ],
+    "Appendix 3": [
+     47
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "13 Ashanti Atwima Kwawoma 9052300 Twedie Technical Institute Twedie Mixed Refer to Appendix 1 for detailed technical Programs Day/Boarding TVET",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 228,
+   "name": "Drobo Senior High",
+   "code": "0060501",
+   "region": "Bono",
+   "claimed_labels": [
+    "Category B"
+   ],
+   "pdf_code_pages": [
+    12
+   ],
+   "pdf_name_pages": [
+    12
+   ],
+   "evidence": {
+    "Category B": [
+     12
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "116 Bono Jaman South 0060501 Drobo Senior High Drobo Mixed Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 250,
+   "name": "Nsoatre Technical Institute",
+   "code": "9062602",
+   "region": "Bono",
+   "claimed_labels": [
+    "Category B",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    10,
+    33,
+    47
+   ],
+   "pdf_name_pages": [
+    10,
+    33,
+    47
+   ],
+   "evidence": {
+    "Category B": [
+     10
+    ],
+    "Appendix 1": [
+     33
+    ],
+    "Appendix 3": [
+     47
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "Bono Sunyani West 9062602 Nsoatre Technical Institute Nsoatre Mixed Refer to Appendix 1 for detailed technical Programs Day/Boarding TVET",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 268,
+   "name": "Wamanafo Senior High/Tech",
+   "code": "0061002",
+   "region": "Bono",
+   "claimed_labels": [
+    "Category B",
+    "Appendix 2"
+   ],
+   "pdf_code_pages": [
+    12
+   ],
+   "pdf_name_pages": [
+    12,
+    40
+   ],
+   "evidence": {
+    "Category B": [
+     12
+    ],
+    "Appendix 2": [
+     40
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "109 Bono Dormaa East 0061002 Wamanafo Senior High/Tech Wamanafo Mixed Day/Boarding SHTS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 286,
+   "name": "Krobo Comm.Senior High",
+   "code": "0060806",
+   "region": "Bono East",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    23,
+    55
+   ],
+   "pdf_name_pages": [
+    23,
+    24,
+    55,
+    56
+   ],
+   "evidence": {
+    "Category C": [
+     23
+    ],
+    "Appendix 3": [
+     55
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "270 Bono East Techiman North 0060806 Krobo Comm.Senior High Krobo Mixed Day SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 306,
+   "name": "Abakrampa Senior High/Tech",
+   "code": "0030403",
+   "region": "Central",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 2"
+   ],
+   "pdf_code_pages": [
+    23
+   ],
+   "pdf_name_pages": [
+    23,
+    40
+   ],
+   "evidence": {
+    "Category C": [
+     23
+    ],
+    "Appendix 2": [
+     40
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "277 Central Abura/Asebu/Kwamankese 0030403 Abakrampa Senior High/Tech Abakrampa Mixed Day/Boarding SHTS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 324,
+   "name": "Assin Nsuta Senior High School",
+   "code": "0031206",
+   "region": "Central",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    24,
+    55
+   ],
+   "pdf_name_pages": [
+    24,
+    55
+   ],
+   "evidence": {
+    "Category C": [
+     24
+    ],
+    "Appendix 3": [
+     55
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "292 Central Assin South 0031206 Assin Nsuta Senior High School Assin Nsuta Mixed Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 342,
+   "name": "Effutu Senior High/Tech",
+   "code": "0030110",
+   "region": "Central",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 2"
+   ],
+   "pdf_code_pages": [
+    24
+   ],
+   "pdf_name_pages": [
+    24,
+    40
+   ],
+   "evidence": {
+    "Category C": [
+     24
+    ],
+    "Appendix 2": [
+     40
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "299 Central Cape Coast Metro 0030110 Effutu Senior High/Tech Cape Coast Mixed Day/Boarding SHTS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 362,
+   "name": "Kwanyarko Senior High",
+   "code": "0030904",
+   "region": "Central",
+   "claimed_labels": [
+    "Category C"
+   ],
+   "pdf_code_pages": [
+    23
+   ],
+   "pdf_name_pages": [
+    23
+   ],
+   "evidence": {
+    "Category C": [
+     23
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "279 Central Agona East 0030904 Kwanyarko Senior High Kwanyako Mixed Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 381,
+   "name": "Odoben Senior High",
+   "code": "0030802",
+   "region": "Central",
+   "claimed_labels": [
+    "Category C"
+   ],
+   "pdf_code_pages": [
+    24
+   ],
+   "pdf_name_pages": [
+    24
+   ],
+   "evidence": {
+    "Category C": [
+     24
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "286 Central Asikuma/Odoben/Brakwa 0030802 Odoben Senior High Odoben Mixed Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 399,
+   "name": "University Practice Senior High",
+   "code": "0030105",
+   "region": "Central",
+   "claimed_labels": [
+    "Category B"
+   ],
+   "pdf_code_pages": [
+    13
+   ],
+   "pdf_name_pages": [
+    13
+   ],
+   "evidence": {
+    "Category B": [
+     13
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "152 Central Cape Coast Metro 0030105 University Practice Senior High Cape Coast Mixed Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 417,
+   "name": "Akro Senior High/Tech",
+   "code": "0021505",
+   "region": "Eastern",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 2"
+   ],
+   "pdf_code_pages": [
+    25
+   ],
+   "pdf_name_pages": [
+    25,
+    41
+   ],
+   "evidence": {
+    "Category C": [
+     25
+    ],
+    "Appendix 2": [
+     41
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "360 Eastern Lower Manya Krobo 0021505 Akro Senior High/Tech Odumase Mixed Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 435,
+   "name": "Asamankese Senior High",
+   "code": "0020501",
+   "region": "Eastern",
+   "claimed_labels": [
+    "Category B"
+   ],
+   "pdf_code_pages": [
+    14
+   ],
+   "pdf_name_pages": [
+    14
+   ],
+   "evidence": {
+    "Category B": [
+     14
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "196 Eastern West Akim Municipal 0020501 Asamankese Senior High Asamankese Mixed Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 453,
+   "name": "Kade Senior High/Tech.",
+   "code": "0021102",
+   "region": "Eastern",
+   "claimed_labels": [
+    "Category B",
+    "Appendix 2"
+   ],
+   "pdf_code_pages": [
+    14
+   ],
+   "pdf_name_pages": [
+    14,
+    41
+   ],
+   "evidence": {
+    "Category B": [
+     14
+    ],
+    "Appendix 2": [
+     41
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "179 Eastern Kwaebibirem Municipal 0021102 Kade Senior High/Tech. Kade Mixed Day/Boarding SHTS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 471,
+   "name": "Methodist Girls Senior High, Mamfe",
+   "code": "0020410",
+   "region": "Eastern",
+   "claimed_labels": [
+    "Category B",
+    "Appendix 5"
+   ],
+   "pdf_code_pages": [
+    14,
+    62
+   ],
+   "pdf_name_pages": [
+    14
+   ],
+   "evidence": {
+    "Category B": [
+     14
+    ],
+    "Appendix 5": [
+     62
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "163 Eastern Akwapim North Municipal 0020410 Methodist Girls Senior High, Mamfe Mamfe Girls Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 489,
+   "name": "Presby Senior High, Begoro",
+   "code": "0021201",
+   "region": "Eastern",
+   "claimed_labels": [
+    "Category B"
+   ],
+   "pdf_code_pages": [
+    14
+   ],
+   "pdf_name_pages": [
+    14
+   ],
+   "evidence": {
+    "Category B": [
+     14
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "178 Eastern Fanteakwa North 0021201 Presby Senior High, Begoro Begoro Mixed Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 530,
+   "name": "Achimota Senior High",
+   "code": "0010110",
+   "region": "Greater Accra",
+   "claimed_labels": [
+    "Category A",
+    "Appendix 5"
+   ],
+   "pdf_code_pages": [
+    8,
+    62
+   ],
+   "pdf_name_pages": [
+    8,
+    62
+   ],
+   "evidence": {
+    "Category A": [
+     8
+    ],
+    "Appendix 5": [
+     62
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "66 G. Accra Okaikwei North Municipal 0010110 Achimota Senior High Achimota Mixed Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 548,
+   "name": "Ebenezer Senior High",
+   "code": "0010101",
+   "region": "Greater Accra",
+   "claimed_labels": [
+    "Category C"
+   ],
+   "pdf_code_pages": [
+    26
+   ],
+   "pdf_name_pages": [
+    26
+   ],
+   "evidence": {
+    "Category C": [
+     26
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "372 G. Accra Accra Metro 0010101 Ebenezer Senior High Dansoman Mixed Day SHTS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 566,
+   "name": "Nima Technical Institute",
+   "code": "9010112",
+   "region": "Greater Accra",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    19,
+    35,
+    49
+   ],
+   "pdf_name_pages": [
+    19,
+    35,
+    49
+   ],
+   "evidence": {
+    "Category C": [
+     19
+    ],
+    "Appendix 1": [
+     35
+    ],
+    "Appendix 3": [
+     49
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "85 Greater Accra Ayawaso East Municipal 9010112 Nima Technical Institute Nima Mixed Refer to Appendix 1 for detailed technical Programs Day TVET",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 584,
+   "name": "St. Margaret Mary Snr.High/Tech",
+   "code": "0010142",
+   "region": "Greater Accra",
+   "claimed_labels": [
+    "Category B",
+    "Appendix 2"
+   ],
+   "pdf_code_pages": [
+    14
+   ],
+   "pdf_name_pages": [
+    14,
+    42
+   ],
+   "evidence": {
+    "Category B": [
+     14
+    ],
+    "Appendix 2": [
+     42
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "198 G.Accra Accra Metro 0010142 St. Margaret Mary Snr.High/Tech Dansoman Mixed Day SHTS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 602,
+   "name": "Langbinsi Senior High/Tech",
+   "code": "0080507",
+   "region": "North East",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 2",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    26,
+    57
+   ],
+   "pdf_name_pages": [
+    26,
+    42,
+    57
+   ],
+   "evidence": {
+    "Category C": [
+     26
+    ],
+    "Appendix 2": [
+     42
+    ],
+    "Appendix 3": [
+     57
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "407 North East East Mamprusi 0080507 Langbinsi Senior High/Tech Langbinsi Mixed Day SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 622,
+   "name": "Dagbon State Senior High/Tech",
+   "code": "0080802",
+   "region": "Northern",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 2"
+   ],
+   "pdf_code_pages": [
+    27
+   ],
+   "pdf_name_pages": [
+    27,
+    42
+   ],
+   "evidence": {
+    "Category C": [
+     27
+    ],
+    "Appendix 2": [
+     42
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "434Northern Yendi Municipal 0080802 Dagbon State Senior High/Tech Yendi Mixed Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 640,
+   "name": "Nyohini Community Technical Institute",
+   "code": "9080105",
+   "region": "Northern",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    19,
+    35,
+    50
+   ],
+   "pdf_name_pages": [
+    19,
+    50
+   ],
+   "evidence": {
+    "Category C": [
+     19
+    ],
+    "Appendix 1": [
+     35
+    ],
+    "Appendix 3": [
+     50
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "96 Northern Tamale Mun 9080105 Nyohini Community Technical Institute Tamale Mixed Refer to Appendix 1 for detailed technical Programs Day/Boarding TVET",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 658,
+   "name": "Wulensi Senior High",
+   "code": "0080402",
+   "region": "Northern",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    27,
+    57
+   ],
+   "pdf_name_pages": [
+    27,
+    57
+   ],
+   "evidence": {
+    "Category C": [
+     27
+    ],
+    "Appendix 3": [
+     57
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "420 Northern Nanumba South 0080402 Wulensi Senior High Wulensi Mixed Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 676,
+   "name": "Kpassa Senior High/Tech",
+   "code": "0070303",
+   "region": "Oti",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 2"
+   ],
+   "pdf_code_pages": [
+    27
+   ],
+   "pdf_name_pages": [
+    27,
+    43
+   ],
+   "evidence": {
+    "Category C": [
+     27
+    ],
+    "Appendix 2": [
+     43
+    ]
+   },
+   "region_confirmed": false,
+   "code_row_example": "452Oti Nkwanta North 0070303 Kpassa Senior High/Tech Kpassa Mixed Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 694,
+   "name": "Bole Senior High",
+   "code": "0080701",
+   "region": "Savannah",
+   "claimed_labels": [
+    "Category C"
+   ],
+   "pdf_code_pages": [
+    28
+   ],
+   "pdf_name_pages": [
+    28
+   ],
+   "evidence": {
+    "Category C": [
+     28
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "462|Savannah Bole 0080701 Bole Senior High Bole Mixed Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 712,
+   "name": "Azeem-Namoa Senior High/Tech",
+   "code": "0090604",
+   "region": "Upper East",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    29,
+    58
+   ],
+   "pdf_name_pages": [
+    29,
+    58
+   ],
+   "evidence": {
+    "Category C": [
+     29
+    ],
+    "Appendix 3": [
+     58
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "499 Upper East Bongo 0090604 Azeem-Namoa Senior High/Tech Namoo Mixed Day SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 730,
+   "name": "Kanjarga Comm. Senior High",
+   "code": "0090305",
+   "region": "Upper East",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    28,
+    58
+   ],
+   "pdf_name_pages": [
+    28,
+    58
+   ],
+   "evidence": {
+    "Category C": [
+     28
+    ],
+    "Appendix 3": [
+     58
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "484|Upper East Builsa South 0090305 Kanjarga Comm. Senior High Kanjarga Mixed Day SHTS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 749,
+   "name": "Sirigu Senior High",
+   "code": "0090506",
+   "region": "Upper East",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 3",
+    "Appendix 4"
+   ],
+   "pdf_code_pages": [
+    28,
+    58
+   ],
+   "pdf_name_pages": [
+    28,
+    58,
+    61
+   ],
+   "evidence": {
+    "Category C": [
+     28
+    ],
+    "Appendix 3": [
+     58
+    ],
+    "Appendix 4": [
+     61
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "491|Upper East Kasena-Nankani West 0090506 Sirigu Senior High Sirigu Mixed Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 767,
+   "name": "GRATIS Technical Institute, Wa",
+   "code": "9100103",
+   "region": "Upper West",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    20,
+    36,
+    51
+   ],
+   "pdf_name_pages": [
+    20,
+    51
+   ],
+   "evidence": {
+    "Category C": [
+     20
+    ],
+    "Appendix 1": [
+     36
+    ],
+    "Appendix 3": [
+     51
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "126|Upper West Wa Mun. 9100103 GRATIS Technical Institute, Wa Wa Mixed Refer to Appendix 1 for detailed technical Programs Day TVET",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 785,
+   "name": "Nandom Senior High",
+   "code": "0100201",
+   "region": "Upper West",
+   "claimed_labels": [
+    "Category A"
+   ],
+   "pdf_code_pages": [
+    9
+   ],
+   "pdf_name_pages": [
+    9
+   ],
+   "evidence": {
+    "Category A": [
+     9
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "80 Upper West Nandom 0100201 Nandom Senior High Nandom Boys Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 804,
+   "name": "Wa Senior High/Tech.",
+   "code": "0100101",
+   "region": "Upper West",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 2"
+   ],
+   "pdf_code_pages": [
+    29
+   ],
+   "pdf_name_pages": [
+    29,
+    43
+   ],
+   "evidence": {
+    "Category C": [
+     29
+    ],
+    "Appendix 2": [
+     43
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "519 Upper West Wa Municipal 0100101 Wa Senior High/Tech. Wa Mixed Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 823,
+   "name": "Anlo Awomefia Senior High",
+   "code": "0070508",
+   "region": "Volta",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 2",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    29,
+    59
+   ],
+   "pdf_name_pages": [
+    29,
+    44,
+    59
+   ],
+   "evidence": {
+    "Category C": [
+     29
+    ],
+    "Appendix 2": [
+     44
+    ],
+    "Appendix 3": [
+     59
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "539 /Volta Anlo Keta Municipal 0070508 Anlo Awomefia Senior High Anyako Mixed Day/Boarding SHTS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 841,
+   "name": "Comboni Tech/Voc Inst.",
+   "code": "9070901",
+   "region": "Volta",
+   "claimed_labels": [
+    "Category B",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    10,
+    37,
+    52
+   ],
+   "pdf_name_pages": [
+    10,
+    52
+   ],
+   "evidence": {
+    "Category B": [
+     10
+    ],
+    "Appendix 1": [
+     37
+    ],
+    "Appendix 3": [
+     52
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "28 Volta South Tongu Municipal 9070901 Comboni Tech/Voc Inst. Sogakope Mixed Refer to Appendix 1 for detailed technical Programs 14 Day/Boarding TVET",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 860,
+   "name": "Klikor Senior High/Tech.",
+   "code": "0070705",
+   "region": "Volta",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 2",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    30,
+    59
+   ],
+   "pdf_name_pages": [
+    30,
+    44,
+    59
+   ],
+   "evidence": {
+    "Category C": [
+     30
+    ],
+    "Appendix 2": [
+     44
+    ],
+    "Appendix 3": [
+     59
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "561 Volta Ketu South 0070705 Klikor Senior High/Tech. Klikor Mixed Day/Boarding SHTS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 879,
+   "name": "St. Catherine Girls Senior High School",
+   "code": "0070510",
+   "region": "Volta",
+   "claimed_labels": [
+    "Category C"
+   ],
+   "pdf_code_pages": [
+    30
+   ],
+   "pdf_name_pages": [
+    30
+   ],
+   "evidence": {
+    "Category C": [
+     30
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "574 Volta South Tongu 0070510 St. Catherine Girls Senior High School Agbakope Girls Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 898,
+   "name": "Weta Senior High/Tech.",
+   "code": "0070708",
+   "region": "Volta",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 2",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    30,
+    59
+   ],
+   "pdf_name_pages": [
+    30,
+    44,
+    59
+   ],
+   "evidence": {
+    "Category C": [
+     30
+    ],
+    "Appendix 2": [
+     44
+    ],
+    "Appendix 3": [
+     59
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "559 Volta Ketu North 0070708 Weta Senior High/Tech. Weta Mixed Day/Boarding SHTS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 916,
+   "name": "Benso Senior High/Tech",
+   "code": "0040906",
+   "region": "Western",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 2",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    31,
+    60
+   ],
+   "pdf_name_pages": [
+    31,
+    44,
+    60
+   ],
+   "evidence": {
+    "Category C": [
+     31
+    ],
+    "Appendix 2": [
+     44
+    ],
+    "Appendix 3": [
+     60
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "593 Western Tarkwa-Nsuaem Municipal 0040906 Benso Senior High/Tech Benso Mixed Day/Boarding SHS",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  },
+  {
+   "id": 935,
+   "name": "Mesu Akompi Technical Institute",
+   "code": "9041412",
+   "region": "Western",
+   "claimed_labels": [
+    "Category C",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "pdf_code_pages": [
+    21,
+    37,
+    53
+   ],
+   "pdf_name_pages": [
+    21,
+    53
+   ],
+   "evidence": {
+    "Category C": [
+     21
+    ],
+    "Appendix 1": [
+     37
+    ],
+    "Appendix 3": [
+     53
+    ]
+   },
+   "region_confirmed": true,
+   "code_row_example": "161 Western Wassa Amenfi East 9041412 Mesu Akompi Technical Institute Wassa Saa Mixed Refer to Appendix 1 for detailed technical Programs Day TVET",
+   "missing_claimed_labels": [],
+   "pdf_sections_not_claimed": [],
+   "verdict": "PASS",
+   "method": "b"
+  }
+ ],
+ "passed": 49,
+ "failed": 1,
+ "sample_size": 50
+}

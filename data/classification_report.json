@@ -1,0 +1,1361 @@
+{
+ "total": 957,
+ "matched": 771,
+ "unresolved_count": 186,
+ "section_counts": {
+  "Appendix 1": 117,
+  "Appendix 3": 292,
+  "Appendix 2": 192,
+  "Cat B": 160,
+  "Cat C": 374,
+  "Cat A": 60,
+  "Appendix 5": 25,
+  "Appendix 4": 7
+ },
+ "category_ambiguity": [
+  {
+   "id": 107,
+   "name": "Juaben Senior High",
+   "cats": [
+    "Category B",
+    "Category C"
+   ]
+  },
+  {
+   "id": 124,
+   "name": "Kumasi Senior High/Tech",
+   "cats": [
+    "Category A",
+    "Category C"
+   ]
+  },
+  {
+   "id": 125,
+   "name": "Kumasi Tech. Inst.",
+   "cats": [
+    "Category A",
+    "Category C"
+   ]
+  },
+  {
+   "id": 222,
+   "name": "Berekum Senior High",
+   "cats": [
+    "Category A",
+    "Category B"
+   ]
+  },
+  {
+   "id": 223,
+   "name": "Chiraa Senior High",
+   "cats": [
+    "Category B",
+    "Category C"
+   ]
+  },
+  {
+   "id": 292,
+   "name": "Nkoranza Senior High/Tech",
+   "cats": [
+    "Category A",
+    "Category B"
+   ]
+  },
+  {
+   "id": 293,
+   "name": "Nkoranza Tech Inst.",
+   "cats": [
+    "Category A",
+    "Category B"
+   ]
+  },
+  {
+   "id": 299,
+   "name": "Techiman Senior High",
+   "cats": [
+    "Category B",
+    "Category C"
+   ]
+  },
+  {
+   "id": 394,
+   "name": "Swedru Senior High",
+   "cats": [
+    "Category B",
+    "Category C"
+   ]
+  },
+  {
+   "id": 435,
+   "name": "Asamankese Senior High",
+   "cats": [
+    "Category B",
+    "Category C"
+   ]
+  },
+  {
+   "id": 489,
+   "name": "Presby Senior High, Begoro",
+   "cats": [
+    "Category B",
+    "Category C"
+   ]
+  },
+  {
+   "id": 490,
+   "name": "Presby Senior High, Mampong Akwapim",
+   "cats": [
+    "Category B",
+    "Category C"
+   ]
+  },
+  {
+   "id": 491,
+   "name": "Presby Senior High, Suhum",
+   "cats": [
+    "Category B",
+    "Category C"
+   ]
+  },
+  {
+   "id": 532,
+   "name": "Ada Senior High/Tech.",
+   "cats": [
+    "Category A",
+    "Category C"
+   ]
+  },
+  {
+   "id": 533,
+   "name": "Ada Tech. Inst.",
+   "cats": [
+    "Category A",
+    "Category C"
+   ]
+  },
+  {
+   "id": 560,
+   "name": "Labone Senior High",
+   "cats": [
+    "Category B",
+    "Category C"
+   ]
+  },
+  {
+   "id": 576,
+   "name": "Prampram Senior High",
+   "cats": [
+    "Category B",
+    "Category C"
+   ]
+  },
+  {
+   "id": 590,
+   "name": "Tema Senior High",
+   "cats": [
+    "Category A",
+    "Category B"
+   ]
+  },
+  {
+   "id": 652,
+   "name": "Tamale Senior High",
+   "cats": [
+    "Category A",
+    "Category B",
+    "Category C"
+   ]
+  },
+  {
+   "id": 659,
+   "name": "Yendi Senior High",
+   "cats": [
+    "Category B",
+    "Category C"
+   ]
+  },
+  {
+   "id": 714,
+   "name": "Bawku Senior High/Tech.",
+   "cats": [
+    "Category A",
+    "Category C"
+   ]
+  },
+  {
+   "id": 715,
+   "name": "Bawku Tech. Inst.",
+   "cats": [
+    "Category A",
+    "Category C"
+   ]
+  },
+  {
+   "id": 775,
+   "name": "Jirapa Senior High",
+   "cats": [
+    "Category A",
+    "Category C"
+   ]
+  },
+  {
+   "id": 781,
+   "name": "Lawra Senior High",
+   "cats": [
+    "Category A",
+    "Category C"
+   ]
+  },
+  {
+   "id": 861,
+   "name": "Kpando Senior High.",
+   "cats": [
+    "Category A",
+    "Category B"
+   ]
+  },
+  {
+   "id": 928,
+   "name": "Half Assini Senior High",
+   "cats": [
+    "Category B",
+    "Category C"
+   ]
+  },
+  {
+   "id": 946,
+   "name": "Shama Senior High",
+   "cats": [
+    "Category B",
+    "Category C"
+   ]
+  },
+  {
+   "id": 953,
+   "name": "Takoradi Senior High",
+   "cats": [
+    "Category A",
+    "Category B",
+    "Category C"
+   ]
+  }
+ ],
+ "unresolved": [
+  {
+   "id": 4,
+   "name": "Bechem Presby Senior High",
+   "region": "Ahafo",
+   "type": "SHS"
+  },
+  {
+   "id": 7,
+   "name": "Danso Agyei Senior High Technical",
+   "region": "Ahafo",
+   "type": "SHTS"
+  },
+  {
+   "id": 10,
+   "name": "Gvedu Technical Institute",
+   "region": "Ahafo",
+   "type": "TVET"
+  },
+  {
+   "id": 12,
+   "name": "Islamic Mission Technical Institute",
+   "region": "Ahafo",
+   "type": "TVET"
+  },
+  {
+   "id": 14,
+   "name": "OLA Girls Senior High, Kenyasi",
+   "region": "Ahafo",
+   "type": "SHS"
+  },
+  {
+   "id": 15,
+   "name": "Serwaa Kesse Girls Senior High",
+   "region": "Ahafo",
+   "type": "SHS"
+  },
+  {
+   "id": 19,
+   "name": "Twereku Ampem Senior High School",
+   "region": "Ahafo",
+   "type": "SHS"
+  },
+  {
+   "id": 28,
+   "name": "Adugyama Comm. Senior High",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 31,
+   "name": "Adventist Senior High, Kumasi",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 33,
+   "name": "Afigyaman Senior High School",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 36,
+   "name": "Agogo State College",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 45,
+   "name": "Al-Azariya Islamic Snr. High, Kumasi",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 48,
+   "name": "Anglican Senior High, Kumasi",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 54,
+   "name": "Asanteman Senior High",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 55,
+   "name": "Asare Bediako Senior High.",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 74,
+   "name": "Catholic Technical Institute",
+   "region": "Ashanti",
+   "type": "TVET"
+  },
+  {
+   "id": 77,
+   "name": "Collins Senior High/Commercial, Agogo",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 92,
+   "name": "Fomena T.I. Ahmadiyya Senior High",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 100,
+   "name": "Islamic Senior High,Kumasi",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 114,
+   "name": "Kofiase Adventist Senior High/Tech.",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 119,
+   "name": "Konongo Odumase Senior High .",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 120,
+   "name": "Krobea Asante Technical and Vocational Institute",
+   "region": "Ashanti",
+   "type": "TVET"
+  },
+  {
+   "id": 122,
+   "name": "Kumasi Girls Senior High",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 126,
+   "name": "Kumasi Wesley Girls High Sch",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 134,
+   "name": "Mankranso Senior High",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 136,
+   "name": "Mansoman Senior High",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 147,
+   "name": "Nuru-Ameen Islamic Senior High, Asewase",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 157,
+   "name": "Oppong Mem. Senior High",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 159,
+   "name": "Osei Kyeretwie Senior High",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 160,
+   "name": "Osei Tutu Senior High, Akropong",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 161,
+   "name": "Otaakrom Technical Institute",
+   "region": "Ashanti",
+   "type": "TVET"
+  },
+  {
+   "id": 162,
+   "name": "Otumfuo Osei Tutu II College",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 164,
+   "name": "Pakyi Applied Technology Institute",
+   "region": "Ashanti",
+   "type": "TVET"
+  },
+  {
+   "id": 172,
+   "name": "Ramsever Technical Institute",
+   "region": "Ashanti",
+   "type": "TVET"
+  },
+  {
+   "id": 173,
+   "name": "S.D.A. Senior High, Agona",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 174,
+   "name": "S.D.A. Senior High, Bekwai",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 176,
+   "name": "Sakafia Islamic Senior High",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 179,
+   "name": "Serwaah Nyarko Girls' Snr. High",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 185,
+   "name": "St. Hubert Sem/Senior High, Kumasi",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 189,
+   "name": "St. Louis Senior High, Kumasi",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 190,
+   "name": "St. Mary's Girl's Senior High, Konongo",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 191,
+   "name": "St. Michael's Senior High, Ahenkro",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 193,
+   "name": "St. Monica's Senior High, Mampong",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 197,
+   "name": "T. I. Ahmadiyya Senior High , Kumasi",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 198,
+   "name": "Tawheed Senior High.",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 199,
+   "name": "Tepa Senior High",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 206,
+   "name": "TSC Technical Institute. Bekwai",
+   "region": "Ashanti",
+   "type": "TVET"
+  },
+  {
+   "id": 207,
+   "name": "Tweapease Senior High School",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 211,
+   "name": "Wesley High School, Bekwai",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 212,
+   "name": "Wesley Senior High, Konongo .",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 214,
+   "name": "WIOSO SHS",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 215,
+   "name": "Yaa Asantewaa Girls Senior High .",
+   "region": "Ashanti",
+   "type": "SHS"
+  },
+  {
+   "id": 219,
+   "name": "Bandaman Senior High",
+   "region": "Bono",
+   "type": "SHS"
+  },
+  {
+   "id": 221,
+   "name": "Berekum Presby Senior High",
+   "region": "Bono",
+   "type": "SHS"
+  },
+  {
+   "id": 229,
+   "name": "Duadaso No. 1 Senior High/Tech.",
+   "region": "Bono",
+   "type": "SHS"
+  },
+  {
+   "id": 233,
+   "name": "Hidaayah Islamic Senior High School",
+   "region": "Bono",
+   "type": "SHTS"
+  },
+  {
+   "id": 238,
+   "name": "Kyem Amponsah Senior High School, Fiapre",
+   "region": "Bono",
+   "type": "SHTS"
+  },
+  {
+   "id": 241,
+   "name": "Methodist Senior High/Tech.,Biadan",
+   "region": "Bono",
+   "type": "SHS"
+  },
+  {
+   "id": 247,
+   "name": "Nkyeraa Senior High Sch.",
+   "region": "Bono",
+   "type": "SHS"
+  },
+  {
+   "id": 248,
+   "name": "Notre Dame Girls Senior High School, Sunyani",
+   "region": "Bono",
+   "type": "SHS"
+  },
+  {
+   "id": 253,
+   "name": "Our Lady of Providence Senior High",
+   "region": "Bono",
+   "type": "SHS"
+  },
+  {
+   "id": 254,
+   "name": "S.D.A Senior High, Sunyani",
+   "region": "Bono",
+   "type": "SHS"
+  },
+  {
+   "id": 260,
+   "name": "St. James Sem & Senior High, Abesim",
+   "region": "Bono",
+   "type": "SHS"
+  },
+  {
+   "id": 270,
+   "name": "Abeaseman Comm. Day Senior High",
+   "region": "Bono East",
+   "type": "SHS"
+  },
+  {
+   "id": 271,
+   "name": "Abrafi Senior High",
+   "region": "Bono East",
+   "type": "SHS"
+  },
+  {
+   "id": 272,
+   "name": "Akumfi Ameyaw Senior High/Tech.",
+   "region": "Bono East",
+   "type": "SHTS"
+  },
+  {
+   "id": 279,
+   "name": "Gyarko Comm. Day Senior High",
+   "region": "Bono East",
+   "type": "SHS"
+  },
+  {
+   "id": 281,
+   "name": "Kajaii Technical Institute",
+   "region": "Bono East",
+   "type": "TVET"
+  },
+  {
+   "id": 283,
+   "name": "Kesse Basahyia Senior High School",
+   "region": "Bono East",
+   "type": "SHS"
+  },
+  {
+   "id": 289,
+   "name": "Kwarteng Ankomah Senior High",
+   "region": "Bono East",
+   "type": "SHS"
+  },
+  {
+   "id": 291,
+   "name": "New Longoro Comm.School (Dega)",
+   "region": "Bono East",
+   "type": "SHS"
+  },
+  {
+   "id": 298,
+   "name": "St. Francis Seminary Senior High, Buoyem",
+   "region": "Bono East",
+   "type": "SHTS"
+  },
+  {
+   "id": 308,
+   "name": "Aburaman Senior High",
+   "region": "Central",
+   "type": "SHS"
+  },
+  {
+   "id": 309,
+   "name": "Academy of Christ the King",
+   "region": "Central",
+   "type": "SHS"
+  },
+  {
+   "id": 310,
+   "name": "Adankwaman Senior High",
+   "region": "Central",
+   "type": "SHS"
+  },
+  {
+   "id": 311,
+   "name": "Adisadel College",
+   "region": "Central",
+   "type": "SHS"
+  },
+  {
+   "id": 312,
+   "name": "Aggrey Mem. A.M.E.Zion Snr. High",
+   "region": "Central",
+   "type": "SHS"
+  },
+  {
+   "id": 313,
+   "name": "Agona Fankobaa Senior High",
+   "region": "Central",
+   "type": "SHS"
+  },
+  {
+   "id": 341,
+   "name": "Edinaman Senior High",
+   "region": "Central",
+   "type": "SHS"
+  },
+  {
+   "id": 346,
+   "name": "Envan-Abaasa Technical Institute",
+   "region": "Central",
+   "type": "TVET"
+  },
+  {
+   "id": 357,
+   "name": "Holy Child School, Cape Coast",
+   "region": "Central",
+   "type": "SHS"
+  },
+  {
+   "id": 368,
+   "name": "Methodist High School,Saltpond",
+   "region": "Central",
+   "type": "SHS"
+  },
+  {
+   "id": 376,
+   "name": "Nsaba Presby Senior High",
+   "region": "Central",
+   "type": "SHS"
+  },
+  {
+   "id": 387,
+   "name": "S.D.A Senior High School, Gomoa Jukwa",
+   "region": "Central",
+   "type": "SHTS"
+  },
+  {
+   "id": 389,
+   "name": "Siddig Senior High Sch.",
+   "region": "Central",
+   "type": "SHS"
+  },
+  {
+   "id": 393,
+   "name": "Swedru Sch. Of Business",
+   "region": "Central",
+   "type": "SHTS"
+  },
+  {
+   "id": 399,
+   "name": "University Practice Senior High",
+   "region": "Central",
+   "type": "SHS"
+  },
+  {
+   "id": 411,
+   "name": "Adeiso Presby Senior High",
+   "region": "Eastern",
+   "type": "SHS"
+  },
+  {
+   "id": 422,
+   "name": "Akwamuman Senior High",
+   "region": "Eastern",
+   "type": "SHS"
+  },
+  {
+   "id": 427,
+   "name": "Anum Presby Senior High",
+   "region": "Eastern",
+   "type": "SHS"
+  },
+  {
+   "id": 445,
+   "name": "Diaspora Girls' Senior High",
+   "region": "Eastern",
+   "type": "SHTS"
+  },
+  {
+   "id": 450,
+   "name": "H'Mount Sinai Senior High School",
+   "region": "Eastern",
+   "type": "SHS"
+  },
+  {
+   "id": 473,
+   "name": "New Abirem/Afosu Senior High",
+   "region": "Eastern",
+   "type": "SHS"
+  },
+  {
+   "id": 495,
+   "name": "S.D.A Senior High, Koforidua",
+   "region": "Eastern",
+   "type": "SHS"
+  },
+  {
+   "id": 536,
+   "name": "Agomeda Technical Institute",
+   "region": "Greater Accra",
+   "type": "TVET"
+  },
+  {
+   "id": 541,
+   "name": "Bedeku Technical Institute",
+   "region": "Greater Accra",
+   "type": "TVET"
+  },
+  {
+   "id": 545,
+   "name": "Danfa Technical Institute",
+   "region": "Greater Accra",
+   "type": "TVET"
+  },
+  {
+   "id": 546,
+   "name": "Dodowa Technical Institute",
+   "region": "Greater Accra",
+   "type": "TVET"
+  },
+  {
+   "id": 549,
+   "name": "Forces Senior High/Tech, Burma Camp",
+   "region": "Greater Accra",
+   "type": "SHTS"
+  },
+  {
+   "id": 551,
+   "name": "Ghanata Senior High",
+   "region": "Greater Accra",
+   "type": "SHS"
+  },
+  {
+   "id": 554,
+   "name": "Kanda Technical Institute",
+   "region": "Greater Accra",
+   "type": "TVET"
+  },
+  {
+   "id": 565,
+   "name": "Ngleshie Amanfro Technical Institute",
+   "region": "Greater Accra",
+   "type": "TVET"
+  },
+  {
+   "id": 566,
+   "name": "Nima Technical Institute",
+   "region": "Greater Accra",
+   "type": "TVET"
+  },
+  {
+   "id": 570,
+   "name": "Odorgonno Senior High",
+   "region": "Greater Accra",
+   "type": "SHS"
+  },
+  {
+   "id": 571,
+   "name": "Opportunities Industrialization Technical Institute, Accra",
+   "region": "Greater Accra",
+   "type": "TVET"
+  },
+  {
+   "id": 573,
+   "name": "Our Lady of Mercy Senior High",
+   "region": "Greater Accra",
+   "type": "SHS"
+  },
+  {
+   "id": 574,
+   "name": "Pilot Technical Institute",
+   "region": "Greater Accra",
+   "type": "TVET"
+  },
+  {
+   "id": 575,
+   "name": "Prampram Technical Institute",
+   "region": "Greater Accra",
+   "type": "TVET"
+  },
+  {
+   "id": 582,
+   "name": "South Labone Girls Technical Institute",
+   "region": "Greater Accra",
+   "type": "TVET"
+  },
+  {
+   "id": 592,
+   "name": "Teshie Tech. Institute",
+   "region": "Greater Accra",
+   "type": "TVET"
+  },
+  {
+   "id": 594,
+   "name": "West Africa Senior High",
+   "region": "Greater Accra",
+   "type": "SHS"
+  },
+  {
+   "id": 603,
+   "name": "Loagri Technical Institute",
+   "region": "North East",
+   "type": "TVET"
+  },
+  {
+   "id": 606,
+   "name": "Nalerigu Technical Institute",
+   "region": "North East",
+   "type": "TVET"
+  },
+  {
+   "id": 612,
+   "name": "Walewale Technical Institute",
+   "region": "North East",
+   "type": "TVET"
+  },
+  {
+   "id": 618,
+   "name": "Anbariya Senior High Sch.",
+   "region": "Northern",
+   "type": "SHS"
+  },
+  {
+   "id": 620,
+   "name": "Business Senior High, Tamale",
+   "region": "Northern",
+   "type": "SHS"
+  },
+  {
+   "id": 623,
+   "name": "E. P. Agric Senior High/Tech.",
+   "region": "Northern",
+   "type": "SHS"
+  },
+  {
+   "id": 626,
+   "name": "GRATIS Technical Institute, Tamale",
+   "region": "Northern",
+   "type": "TVET"
+  },
+  {
+   "id": 628,
+   "name": "Islamic Science Senior High, Tamale",
+   "region": "Northern",
+   "type": "SHS"
+  },
+  {
+   "id": 629,
+   "name": "Kalpohin Senior High",
+   "region": "Northern",
+   "type": "SHS"
+  },
+  {
+   "id": 638,
+   "name": "Northern School of Business",
+   "region": "Northern",
+   "type": "SHTS"
+  },
+  {
+   "id": 639,
+   "name": "Nuriya Islamic Senior High, Tamale",
+   "region": "Northern",
+   "type": "SHTS"
+  },
+  {
+   "id": 647,
+   "name": "Savelugu Technical Institute",
+   "region": "Northern",
+   "type": "TVET"
+  },
+  {
+   "id": 663,
+   "name": "Ahamansu Islamic Senior High School",
+   "region": "Oti",
+   "type": "SHTS"
+  },
+  {
+   "id": 667,
+   "name": "Biakoye Comm. School",
+   "region": "Oti",
+   "type": "SHTS"
+  },
+  {
+   "id": 669,
+   "name": "Bueman Senior High",
+   "region": "Oti",
+   "type": "SHS"
+  },
+  {
+   "id": 674,
+   "name": "Kadjebi-Asato Senior High",
+   "region": "Oti",
+   "type": "SHTS"
+  },
+  {
+   "id": 678,
+   "name": "Kyabobo Girls' School",
+   "region": "Oti",
+   "type": "SHS"
+  },
+  {
+   "id": 681,
+   "name": "Nchumuruman Comm. Day Senior High",
+   "region": "Oti",
+   "type": "SHS"
+  },
+  {
+   "id": 685,
+   "name": "Ntruboman Senior High",
+   "region": "Oti",
+   "type": "SHS"
+  },
+  {
+   "id": 689,
+   "name": "St. Mary's Sem.& Senior High School",
+   "region": "Oti",
+   "type": "SHS"
+  },
+  {
+   "id": 692,
+   "name": "Yabram Comm. Day School",
+   "region": "Oti",
+   "type": "SHS"
+  },
+  {
+   "id": 697,
+   "name": "Buipe Technical Institute",
+   "region": "Savannah",
+   "type": "TVET"
+  },
+  {
+   "id": 764,
+   "name": "Dr. Hilla Limann Senior High School",
+   "region": "Upper West",
+   "type": "SHS"
+  },
+  {
+   "id": 772,
+   "name": "Islamic Senior High, Wa",
+   "region": "Upper West",
+   "type": "SHS"
+  },
+  {
+   "id": 777,
+   "name": "Kanton Senior High",
+   "region": "Upper West",
+   "type": "SHS"
+  },
+  {
+   "id": 780,
+   "name": "Lassie-Tuolu Senior High",
+   "region": "Upper West",
+   "type": "SHS"
+  },
+  {
+   "id": 788,
+   "name": "Queen of Peace Senior High, Nadowli",
+   "region": "Upper West",
+   "type": "SHS"
+  },
+  {
+   "id": 795,
+   "name": "St. Francis Girls Senior High, Jirapa",
+   "region": "Upper West",
+   "type": "SHS"
+  },
+  {
+   "id": 797,
+   "name": "T. I. Ahmadiyya Senior High, Wa",
+   "region": "Upper West",
+   "type": "SHS"
+  },
+  {
+   "id": 814,
+   "name": "Agotime Senior High",
+   "region": "Volta",
+   "type": "SHTS"
+  },
+  {
+   "id": 824,
+   "name": "Anlo Senior High",
+   "region": "Volta",
+   "type": "SHS"
+  },
+  {
+   "id": 825,
+   "name": "Anlo Tech. Inst.",
+   "region": "Volta",
+   "type": "TVET"
+  },
+  {
+   "id": 831,
+   "name": "Avenor Senior High",
+   "region": "Volta",
+   "type": "SHTS"
+  },
+  {
+   "id": 835,
+   "name": "Awudome Senior High",
+   "region": "Volta",
+   "type": "SHS"
+  },
+  {
+   "id": 837,
+   "name": "Bishop Herman College",
+   "region": "Volta",
+   "type": "SHS"
+  },
+  {
+   "id": 847,
+   "name": "E. P. Senior High",
+   "region": "Volta",
+   "type": "SHS"
+  },
+  {
+   "id": 849,
+   "name": "E.P.C. Mawuko Girls Senior High",
+   "region": "Volta",
+   "type": "SHS"
+  },
+  {
+   "id": 854,
+   "name": "Jim Bourton Mem Agric. Senior High",
+   "region": "Volta",
+   "type": "SHS"
+  },
+  {
+   "id": 862,
+   "name": "Kpando Tech. Inst.",
+   "region": "Volta",
+   "type": "TVET"
+  },
+  {
+   "id": 870,
+   "name": "OLA Girls Senior High, Ho",
+   "region": "Volta",
+   "type": "SHS"
+  },
+  {
+   "id": 874,
+   "name": "Shia Senior High Technical",
+   "region": "Volta",
+   "type": "SHTS"
+  },
+  {
+   "id": 893,
+   "name": "Ve Comm. Senior High",
+   "region": "Volta",
+   "type": "SHTS"
+  },
+  {
+   "id": 896,
+   "name": "Volta Senior High School",
+   "region": "Volta",
+   "type": "SHS"
+  },
+  {
+   "id": 902,
+   "name": "Zion Senior High",
+   "region": "Volta",
+   "type": "SHTS"
+  },
+  {
+   "id": 903,
+   "name": "Ziope Senior High Sch.",
+   "region": "Volta",
+   "type": "SHS"
+  },
+  {
+   "id": 904,
+   "name": "Abura Technical Institute",
+   "region": "Western",
+   "type": "TVET"
+  },
+  {
+   "id": 906,
+   "name": "Ahantaman Girls' Senior High",
+   "region": "Western",
+   "type": "SHS"
+  },
+  {
+   "id": 907,
+   "name": "Amenfiman Senior High",
+   "region": "Western",
+   "type": "SHS"
+  },
+  {
+   "id": 909,
+   "name": "Archbishop Porter Girls Snr.High",
+   "region": "Western",
+   "type": "SHS"
+  },
+  {
+   "id": 912,
+   "name": "Asasetre Technical Institute",
+   "region": "Western",
+   "type": "TVET"
+  },
+  {
+   "id": 913,
+   "name": "Axim Girls Senior High",
+   "region": "Western",
+   "type": "SHS"
+  },
+  {
+   "id": 923,
+   "name": "Essipun Technical Institute",
+   "region": "Western",
+   "type": "TVET"
+  },
+  {
+   "id": 924,
+   "name": "Fiaseman Senior High",
+   "region": "Western",
+   "type": "SHS"
+  },
+  {
+   "id": 930,
+   "name": "Kikam Tech. Inst.",
+   "region": "Western",
+   "type": "TVET"
+  },
+  {
+   "id": 931,
+   "name": "Kwame Nkrumah Senior High",
+   "region": "Western",
+   "type": "SHS"
+  },
+  {
+   "id": 932,
+   "name": "Libermann Technical Institute",
+   "region": "Western",
+   "type": "TVET"
+  },
+  {
+   "id": 933,
+   "name": "Manso-Amenfi Technical Institute",
+   "region": "Western",
+   "type": "TVET"
+  },
+  {
+   "id": 934,
+   "name": "Manso-Amentfi Technical Institute",
+   "region": "Western",
+   "type": "TVET"
+  },
+  {
+   "id": 935,
+   "name": "Mesu Akompi Technical Institute",
+   "region": "Western",
+   "type": "TVET"
+  },
+  {
+   "id": 936,
+   "name": "Methodist Senior High, Sekondi",
+   "region": "Western",
+   "type": "SHS"
+  },
+  {
+   "id": 939,
+   "name": "Opportunities Industrialisation Technical Inst.",
+   "region": "Western",
+   "type": "TVET"
+  },
+  {
+   "id": 940,
+   "name": "Opportunities Industrialisation Technical Institute - Takoradi",
+   "region": "Western",
+   "type": "TVET"
+  },
+  {
+   "id": 943,
+   "name": "Sekondi College",
+   "region": "Western",
+   "type": "SHS"
+  },
+  {
+   "id": 945,
+   "name": "Sekondi Technical Institute",
+   "region": "Western",
+   "type": "TVET"
+  },
+  {
+   "id": 947,
+   "name": "Shama Technical Institute",
+   "region": "Western",
+   "type": "TVET"
+  },
+  {
+   "id": 948,
+   "name": "St. Ann's Technical Institute",
+   "region": "Western",
+   "type": "TVET"
+  },
+  {
+   "id": 949,
+   "name": "St. Augustine's Senior High, Bogoso",
+   "region": "Western",
+   "type": "SHS"
+  },
+  {
+   "id": 950,
+   "name": "St. John's Senior High, Sekondi",
+   "region": "Western",
+   "type": "SHS"
+  },
+  {
+   "id": 951,
+   "name": "St. Mary's Boys' Senior High, Apowa",
+   "region": "Western",
+   "type": "SHS"
+  },
+  {
+   "id": 954,
+   "name": "Takoradi Tech. Inst.",
+   "region": "Western",
+   "type": "TVET"
+  },
+  {
+   "id": 958,
+   "name": "TSC Technical Institute - Half Assini",
+   "region": "Western",
+   "type": "TVET"
+  },
+  {
+   "id": 966,
+   "name": "Bibiani Senior High/Tech.",
+   "region": "Western North",
+   "type": "SHTS"
+  },
+  {
+   "id": 973,
+   "name": "Nana Brentu Senior High/Tech",
+   "region": "Western North",
+   "type": "SHTS"
+  },
+  {
+   "id": 975,
+   "name": "Queens Girls' Senior High, Sefwi Anwhiaso",
+   "region": "Western North",
+   "type": "SHS"
+  },
+  {
+   "id": 980,
+   "name": "TSC Technical Institute - Bibiani",
+   "region": "Western North",
+   "type": "TVET"
+  }
+ ]
+}

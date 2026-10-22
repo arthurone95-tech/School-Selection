@@ -1,0 +1,52 @@
+PROGRAMMES w
+
+SCHOOL HOM. | vis. | GEN. | GEN. NO. OF >
+S/N REGION DISTRICT CODE SCHOOL NAME LOCATION GENDER AGRIC | BUS econ. | arts | arts | sci STEM | LANG PROG STATUS :
+101 | 201 | 301 | 401 | 402 | 501 | 502 | 503 | 504 a
+160| Central Dente Lower 0031104 |Twifo Hemang Senior High/Tech Twifo Hemang Mixed x rrr g _[Pav/Boarding | SHTS
+161| Central Upper Denkyira East Muni. {0031001 |Boa-Amponsem Senior High Dunkwa-On-Offin | Mixed X xX 6 Day/Boarding | SHS
+162| Central Upper Denkyira West 0031003 _[Diaso Senior High Diaso Mixed X X —eocecene 6 __|Day/Boarding | SHS
+163) Eastern Akwapim North Municipal 0020410 |Methodist Girls Senior High, Mamfe Mamfe Girls X X X 7 Day/Boarding SHS
+164/ Eastern Akwapim North Municipal 0020403 |Benkum Senior High Larteh-Akwapim Mixed X X 6 Day/Boarding | SHS
+165] Eastern Okere 0020401 __|Nifa Senior High Adukrom Mixed Xx X 6 Day/Boarding SHS
+166) Eastern Akwapim South 0020302 |Adonten Senior High Aburi Mixed X X 6 Day/Boarding | SHS
+167| Eastern Asuogyaman 0020803 |Akwamuman Senior High Atimpoku-Akosomb¢ Mixed X 5 Day/Boarding SHS
+168) Eastern Atiwa West 0021307 |Kwabeng Anglican Senior High/Tech Kwabeng Mixed xX xX 7 Day/Boarding | SHTS
+169] Eastern Birim Central Municipal 0020603 /|St. Francis Senior High/Tech Akim Oda Mixed X 6 Day/Boarding | SHTS
+170| Eastern Birim Central Municipal 0020601 |Oda Senior High Akim Oda Mixed X X 6 Day/Boarding | SHS
+171| Eastern Birim Central Municipal 0020606 |Attafuah Senior High/Tech Akim Oda Mixed X xX 7 Day/Boarding | SHTS
+172| Eastern Birim South 0020602 |Akim Swedru Senior High Akim Swedru Mixed xX Xx 6 Day/Boarding SHS
+173) Eastern Achiase 0020604 |Achiase Senior High Achiase Mixed xX X 6 Day/Boarding SHS
+174| Eastern Abuakwa South Municipal {0021303 |Abuakwa State College Kibi Mixed xX X 6 Day/Boarding | SHS
+175] Eastern Abuakwa South Municipal 0021305 |Kibi Senior High/Tech Kibi Mixed X 6 Day/Boarding | SHTS
+176| Eastern Abuakwa North Municipal 0021313 |Saviour Senior High, Osiem Osiem Mixed xX X 6 Day/Boarding | SHS
+177| Eastern Abuakwa North Municipal 0021301 /|W.B.M. Zion Senior High, Old Tafo Old Tafo Mixed X X 6 Day/Boarding | SHS
+178) Eastern Fanteakwa North 0021201 |Presby Senior High, Begoro Begoro Mixed X X 6 Day/Boarding | SHS
+179| Eastern Kwaebibirem Municipal 0021102 |Kade Senior High/Tech. Kade Mixed X X 6 Day/Boarding | SHTS
+180} Eastern Kwahu East 0021001 |Abetifi Presby Senior High Abetifi Mixed X X 6 Day/Boarding | SHS
+181] Eastern Kwahu East 0021006 |Nkwatia Presby Senior High/Com Nkwatia Mixed xX X 5 Day/Boarding | SHS
+182) Eastern Kwahu East 0021010 |Kwahu Tafo Senior High Kwahu Tafo Mixed Xx X 6 Day/Boarding SHS
+183) Eastern Kwahu East 0021008 |St. Dominic's Senior High/Tech, Pepease Pepease Mixed X X 7 Day/Boarding | SHTS
+184| Eastern Kwahu South 0021002 |Mpraeso Senior High Mpraeso Mixed X X 6 Day/Boarding SHS
+185] Eastern Kwahu South 0021005 _|Kwahu Ridge Senior High Obo-Kwahu Mixed x | x | x x X x 6 _|Day/Boarding | SHTS
+186) Eastern Kwahu West Municipal 0021004 |Nkawkaw Senior High Nkawkaw Mixed X xX 6 Day/Boarding | SHS
+187| Eastern Lower Manya Krobo 0021502 |Manya Krobo Senior High Nuaso New Town Mixed X X 6 Day/Boarding SHS
+188) Eastern New Juaben North Muni. 0020108 /|Pentecost Senior High,Koforidua Koforidua Mixed X 5 Day/Boarding SHS
+189) Eastern New Juaben North Muni. 0020109 /|S.D.A Senior High, Koforidua Asokore-Koforidua |Mixed X 5 Day/Boarding SHS
+190) Eastern New Juaben North Muni. 0020106 |Oyoko Methodist Senior High Oyoko Mixed xX X 6 Day/Boarding | SHS
+191) Eastern New Juaben South Muni. 0020103 |NewJuaben Senior High/Com Koforidua Mixed X X X 7 Day/Boarding SHS
+192) Eastern New Juaben North Muni. 0020105 |Oti Boateng Senior High Koforidua Mixed X X 6 Day/Boarding | SHS
+193] Eastern Nsawam Adoagyiri Muni. 0020303 /|St. Martin's Senior High, Nsawam Nsawam Mixed X X 5 Day/Boarding | SHS
+194] Eastern Suhum Municipal 0020204 {Islamic Girls Senior High,Suhum Korase-Suhum Girls xX 5 Day/Boarding | SHS
+195] Eastern Suhum Municipal 0020201 /|Suhum Senior High/Tech Suhum Mixed X 5 Day/Boarding | SHTS
+196) Eastern West Akim Municipal 0020501 |Asamankese Senior High Asamankese Mixed X X 6 Day/Boarding | SHS
+197|G. Accra Accra Metro 0010106 {Accra Senior High Asylum Down Mixed X xX 7 Day/Boarding | SHTS
+198] G. Accra Accra Metro 0010142 |St. Margaret Mary Snr.High/Tech Dansoman Mixed X 6 Day SHTS
+199] G. Accra Ablekuma North Municipal {0010103 |Wesley Grammar School Dansoman Mixed Xx Xx 6 Day/Boarding SHS
+200|G. Accra Ada East 0010301 |Ada Senior High Ada-Foah Mixed X X 6 Day/Boarding | SHS
+201|G. Accra Ayawaso West Municipal 0012305 |Accra STEM Academy East Legon Mixed Check detailed STEM Subjects on Appendix 5 Day STEM
+202/G. Accra Ga Central Municipal 0010118 |Odorgonno Senior High Awoshie Mixed X X | [| x fx ix] xi 6 Day/Boarding | SHS
+203]. Accra Ga North Municipal 0010501 _[St. John's Grammar Senior High Achimota Mixed X x | | x fx fx {xi 6 __|Day/Boarding | SHS
+
+2025 SECOND CYCLE PUBLIC
+CATEGORY B Page 11 of 61 SCHOOLS REGISTER

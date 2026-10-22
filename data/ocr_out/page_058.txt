@@ -1,0 +1,49 @@
+CODE TYPE
+
+[a7sjoti [Guan 0077001 |Likpe Senior High i Likpe-Mate [Mixed [Day/Boarding|  C__ [SHS |
+|a76loti Ss Jasikan «0071105 [Baglo Ridge Senior High/Tech. ss [Baglo [Mixed [Day/Boarding| B__[SHTS|
+| 377|Savannah___—[CentralGona_ «0081504 |MpahaComm.SeniorHighSchool —[Mpaha_— [Mixed [Day | SHS |
+| 378|Savannah___—|WestGonja «0080207 |LarabangaSeniorHign Ss fLarabanga [Mixed [Day/Boarding|  C__|SHS |
+|379|Savannah_ [Bole «0080704 |BamboiComm. Senior High = [Bamboi_— [Mixed [Day | SHS |
+|380|Savannah_ [Bole «0080703 St. Anthony of Padua Senior High/Tech __—[Bamboi_— [Mixed [Day/Boarding| C__|SHTS|
+| 381|Savannah___—[CentralGonja_ «0081503 [Buipe Senior High ss CBipe Mixed [Day/Boarding| C__|SHS |
+| 382|Savannah__—[EastGonja_ «0080303 |SalagaT.1. Ahmad SeniorHigh Ss [Salaga Mixed [Day/Boarding| C__|SHS |
+|383|Savannah___—|NorthGonja_ «0082201 [DaboyaComm.DaySchool ss [Daboya [Mixed [Day | CC SHS |
+| 384|Savannah _[Sawla-Tuna-Kalba «0080205 |SawlaSeniorHighSch. Sawla [Mixed [Day/Boarding|  C__ [SHS |
+| 385 |Savannah___[Sawla-Tuna-Kalba «0080702 [TunaSeniorHigh/Tech. [Tuna [Mixed [Day/Boarding|  C__[SHTS|
+| 386|Savannah__|[WestGonja «0080202 [NdewuratakpaSeniorHigh/Tech. [Damongo [Mixed [Day/Boarding| C__|SHTS|
+| 387|UpperEast_ [Binduri_ «0090701 |BinduriComm.DaySeniorHigh [Binduri_ [Mixed [Day | SHS |
+|388|UpperEast__|[BolgaEast_ «0090414 |GambigoComm.DaySeniorHigh —|Gambigo_— [Mixed [Day |_| SHS |
+| 389 |UpperEast___[BolgatangaMunicipal_ «0090413 [BolgaSheriguComm.SeniorHigh —[Bolga [Mixed [Day | C [SHS |
+| 390|UpperEast_ [Bongo «0090603 |Zorkor Senior High (Zorkor Mixed [Day/Boarding| C__|SHS |
+| 391 |UpperEast___|[BuilsaSouth «0090305 |KanjargaComm.SeniorHigh = [Kanjarga [Mixed [Day | SHS |
+| 392 |UpperEast___|[BuilsaSouth «0090302 |FumbisiSeniorHigh  —Fumbisi__— Mixed [Day/Boarding| C__|SHS |
+| 393 |UpperEast__|GaruTempane «0090106 |GaruComm.DaySeniorHigh Ss [Garu Mixed [Day | SHS |
+| 394 |UpperEast___|Kasena-NankaniWest «(0090506 |SiriguSeniorHign Sd Siig Mixed [Day/Boarding| C__|SHS |
+| 395 |UpperEast__|Kasena-NankaniWest_ 0090503 |ChianaSeniorHigh Chiana [Mixed [Day/Boarding|  C__ [SHS |
+| 396 |UpperEast__|Kasena-NankaniWest_ 0090510 [MiriguCommunityDaySenior High [Mirigu [Mixed [Day | C__[SHS |
+| 397 |UpperEast__|Kasena-NankaniWest_ 0090511 |NabangoSeniorHighTech Ss [Nabango [Mixed [Day | C_ SHTS
+| 398 |UpperEast__|Kasena-NankaniWest_ [0090509 [PagaSeniorHigh Pagal [Mixed [Day | SHS |
+| 399|UpperEast_ |Talensi_ «0090412 [TongoSeniorHigh/Tech Ss Tongo [Mixed [Day | SHTS|
+| 400 |UpperEast_[BuilsaNorth «0090304 |WiagaComm.SeniorHign  [Wiaga [Mixed [Day | SHS |
+|401|UpperEast_ [Bongo «0090604 |Azeem-NamoaSeniorHigh/Tech ss [Namoo_ [Mixed [Day | CC SHTS|
+[402 |UpperEast_|Pusiga «0090107 |PusigaComm.DaySeniorHighSch. —[Pusiga_— [Mixed [Day | SHS |
+| 403 |UpperWest_ |Jirapa «00100301 Ullo Senior High lS Mixed [Day/Boarding] C__|SHS |
+| 404 |UpperWest___|Lambussie-Karni_ «00100303 [Pina Senior High Pina ~— Mixed [Day/Boarding| C__|SHS |
+| 405 |UpperWest___|Lambussie-Karni_ «00100601 |Lambussie Comm. Senior HighSchool _—[Lambussie_ [Mixed [Day || C___— SHS |
+| 406 |UpperWest_ |Lawra «(00100206 |Birifoh Senior HighSch. Lara [Mixed [Day/Boarding| C__|SHS |
+| 407 |UpperWest__[Nadowli «| 00100505 |St. Augustine Senior High/Tech, Saan Charikpor|Saan, Charikpong [Mixed [Day/Boarding|  C__|SHTS|
+|408|UpperWest_[Nadowli (00100504 [TakpoSeniorHighSch. Ss [Takpo [Mixed [Day/Boarding|  C__ [SHS |
+|409|UpperWest_ [Nandom «00100204 |KoSenior High [Ko-Nandom [Mixed [Day/Boarding|  C__ [SHS |
+| 410 |UpperWest__|Lambusie-Karni_ «00100205 [Holy FamilySenior High [Hamile Mixed [Day/Boarding|  C__|SHS |
+|411|UpperWest_ |SisalaEast_ «00100404 [Holy Child Senior High School [Walembelle [Mixed [Day || C__SHS |
+| 412 |UpperWest__|SisalaWest_ | 00100403 [Dr Hilla Limann Senior High SchoolGwollu_|[Gwollu Mixed [Day/Boarding| C__|SHS |
+|413|UpperWest_ |WaEast_ (00100108 |FunsiSenior HighSchool —[Funsi_—— Mixed [Day/Boarding|  C__|SHS |
+[414 |UpperWest__|WaEast_ (00100111 |LogguComm.DaySchoot fLoggu Mixed [Day | SHS |
+| 415 |UpperWest___|WaMunicipal_ «00100109 [Northern StarSeniorHigh ss |Mangu,Wa [Mixed [Day/Boarding| C_|SHS |
+| 416 |UpperWest___|WaMunicipal «00100110 [Jamiat Al-HidayalslamicGirls [Wa Girls [Day/Boarding| C__|SHS |
+[417 |UpperWest_ |Jirapa «00100305 |HanSeniorHigh Cirapa Mixed [Day | SC SHS |
+| 418|UpperWest__[Nadowli/Kaleo «00100506 |SomboSeniorHigh ss [Sombo [Mixed [Day | [SHS |
+
+2025 SECOND CYCLE PUBLIC
+APPENDIX 3 Page 55 of 61 SCHOOLS REGISTER

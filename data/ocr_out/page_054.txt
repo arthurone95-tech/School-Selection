@@ -1,0 +1,51 @@
+S/N DISTRICT SCHOOL NAME OF SCHOOL LOCATION STATUS CATEGORY SCH
+CODE TYPE
+
+[199 Ashanti [AtwimaKwanwoma 0050208 [AtwimaKwanwomaSnrHigh/Tech [Trede_ Mixed [Day/Boarding| C__[SHTS|
+| 200 [Ashanti [AtwimaKwanwoma 0050213 [Anum AsamoahSeniorHigh/Tech [AdumKwanwoma___ [Mixed [Day |__| SHTS|
+[201 [Ashanti [AtwimaMponua 0050211 |AdobeworaComm.SeniorHigh —[Adobewora [Mixed [Day | CHT
+| 202 [Ashanti [AtwimaMponua 0050207 |NyinahinCath.SeniorHigh Ss [Nyinahin [Mixed [Day/Boarding|  C__|SHS |
+| 203|Ashanti_ | Atwima NwabiagyaNorth Municipal___—_—‘|0050206 |BarekeseSeniorHighSchool_ SS [Barekese_ [Mixed _|Day/Boarding|  C__|SHS |
+| 204 [Ashanti |[BekwaiMunicipal «0050309 |DenyasemanCath.SeniorHigh — [Poano [Mixed [Day/Boarding|  C__|SHS |
+|205|Ashanti___—|[BosomeFreho «0050305 |Bosome Senior High/Tech. [Aiwa [Mixed [Day/Boarding| C__|SHTS|
+| 206 |Ashanti___——|[Bosomtwe_ «0051608 |St.George'sSeniorHighTech. _—[Kuntanase [Mixed |Day/Boarding|  C__|SHTS|
+|207|Ashanti__——|[Bosomtwe_ «0051613 |Bosomtwe Oyoko Comm. Senior High __—*[BosomtweOyoko [Mixed [Day ||_—C___— SHS |
+| 208 |Ashanti___—|Juaben Municipal «(0051612 |StSebastianCath.SeniorHigh == [Adumasa_— [Mixed |Day/Boarding| C_|SHS |
+| 209|Ashanti__—_|EjisuMunicipal «0051606 [AchinakromSeniorHighn Ss [Achinakrom [Mixed |Day/Boarding| _C_|SHS |
+| 210 |Ashanti_ _—|Ejura/Sekyedumase «| 0050907 |AkwesiAwobaaSeniorHigh/Tech _—[Anyinasu [Mixed |Day/Boarding| _C__|SHTS|
+[211 [Ashanti [KumasiMetro 0050158 [UthmaniyaSeniorHigh,Tafo [Tafo [Mixed [Day | SHS |
+|212|Ashanti____—|[KwadasoMunicipal_ «0050193 |AgricNzemaSeniorHigh,Kumasi______[Kumasi, Agric Nzema [Mixed |Day/Boarding|  C__|SHS |
+| 213|Ashanti____—[Oforikrom Municipal 0050159 |MancellGirls'SeniorHigh/Tech. —— [Oduom Girls [Day/Boarding| —C__|SHTS|
+[214 [Ashanti |[KwabreEast_ «0050706 |GyaamaPensanSeniorHigh/Tech ___—[Aboaso-Ashanti___—[Mixed_|Day/Boarding| C__|SHTS|
+[215 |Ashanti__——[MampongMunicipal_ 0050608 |OpokuAgyemanSeniorHigh/Tech [Apaah_— [Mixed [Day | CHT
+[216 |Ashanti____——|OffinsoNorth «0050806 |AsucsoComm.SeniorHigh [Asuoso [Mixed [Day/Boarding|  C__|SHS |
+[217 |Ashanti___—_—|OffinsoNorth 0050805 |NKkenkansuCommunitySeniorHigh [Nkenkansu___— [Mixed _|Day/Boarding|  C__|SHS |
+[218 |Ashanti___—__|Afigya-KwabreNorth (0050716 [AfigyaSeniorHigh/Tech Ss [Boamang [Mixed |Day/Boarding| C__|SHTS|
+|219|Ashanti____—|SekyereCentral__—— «0050505 |Presby Senior High/Tech,Kwamang [Kwamang [Mixed _|Day/Boarding|  C__|SHTS|
+| 220|Ashanti__—|SekyereEast_ «(0051805 [TijjaniyaSeniorHigh Ss Asokore Mixed [Day/Boarding| C__|SHS |
+| 221|Ashanti__—|SekyereEast_ «(0051806 Effiduase Senior High/Tech ssi Effiduase [Mixed [Day || C__ SHTS|
+| 222|Ashanti__—|SekyereKumawu_ «(0051804 |Dadease AgricSeniorHigh = [Dadease [Mixed |Day/Boarding| C__|SHS |
+| 223|Ashanti__—_—|SekyereKumawu_ «0051808 |Bodomase Senior High/Tech_ _—————[Bodomase [Mixed [Day || C= SHS
+| 224|Ashanti____—_—|[SekyereSouth_ «0050612 |BoanimSeniorHigh/TechSch [Boanim [Mixed [Day | C__SHTS|
+| 225|Ashanti__——[AhafoAnoSouth «0051503 |Sabronum MethodistSenior High/Tech___[Sabronum/Habitat__ [Mixed [Day |G SHTS|
+| 226|Ashanti_——[KumasiMetro «0050117 [Prince OfPeaceGirls [South Suntreso [Girls [Day/Boarding| —C__|SHS |
+| 227|Ashanti____—[AsanteAkimSouth [0051007 [Jubilee SeniorHigh ss  [Dampong [Mixed [Day | CC SHS |
+| 228 [Ashanti |EjisuMunicipal 0051607 [Church OFChristSeniorHigh —[Adadientem [Mixed _|Day/Boarding|  C__|SHS |
+| 229|Ashanti___—_—|AsanteAkimSouth [0051008 |KurofaMethodistSeniorHighTech [Kurofa [Mixed [Day || C_ SHTS|
+| 230|Ashanti___—|OffinsoNorth «0050808 |Wiafe AkentenPresbySeniorHign ——[Afrancho [Mixed [Day | C__SHS |
+| 231|Ashanti___—_—|AtwimaNwabiagyaNorth [0050214 [SpiritanSenior High/Tech Ss [Adankwame [Mixed [Day || C__ SHTS|
+| 232|Ashanti___—|EjisuMunicipal «0051615 |OnweSeniorHighSchoot Ss [Onwe-Ashanti___— [Mixed [Day |__| SHS |
+| 233|Ashanti___——|KumasiMetro «(0050212 |J.A.KufuorSeniorHign Sokoban [Mixed [Day/Boarding| C__|SHS |
+| 234|Ashanti___—_——|AsokwaMunicipal__——*(0050196 |PresbyGirls Senior HighSchool _—[Chirapatre_ Girls |Day/Boarding| _C_|SHS |
+[235 |Ashanti__—(|[Bosome-Freno «0051618 |Bosomtwe Senior High/Tech ss [AnkaaseLakeside [Mixed [Day | C= SHTS|
+| 236 |Ashanti____—[AsokoreMampong Municipal [0051610 |IbadurRahmanAcademy [Buobai_— [Mixed [Day | SHS |
+| 237|Ashanti____—[AsanteAkimSouth 0051009 |MorsoSeniorHigh/Tech [Morso [Mixed [Day | SHTS|
+[238 [Ashanti [Bosomtwe «0051620 |GhanaStemTechnicalSchool — [Sewua [Mixed [Day/Boarding|  C__|SHTS|
+| 239|Ashanti_ _—|SekyereAframPlains 0053013 [DrobonsoSeniorHighSchool Ss [Drobonso [Mixed [Day/Boarding| C__|SHS |
+| 240|Ashanti_ _——|SekyereKumawu_ [0051812 |SekyereKusiSeniorHighSchool [Sekyere [Mixed [Day/Boarding|  C__|SHS |
+|241|Ashanti__———[Bosomtwe «0051619 |Feyiase Senior HighSchool —[Feyiase [Mixed [DAY | CC SHS |
+| 242|Ashanti___—_—|SekyereSouth 0051511 [BepoaseShts Bepoase [Mixed [Day/Boarding] C__|SHS |
+
+2025 SECOND CYCLE PUBLIC
+APPENDIX 3 Page 51 of 61 SCHOOLS REGISTER
+

@@ -1,0 +1,780 @@
+=== PAGE 43 (Section: APPENDIX 2 - Technical Subjects of SHTS Schools, CONTINUED) ===
+Format: S/N | REGION | SCHOOL NAME | GENDER | TECHNICAL SUBJECTS (X = offered)
+Technical Subject columns: Agric Mech Tech, Applied Electricity, Auto Electric, Auto Mechanics, Building Const Tech, Electrical Eng Tech, Electronics, Elective ICT, Elective Maths, Elective Physics, Hosp & Cat. Mgt, Metal Work, Motor Vehicle Tech, Plumbing, Technical Drawing, Welding & Fabr.Tech, Woodwork
+
+126 | Oti | Kpassa Senior High/Tech | Mixed | Building Const Tech
+127 | Oti | Nkwanta Comm.Senior High/Tech | Mixed | Applied Electricity, Building Const Tech
+128 | Oti | OkadjaKrom Senior High/Tech. | Mixed | Applied Electricity, Building Const Tech, Woodwork
+129 | Oti | Oti Senior High/Tech Sch | Mixed | Applied Electricity, Building Const Tech, Woodwork
+130 | Oti | Tapaman Senior High/Tech | Mixed | Applied Electricity, Building Const Tech
+131 | Oti | Baglo Ridge Senior High/Tech. | Mixed | Building Const Tech, Welding & Fabr.Tech, Woodwork
+132 | Savannah | Ndewura Jakpa Senior High/Tech. | Mixed | Building Const Tech, Electrical Eng Tech, Electronics, Metal Work, Motor Vehicle Tech, Woodwork
+133 | Savannah | St. Anthony of Padua Senior High/Tech | Mixed | Building Const Tech, Woodwork
+134 | Savannah | Tuna Senior High/Tech. | Mixed | Applied Electricity, Building Const Tech, Electronics, Elective ICT, Elective Physics, Woodwork
+135 | Upper East | Awe Senior High/Tech. | Mixed | Building Const Tech, Woodwork
+136 | Upper East | Bawku Senior High/Tech. | Mixed | Applied Electricity, Building Const Tech, Woodwork
+137 | Upper East | Gowrie Senior High/Tech. | Mixed | Applied Electricity, Building Const Tech, Woodwork
+138 | Upper East | Nabango Senior High Tech | Mixed | Applied Electricity, Building Const Tech
+139 | Upper East | Sandema Senior High/Tech. | Mixed | Building Const Tech, Metal Work, Woodwork
+140 | Upper East | Tongo Senior High/Tech | Mixed | Applied Electricity, Building Const Tech, Elective ICT, Elective Physics, Technical Drawing, Woodwork
+141 | Upper East | Zamse Senior High/Tech | Mixed | Applied Electricity, Auto Electric, Building Const Tech, Metal Work, Woodwork
+142 | Upper East | Zebilla Senior High/Tech | Mixed | Applied Electricity, Building Const Tech, Woodwork
+143 | Upper East | St. John's Integrated Snr. High/Tech | Mixed | Building Const Tech, Elective ICT, Elective Maths, Elective Physics, Welding & Fabr.Tech, Woodwork
+144 | Upper West | Eremon Senior High/Tech. | Mixed | Applied Electricity, Building Const Tech, Metal Work, Woodwork
+145 | Upper West | Kaleo Senior High/Tech | Mixed | Building Const Tech, Metal Work, Woodwork
+146 | Upper West | St. Augustine Senior High/Tech, Saan Charikpong | Mixed | Building Const Tech, Electrical Eng Tech, Metal Work, Welding & Fabr.Tech, Woodwork
+147 | Upper West | Tumu Senior High/Tech. | Mixed | Building Const Tech, Motor Vehicle Tech, Woodwork
+148 | Upper West | Wa Senior High/Tech. | Mixed | Building Const Tech, Motor Vehicle Tech, Woodwork
+149 | Volta | Abor Senior High | Mixed | Applied Electricity, Building Const Tech, Woodwork
+150 | Volta | Abutia Senior High/Tchnical | Mixed | Applied Electricity, Building Const Tech, Woodwork
+151 | Volta | Afadjato Senior High/Tech. | Mixed | Applied Electricity, Building Const Tech, Woodwork
+152 | Volta | Afife Senior High Tech. | Mixed | Building Const Tech, Woodwork
+153 | Volta | Akatsi Senior High/Tech | Mixed | Applied Electricity, Auto Electric, Building Const Tech, Woodwork
+154 | Volta | Akome Senior High/Tech. | Mixed | Applied Electricity, Building Const Tech, Woodwork
+155 | Volta | Akpafu Senior High/Tech. | Mixed | Applied Electricity, Building Const Tech, Metal Work, Woodwork
+156 | Volta | Alavanyo Senior High/Tech. | Mixed | Applied Electricity, Building Const Tech, Motor Vehicle Tech, Woodwork
+
+=== PAGE 44 (Section: APPENDIX 2 - Technical Subjects of SHTS Schools, CONTINUED) ===
+Format: S/N | REGION | SCHOOL NAME | GENDER | TECHNICAL SUBJECTS (X = offered)
+
+157 | Volta | Anlo Awomefia Senior High | Mixed | Applied Electricity, Building Const Tech, Woodwork
+158 | Volta | Atiavi Senior High/Tech | Mixed | Applied Electricity, Building Const Tech, Woodwork
+159 | Volta | Dabala Senior High/Tech. | Mixed | Building Const Tech, Woodwork
+160 | Volta | Keta Senior High/Tech . | Mixed | Building Const Tech, Electronics, Woodwork
+161 | Volta | Klikor Senior High/Tech. | Mixed | Applied Electricity, Auto Electric, Building Const Tech, Woodwork
+162 | Volta | Kpeve Senior High | Mixed | Applied Electricity, Building Const Tech
+163 | Volta | Mafi-Kumasi Senior High/Tech | Mixed | Applied Electricity, Auto Electric, Building Const Tech, Woodwork
+164 | Volta | Mawuli School, Ho | Mixed | Applied Electricity, Building Const Tech
+165 | Volta | Mepe St. Kizito Senior High/Tech. | Mixed | Applied Electricity, Building Const Tech, Woodwork
+166 | Volta | Peki Senior High/Technical | Mixed | Applied Electricity, Building Const Tech, Woodwork
+167 | Volta | Shia Senior HighTechnical | Mixed | Applied Electricity, Building Const Tech, Woodwork
+168 | Volta | Sokode Senior High/Tech | Mixed | Applied Electricity, Building Const Tech
+169 | Volta | Tongor Senior High Tech. | Mixed | Applied Electricity, Building Const Tech
+170 | Volta | Tsiame Senior High | Mixed | Building Const Tech, Elective ICT
+171 | Volta | Tsito Senior High/Tech | Mixed | Applied Electricity, Auto Electric, Building Const Tech, Woodwork
+172 | Volta | Weta Senior High/Tech. | Mixed | Applied Electricity, Auto Electric, Building Const Tech, Woodwork
+173 | Volta | Wovenu Senior High Technical | Mixed | Applied Electricity, Building Const Tech, Woodwork
+174 | Volta | Vakpo Senior High/Technical | Mixed | Applied Electricity, Auto Electric, Building Const Tech, Woodwork
+175 | Volta | Aflao Community SHTS | Mixed | Elective ICT, Technical Drawing, Woodwork
+176 | Volta | Keta Business College | Mixed | Building Const Tech, Woodwork
+177 | Western | Asankrangwa Senior High/Tech | Mixed | Applied Electricity, Auto Electric, Building Const Tech, Woodwork
+178 | Western | Baidoo Bonso Senior High/Tech | Mixed | Applied Electricity, Building Const Tech, Elective ICT, Woodwork
+179 | Western | Benso Senior High/Tech | Mixed | Applied Electricity, Building Const Tech, Motor Vehicle Tech
+180 | Western | Bompeh Senior High./Tech | Mixed | Building Const Tech, Motor Vehicle Tech, Woodwork
+181 | Western | Daboase Senior High/Tech | Mixed | Applied Electricity, Building Const Tech, Woodwork
+182 | Western | Diabene Senior High/Tech | Mixed | Applied Electricity, Building Const Tech, Motor Vehicle Tech
+183 | Western | Esiama Senior High/Tech | Mixed | Applied Electricity, Auto Electric, Building Const Tech, Woodwork
+184 | Western | Ghana Senior High/Tech | Boys | Building Const Tech, Motor Vehicle Tech, Woodwork
+185 | Western | Prestea Senior High/Tech | Mixed | Applied Electricity, Building Const Tech, Motor Vehicle Tech, Woodwork
+186 | Western North | Bia Senior High/Technology | Mixed | Building Const Tech, Woodwork
+187 | Western North | Bibiani Senior High/Tech. | Mixed | Building Const Tech, Woodwork
+188 | Western North | Nana Brentu Senior High/Tech | Mixed | Applied Electricity, Auto Electric, Building Const Tech, Woodwork
+
+=== PAGE 45 (Section: APPENDIX 2 - Technical Subjects of SHTS Schools, CONTINUED - FINAL PAGE) ===
+Format: S/N | REGION | SCHOOL NAME | GENDER | TECHNICAL SUBJECTS (X = offered)
+
+189 | Western North | Sefwi-Wiawso Senior High/Tech | Mixed | Applied Electricity, Metal Work, Woodwork
+
+=== END OF APPENDIX 2 ===
+
+
+=== PAGE 46 (Section: APPENDIX 3 - Alternative School Choices) ===
+S/N | REGION | DISTRICT | SCHOOL CODE | SCHOOL NAME | LOCATION | GENDER | STATUS | CATEGORY | SCH TYPE
+190 | Ashanti | Adansi North | 0050202 | Girls' SHS | Jetiase | Girls | Day | B | SHS
+191 | Ashanti | Adansi North | 0050402 | Akrofuom Senior High/Tech. | Akrofuom | Mixed | Day/Boarding | B | SHTS
+192 | Ashanti | Adansi North | 0050405 | Bawuro Senior High | Bawuro | Mixed | Day | B | SHS
+193 | Ashanti | Afigya Kwabre | 0051312 | Adanomante Comm. Senior High | Adanomante | Mixed | Day | B | SHS
+194 | Ashanti | Afigya Kwabre | 0051301 | Dwari Mau Comm. SHS | Obo-Kwahu | Mixed | Day | B | SHS
+195 | Ashanti | Afigya Kwabre | 0051303 | Hiawu Comm. Senior High | Adugyama | Mixed | Day | B | SHS
+196 | Ashanti | Ahafo Ano North | 0050802 | Mankranso Comm. Day Senior High | Mankranso | Mixed | Day | B | SHS
+197 | Ashanti | Ahafo Ano North | 0050803 | Abofour Presby. Senior High | Abofour | Mixed | Day | B | SHS
+198 | Ashanti | Ahafo Ano North | 0050807 | Ahafo Ano North Comm. Day SHS | Tepa | Mixed | Day | B | SHS
+199 | Ashanti | Ahafo Ano North | 0050810 | Ahafoman Senior High School | Odumase | Mixed | Day | B | SHS
+200 | Ashanti | Ahafo Ano North | 0050804 | Asuadei Senior High | Asuadei | Mixed | Day | B | SHS
+201 | Ashanti | Ahafo Ano North | 0050806 | Kengoso Comm. Senior High | Bompesiso | Mixed | Day | B | SHS
+202 | Ashanti | Ahafo Ano North | 0050812 | Nsuapemso Comm. Senior High | Nsuapemso | Mixed | Day | B | SHS
+203 | Ashanti | Ahafo Ano North | 0050801 | Beteh Comm. Senior High | Amowi | Mixed | Day | B | SHS
+204 | Ashanti | Ahafo Ano North | 0050805 | Mpasatia Comm. Day SHS | Mpasatia | Mixed | Day | B | SHS
+205 | Ashanti | Ahafo Ano South | 0050904 | Adinku Comm. Senior High | Adinku | Mixed | Day | B | SHS
+206 | Ashanti | Ahafo Ano South | 0050907 | Apaaso Comm. Senior High | Apaaso | Mixed | Day | B | SHS
+207 | Ashanti | Ahafo Ano South | 0050902 | Dadadan Senior High | Dadadan | Mixed | Day | B | SHS
+208 | Ashanti | Ahafo Ano South | 0050906 | Sankore Senior High School | Sankore | Mixed | Day/Boarding | B | SHS
+209 | Ashanti | Ahafo Ano South | 0050903 | Huitimboang Comm. Senior High | Boakyem | Mixed | Day | B | SHS
+210 | Ashanti | Ahafo Ano South | 0050905 | Kyenkyenkere Comm. Senior High | Kyenkyenkere | Mixed | Day | B | SHS
+211 | Ashanti | Ahafo Ano South | 0050901 | Nsuta Comm. Senior High | Nsuta | Mixed | Day | B | SHS
+212 | Ashanti | Ahafo Ano South | 0050910 | Tweneboa Kodua Senior High | Kumawu | Mixed | Day | B | SHS
+213 | Ashanti | Ahafo Ano South | 0050909 | Wamiri Comm. Senior High | Wamiri | Mixed | Day | B | SHS
+214 | Ashanti | Ahafo Ano South | 0050908 | Zourma Comm. Senior High | Zourma | Mixed | Day | B | SHS
+215 | Ashanti | Ahafo Ano South | 0050912 | Motiejiso Comm. Senior High | Motiejiso | Mixed | Day | B | SHS
+216 | Ashanti | Ahafo Ano South | 0050911 | Sobaso Comm. Senior High | Sobaso | Mixed | Day | B | SHS
+217 | Ashanti | Amansie Central | 0051413 | Agogo Comm. Day SHS | Agogo | Mixed | Day | B | SHS
+218 | Ashanti | Amansie Central | 0051409 | Akrofufuomm Senior High | Akrofufuo | Mixed | Day | B | SHS
+219 | Ashanti | Amansie Central | 0051403 | Amentia Comm. Senior High | Amentia | Mixed | Day | B | SHS
+220 | Ashanti | Amansie Central | 0051407 | Ankasi Senior High | Ankasi | Mixed | Day | B | SHS
+221 | Ashanti | Amansie Central | 0051404 | Antoa Comm. Senior High | Antoa | Mixed | Day | B | SHS
+222 | Ashanti | Amansie Central | 0051410 | Atwerekere Comm. Senior High | Atwerekere | Mixed | Day | B | SHS
+223 | Ashanti | Amansie Central | 0051414 | Ayirebi Comm. Senior High | Ayirebi | Mixed | Day | B | SHS
+224 | Ashanti | Amansie Central | 0051402 | Begroaso Comm. Senior High | Begroaso | Mixed | Day | B | SHS
+225 | Ashanti | Amansie Central | 0051406 | Esieni Comm. Senior High | Esieni | Mixed | Day | B | SHS
+226 | Ashanti | Amansie Central | 0051408 | Kenyasi Comm. Senior High | Kenyasi | Mixed | Day | B | SHS
+227 | Ashanti | Amansie Central | 0051412 | Kwabeng Comm. Day SHS | Kwabeng | Mixed | Day | B | SHS
+228 | Ashanti | Amansie Central | 0051401 | Odaho Comm. Senior High | Odaho | Mixed | Day | B | SHS
+229 | Ashanti | Amansie Central | 0051415 | Pankrono Senior High | Pankrono | Mixed | Day | B | SHS
+230 | Ashanti | Amansie Central | 0051405 | Onyimso Comm. Senior High | Onyimso | Mixed | Day | B | SHS
+231 | Ashanti | Amansie Central | 0051411 | Pafo-Komm. Day SHS | Pafo | Mixed | Day | B | SHS
+232 | Ashanti | Amansie West | 0051604 | Aboroye Senior High | Aboroye | Mixed | Day | B | SHS
+233 | Ashanti | Amansie West | 0051605 | Adomfe Comm. Day SHS | Adomfe | Mixed | Day | B | SHS
+234 | Ashanti | Amansie West | 0051612 | Ahougyatoua Comm. Senior High | Ahougyatoua | Mixed | Day | B | SHS
+235 | Ashanti | Amansie West | 0051606 | Amponsa Senior High | Amponsa | Mixed | Day | B | SHS
+236 | Ashanti | Amansie West | 0051601 | Aniamoa Comm. Day SHS | Aniamoa | Mixed | Day | B | SHS
+237 | Ashanti | Amansie West | 0051610 | Asamang Comm. Day SHS | Asamang | Mixed | Day | B | SHS
+238 | Ashanti | Amansie West | 0051603 | Javopa Senior High | Japuoso | Mixed | Day | B | SHS
+239 | Ashanti | Amansie West | 0051611 | Kwamang Comm. Senior High | Kwamang | Mixed | Day | B | SHS
+240 | Ashanti | Amansie West | 0051615 | Mpasatia Comm. Day SHS | Mpasatia | Mixed | Day | B | SHS
+241 | Ashanti | Amansie West | 0051614 | Nabia Comm. Day SHS | Nabia | Mixed | Day | B | SHS
+242 | Ashanti | Amansie West | 0051608 | Nsuaem No.2 Comm. SHS | Nsuaem | Mixed | Day | B | SHS
+243 | Ashanti | Amansie West | 0051602 | Nsuaem Comm. Day SHS | Nsuaem | Mixed | Day | B | SHS
+244 | Ashanti | Amansie West | 0051607 | Tontokrom Comm. Day SHS | Tontokrom | Mixed | Day | B | SHS
+245 | Ashanti | Amansie West | 0051613 | Wioso Comm. Senior High | Wioso | Mixed | Day | B | SHS
+246 | Ashanti | Amansie West | 0051609 | Yabiakrom Comm. Day SHS | Yabiakrom | Mixed | Day | B | SHS
+247 | Ashanti | Amansie West | 0051616 | Yaw Nkruma Comm. Day SHS | Yaw Nkruma | Mixed | Day | B | SHS
+248 | Ashanti | Asante Akim Central Municipal | 0052008 | Agogo State College | Agogo | Mixed | Day/Boarding | B | SHS
+249 | Ashanti | Asante Akim Central Municipal | 0052003 | Asante-Akim Comm. Day High | Konongo | Mixed | Day | B | SHS
+250 | Ashanti | Asante Akim Central Municipal | 0052004 | Konongo Senior High School | Konongo | Mixed | Day | B | SHS
+251 | Ashanti | Asante Akim Central Municipal | 0052001 | Kwaman Comm. Day Senior High | Kwaman | Mixed | Day | B | SHS
+252 | Ashanti | Asante Akim Central Municipal | 0052002 | Kyekyewere Comm. Day SHS | Kyekyewere | Mixed | Day | B | SHS
+253 | Ashanti | Asante Akim Central Municipal | 0052006 | Odumase Comm. Day SHS | Odumase | Mixed | Day | B | SHS
+254 | Ashanti | Asante Akim Central Municipal | 0052007 | Owerriman Comm. Day SHS | Owerriman | Mixed | Day | B | SHS
+255 | Ashanti | Asante Akim Central Municipal | 0052005 | Pipiiso Comm. Senior High | Pipiiso | Mixed | Day | B | SHS
+256 | Ashanti | Asante Akim North | 0052109 | Agyeago Comm. Day Senior High | Agyeago | Mixed | Day | B | SHS
+257 | Ashanti | Asante Akim North | 0052114 | Akroso Comm. Day SHS | Akroso | Mixed | Day | B | SHS
+258 | Ashanti | Asante Akim North | 0052111 | Appiadu Comm. Day Senior High | Appiadu | Mixed | Day | B | SHS
+259 | Ashanti | Asante Akim North | 0052118 | Asenemaso Comm. Day SHS | Asenemaso | Mixed | Day | B | SHS
+260 | Ashanti | Asante Akim North | 0052106 | Bobriase Comm. Day SHS | Bobriase | Mixed | Day | B | SHS
+261 | Ashanti | Asante Akim North | 0052117 | Fenaso Comm. Day SHS | Fenaso | Mixed | Day | B | SHS
+262 | Ashanti | Asante Akim North | 0052112 | Kofiase Comm. Day SHS | Kofiase | Mixed | Day | B | SHS
+263 | Ashanti | Asante Akim North | 0052103 | Juaho Comm. Day SHS | Juaho | Mixed | Day | B | SHS
+264 | Ashanti | Asante Akim North | 0052101 | Juapong Comm. Day SHS | Juapong | Mixed | Day | B | SHS
+265 | Ashanti | Asante Akim North | 0052110 | K.S.D Comm. Senior High | K.S.D | Mixed | Day | B | SHS
+266 | Ashanti | Asante Akim North | 0052115 | Kyiremfaso Comm. Day SHS | Kyiremfaso | Mixed | Day | B | SHS
+267 | Ashanti | Asante Akim North | 0052108 | Mem Comm. Senior High | Mem | Mixed | Day | B | SHS
+268 | Ashanti | Asante Akim North | 0052113 | Nkeneso Comm. Senior High | Nkeneso | Mixed | Day | B | SHS
+269 | Ashanti | Asante Akim North | 0052104 | New Aberim Comm. Day SHS | New Aberim | Mixed | Day | B | SHS
+270 | Ashanti | Asante Akim North | 0052116 | Nobesu Comm. Day SHS | Nobesu | Mixed | Day | B | SHS
+271 | Ashanti | Asante Akim North | 0052102 | Old Tafo Comm. Day SHS | Old Tafo | Mixed | Day | B | SHS
+272 | Ashanti | Asante Akim North | 0052119 | Owechiri Comm. Day SHS | Owechiri | Mixed | Day | B | SHS
+273 | Ashanti | Asante Akim North | 0052105 | Pankronu Comm. Day SHS | Pankronu | Mixed | Day | B | SHS
+274 | Ashanti | Asante Akim North | 0052107 | Paatia Comm. Day SHS | Paatia | Mixed | Day | B | SHS
+275 | Ashanti | Asante Akim North | 0052108 | Sokoban Comm. Day SHS | Sokoban | Mixed | Day | B | SHS
+276 | Ashanti | Asante Akim North | 0052117 | Suntidu Comm. Day SHS | Suntidu | Mixed | Day | B | SHS
+277 | Ashanti | Asante Akim South | 0052212 | Adakofi Comm. Senior High | Adakofi | Mixed | Day | B | SHS
+278 | Ashanti | Asante Akim South | 0052216 | Afoako Comm. Senior High | Afoako | Mixed | Day | B | SHS
+279 | Ashanti | Asante Akim South | 0052201 | Amaam Comm. Senior High | Amaam | Mixed | Day | B | SHS
+280 | Ashanti | Asante Akim South | 0052202 | Bompata Presby. Senior High | Bompata | Mixed | Day | B | SHS
+281 | Ashanti | Asante Akim South | 0052215 | Dadobiri Comm. Senior High | Dadobiri | Mixed | Day | B | SHS
+282 | Ashanti | Asante Akim South | 0052214 | Dadeeso Comm. Senior High | Dadeeso | Mixed | Day | B | SHS
+283 | Ashanti | Asante Akim South | 0052219 | Ewu Asakraka Comm. SHS | Ewu Asakraka | Mixed | Day | B | SHS
+284 | Ashanti | Asante Akim South | 0052211 | Fuaso Comm. Senior High | Fuaso | Mixed | Day | B | SHS
+285 | Ashanti | Asante Akim South | 0052204 | Jejeti Comm. Senior High | Jejeti | Mixed | Day | B | SHS
+286 | Ashanti | Asante Akim South | 0052203 | Juabeso Senior High | Juabeso | Mixed | Day | B | SHS
+287 | Ashanti | Asante Akim South | 0052207 | Kwasi Comm. Senior High | Kwasi | Mixed | Day | B | SHS
+288 | Ashanti | Asante Akim South | 0052205 | Kyekyebiakro Comm. Senior High | Kyekyebiakro | Mixed | Day | B | SHS
+289 | Ashanti | Asante Akim South | 0052217 | Mampong Comm. SHS | Mampong | Mixed | Day | B | SHS
+290 | Ashanti | Asante Akim South | 0052213 | Mensonso Comm. Senior High | Mensonso | Mixed | Day | B | SHS
+291 | Ashanti | Asante Akim South | 0052206 | Nkwantakese Comm. Day SHS | Nkwantakese | Mixed | Day | B | SHS
+292 | Ashanti | Asante Akim South | 0052210 | Nsoesie Comm. Senior High | Nsoesie | Mixed | Day | B | SHS
+293 | Ashanti | Asante Akim South | 0052209 | Obogu Comm. Senior High | Obogu | Mixed | Day | B | SHS
+294 | Ashanti | Asante Akim South | 0052218 | Oworobong Comm. Senior High | Oworobong | Mixed | Day | B | SHS
+295 | Ashanti | Asante Akim South | 0052208 | Patakase Comm. Senior High | Patakase | Mixed | Day | B | SHS
+296 | Ashanti | Asante Akim South | 0052220 | Wamase Comm. Senior High | Wamase | Mixed | Day | B | SHS
+297 | Ashanti | Asante Akim South | 0052207 | Watapon Comm. Senior High | Watapon | Mixed | Day | B | SHS
+298 | Ashanti | Ashanti Akim Central Municipal | 0052008 | Agogo State College | Agogo | Mixed | Day/Boarding | B | SHS
+299 | Ashanti | Ashanti Akim Central Municipal | 0052003 | Asante-Akim Comm. Day High | Konongo | Mixed | Day | B | SHS
+300 | Ashanti | Ashanti Akim Central Municipal | 0052004 | Konongo Senior High School | Konongo | Mixed | Day | B | SHS
+301 | Ashanti | Ashanti Akim Central Municipal | 0052001 | Kwaman Comm. Day Senior High | Kwaman | Mixed | Day | B | SHS
+302 | Ashanti | Ashanti Akim Central Municipal | 0052002 | Kyekyewere Comm. Day SHS | Kyekyewere | Mixed | Day | B | SHS
+303 | Ashanti | Ashanti Akim Central Municipal | 0052006 | Odumase Comm. Day SHS | Odumase | Mixed | Day | B | SHS
+304 | Ashanti | Ashanti Akim Central Municipal | 0052007 | Owerriman Comm. Day SHS | Owerriman | Mixed | Day | B | SHS
+305 | Ashanti | Ashanti Akim Central Municipal | 0052005 | Pipiiso Comm. Senior High | Pipiiso | Mixed | Day | B | SHS
+
+=== PAGE 47 (Section: APPENDIX 3 - Alternative School Choices, CONTINUED) ===
+306 | Ashanti | Ashanti Akim North | 0052109 | Agyeago Comm. Day Senior High | Agyeago | Mixed | Day | B | SHS
+307 | Ashanti | Ashanti Akim North | 0052114 | Akroso Comm. Day SHS | Akroso | Mixed | Day | B | SHS
+308 | Ashanti | Ashanti Akim North | 0052111 | Appiadu Comm. Day Senior High | Appiadu | Mixed | Day | B | SHS
+309 | Ashanti | Ashanti Akim North | 0052118 | Asenemaso Comm. Day SHS | Asenemaso | Mixed | Day | B | SHS
+310 | Ashanti | Ashanti Akim North | 0052106 | Bobriase Comm. Day SHS | Bobriase | Mixed | Day | B | SHS
+311 | Ashanti | Ashanti Akim North | 0052117 | Fenaso Comm. Day SHS | Fenaso | Mixed | Day | B | SHS
+312 | Ashanti | Ashanti Akim North | 0052112 | Kofiase Comm. Day SHS | Kofiase | Mixed | Day | B | SHS
+313 | Ashanti | Ashanti Akim North | 0052103 | Juaho Comm. Day SHS | Juaho | Mixed | Day | B | SHS
+314 | Ashanti | Ashanti Akim North | 0052101 | Juapong Comm. Day SHS | Juapong | Mixed | Day | B | SHS
+315 | Ashanti | Ashanti Akim North | 0052110 | K.S.D Comm. Senior High | K.S.D | Mixed | Day | B | SHS
+316 | Ashanti | Ashanti Akim North | 0052115 | Kyiremfaso Comm. Day SHS | Kyiremfaso | Mixed | Day | B | SHS
+317 | Ashanti | Ashanti Akim North | 0052108 | Mem Comm. Senior High | Mem | Mixed | Day | B | SHS
+318 | Ashanti | Ashanti Akim North | 0052113 | Nkeneso Comm. Senior High | Nkeneso | Mixed | Day | B | SHS
+319 | Ashanti | Ashanti Akim North | 0052104 | New Aberim Comm. Day SHS | New Aberim | Mixed | Day | B | SHS
+320 | Ashanti | Ashanti Akim North | 0052116 | Nobesu Comm. Day SHS | Nobesu | Mixed | Day | B | SHS
+321 | Ashanti | Ashanti Akim North | 0052102 | Old Tafo Comm. Day SHS | Old Tafo | Mixed | Day | B | SHS
+322 | Ashanti | Ashanti Akim North | 0052119 | Owechiri Comm. Day SHS | Owechiri | Mixed | Day | B | SHS
+323 | Ashanti | Ashanti Akim North | 0052105 | Pankronu Comm. Day SHS | Pankronu | Mixed | Day | B | SHS
+324 | Ashanti | Ashanti Akim North | 0052107 | Paatia Comm. Day SHS | Paatia | Mixed | Day | B | SHS
+325 | Ashanti | Ashanti Akim North | 0052108 | Sokoban Comm. Day SHS | Sokoban | Mixed | Day | B | SHS
+326 | Ashanti | Ashanti Akim North | 0052117 | Suntidu Comm. Day SHS | Suntidu | Mixed | Day | B | SHS
+327 | Ashanti | Ashanti Akim South | 0052212 | Adakofi Comm. Senior High | Adakofi | Mixed | Day | B | SHS
+328 | Ashanti | Ashanti Akim South | 0052216 | Afoako Comm. Senior High | Afoako | Mixed | Day | B | SHS
+329 | Ashanti | Ashanti Akim South | 0052201 | Amaam Comm. Senior High | Amaam | Mixed | Day | B | SHS
+330 | Ashanti | Ashanti Akim South | 0052202 | Bompata Presby. Senior High | Bompata | Mixed | Day | B | SHS
+331 | Ashanti | Ashanti Akim South | 0052215 | Dadobiri Comm. Senior High | Dadobiri | Mixed | Day | B | SHS
+332 | Ashanti | Ashanti Akim South | 0052214 | Dadeeso Comm. Senior High | Dadeeso | Mixed | Day | B | SHS
+333 | Ashanti | Ashanti Akim South | 0052219 | Ewu Asakraka Comm. SHS | Ewu Asakraka | Mixed | Day | B | SHS
+334 | Ashanti | Ashanti Akim South | 0052211 | Fuaso Comm. Senior High | Fuaso | Mixed | Day | B | SHS
+335 | Ashanti | Ashanti Akim South | 0052204 | Jejeti Comm. Senior High | Jejeti | Mixed | Day | B | SHS
+336 | Ashanti | Ashanti Akim South | 0052203 | Juabeso Senior High | Juabeso | Mixed | Day | B | SHS
+337 | Ashanti | Ashanti Akim South | 0052207 | Kwasi Comm. Senior High | Kwasi | Mixed | Day | B | SHS
+338 | Ashanti | Ashanti Akim South | 0052205 | Kyekyebiakro Comm. Senior High | Kyekyebiakro | Mixed | Day | B | SHS
+339 | Ashanti | Ashanti Akim South | 0052217 | Mampong Comm. SHS | Mampong | Mixed | Day | B | SHS
+340 | Ashanti | Ashanti Akim South | 0052213 | Mensonso Comm. Senior High | Mensonso | Mixed | Day | B | SHS
+341 | Ashanti | Ashanti Akim South | 0052206 | Nkwantakese Comm. Day SHS | Nkwantakese | Mixed | Day | B | SHS
+342 | Ashanti | Ashanti Akim South | 0052210 | Nsoesie Comm. Senior High | Nsoesie | Mixed | Day | B | SHS
+343 | Ashanti | Ashanti Akim South | 0052209 | Obogu Comm. Senior High | Obogu | Mixed | Day | B | SHS
+344 | Ashanti | Ashanti Akim South | 0052218 | Oworobong Comm. Senior High | Oworobong | Mixed | Day | B | SHS
+345 | Ashanti | Ashanti Akim South | 0052208 | Patakase Comm. Senior High | Patakase | Mixed | Day | B | SHS
+346 | Ashanti | Ashanti Akim South | 0052220 | Wamase Comm. Senior High | Wamase | Mixed | Day | B | SHS
+347 | Ashanti | Ashanti Akim South | 0052207 | Watapon Comm. Senior High | Watapon | Mixed | Day | B | SHS
+348 | Ashanti | Ahafo Ano North | 0050802 | Mankranso Comm. Day Senior High | Mankranso | Mixed | Day | B | SHS
+349 | Ashanti | Ahafo Ano North | 0050803 | Abofour Presby. Senior High | Abofour | Mixed | Day | B | SHS
+350 | Ashanti | Ahafo Ano North | 0050807 | Ahafo Ano North Comm. Day SHS | Tepa | Mixed | Day | B | SHS
+351 | Ashanti | Ahafo Ano North | 0050810 | Ahafoman Senior High School | Odumase | Mixed | Day | B | SHS
+352 | Ashanti | Ahafo Ano North | 0050804 | Asuadei Senior High | Asuadei | Mixed | Day | B | SHS
+353 | Ashanti | Ahafo Ano North | 0050806 | Kengoso Comm. Senior High | Bompesiso | Mixed | Day | B | SHS
+354 | Ashanti | Ahafo Ano North | 0050812 | Nsuapemso Comm. Senior High | Nsuapemso | Mixed | Day | B | SHS
+355 | Ashanti | Ahafo Ano North | 0050801 | Beteh Comm. Senior High | Amowi | Mixed | Day | B | SHS
+356 | Ashanti | Ahafo Ano North | 0050805 | Mpasatia Comm. Day SHS | Mpasatia | Mixed | Day | B | SHS
+357 | Ashanti | Ahafo Ano South | 0050904 | Adinku Comm. Senior High | Adinku | Mixed | Day | B | SHS
+358 | Ashanti | Ahafo Ano South | 0050907 | Apaaso Comm. Senior High | Apaaso | Mixed | Day | B | SHS
+359 | Ashanti | Ahafo Ano South | 0050902 | Dadadan Senior High | Dadadan | Mixed | Day | B | SHS
+360 | Ashanti | Ahafo Ano South | 0050906 | Sankore Senior High School | Sankore | Mixed | Day/Boarding | B | SHS
+361 | Ashanti | Ahafo Ano South | 0050903 | Huitimboang Comm. Senior High | Boakyem | Mixed | Day | B | SHS
+362 | Ashanti | Ahafo Ano South | 0050905 | Kyenkyenkere Comm. Senior High | Kyenkyenkere | Mixed | Day | B | SHS
+363 | Ashanti | Ahafo Ano South | 0050901 | Nsuta Comm. Senior High | Nsuta | Mixed | Day | B | SHS
+364 | Ashanti | Ahafo Ano South | 0050910 | Tweneboa Kodua Senior High | Kumawu | Mixed | Day | B | SHS
+365 | Ashanti | Ahafo Ano South | 0050909 | Wamiri Comm. Senior High | Wamiri | Mixed | Day | B | SHS
+366 | Ashanti | Ahafo Ano South | 0050908 | Zourma Comm. Senior High | Zourma | Mixed | Day | B | SHS
+367 | Ashanti | Ahafo Ano South | 0050912 | Motiejiso Comm. Senior High | Motiejiso | Mixed | Day | B | SHS
+368 | Ashanti | Ahafo Ano South | 0050911 | Sobaso Comm. Senior High | Sobaso | Mixed | Day | B | SHS
+369 | Ashanti | Amansie Central | 0051413 | Agogo Comm. Day SHS | Agogo | Mixed | Day | B | SHS
+370 | Ashanti | Amansie Central | 0051409 | Akrofufuomm Senior High | Akrofufuo | Mixed | Day | B | SHS
+371 | Ashanti | Amansie Central | 0051403 | Amentia Comm. Senior High | Amentia | Mixed | Day | B | SHS
+372 | Ashanti | Amansie Central | 0051407 | Ankasi Senior High | Ankasi | Mixed | Day | B | SHS
+373 | Ashanti | Amansie Central | 0051404 | Antoa Comm. Senior High | Antoa | Mixed | Day | B | SHS
+374 | Ashanti | Amansie Central | 0051410 | Atwerekere Comm. Senior High | Atwerekere | Mixed | Day | B | SHS
+375 | Ashanti | Amansie Central | 0051414 | Ayirebi Comm. Senior High | Ayirebi | Mixed | Day | B | SHS
+376 | Ashanti | Amansie Central | 0051402 | Begroaso Comm. Senior High | Begroaso | Mixed | Day | B | SHS
+377 | Ashanti | Amansie Central | 0051406 | Esieni Comm. Senior High | Esieni | Mixed | Day | B | SHS
+378 | Ashanti | Amansie Central | 0051408 | Kenyasi Comm. Senior High | Kenyasi | Mixed | Day | B | SHS
+379 | Ashanti | Amansie Central | 0051412 | Kwabeng Comm. Day SHS | Kwabeng | Mixed | Day | B | SHS
+380 | Ashanti | Amansie Central | 0051401 | Odaho Comm. Senior High | Odaho | Mixed | Day | B | SHS
+381 | Ashanti | Amansie Central | 0051415 | Pankrono Senior High | Pankrono | Mixed | Day | B | SHS
+382 | Ashanti | Amansie Central | 0051405 | Onyimso Comm. Senior High | Onyimso | Mixed | Day | B | SHS
+383 | Ashanti | Amansie Central | 0051411 | Pafo-Komm. Day SHS | Pafo | Mixed | Day | B | SHS
+384 | Ashanti | Amansie West | 0051604 | Aboroye Senior High | Aboroye | Mixed | Day | B | SHS
+385 | Ashanti | Amansie West | 0051605 | Adomfe Comm. Day SHS | Adomfe | Mixed | Day | B | SHS
+386 | Ashanti | Amansie West | 0051612 | Ahougyatoua Comm. Senior High | Ahougyatoua | Mixed | Day | B | SHS
+387 | Ashanti | Amansie West | 0051606 | Amponsa Senior High | Amponsa | Mixed | Day | B | SHS
+388 | Ashanti | Amansie West | 0051601 | Aniamoa Comm. Day SHS | Aniamoa | Mixed | Day | B | SHS
+389 | Ashanti | Amansie West | 0051610 | Asamang Comm. Day SHS | Asamang | Mixed | Day | B | SHS
+390 | Ashanti | Amansie West | 0051603 | Javopa Senior High | Japuoso | Mixed | Day | B | SHS
+391 | Ashanti | Amansie West | 0051611 | Kwamang Comm. Senior High | Kwamang | Mixed | Day | B | SHS
+392 | Ashanti | Amansie West | 0051615 | Mpasatia Comm. Day SHS | Mpasatia | Mixed | Day | B | SHS
+393 | Ashanti | Amansie West | 0051614 | Nabia Comm. Day SHS | Nabia | Mixed | Day | B | SHS
+394 | Ashanti | Amansie West | 0051608 | Nsuaem No.2 Comm. SHS | Nsuaem | Mixed | Day | B | SHS
+395 | Ashanti | Amansie West | 0051602 | Nsuaem Comm. Day SHS | Nsuaem | Mixed | Day | B | SHS
+396 | Ashanti | Amansie West | 0051607 | Tontokrom Comm. Day SHS | Tontokrom | Mixed | Day | B | SHS
+397 | Ashanti | Amansie West | 0051613 | Wioso Comm. Senior High | Wioso | Mixed | Day | B | SHS
+398 | Ashanti | Amansie West | 0051609 | Yabiakrom Comm. Day SHS | Yabiakrom | Mixed | Day | B | SHS
+399 | Ashanti | Amansie West | 0051616 | Yaw Nkruma Comm. Day SHS | Yaw Nkruma | Mixed | Day | B | SHS
+
+=== PAGE 48 (Section: APPENDIX 3 - Alternative School Choices, CONTINUED) ===
+400 | Ashanti | Asante Akim Central Municipal | 0052008 | Agogo State College | Agogo | Mixed | Day/Boarding | B | SHS
+401 | Ashanti | Asante Akim Central Municipal | 0052003 | Asante-Akim Comm. Day High | Konongo | Mixed | Day | B | SHS
+402 | Ashanti | Asante Akim Central Municipal | 0052004 | Konongo Senior High School | Konongo | Mixed | Day | B | SHS
+403 | Ashanti | Asante Akim Central Municipal | 0052001 | Kwaman Comm. Day Senior High | Kwaman | Mixed | Day | B | SHS
+404 | Ashanti | Asante Akim Central Municipal | 0052002 | Kyekyewere Comm. Day SHS | Kyekyewere | Mixed | Day | B | SHS
+405 | Ashanti | Asante Akim Central Municipal | 0052006 | Odumase Comm. Day SHS | Odumase | Mixed | Day | B | SHS
+406 | Ashanti | Asante Akim Central Municipal | 0052007 | Owerriman Comm. Day SHS | Owerriman | Mixed | Day | B | SHS
+407 | Ashanti | Asante Akim Central Municipal | 0052005 | Pipiiso Comm. Senior High | Pipiiso | Mixed | Day | B | SHS
+408 | Ashanti | Asante Akim North | 0052109 | Agyeago Comm. Day Senior High | Agyeago | Mixed | Day | B | SHS
+409 | Ashanti | Asante Akim North | 0052114 | Akroso Comm. Day SHS | Akroso | Mixed | Day | B | SHS
+410 | Ashanti | Asante Akim North | 0052111 | Appiadu Comm. Day Senior High | Appiadu | Mixed | Day | B | SHS
+411 | Ashanti | Asante Akim North | 0052118 | Asenemaso Comm. Day SHS | Asenemaso | Mixed | Day | B | SHS
+412 | Ashanti | Asante Akim North | 0052106 | Bobriase Comm. Day SHS | Bobriase | Mixed | Day | B | SHS
+413 | Ashanti | Asante Akim North | 0052117 | Fenaso Comm. Day SHS | Fenaso | Mixed | Day | B | SHS
+414 | Ashanti | Asante Akim North | 0052112 | Kofiase Comm. Day SHS | Kofiase | Mixed | Day | B | SHS
+415 | Ashanti | Asante Akim North | 0052103 | Juaho Comm. Day SHS | Juaho | Mixed | Day | B | SHS
+416 | Ashanti | Asante Akim North | 0052101 | Juapong Comm. Day SHS | Juapong | Mixed | Day | B | SHS
+417 | Ashanti | Asante Akim North | 0052110 | K.S.D Comm. Senior High | K.S.D | Mixed | Day | B | SHS
+418 | Ashanti | Asante Akim North | 0052115 | Kyiremfaso Comm. Day SHS | Kyiremfaso | Mixed | Day | B | SHS
+419 | Ashanti | Asante Akim North | 0052108 | Mem Comm. Senior High | Mem | Mixed | Day | B | SHS
+420 | Ashanti | Asante Akim North | 0052113 | Nkeneso Comm. Senior High | Nkeneso | Mixed | Day | B | SHS
+421 | Ashanti | Asante Akim North | 0052104 | New Aberim Comm. Day SHS | New Aberim | Mixed | Day | B | SHS
+422 | Ashanti | Asante Akim North | 0052116 | Nobesu Comm. Day SHS | Nobesu | Mixed | Day | B | SHS
+423 | Ashanti | Asante Akim North | 0052102 | Old Tafo Comm. Day SHS | Old Tafo | Mixed | Day | B | SHS
+424 | Ashanti | Asante Akim North | 0052119 | Owechiri Comm. Day SHS | Owechiri | Mixed | Day | B | SHS
+425 | Ashanti | Asante Akim North | 0052105 | Pankronu Comm. Day SHS | Pankronu | Mixed | Day | B | SHS
+426 | Ashanti | Asante Akim North | 0052107 | Paatia Comm. Day SHS | Paatia | Mixed | Day | B | SHS
+427 | Ashanti | Asante Akim North | 0052108 | Sokoban Comm. Day SHS | Sokoban | Mixed | Day | B | SHS
+428 | Ashanti | Asante Akim North | 0052117 | Suntidu Comm. Day SHS | Suntidu | Mixed | Day | B | SHS
+429 | Ashanti | Asante Akim South | 0052212 | Adakofi Comm. Senior High | Adakofi | Mixed | Day | B | SHS
+430 | Ashanti | Asante Akim South | 0052216 | Afoako Comm. Senior High | Afoako | Mixed | Day | B | SHS
+431 | Ashanti | Asante Akim South | 0052201 | Amaam Comm. Senior High | Amaam | Mixed | Day | B | SHS
+432 | Ashanti | Asante Akim South | 0052202 | Bompata Presby. Senior High | Bompata | Mixed | Day | B | SHS
+433 | Ashanti | Asante Akim South | 0052215 | Dadobiri Comm. Senior High | Dadobiri | Mixed | Day | B | SHS
+434 | Ashanti | Asante Akim South | 0052214 | Dadeeso Comm. Senior High | Dadeeso | Mixed | Day | B | SHS
+435 | Ashanti | Asante Akim South | 0052219 | Ewu Asakraka Comm. SHS | Ewu Asakraka | Mixed | Day | B | SHS
+436 | Ashanti | Asante Akim South | 0052211 | Fuaso Comm. Senior High | Fuaso | Mixed | Day | B | SHS
+437 | Ashanti | Asante Akim South | 0052204 | Jejeti Comm. Senior High | Jejeti | Mixed | Day | B | SHS
+438 | Ashanti | Asante Akim South | 0052203 | Juabeso Senior High | Juabeso | Mixed | Day | B | SHS
+439 | Ashanti | Asante Akim South | 0052207 | Kwasi Comm. Senior High | Kwasi | Mixed | Day | B | SHS
+440 | Ashanti | Asante Akim South | 0052205 | Kyekyebiakro Comm. Senior High | Kyekyebiakro | Mixed | Day | B | SHS
+441 | Ashanti | Asante Akim South | 0052217 | Mampong Comm. SHS | Mampong | Mixed | Day | B | SHS
+442 | Ashanti | Asante Akim South | 0052213 | Mensonso Comm. Senior High | Mensonso | Mixed | Day | B | SHS
+443 | Ashanti | Asante Akim South | 0052206 | Nkwantakese Comm. Day SHS | Nkwantakese | Mixed | Day | B | SHS
+444 | Ashanti | Asante Akim South | 0052210 | Nsoesie Comm. Senior High | Nsoesie | Mixed | Day | B | SHS
+445 | Ashanti | Asante Akim South | 0052209 | Obogu Comm. Senior High | Obogu | Mixed | Day | B | SHS
+446 | Ashanti | Asante Akim South | 0052218 | Oworobong Comm. Senior High | Oworobong | Mixed | Day | B | SHS
+447 | Ashanti | Asante Akim South | 0052208 | Patakase Comm. Senior High | Patakase | Mixed | Day | B | SHS
+448 | Ashanti | Asante Akim South | 0052220 | Wamase Comm. Senior High | Wamase | Mixed | Day | B | SHS
+449 | Ashanti | Asante Akim South | 0052207 | Watapon Comm. Senior High | Watapon | Mixed | Day | B | SHS
+450 | Ashanti | Adansi North | 0050202 | Girls' SHS | Jetiase | Girls | Day | B | SHS
+451 | Ashanti | Adansi North | 0050402 | Akrofuom Senior High/Tech. | Akrofuom | Mixed | Day/Boarding | B | SHTS
+452 | Ashanti | Adansi North | 0050405 | Bawuro Senior High | Bawuro | Mixed | Day | B | SHS
+453 | Ashanti | Afigya Kwabre | 0051312 | Adanomante Comm. Senior High | Adanomante | Mixed | Day | B | SHS
+454 | Ashanti | Afigya Kwabre | 0051301 | Dwari Mau Comm. SHS | Obo-Kwahu | Mixed | Day | B | SHS
+455 | Ashanti | Afigya Kwabre | 0051303 | Hiawu Comm. Senior High | Adugyama | Mixed | Day | B | SHS
+456 | Ashanti | Ahafo Ano North | 0050802 | Mankranso Comm. Day Senior High | Mankranso | Mixed | Day | B | SHS
+457 | Ashanti | Ahafo Ano North | 0050803 | Abofour Presby. Senior High | Abofour | Mixed | Day | B | SHS
+458 | Ashanti | Ahafo Ano North | 0050807 | Ahafo Ano North Comm. Day SHS | Tepa | Mixed | Day | B | SHS
+459 | Ashanti | Ahafo Ano North | 0050810 | Ahafoman Senior High School | Odumase | Mixed | Day | B | SHS
+460 | Ashanti | Ahafo Ano North | 0050804 | Asuadei Senior High | Asuadei | Mixed | Day | B | SHS
+461 | Ashanti | Ahafo Ano North | 0050806 | Kengoso Comm. Senior High | Bompesiso | Mixed | Day | B | SHS
+462 | Ashanti | Ahafo Ano North | 0050812 | Nsuapemso Comm. Senior High | Nsuapemso | Mixed | Day | B | SHS
+463 | Ashanti | Ahafo Ano North | 0050801 | Beteh Comm. Senior High | Amowi | Mixed | Day | B | SHS
+464 | Ashanti | Ahafo Ano North | 0050805 | Mpasatia Comm. Day SHS | Mpasatia | Mixed | Day | B | SHS
+465 | Ashanti | Ahafo Ano South | 0050904 | Adinku Comm. Senior High | Adinku | Mixed | Day | B | SHS
+466 | Ashanti | Ahafo Ano South | 0050907 | Apaaso Comm. Senior High | Apaaso | Mixed | Day | B | SHS
+467 | Ashanti | Ahafo Ano South | 0050902 | Dadadan Senior High | Dadadan | Mixed | Day | B | SHS
+468 | Ashanti | Ahafo Ano South | 0050906 | Sankore Senior High School | Sankore | Mixed | Day/Boarding | B | SHS
+469 | Ashanti | Ahafo Ano South | 0050903 | Huitimboang Comm. Senior High | Boakyem | Mixed | Day | B | SHS
+470 | Ashanti | Ahafo Ano South | 0050905 | Kyenkyenkere Comm. Senior High | Kyenkyenkere | Mixed | Day | B | SHS
+471 | Ashanti | Ahafo Ano South | 0050901 | Nsuta Comm. Senior High | Nsuta | Mixed | Day | B | SHS
+472 | Ashanti | Ahafo Ano South | 0050910 | Tweneboa Kodua Senior High | Kumawu | Mixed | Day | B | SHS
+473 | Ashanti | Ahafo Ano South | 0050909 | Wamiri Comm. Senior High | Wamiri | Mixed | Day | B | SHS
+474 | Ashanti | Ahafo Ano South | 0050908 | Zourma Comm. Senior High | Zourma | Mixed | Day | B | SHS
+475 | Ashanti | Ahafo Ano South | 0050912 | Motiejiso Comm. Senior High | Motiejiso | Mixed | Day | B | SHS
+476 | Ashanti | Ahafo Ano South | 0050911 | Sobaso Comm. Senior High | Sobaso | Mixed | Day | B | SHS
+477 | Ashanti | Amansie Central | 0051413 | Agogo Comm. Day SHS | Agogo | Mixed | Day | B | SHS
+478 | Ashanti | Amansie Central | 0051409 | Akrofufuomm Senior High | Akrofufuo | Mixed | Day | B | SHS
+479 | Ashanti | Amansie Central | 0051403 | Amentia Comm. Senior High | Amentia | Mixed | Day | B | SHS
+480 | Ashanti | Amansie Central | 0051407 | Ankasi Senior High | Ankasi | Mixed | Day | B | SHS
+481 | Ashanti | Amansie Central | 0051404 | Antoa Comm. Senior High | Antoa | Mixed | Day | B | SHS
+482 | Ashanti | Amansie Central | 0051410 | Atwerekere Comm. Senior High | Atwerekere | Mixed | Day | B | SHS
+483 | Ashanti | Amansie Central | 0051414 | Ayirebi Comm. Senior High | Ayirebi | Mixed | Day | B | SHS
+484 | Ashanti | Amansie Central | 0051402 | Begroaso Comm. Senior High | Begroaso | Mixed | Day | B | SHS
+485 | Ashanti | Amansie Central | 0051406 | Esieni Comm. Senior High | Esieni | Mixed | Day | B | SHS
+486 | Ashanti | Amansie Central | 0051408 | Kenyasi Comm. Senior High | Kenyasi | Mixed | Day | B | SHS
+487 | Ashanti | Amansie Central | 0051412 | Kwabeng Comm. Day SHS | Kwabeng | Mixed | Day | B | SHS
+488 | Ashanti | Amansie Central | 0051401 | Odaho Comm. Senior High | Odaho | Mixed | Day | B | SHS
+489 | Ashanti | Amansie Central | 0051415 | Pankrono Senior High | Pankrono | Mixed | Day | B | SHS
+490 | Ashanti | Amansie Central | 0051405 | Onyimso Comm. Senior High | Onyimso | Mixed | Day | B | SHS
+491 | Ashanti | Amansie Central | 0051411 | Pafo-Komm. Day SHS | Pafo | Mixed | Day | B | SHS
+492 | Ashanti | Amansie West | 0051604 | Aboroye Senior High | Aboroye | Mixed | Day | B | SHS
+493 | Ashanti | Amansie West | 0051605 | Adomfe Comm. Day SHS | Adomfe | Mixed | Day | B | SHS
+494 | Ashanti | Amansie West | 0051612 | Ahougyatoua Comm. Senior High | Ahougyatoua | Mixed | Day | B | SHS
+495 | Ashanti | Amansie West | 0051606 | Amponsa Senior High | Amponsa | Mixed | Day | B | SHS
+496 | Ashanti | Amansie West | 0051601 | Aniamoa Comm. Day SHS | Aniamoa | Mixed | Day | B | SHS
+497 | Ashanti | Amansie West | 0051610 | Asamang Comm. Day SHS | Asamang | Mixed | Day | B | SHS
+498 | Ashanti | Amansie West | 0051603 | Javopa Senior High | Japuoso | Mixed | Day | B | SHS
+499 | Ashanti | Amansie West | 0051611 | Kwamang Comm. Senior High | Kwamang | Mixed | Day | B | SHS
+500 | Ashanti | Amansie West | 0051615 | Mpasatia Comm. Day SHS | Mpasatia | Mixed | Day | B | SHS
+501 | Ashanti | Amansie West | 0051614 | Nabia Comm. Day SHS | Nabia | Mixed | Day | B | SHS
+502 | Ashanti | Amansie West | 0051608 | Nsuaem No.2 Comm. SHS | Nsuaem | Mixed | Day | B | SHS
+503 | Ashanti | Amansie West | 0051602 | Nsuaem Comm. Day SHS | Nsuaem | Mixed | Day | B | SHS
+504 | Ashanti | Amansie West | 0051607 | Tontokrom Comm. Day SHS | Tontokrom | Mixed | Day | B | SHS
+505 | Ashanti | Amansie West | 0051613 | Wioso Comm. Senior High | Wioso | Mixed | Day | B | SHS
+506 | Ashanti | Amansie West | 0051609 | Yabiakrom Comm. Day SHS | Yabiakrom | Mixed | Day | B | SHS
+507 | Ashanti | Amansie West | 0051616 | Yaw Nkruma Comm. Day SHS | Yaw Nkruma | Mixed | Day | B | SHS
+
+=== PAGE 49 (Section: APPENDIX 3 - Alternative School Choices, CONTINUED) ===
+508 | Ashanti | Asante Akim Central Municipal | 0052008 | Agogo State College | Agogo | Mixed | Day/Boarding | B | SHS
+509 | Ashanti | Asante Akim Central Municipal | 0052003 | Asante-Akim Comm. Day High | Konongo | Mixed | Day | B | SHS
+510 | Ashanti | Asante Akim Central Municipal | 0052004 | Konongo Senior High School | Konongo | Mixed | Day | B | SHS
+511 | Ashanti | Asante Akim Central Municipal | 0052001 | Kwaman Comm. Day Senior High | Kwaman | Mixed | Day | B | SHS
+512 | Ashanti | Asante Akim Central Municipal | 0052002 | Kyekyewere Comm. Day SHS | Kyekyewere | Mixed | Day | B | SHS
+513 | Ashanti | Asante Akim Central Municipal | 0052006 | Odumase Comm. Day SHS | Odumase | Mixed | Day | B | SHS
+514 | Ashanti | Asante Akim Central Municipal | 0052007 | Owerriman Comm. Day SHS | Owerriman | Mixed | Day | B | SHS
+515 | Ashanti | Asante Akim Central Municipal | 0052005 | Pipiiso Comm. Senior High | Pipiiso | Mixed | Day | B | SHS
+516 | Ashanti | Asante Akim North | 0052109 | Agyeago Comm. Day Senior High | Agyeago | Mixed | Day | B | SHS
+517 | Ashanti | Asante Akim North | 0052114 | Akroso Comm. Day SHS | Akroso | Mixed | Day | B | SHS
+518 | Ashanti | Asante Akim North | 0052111 | Appiadu Comm. Day Senior High | Appiadu | Mixed | Day | B | SHS
+519 | Ashanti | Asante Akim North | 0052118 | Asenemaso Comm. Day SHS | Asenemaso | Mixed | Day | B | SHS
+520 | Ashanti | Asante Akim North | 0052106 | Bobriase Comm. Day SHS | Bobriase | Mixed | Day | B | SHS
+521 | Ashanti | Asante Akim North | 0052117 | Fenaso Comm. Day SHS | Fenaso | Mixed | Day | B | SHS
+522 | Ashanti | Asante Akim North | 0052112 | Kofiase Comm. Day SHS | Kofiase | Mixed | Day | B | SHS
+523 | Ashanti | Asante Akim North | 0052103 | Juaho Comm. Day SHS | Juaho | Mixed | Day | B | SHS
+524 | Ashanti | Asante Akim North | 0052101 | Juapong Comm. Day SHS | Juapong | Mixed | Day | B | SHS
+525 | Ashanti | Asante Akim North | 0052110 | K.S.D Comm. Senior High | K.S.D | Mixed | Day | B | SHS
+526 | Ashanti | Asante Akim North | 0052115 | Kyiremfaso Comm. Day SHS | Kyiremfaso | Mixed | Day | B | SHS
+527 | Ashanti | Asante Akim North | 0052108 | Mem Comm. Senior High | Mem | Mixed | Day | B | SHS
+528 | Ashanti | Asante Akim North | 0052113 | Nkeneso Comm. Senior High | Nkeneso | Mixed | Day | B | SHS
+529 | Ashanti | Asante Akim North | 0052104 | New Aberim Comm. Day SHS | New Aberim | Mixed | Day | B | SHS
+530 | Ashanti | Asante Akim North | 0052116 | Nobesu Comm. Day SHS | Nobesu | Mixed | Day | B | SHS
+531 | Ashanti | Asante Akim North | 0052102 | Old Tafo Comm. Day SHS | Old Tafo | Mixed | Day | B | SHS
+532 | Ashanti | Asante Akim North | 0052119 | Owechiri Comm. Day SHS | Owechiri | Mixed | Day | B | SHS
+533 | Ashanti | Asante Akim North | 0052105 | Pankronu Comm. Day SHS | Pankronu | Mixed | Day | B | SHS
+534 | Ashanti | Asante Akim North | 0052107 | Paatia Comm. Day SHS | Paatia | Mixed | Day | B | SHS
+535 | Ashanti | Asante Akim North | 0052108 | Sokoban Comm. Day SHS | Sokoban | Mixed | Day | B | SHS
+536 | Ashanti | Asante Akim North | 0052117 | Suntidu Comm. Day SHS | Suntidu | Mixed | Day | B | SHS
+537 | Ashanti | Asante Akim South | 0052212 | Adakofi Comm. Senior High | Adakofi | Mixed | Day | B | SHS
+538 | Ashanti | Asante Akim South | 0052216 | Afoako Comm. Senior High | Afoako | Mixed | Day | B | SHS
+539 | Ashanti | Asante Akim South | 0052201 | Amaam Comm. Senior High | Amaam | Mixed | Day | B | SHS
+540 | Ashanti | Asante Akim South | 0052202 | Bompata Presby. Senior High | Bompata | Mixed | Day | B | SHS
+541 | Ashanti | Asante Akim South | 0052215 | Dadobiri Comm. Senior High | Dadobiri | Mixed | Day | B | SHS
+542 | Ashanti | Asante Akim South | 0052214 | Dadeeso Comm. Senior High | Dadeeso | Mixed | Day | B | SHS
+543 | Ashanti | Asante Akim South | 0052219 | Ewu Asakraka Comm. SHS | Ewu Asakraka | Mixed | Day | B | SHS
+544 | Ashanti | Asante Akim South | 0052211 | Fuaso Comm. Senior High | Fuaso | Mixed | Day | B | SHS
+545 | Ashanti | Asante Akim South | 0052204 | Jejeti Comm. Senior High | Jejeti | Mixed | Day | B | SHS
+546 | Ashanti | Asante Akim South | 0052203 | Juabeso Senior High | Juabeso | Mixed | Day | B | SHS
+547 | Ashanti | Asante Akim South | 0052207 | Kwasi Comm. Senior High | Kwasi | Mixed | Day | B | SHS
+548 | Ashanti | Asante Akim South | 0052205 | Kyekyebiakro Comm. Senior High | Kyekyebiakro | Mixed | Day | B | SHS
+549 | Ashanti | Asante Akim South | 0052217 | Mampong Comm. SHS | Mampong | Mixed | Day | B | SHS
+550 | Ashanti | Asante Akim South | 0052213 | Mensonso Comm. Senior High | Mensonso | Mixed | Day | B | SHS
+551 | Ashanti | Asante Akim South | 0052206 | Nkwantakese Comm. Day SHS | Nkwantakese | Mixed | Day | B | SHS
+552 | Ashanti | Asante Akim South | 0052210 | Nsoesie Comm. Senior High | Nsoesie | Mixed | Day | B | SHS
+553 | Ashanti | Asante Akim South | 0052209 | Obogu Comm. Senior High | Obogu | Mixed | Day | B | SHS
+554 | Ashanti | Asante Akim South | 0052218 | Oworobong Comm. Senior High | Oworobong | Mixed | Day | B | SHS
+555 | Ashanti | Asante Akim South | 0052208 | Patakase Comm. Senior High | Patakase | Mixed | Day | B | SHS
+556 | Ashanti | Asante Akim South | 0052220 | Wamase Comm. Senior High | Wamase | Mixed | Day | B | SHS
+557 | Ashanti | Asante Akim South | 0052207 | Watapon Comm. Senior High | Watapon | Mixed | Day | B | SHS
+558 | Ashanti | Adansi North | 0050202 | Girls' SHS | Jetiase | Girls | Day | B | SHS
+559 | Ashanti | Adansi North | 0050402 | Akrofuom Senior High/Tech. | Akrofuom | Mixed | Day/Boarding | B | SHTS
+560 | Ashanti | Adansi North | 0050405 | Bawuro Senior High | Bawuro | Mixed | Day | B | SHS
+561 | Ashanti | Afigya Kwabre | 0051312 | Adanomante Comm. Senior High | Adanomante | Mixed | Day | B | SHS
+562 | Ashanti | Afigya Kwabre | 0051301 | Dwari Mau Comm. SHS | Obo-Kwahu | Mixed | Day | B | SHS
+563 | Ashanti | Afigya Kwabre | 0051303 | Hiawu Comm. Senior High | Adugyama | Mixed | Day | B | SHS
+564 | Ashanti | Ahafo Ano North | 0050802 | Mankranso Comm. Day Senior High | Mankranso | Mixed | Day | B | SHS
+565 | Ashanti | Ahafo Ano North | 0050803 | Abofour Presby. Senior High | Abofour | Mixed | Day | B | SHS
+566 | Ashanti | Ahafo Ano North | 0050807 | Ahafo Ano North Comm. Day SHS | Tepa | Mixed | Day | B | SHS
+567 | Ashanti | Ahafo Ano North | 0050810 | Ahafoman Senior High School | Odumase | Mixed | Day | B | SHS
+568 | Ashanti | Ahafo Ano North | 0050804 | Asuadei Senior High | Asuadei | Mixed | Day | B | SHS
+569 | Ashanti | Ahafo Ano North | 0050806 | Kengoso Comm. Senior High | Bompesiso | Mixed | Day | B | SHS
+570 | Ashanti | Ahafo Ano North | 0050812 | Nsuapemso Comm. Senior High | Nsuapemso | Mixed | Day | B | SHS
+571 | Ashanti | Ahafo Ano North | 0050801 | Beteh Comm. Senior High | Amowi | Mixed | Day | B | SHS
+572 | Ashanti | Ahafo Ano North | 0050805 | Mpasatia Comm. Day SHS | Mpasatia | Mixed | Day | B | SHS
+573 | Ashanti | Ahafo Ano South | 0050904 | Adinku Comm. Senior High | Adinku | Mixed | Day | B | SHS
+574 | Ashanti | Ahafo Ano South | 0050907 | Apaaso Comm. Senior High | Apaaso | Mixed | Day | B | SHS
+575 | Ashanti | Ahafo Ano South | 0050902 | Dadadan Senior High | Dadadan | Mixed | Day | B | SHS
+576 | Ashanti | Ahafo Ano South | 0050906 | Sankore Senior High School | Sankore | Mixed | Day/Boarding | B | SHS
+577 | Ashanti | Ahafo Ano South | 0050903 | Huitimboang Comm. Senior High | Boakyem | Mixed | Day | B | SHS
+578 | Ashanti | Ahafo Ano South | 0050905 | Kyenkyenkere Comm. Senior High | Kyenkyenkere | Mixed | Day | B | SHS
+579 | Ashanti | Ahafo Ano South | 0050901 | Nsuta Comm. Senior High | Nsuta | Mixed | Day | B | SHS
+580 | Ashanti | Ahafo Ano South | 0050910 | Tweneboa Kodua Senior High | Kumawu | Mixed | Day | B | SHS
+581 | Ashanti | Ahafo Ano South | 0050909 | Wamiri Comm. Senior High | Wamiri | Mixed | Day | B | SHS
+582 | Ashanti | Ahafo Ano South | 0050908 | Zourma Comm. Senior High | Zourma | Mixed | Day | B | SHS
+583 | Ashanti | Ahafo Ano South | 0050912 | Motiejiso Comm. Senior High | Motiejiso | Mixed | Day | B | SHS
+584 | Ashanti | Ahafo Ano South | 0050911 | Sobaso Comm. Senior High | Sobaso | Mixed | Day | B | SHS
+585 | Ashanti | Amansie Central | 0051413 | Agogo Comm. Day SHS | Agogo | Mixed | Day | B | SHS
+586 | Ashanti | Amansie Central | 0051409 | Akrofufuomm Senior High | Akrofufuo | Mixed | Day | B | SHS
+587 | Ashanti | Amansie Central | 0051403 | Amentia Comm. Senior High | Amentia | Mixed | Day | B | SHS
+588 | Ashanti | Amansie Central | 0051407 | Ankasi Senior High | Ankasi | Mixed | Day | B | SHS
+589 | Ashanti | Amansie Central | 0051404 | Antoa Comm. Senior High | Antoa | Mixed | Day | B | SHS
+590 | Ashanti | Amansie Central | 0051410 | Atwerekere Comm. Senior High | Atwerekere | Mixed | Day | B | SHS
+591 | Ashanti | Amansie Central | 0051414 | Ayirebi Comm. Senior High | Ayirebi | Mixed | Day | B | SHS
+592 | Ashanti | Amansie Central | 0051402 | Begroaso Comm. Senior High | Begroaso | Mixed | Day | B | SHS
+593 | Ashanti | Amansie Central | 0051406 | Esieni Comm. Senior High | Esieni | Mixed | Day | B | SHS
+594 | Ashanti | Amansie Central | 0051408 | Kenyasi Comm. Senior High | Kenyasi | Mixed | Day | B | SHS
+595 | Ashanti | Amansie Central | 0051412 | Kwabeng Comm. Day SHS | Kwabeng | Mixed | Day | B | SHS
+596 | Ashanti | Amansie Central | 0051401 | Odaho Comm. Senior High | Odaho | Mixed | Day | B | SHS
+597 | Ashanti | Amansie Central | 0051415 | Pankrono Senior High | Pankrono | Mixed | Day | B | SHS
+598 | Ashanti | Amansie Central | 0051405 | Onyimso Comm. Senior High | Onyimso | Mixed | Day | B | SHS
+599 | Ashanti | Amansie Central | 0051411 | Pafo-Komm. Day SHS | Pafo | Mixed | Day | B | SHS
+600 | Ashanti | Amansie West | 0051604 | Aboroye Senior High | Aboroye | Mixed | Day | B | SHS
+601 | Ashanti | Amansie West | 0051605 | Adomfe Comm. Day SHS | Adomfe | Mixed | Day | B | SHS
+602 | Ashanti | Amansie West | 0051612 | Ahougyatoua Comm. Senior High | Ahougyatoua | Mixed | Day | B | SHS
+603 | Ashanti | Amansie West | 0051606 | Amponsa Senior High | Amponsa | Mixed | Day | B | SHS
+604 | Ashanti | Amansie West | 0051601 | Aniamoa Comm. Day SHS | Aniamoa | Mixed | Day | B | SHS
+605 | Ashanti | Amansie West | 0051610 | Asamang Comm. Day SHS | Asamang | Mixed | Day | B | SHS
+606 | Ashanti | Amansie West | 0051603 | Javopa Senior High | Japuoso | Mixed | Day | B | SHS
+607 | Ashanti | Amansie West | 0051611 | Kwamang Comm. Senior High | Kwamang | Mixed | Day | B | SHS
+608 | Ashanti | Amansie West | 0051615 | Mpasatia Comm. Day SHS | Mpasatia | Mixed | Day | B | SHS
+609 | Ashanti | Amansie West | 0051614 | Nabia Comm. Day SHS | Nabia | Mixed | Day | B | SHS
+610 | Ashanti | Amansie West | 0051608 | Nsuaem No.2 Comm. SHS | Nsuaem | Mixed | Day | B | SHS
+611 | Ashanti | Amansie West | 0051602 | Nsuaem Comm. Day SHS | Nsuaem | Mixed | Day | B | SHS
+612 | Ashanti | Amansie West | 0051607 | Tontokrom Comm. Day SHS | Tontokrom | Mixed | Day | B | SHS
+613 | Ashanti | Amansie West | 0051613 | Wioso Comm. Senior High | Wioso | Mixed | Day | B | SHS
+614 | Ashanti | Amansie West | 0051609 | Yabiakrom Comm. Day SHS | Yabiakrom | Mixed | Day | B | SHS
+615 | Ashanti | Amansie West | 0051616 | Yaw Nkruma Comm. Day SHS | Yaw Nkruma | Mixed | Day | B | SHS
+
+=== PAGE 50 (Section: APPENDIX 3 - Alternative School Choices, CONTINUED) ===
+616 | Ashanti | Asante Akim Central Municipal | 0052008 | Agogo State College | Agogo | Mixed | Day/Boarding | B | SHS
+617 | Ashanti | Asante Akim Central Municipal | 0052003 | Asante-Akim Comm. Day High | Konongo | Mixed | Day | B | SHS
+618 | Ashanti | Asante Akim Central Municipal | 0052004 | Konongo Senior High School | Konongo | Mixed | Day | B | SHS
+619 | Ashanti | Asante Akim Central Municipal | 0052001 | Kwaman Comm. Day Senior High | Kwaman | Mixed | Day | B | SHS
+620 | Ashanti | Asante Akim Central Municipal | 0052002 | Kyekyewere Comm. Day SHS | Kyekyewere | Mixed | Day | B | SHS
+621 | Ashanti | Asante Akim Central Municipal | 0052006 | Odumase Comm. Day SHS | Odumase | Mixed | Day | B | SHS
+622 | Ashanti | Asante Akim Central Municipal | 0052007 | Owerriman Comm. Day SHS | Owerriman | Mixed | Day | B | SHS
+623 | Ashanti | Asante Akim Central Municipal | 0052005 | Pipiiso Comm. Senior High | Pipiiso | Mixed | Day | B | SHS
+624 | Ashanti | Asante Akim North | 0052109 | Agyeago Comm. Day Senior High | Agyeago | Mixed | Day | B | SHS
+625 | Ashanti | Asante Akim North | 0052114 | Akroso Comm. Day SHS | Akroso | Mixed | Day | B | SHS
+626 | Ashanti | Asante Akim North | 0052111 | Appiadu Comm. Day Senior High | Appiadu | Mixed | Day | B | SHS
+627 | Ashanti | Asante Akim North | 0052118 | Asenemaso Comm. Day SHS | Asenemaso | Mixed | Day | B | SHS
+628 | Ashanti | Asante Akim North | 0052106 | Bobriase Comm. Day SHS | Bobriase | Mixed | Day | B | SHS
+629 | Ashanti | Asante Akim North | 0052117 | Fenaso Comm. Day SHS | Fenaso | Mixed | Day | B | SHS
+630 | Ashanti | Asante Akim North | 0052112 | Kofiase Comm. Day SHS | Kofiase | Mixed | Day | B | SHS
+631 | Ashanti | Asante Akim North | 0052103 | Juaho Comm. Day SHS | Juaho | Mixed | Day | B | SHS
+632 | Ashanti | Asante Akim North | 0052101 | Juapong Comm. Day SHS | Juapong | Mixed | Day | B | SHS
+633 | Ashanti | Asante Akim North | 0052110 | K.S.D Comm. Senior High | K.S.D | Mixed | Day | B | SHS
+634 | Ashanti | Asante Akim North | 0052115 | Kyiremfaso Comm. Day SHS | Kyiremfaso | Mixed | Day | B | SHS
+635 | Ashanti | Asante Akim North | 0052108 | Mem Comm. Senior High | Mem | Mixed | Day | B | SHS
+636 | Ashanti | Asante Akim North | 0052113 | Nkeneso Comm. Senior High | Nkeneso | Mixed | Day | B | SHS
+637 | Ashanti | Asante Akim North | 0052104 | New Aberim Comm. Day SHS | New Aberim | Mixed | Day | B | SHS
+638 | Ashanti | Asante Akim North | 0052116 | Nobesu Comm. Day SHS | Nobesu | Mixed | Day | B | SHS
+639 | Ashanti | Asante Akim North | 0052102 | Old Tafo Comm. Day SHS | Old Tafo | Mixed | Day | B | SHS
+640 | Ashanti | Asante Akim North | 0052119 | Owechiri Comm. Day SHS | Owechiri | Mixed | Day | B | SHS
+641 | Ashanti | Asante Akim North | 0052105 | Pankronu Comm. Day SHS | Pankronu | Mixed | Day | B | SHS
+642 | Ashanti | Asante Akim North | 0052107 | Paatia Comm. Day SHS | Paatia | Mixed | Day | B | SHS
+643 | Ashanti | Asante Akim North | 0052108 | Sokoban Comm. Day SHS | Sokoban | Mixed | Day | B | SHS
+644 | Ashanti | Asante Akim North | 0052117 | Suntidu Comm. Day SHS | Suntidu | Mixed | Day | B | SHS
+645 | Ashanti | Asante Akim South | 0052212 | Adakofi Comm. Senior High | Adakofi | Mixed | Day | B | SHS
+646 | Ashanti | Asante Akim South | 0052216 | Afoako Comm. Senior High | Afoako | Mixed | Day | B | SHS
+647 | Ashanti | Asante Akim South | 0052201 | Amaam Comm. Senior High | Amaam | Mixed | Day | B | SHS
+648 | Ashanti | Asante Akim South | 0052202 | Bompata Presby. Senior High | Bompata | Mixed | Day | B | SHS
+649 | Ashanti | Asante Akim South | 0052215 | Dadobiri Comm. Senior High | Dadobiri | Mixed | Day | B | SHS
+650 | Ashanti | Asante Akim South | 0052214 | Dadeeso Comm. Senior High | Dadeeso | Mixed | Day | B | SHS
+651 | Ashanti | Asante Akim South | 0052219 | Ewu Asakraka Comm. SHS | Ewu Asakraka | Mixed | Day | B | SHS
+652 | Ashanti | Asante Akim South | 0052211 | Fuaso Comm. Senior High | Fuaso | Mixed | Day | B | SHS
+653 | Ashanti | Asante Akim South | 0052204 | Jejeti Comm. Senior High | Jejeti | Mixed | Day | B | SHS
+654 | Ashanti | Asante Akim South | 0052203 | Juabeso Senior High | Juabeso | Mixed | Day | B | SHS
+655 | Ashanti | Asante Akim South | 0052207 | Kwasi Comm. Senior High | Kwasi | Mixed | Day | B | SHS
+656 | Ashanti | Asante Akim South | 0052205 | Kyekyebiakro Comm. Senior High | Kyekyebiakro | Mixed | Day | B | SHS
+657 | Ashanti | Asante Akim South | 0052217 | Mampong Comm. SHS | Mampong | Mixed | Day | B | SHS
+658 | Ashanti | Asante Akim South | 0052213 | Mensonso Comm. Senior High | Mensonso | Mixed | Day | B | SHS
+659 | Ashanti | Asante Akim South | 0052206 | Nkwantakese Comm. Day SHS | Nkwantakese | Mixed | Day | B | SHS
+660 | Ashanti | Asante Akim South | 0052210 | Nsoesie Comm. Senior High | Nsoesie | Mixed | Day | B | SHS
+661 | Ashanti | Asante Akim South | 0052209 | Obogu Comm. Senior High | Obogu | Mixed | Day | B | SHS
+662 | Ashanti | Asante Akim South | 0052218 | Oworobong Comm. Senior High | Oworobong | Mixed | Day | B | SHS
+663 | Ashanti | Asante Akim South | 0052208 | Patakase Comm. Senior High | Patakase | Mixed | Day | B | SHS
+664 | Ashanti | Asante Akim South | 0052220 | Wamase Comm. Senior High | Wamase | Mixed | Day | B | SHS
+665 | Ashanti | Asante Akim South | 0052207 | Watapon Comm. Senior High | Watapon | Mixed | Day | B | SHS
+666 | Ashanti | Adansi North | 0050202 | Girls' SHS | Jetiase | Girls | Day | B | SHS
+667 | Ashanti | Adansi North | 0050402 | Akrofuom Senior High/Tech. | Akrofuom | Mixed | Day/Boarding | B | SHTS
+668 | Ashanti | Adansi North | 0050405 | Bawuro Senior High | Bawuro | Mixed | Day | B | SHS
+669 | Ashanti | Afigya Kwabre | 0051312 | Adanomante Comm. Senior High | Adanomante | Mixed | Day | B | SHS
+670 | Ashanti | Afigya Kwabre | 0051301 | Dwari Mau Comm. SHS | Obo-Kwahu | Mixed | Day | B | SHS
+671 | Ashanti | Afigya Kwabre | 0051303 | Hiawu Comm. Senior High | Adugyama | Mixed | Day | B | SHS
+672 | Ashanti | Ahafo Ano North | 0050802 | Mankranso Comm. Day Senior High | Mankranso | Mixed | Day | B | SHS
+673 | Ashanti | Ahafo Ano North | 0050803 | Abofour Presby. Senior High | Abofour | Mixed | Day | B | SHS
+674 | Ashanti | Ahafo Ano North | 0050807 | Ahafo Ano North Comm. Day SHS | Tepa | Mixed | Day | B | SHS
+675 | Ashanti | Ahafo Ano North | 0050810 | Ahafoman Senior High School | Odumase | Mixed | Day | B | SHS
+676 | Ashanti | Ahafo Ano North | 0050804 | Asuadei Senior High | Asuadei | Mixed | Day | B | SHS
+677 | Ashanti | Ahafo Ano North | 0050806 | Kengoso Comm. Senior High | Bompesiso | Mixed | Day | B | SHS
+678 | Ashanti | Ahafo Ano North | 0050812 | Nsuapemso Comm. Senior High | Nsuapemso | Mixed | Day | B | SHS
+679 | Ashanti | Ahafo Ano North | 0050801 | Beteh Comm. Senior High | Amowi | Mixed | Day | B | SHS
+680 | Ashanti | Ahafo Ano North | 0050805 | Mpasatia Comm. Day SHS | Mpasatia | Mixed | Day | B | SHS
+681 | Ashanti | Ahafo Ano South | 0050904 | Adinku Comm. Senior High | Adinku | Mixed | Day | B | SHS
+682 | Ashanti | Ahafo Ano South | 0050907 | Apaaso Comm. Senior High | Apaaso | Mixed | Day | B | SHS
+683 | Ashanti | Ahafo Ano South | 0050902 | Dadadan Senior High | Dadadan | Mixed | Day | B | SHS
+684 | Ashanti | Ahafo Ano South | 0050906 | Sankore Senior High School | Sankore | Mixed | Day/Boarding | B | SHS
+685 | Ashanti | Ahafo Ano South | 0050903 | Huitimboang Comm. Senior High | Boakyem | Mixed | Day | B | SHS
+686 | Ashanti | Ahafo Ano South | 0050905 | Kyenkyenkere Comm. Senior High | Kyenkyenkere | Mixed | Day | B | SHS
+687 | Ashanti | Ahafo Ano South | 0050901 | Nsuta Comm. Senior High | Nsuta | Mixed | Day | B | SHS
+688 | Ashanti | Ahafo Ano South | 0050910 | Tweneboa Kodua Senior High | Kumawu | Mixed | Day | B | SHS
+689 | Ashanti | Ahafo Ano South | 0050909 | Wamiri Comm. Senior High | Wamiri | Mixed | Day | B | SHS
+690 | Ashanti | Ahafo Ano South | 0050908 | Zourma Comm. Senior High | Zourma | Mixed | Day | B | SHS
+691 | Ashanti | Ahafo Ano South | 0050912 | Motiejiso Comm. Senior High | Motiejiso | Mixed | Day | B | SHS
+692 | Ashanti | Ahafo Ano South | 0050911 | Sobaso Comm. Senior High | Sobaso | Mixed | Day | B | SHS
+693 | Ashanti | Amansie Central | 0051413 | Agogo Comm. Day SHS | Agogo | Mixed | Day | B | SHS
+694 | Ashanti | Amansie Central | 0051409 | Akrofufuomm Senior High | Akrofufuo | Mixed | Day | B | SHS
+695 | Ashanti | Amansie Central | 0051403 | Amentia Comm. Senior High | Amentia | Mixed | Day | B | SHS
+696 | Ashanti | Amansie Central | 0051407 | Ankasi Senior High | Ankasi | Mixed | Day | B | SHS
+697 | Ashanti | Amansie Central | 0051404 | Antoa Comm. Senior High | Antoa | Mixed | Day | B | SHS
+698 | Ashanti | Amansie Central | 0051410 | Atwerekere Comm. Senior High | Atwerekere | Mixed | Day | B | SHS
+699 | Ashanti | Amansie Central | 0051414 | Ayirebi Comm. Senior High | Ayirebi | Mixed | Day | B | SHS
+700 | Ashanti | Amansie Central | 0051402 | Begroaso Comm. Senior High | Begroaso | Mixed | Day | B | SHS
+701 | Ashanti | Amansie Central | 0051406 | Esieni Comm. Senior High | Esieni | Mixed | Day | B | SHS
+702 | Ashanti | Amansie Central | 0051408 | Kenyasi Comm. Senior High | Kenyasi | Mixed | Day | B | SHS
+703 | Ashanti | Amansie Central | 0051412 | Kwabeng Comm. Day SHS | Kwabeng | Mixed | Day | B | SHS
+704 | Ashanti | Amansie Central | 0051401 | Odaho Comm. Senior High | Odaho | Mixed | Day | B | SHS
+705 | Ashanti | Amansie Central | 0051415 | Pankrono Senior High | Pankrono | Mixed | Day | B | SHS
+706 | Ashanti | Amansie Central | 0051405 | Onyimso Comm. Senior High | Onyimso | Mixed | Day | B | SHS
+707 | Ashanti | Amansie Central | 0051411 | Pafo-Komm. Day SHS | Pafo | Mixed | Day | B | SHS
+708 | Ashanti | Amansie West | 0051604 | Aboroye Senior High | Aboroye | Mixed | Day | B | SHS
+709 | Ashanti | Amansie West | 0051605 | Adomfe Comm. Day SHS | Adomfe | Mixed | Day | B | SHS
+710 | Ashanti | Amansie West | 0051612 | Ahougyatoua Comm. Senior High | Ahougyatoua | Mixed | Day | B | SHS
+711 | Ashanti | Amansie West | 0051606 | Amponsa Senior High | Amponsa | Mixed | Day | B | SHS
+712 | Ashanti | Amansie West | 0051601 | Aniamoa Comm. Day SHS | Aniamoa | Mixed | Day | B | SHS
+713 | Ashanti | Amansie West | 0051610 | Asamang Comm. Day SHS | Asamang | Mixed | Day | B | SHS
+714 | Ashanti | Amansie West | 0051603 | Javopa Senior High | Japuoso | Mixed | Day | B | SHS
+715 | Ashanti | Amansie West | 0051611 | Kwamang Comm. Senior High | Kwamang | Mixed | Day | B | SHS
+716 | Ashanti | Amansie West | 0051615 | Mpasatia Comm. Day SHS | Mpasatia | Mixed | Day | B | SHS
+717 | Ashanti | Amansie West | 0051614 | Nabia Comm. Day SHS | Nabia | Mixed | Day | B | SHS
+718 | Ashanti | Amansie West | 0051608 | Nsuaem No.2 Comm. SHS | Nsuaem | Mixed | Day | B | SHS
+719 | Ashanti | Amansie West | 0051602 | Nsuaem Comm. Day SHS | Nsuaem | Mixed | Day | B | SHS
+720 | Ashanti | Amansie West | 0051607 | Tontokrom Comm. Day SHS | Tontokrom | Mixed | Day | B | SHS
+721 | Ashanti | Amansie West | 0051613 | Wioso Comm. Senior High | Wioso | Mixed | Day | B | SHS
+722 | Ashanti | Amansie West | 0051609 | Yabiakrom Comm. Day SHS | Yabiakrom | Mixed | Day | B | SHS
+723 | Ashanti | Amansie West | 0051616 | Yaw Nkruma Comm. Day SHS | Yaw Nkruma | Mixed | Day | B | SHS
+
+=== PAGE 51 (Section: APPENDIX 3 - Alternative School Choices, CONTINUED) ===
+724 | Ashanti | Asante Akim Central Municipal | 0052008 | Agogo State College | Agogo | Mixed | Day/Boarding | B | SHS
+725 | Ashanti | Asante Akim Central Municipal | 0052003 | Asante-Akim Comm. Day High | Konongo | Mixed | Day | B | SHS
+726 | Ashanti | Asante Akim Central Municipal | 0052004 | Konongo Senior High School | Konongo | Mixed | Day | B | SHS
+727 | Ashanti | Asante Akim Central Municipal | 0052001 | Kwaman Comm. Day Senior High | Kwaman | Mixed | Day | B | SHS
+728 | Ashanti | Asante Akim Central Municipal | 0052002 | Kyekyewere Comm. Day SHS | Kyekyewere | Mixed | Day | B | SHS
+729 | Ashanti | Asante Akim Central Municipal | 0052006 | Odumase Comm. Day SHS | Odumase | Mixed | Day | B | SHS
+730 | Ashanti | Asante Akim Central Municipal | 0052007 | Owerriman Comm. Day SHS | Owerriman | Mixed | Day | B | SHS
+731 | Ashanti | Asante Akim Central Municipal | 0052005 | Pipiiso Comm. Senior High | Pipiiso | Mixed | Day | B | SHS
+732 | Ashanti | Asante Akim North | 0052109 | Agyeago Comm. Day Senior High | Agyeago | Mixed | Day | B | SHS
+733 | Ashanti | Asante Akim North | 0052114 | Akroso Comm. Day SHS | Akroso | Mixed | Day | B | SHS
+734 | Ashanti | Asante Akim North | 0052111 | Appiadu Comm. Day Senior High | Appiadu | Mixed | Day | B | SHS
+735 | Ashanti | Asante Akim North | 0052118 | Asenemaso Comm. Day SHS | Asenemaso | Mixed | Day | B | SHS
+736 | Ashanti | Asante Akim North | 0052106 | Bobriase Comm. Day SHS | Bobriase | Mixed | Day | B | SHS
+737 | Ashanti | Asante Akim North | 0052117 | Fenaso Comm. Day SHS | Fenaso | Mixed | Day | B | SHS
+738 | Ashanti | Asante Akim North | 0052112 | Kofiase Comm. Day SHS | Kofiase | Mixed | Day | B | SHS
+739 | Ashanti | Asante Akim North | 0052103 | Juaho Comm. Day SHS | Juaho | Mixed | Day | B | SHS
+740 | Ashanti | Asante Akim North | 0052101 | Juapong Comm. Day SHS | Juapong | Mixed | Day | B | SHS
+741 | Ashanti | Asante Akim North | 0052110 | K.S.D Comm. Senior High | K.S.D | Mixed | Day | B | SHS
+742 | Ashanti | Asante Akim North | 0052115 | Kyiremfaso Comm. Day SHS | Kyiremfaso | Mixed | Day | B | SHS
+743 | Ashanti | Asante Akim North | 0052108 | Mem Comm. Senior High | Mem | Mixed | Day | B | SHS
+744 | Ashanti | Asante Akim North | 0052113 | Nkeneso Comm. Senior High | Nkeneso | Mixed | Day | B | SHS
+745 | Ashanti | Asante Akim North | 0052104 | New Aberim Comm. Day SHS | New Aberim | Mixed | Day | B | SHS
+746 | Ashanti | Asante Akim North | 0052116 | Nobesu Comm. Day SHS | Nobesu | Mixed | Day | B | SHS
+747 | Ashanti | Asante Akim North | 0052102 | Old Tafo Comm. Day SHS | Old Tafo | Mixed | Day | B | SHS
+748 | Ashanti | Asante Akim North | 0052119 | Owechiri Comm. Day SHS | Owechiri | Mixed | Day | B | SHS
+749 | Ashanti | Asante Akim North | 0052105 | Pankronu Comm. Day SHS | Pankronu | Mixed | Day | B | SHS
+750 | Ashanti | Asante Akim North | 0052107 | Paatia Comm. Day SHS | Paatia | Mixed | Day | B | SHS
+751 | Ashanti | Asante Akim North | 0052108 | Sokoban Comm. Day SHS | Sokoban | Mixed | Day | B | SHS
+752 | Ashanti | Asante Akim North | 0052117 | Suntidu Comm. Day SHS | Suntidu | Mixed | Day | B | SHS
+753 | Ashanti | Asante Akim South | 0052212 | Adakofi Comm. Senior High | Adakofi | Mixed | Day | B | SHS
+754 | Ashanti | Asante Akim South | 0052216 | Afoako Comm. Senior High | Afoako | Mixed | Day | B | SHS
+755 | Ashanti | Asante Akim South | 0052201 | Amaam Comm. Senior High | Amaam | Mixed | Day | B | SHS
+756 | Ashanti | Asante Akim South | 0052202 | Bompata Presby. Senior High | Bompata | Mixed | Day | B | SHS
+757 | Ashanti | Asante Akim South | 0052215 | Dadobiri Comm. Senior High | Dadobiri | Mixed | Day | B | SHS
+758 | Ashanti | Asante Akim South | 0052214 | Dadeeso Comm. Senior High | Dadeeso | Mixed | Day | B | SHS
+759 | Ashanti | Asante Akim South | 0052219 | Ewu Asakraka Comm. SHS | Ewu Asakraka | Mixed | Day | B | SHS
+760 | Ashanti | Asante Akim South | 0052211 | Fuaso Comm. Senior High | Fuaso | Mixed | Day | B | SHS
+761 | Ashanti | Asante Akim South | 0052204 | Jejeti Comm. Senior High | Jejeti | Mixed | Day | B | SHS
+762 | Ashanti | Asante Akim South | 0052203 | Juabeso Senior High | Juabeso | Mixed | Day | B | SHS
+763 | Ashanti | Asante Akim South | 0052207 | Kwasi Comm. Senior High | Kwasi | Mixed | Day | B | SHS
+764 | Ashanti | Asante Akim South | 0052205 | Kyekyebiakro Comm. Senior High | Kyekyebiakro | Mixed | Day | B | SHS
+765 | Ashanti | Asante Akim South | 0052217 | Mampong Comm. SHS | Mampong | Mixed | Day | B | SHS
+766 | Ashanti | Asante Akim South | 0052213 | Mensonso Comm. Senior High | Mensonso | Mixed | Day | B | SHS
+767 | Ashanti | Asante Akim South | 0052206 | Nkwantakese Comm. Day SHS | Nkwantakese | Mixed | Day | B | SHS
+768 | Ashanti | Asante Akim South | 0052210 | Nsoesie Comm. Senior High | Nsoesie | Mixed | Day | B | SHS
+769 | Ashanti | Asante Akim South | 0052209 | Obogu Comm. Senior High | Obogu | Mixed | Day | B | SHS
+770 | Ashanti | Asante Akim South | 0052218 | Oworobong Comm. Senior High | Oworobong | Mixed | Day | B | SHS
+771 | Ashanti | Asante Akim South | 0052208 | Patakase Comm. Senior High | Patakase | Mixed | Day | B | SHS
+772 | Ashanti | Asante Akim South | 0052220 | Wamase Comm. Senior High | Wamase | Mixed | Day | B | SHS
+773 | Ashanti | Asante Akim South | 0052207 | Watapon Comm. Senior High | Watapon | Mixed | Day | B | SHS
+774 | Ashanti | Adansi North | 0050202 | Girls' SHS | Jetiase | Girls | Day | B | SHS
+775 | Ashanti | Adansi North | 0050402 | Akrofuom Senior High/Tech. | Akrofuom | Mixed | Day/Boarding | B | SHTS
+776 | Ashanti | Adansi North | 0050405 | Bawuro Senior High | Bawuro | Mixed | Day | B | SHS
+777 | Ashanti | Afigya Kwabre | 0051312 | Adanomante Comm. Senior High | Adanomante | Mixed | Day | B | SHS
+778 | Ashanti | Afigya Kwabre | 0051301 | Dwari Mau Comm. SHS | Obo-Kwahu | Mixed | Day | B | SHS
+779 | Ashanti | Afigya Kwabre | 0051303 | Hiawu Comm. Senior High | Adugyama | Mixed | Day | B | SHS
+780 | Ashanti | Ahafo Ano North | 0050802 | Mankranso Comm. Day Senior High | Mankranso | Mixed | Day | B | SHS
+781 | Ashanti | Ahafo Ano North | 0050803 | Abofour Presby. Senior High | Abofour | Mixed | Day | B | SHS
+782 | Ashanti | Ahafo Ano North | 0050807 | Ahafo Ano North Comm. Day SHS | Tepa | Mixed | Day | B | SHS
+783 | Ashanti | Ahafo Ano North | 0050810 | Ahafoman Senior High School | Odumase | Mixed | Day | B | SHS
+784 | Ashanti | Ahafo Ano North | 0050804 | Asuadei Senior High | Asuadei | Mixed | Day | B | SHS
+785 | Ashanti | Ahafo Ano North | 0050806 | Kengoso Comm. Senior High | Bompesiso | Mixed | Day | B | SHS
+786 | Ashanti | Ahafo Ano North | 0050812 | Nsuapemso Comm. Senior High | Nsuapemso | Mixed | Day | B | SHS
+787 | Ashanti | Ahafo Ano North | 0050801 | Beteh Comm. Senior High | Amowi | Mixed | Day | B | SHS
+788 | Ashanti | Ahafo Ano North | 0050805 | Mpasatia Comm. Day SHS | Mpasatia | Mixed | Day | B | SHS
+789 | Ashanti | Ahafo Ano South | 0050904 | Adinku Comm. Senior High | Adinku | Mixed | Day | B | SHS
+790 | Ashanti | Ahafo Ano South | 0050907 | Apaaso Comm. Senior High | Apaaso | Mixed | Day | B | SHS
+791 | Ashanti | Ahafo Ano South | 0050902 | Dadadan Senior High | Dadadan | Mixed | Day | B | SHS
+792 | Ashanti | Ahafo Ano South | 0050906 | Sankore Senior High School | Sankore | Mixed | Day/Boarding | B | SHS
+793 | Ashanti | Ahafo Ano South | 0050903 | Huitimboang Comm. Senior High | Boakyem | Mixed | Day | B | SHS
+794 | Ashanti | Ahafo Ano South | 0050905 | Kyenkyenkere Comm. Senior High | Kyenkyenkere | Mixed | Day | B | SHS
+795 | Ashanti | Ahafo Ano South | 0050901 | Nsuta Comm. Senior High | Nsuta | Mixed | Day | B | SHS
+796 | Ashanti | Ahafo Ano South | 0050910 | Tweneboa Kodua Senior High | Kumawu | Mixed | Day | B | SHS
+797 | Ashanti | Ahafo Ano South | 0050909 | Wamiri Comm. Senior High | Wamiri | Mixed | Day | B | SHS
+798 | Ashanti | Ahafo Ano South | 0050908 | Zourma Comm. Senior High | Zourma | Mixed | Day | B | SHS
+799 | Ashanti | Ahafo Ano South | 0050912 | Motiejiso Comm. Senior High | Motiejiso | Mixed | Day | B | SHS
+800 | Ashanti | Ahafo Ano South | 0050911 | Sobaso Comm. Senior High | Sobaso | Mixed | Day | B | SHS
+801 | Ashanti | Amansie Central | 0051413 | Agogo Comm. Day SHS | Agogo | Mixed | Day | B | SHS
+802 | Ashanti | Amansie Central | 0051409 | Akrofufuomm Senior High | Akrofufuo | Mixed | Day | B | SHS
+803 | Ashanti | Amansie Central | 0051403 | Amentia Comm. Senior High | Amentia | Mixed | Day | B | SHS
+804 | Ashanti | Amansie Central | 0051407 | Ankasi Senior High | Ankasi | Mixed | Day | B | SHS
+805 | Ashanti | Amansie Central | 0051404 | Antoa Comm. Senior High | Antoa | Mixed | Day | B | SHS
+806 | Ashanti | Amansie Central | 0051410 | Atwerekere Comm. Senior High | Atwerekere | Mixed | Day | B | SHS
+807 | Ashanti | Amansie Central | 0051414 | Ayirebi Comm. Senior High | Ayirebi | Mixed | Day | B | SHS
+808 | Ashanti | Amansie Central | 0051402 | Begroaso Comm. Senior High | Begroaso | Mixed | Day | B | SHS
+809 | Ashanti | Amansie Central | 0051406 | Esieni Comm. Senior High | Esieni | Mixed | Day | B | SHS
+810 | Ashanti | Amansie Central | 0051408 | Kenyasi Comm. Senior High | Kenyasi | Mixed | Day | B | SHS
+811 | Ashanti | Amansie Central | 0051412 | Kwabeng Comm. Day SHS | Kwabeng | Mixed | Day | B | SHS
+812 | Ashanti | Amansie Central | 0051401 | Odaho Comm. Senior High | Odaho | Mixed | Day | B | SHS
+813 | Ashanti | Amansie Central | 0051415 | Pankrono Senior High | Pankrono | Mixed | Day | B | SHS
+814 | Ashanti | Amansie Central | 0051405 | Onyimso Comm. Senior High | Onyimso | Mixed | Day | B | SHS
+815 | Ashanti | Amansie Central | 0051411 | Pafo-Komm. Day SHS | Pafo | Mixed | Day | B | SHS
+816 | Ashanti | Amansie West | 0051604 | Aboroye Senior High | Aboroye | Mixed | Day | B | SHS
+817 | Ashanti | Amansie West | 0051605 | Adomfe Comm. Day SHS | Adomfe | Mixed | Day | B | SHS
+818 | Ashanti | Amansie West | 0051612 | Ahougyatoua Comm. Senior High | Ahougyatoua | Mixed | Day | B | SHS
+819 | Ashanti | Amansie West | 0051606 | Amponsa Senior High | Amponsa | Mixed | Day | B | SHS
+820 | Ashanti | Amansie West | 0051601 | Aniamoa Comm. Day SHS | Aniamoa | Mixed | Day | B | SHS
+821 | Ashanti | Amansie West | 0051610 | Asamang Comm. Day SHS | Asamang | Mixed | Day | B | SHS
+822 | Ashanti | Amansie West | 0051603 | Javopa Senior High | Japuoso | Mixed | Day | B | SHS
+823 | Ashanti | Amansie West | 0051611 | Kwamang Comm. Senior High | Kwamang | Mixed | Day | B | SHS
+824 | Ashanti | Amansie West | 0051615 | Mpasatia Comm. Day SHS | Mpasatia | Mixed | Day | B | SHS
+825 | Ashanti | Amansie West | 0051614 | Nabia Comm. Day SHS | Nabia | Mixed | Day | B | SHS
+826 | Ashanti | Amansie West | 0051608 | Nsuaem No.2 Comm. SHS | Nsuaem | Mixed | Day | B | SHS
+827 | Ashanti | Amansie West | 0051602 | Nsuaem Comm. Day SHS | Nsuaem | Mixed | Day | B | SHS
+828 | Ashanti | Amansie West | 0051607 | Tontokrom Comm. Day SHS | Tontokrom | Mixed | Day | B | SHS
+829 | Ashanti | Amansie West | 0051613 | Wioso Comm. Senior High | Wioso | Mixed | Day | B | SHS
+830 | Ashanti | Amansie West | 0051609 | Yabiakrom Comm. Day SHS | Yabiakrom | Mixed | Day | B | SHS
+831 | Ashanti | Amansie West | 0051616 | Yaw Nkruma Comm. Day SHS | Yaw Nkruma | Mixed | Day | B | SHS
+
+=== PAGE 52 (Section: APPENDIX 3 - Alternative School Choices, CONTINUED) ===
+832 | Ashanti | Asante Akim Central Municipal | 0052008 | Agogo State College | Agogo | Mixed | Day/Boarding | B | SHS
+833 | Ashanti | Asante Akim Central Municipal | 0052003 | Asante-Akim Comm. Day High | Konongo | Mixed | Day | B | SHS
+834 | Ashanti | Asante Akim Central Municipal | 0052004 | Konongo Senior High School | Konongo | Mixed | Day | B | SHS
+835 | Ashanti | Asante Akim Central Municipal | 0052001 | Kwaman Comm. Day Senior High | Kwaman | Mixed | Day | B | SHS
+836 | Ashanti | Asante Akim Central Municipal | 0052002 | Kyekyewere Comm. Day SHS | Kyekyewere | Mixed | Day | B | SHS
+837 | Ashanti | Asante Akim Central Municipal | 0052006 | Odumase Comm. Day SHS | Odumase | Mixed | Day | B | SHS
+838 | Ashanti | Asante Akim Central Municipal | 0052007 | Owerriman Comm. Day SHS | Owerriman | Mixed | Day | B | SHS
+839 | Ashanti | Asante Akim Central Municipal | 0052005 | Pipiiso Comm. Senior High | Pipiiso | Mixed | Day | B | SHS
+840 | Ashanti | Asante Akim North | 0052109 | Agyeago Comm. Day Senior High | Agyeago | Mixed | Day | B | SHS
+841 | Ashanti | Asante Akim North | 0052114 | Akroso Comm. Day SHS | Akroso | Mixed | Day | B | SHS
+842 | Ashanti | Asante Akim North | 0052111 | Appiadu Comm. Day Senior High | Appiadu | Mixed | Day | B | SHS
+843 | Ashanti | Asante Akim North | 0052118 | Asenemaso Comm. Day SHS | Asenemaso | Mixed | Day | B | SHS
+844 | Ashanti | Asante Akim North | 0052106 | Bobriase Comm. Day SHS | Bobriase | Mixed | Day | B | SHS
+845 | Ashanti | Asante Akim North | 0052117 | Fenaso Comm. Day SHS | Fenaso | Mixed | Day | B | SHS
+846 | Ashanti | Asante Akim North | 0052112 | Kofiase Comm. Day SHS | Kofiase | Mixed | Day | B | SHS
+847 | Ashanti | Asante Akim North | 0052103 | Juaho Comm. Day SHS | Juaho | Mixed | Day | B | SHS
+848 | Ashanti | Asante Akim North | 0052101 | Juapong Comm. Day SHS | Juapong | Mixed | Day | B | SHS
+849 | Ashanti | Asante Akim North | 0052110 | K.S.D Comm. Senior High | K.S.D | Mixed | Day | B | SHS
+850 | Ashanti | Asante Akim North | 0052115 | Kyiremfaso Comm. Day SHS | Kyiremfaso | Mixed | Day | B | SHS
+851 | Ashanti | Asante Akim North | 0052108 | Mem Comm. Senior High | Mem | Mixed | Day | B | SHS
+852 | Ashanti | Asante Akim North | 0052113 | Nkeneso Comm. Senior High | Nkeneso | Mixed | Day | B | SHS
+853 | Ashanti | Asante Akim North | 0052104 | New Aberim Comm. Day SHS | New Aberim | Mixed | Day | B | SHS
+854 | Ashanti | Asante Akim North | 0052116 | Nobesu Comm. Day SHS | Nobesu | Mixed | Day | B | SHS
+855 | Ashanti | Asante Akim North | 0052102 | Old Tafo Comm. Day SHS | Old Tafo | Mixed | Day | B | SHS
+856 | Ashanti | Asante Akim North | 0052119 | Owechiri Comm. Day SHS | Owechiri | Mixed | Day | B | SHS
+857 | Ashanti | Asante Akim North | 0052105 | Pankronu Comm. Day SHS | Pankronu | Mixed | Day | B | SHS
+858 | Ashanti | Asante Akim North | 0052107 | Paatia Comm. Day SHS | Paatia | Mixed | Day | B | SHS
+859 | Ashanti | Asante Akim North | 0052108 | Sokoban Comm. Day SHS | Sokoban | Mixed | Day | B | SHS
+860 | Ashanti | Asante Akim North | 0052117 | Suntidu Comm. Day SHS | Suntidu | Mixed | Day | B | SHS
+861 | Ashanti | Asante Akim South | 0052212 | Adakofi Comm. Senior High | Adakofi | Mixed | Day | B | SHS
+862 | Ashanti | Asante Akim South | 0052216 | Afoako Comm. Senior High | Afoako | Mixed | Day | B | SHS
+863 | Ashanti | Asante Akim South | 0052201 | Amaam Comm. Senior High | Amaam | Mixed | Day | B | SHS
+864 | Ashanti | Asante Akim South | 0052202 | Bompata Presby. Senior High | Bompata | Mixed | Day | B | SHS
+865 | Ashanti | Asante Akim South | 0052215 | Dadobiri Comm. Senior High | Dadobiri | Mixed | Day | B | SHS
+866 | Ashanti | Asante Akim South | 0052214 | Dadeeso Comm. Senior High | Dadeeso | Mixed | Day | B | SHS
+867 | Ashanti | Asante Akim South | 0052219 | Ewu Asakraka Comm. SHS | Ewu Asakraka | Mixed | Day | B | SHS
+868 | Ashanti | Asante Akim South | 0052211 | Fuaso Comm. Senior High | Fuaso | Mixed | Day | B | SHS
+869 | Ashanti | Asante Akim South | 0052204 | Jejeti Comm. Senior High | Jejeti | Mixed | Day | B | SHS
+870 | Ashanti | Asante Akim South | 0052203 | Juabeso Senior High | Juabeso | Mixed | Day | B | SHS
+871 | Ashanti | Asante Akim South | 0052207 | Kwasi Comm. Senior High | Kwasi | Mixed | Day | B | SHS
+872 | Ashanti | Asante Akim South | 0052205 | Kyekyebiakro Comm. Senior High | Kyekyebiakro | Mixed | Day | B | SHS
+873 | Ashanti | Asante Akim South | 0052217 | Mampong Comm. SHS | Mampong | Mixed | Day | B | SHS
+874 | Ashanti | Asante Akim South | 0052213 | Mensonso Comm. Senior High | Mensonso | Mixed | Day | B | SHS
+875 | Ashanti | Asante Akim South | 0052206 | Nkwantakese Comm. Day S</longcat_think>

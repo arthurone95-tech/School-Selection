@@ -81,6 +81,26 @@
     background-color: var(--gray-100);
 }
 
+.btn-danger {
+    background-color: var(--danger);
+    color: var(--white);
+}
+
+.btn-danger:hover {
+    background-color: #B02A37;
+}
+
+.btn:disabled,
+.btn[aria-disabled="true"] {
+    transform: none;
+}
+
+.btn:disabled:hover,
+.btn[aria-disabled="true"]:hover {
+    transform: none;
+    box-shadow: none;
+}
+
 /* Cards */
 .card {
     background-color: var(--white);
@@ -418,19 +438,31 @@
     text-transform: uppercase;
 }
 
-.badge-professional {
+/* School category badges */
+.badge-category-a {
     background-color: var(--primary);
     color: var(--white);
 }
 
-.badge-trade {
+.badge-category-b {
     background-color: var(--secondary);
     color: var(--white);
 }
 
-.badge-entrepreneurial {
-    background-color: var(--accent);
+.badge-category-c {
+    background-color: var(--gray-600);
     color: var(--white);
+}
+
+/* Neutral / informational badges */
+.badge-neutral {
+    background-color: var(--gray-100);
+    color: var(--text-secondary);
+}
+
+.badge-note {
+    background-color: rgba(244, 162, 97, 0.18);
+    color: var(--accent-dark);
 }
 
 /* =========================================

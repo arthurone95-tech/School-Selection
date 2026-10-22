@@ -18,16 +18,22 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9060201",
+                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 2,
                 name: "Ahafoman Senior High/Tech",
-                location: "",
+                location: "Goaso",
                 gender: "Mixed",
                 school_type: "SHTS",
-                status: "",
-                programs: ["Applied Electricity", "Building Construction Technology", "Woodwork"]
+                status: "Day/Boarding",
+                code: "0061302",
+                programs: ["Applied Electricity", "Building Construction Technology", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 3,
@@ -36,7 +42,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9060139",
+                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 4,
@@ -45,7 +54,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060201",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 5,
@@ -54,16 +66,22 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Software Development (CBT Option, For Girls Only)", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9060802",
+                programs: ["Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Software Development (CBT Option, For Girls Only)", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 6,
                 name: "Boakye Tromo Senior High/Tech",
-                location: "",
+                location: "Duayaw Nkwanta",
                 gender: "Mixed",
                 school_type: "SHTS",
-                status: "",
-                programs: ["Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Metal Work", "Woodwork"]
+                status: "Day/Boarding",
+                code: "0060206",
+                programs: ["Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Metal Work", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 7,
@@ -72,7 +90,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "Home Economics", "Technical"]
+                code: "0061205",
+                programs: ["Business", "General Arts", "Home Economics", "Technical"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 8,
@@ -81,7 +102,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "",
-                programs: ["Building Construction Technology", "Technical Drawing", "Woodwork"]
+                code: null,
+                programs: ["Building Construction Technology", "Technical Drawing", "Woodwork"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 9,
@@ -90,7 +114,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9061400",
+                programs: ["Agricultural Mechanization Technology", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 10,
@@ -99,16 +126,22 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9062400",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 11,
                 name: "Gyamfi Kumanini Senior High/Tech.",
-                location: "",
+                location: "Wamahinso",
                 gender: "Mixed",
                 school_type: "SHTS",
-                status: "",
-                programs: ["Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Woodwork"]
+                status: "Day/Boarding",
+                code: "0061204",
+                programs: ["Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 12,
@@ -117,7 +150,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction Technology (CBT Option)", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9060205",
+                programs: ["Automotive Engineering Technology", "Building Construction Technology (CBT Option)", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1"],
             },
             {
                 id: 13,
@@ -126,7 +162,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9063011",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1"],
             },
             {
                 id: 14,
@@ -135,7 +174,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0061201",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 15,
@@ -144,7 +186,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060203",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 16,
@@ -153,7 +198,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0060209",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 17,
@@ -162,7 +210,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"]
+                code: "9060800",
+                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 18,
@@ -171,7 +222,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology"]
+                code: "9060400",
+                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 19,
@@ -180,7 +234,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["General Arts", "General Science", "Home Economics"]
+                code: "0061206",
+                programs: ["General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 20,
@@ -189,8 +246,11 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Welding & Fabrication Technology", "Wood Technology"]
-            }
+                code: "9060200",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
+            },
         ],
         private: []
     },
@@ -207,7 +267,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9053001",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 22,
@@ -216,7 +279,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology"]
+                code: "9050312",
+                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1"],
             },
             {
                 id: 23,
@@ -225,7 +291,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051606",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 24,
@@ -234,7 +303,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9050301",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 25,
@@ -243,7 +315,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050703",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 26,
@@ -252,7 +327,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050211",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 27,
@@ -261,7 +339,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050605",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 28,
@@ -270,7 +351,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051502",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 29,
@@ -279,7 +363,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050704",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 30,
@@ -288,7 +375,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050707",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 31,
@@ -297,7 +387,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050115",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 32,
@@ -306,7 +399,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["General Arts", "Home Economics", "Technical"]
+                code: "0050716",
+                programs: ["General Arts", "Home Economics", "Technical"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 33,
@@ -315,7 +411,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0050609",
+                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 34,
@@ -324,7 +423,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9054012",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 35,
@@ -333,7 +435,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Aviation & Aerospace Engineering", "Business", "Computing", "General Arts", "General Science", "Home Economics", "Robotics", "STEM", "Visual Arts"]
+                code: "0051701",
+                programs: ["Agriculture", "Aviation & Aerospace Engineering", "Business", "Computing", "General Arts", "General Science", "Home Economics", "Robotics", "STEM", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 5"],
             },
             {
                 id: 36,
@@ -342,7 +447,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051001",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 37,
@@ -351,7 +459,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0050606",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 38,
@@ -360,7 +471,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Plumbing & Gas Technology"]
+                code: "9052701",
+                programs: ["Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Plumbing & Gas Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 39,
@@ -369,7 +483,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050193",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 40,
@@ -378,7 +495,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0051205",
+                programs: ["Agriculture", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 41,
@@ -387,7 +507,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Catering & Hospitality Management", "Information Technology", "Mechatronics Engineering Technology", "Refrigeration & Air-conditioning"]
+                code: "9057772",
+                programs: ["Automotive Engineering Technology", "Catering & Hospitality Management", "Information Technology", "Mechatronics Engineering Technology", "Refrigeration & Air-conditioning"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1"],
             },
             {
                 id: 42,
@@ -396,7 +519,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050802",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 43,
@@ -405,7 +531,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "Home Economics", "Technical", "Visual Arts"]
+                code: "0050907",
+                programs: ["Business", "General Arts", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 44,
@@ -414,7 +543,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "",
-                programs: ["Applied Electricity", "Building Construction Technology", "Woodwork"]
+                code: null,
+                programs: ["Applied Electricity", "Building Construction Technology", "Woodwork"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 45,
@@ -423,7 +555,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0050156",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 46,
@@ -432,7 +567,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050503",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 47,
@@ -441,7 +579,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9050403",
+                programs: ["Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 48,
@@ -450,7 +591,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050107",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 49,
@@ -459,7 +603,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050701",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 50,
@@ -468,7 +615,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0050213",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 51,
@@ -477,7 +627,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051305",
+                programs: ["General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 52,
@@ -486,7 +639,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0050113",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 53,
@@ -495,7 +651,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Wood Technology"]
+                code: "9051300",
+                programs: ["Agricultural Mechanization Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 54,
@@ -504,7 +663,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050101",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 55,
@@ -513,7 +675,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051206",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 56,
@@ -522,7 +687,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050806",
+                programs: ["Agriculture", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 57,
@@ -531,7 +699,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0050208",
+                programs: ["Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 58,
@@ -540,7 +711,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0051104",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 59,
@@ -549,7 +723,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050903",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 3"],
             },
             {
                 id: 60,
@@ -558,7 +735,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050206",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 61,
@@ -567,7 +747,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9050302",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 62,
@@ -576,7 +759,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "General Arts", "Home Economics", "Technical", "Visual Arts"]
+                code: "0051511",
+                programs: ["Agriculture", "General Arts", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 63,
@@ -585,7 +771,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051702",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 3"],
             },
             {
                 id: 64,
@@ -594,7 +783,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["General Arts", "Home Economics", "Technical"]
+                code: "0050612",
+                programs: ["General Arts", "Home Economics", "Technical"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 65,
@@ -603,7 +795,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Building Construction Technology", "Business", "General Arts", "Technical", "Woodwork"]
+                code: "0051808",
+                programs: ["Building Construction Technology", "Business", "General Arts", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 66,
@@ -612,7 +807,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051302",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 67,
@@ -621,7 +819,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0051605",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 68,
@@ -630,7 +831,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Woodwork"]
+                code: "0050305",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 69,
@@ -639,7 +843,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "STEM",
                 status: "Day/Boarding",
-                programs: ["Aviation & Aerospace Engineering", "Bio-medical Science", "Computing", "Engineering Science", "Robotics"]
+                code: "0051616",
+                programs: ["Aviation & Aerospace Engineering", "Bio-medical Science", "Computing", "Engineering Science", "Robotics"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 5"],
             },
             {
                 id: 70,
@@ -648,7 +855,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0051613",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 71,
@@ -657,7 +867,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["General Arts", "Home Economics", "Technical"]
+                code: "0051618",
+                programs: ["General Arts", "Home Economics", "Technical"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 72,
@@ -666,7 +879,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "STEM",
                 status: "Day/Boarding",
-                programs: ["Bio-medical Science", "Computing", "Engineering Science", "Robotics"]
+                code: "0051617",
+                programs: ["Bio-medical Science", "Computing", "Engineering Science", "Robotics"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 5"],
             },
             {
                 id: 73,
@@ -675,7 +891,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology"]
+                code: "9050104",
+                programs: ["Building Construction", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 74,
@@ -684,7 +903,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Architectural Draughtsmanship", "Automotive Engineering Technology", "Building Construction", "Computer Hardware & Software", "Electrical Engineering Technology", "Plumbing & Gas Technology", "Wood Technology"]
+                code: "9050105",
+                programs: ["Architectural Draughtsmanship", "Automotive Engineering Technology", "Building Construction", "Computer Hardware & Software", "Electrical Engineering Technology", "Plumbing & Gas Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 75,
@@ -693,7 +915,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "Business", "Elective ICT", "Elective Physics", "General Arts", "General Science", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"]
+                code: "0051204",
+                programs: ["Agriculture", "Building Construction Technology", "Business", "Elective ICT", "Elective Physics", "General Arts", "General Science", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 76,
@@ -702,7 +927,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051607",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 77,
@@ -711,7 +939,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051003",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 78,
@@ -720,7 +951,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051804",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 79,
@@ -729,7 +963,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0050309",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 80,
@@ -738,7 +975,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051201",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 81,
@@ -747,7 +987,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0053013",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 82,
@@ -756,7 +999,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0050801",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 83,
@@ -765,7 +1011,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9051301",
+                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 84,
@@ -774,7 +1023,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051801",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 85,
@@ -783,7 +1035,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "Elective Maths", "Elective Physics", "General Arts", "General Science", "Home Economics", "Technical", "Technical Drawing", "Visual Arts"]
+                code: "0051806",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "Elective Maths", "Elective Physics", "General Arts", "General Science", "Home Economics", "Technical", "Technical Drawing", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 86,
@@ -792,7 +1047,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0051604",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 87,
@@ -801,7 +1059,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051601",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 88,
@@ -810,7 +1071,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9056014",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 89,
@@ -819,7 +1083,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050901",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 90,
@@ -828,7 +1095,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0050402",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 91,
@@ -837,7 +1107,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051619",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 92,
@@ -846,7 +1119,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051203",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 93,
@@ -855,7 +1131,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050508",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 94,
@@ -864,7 +1143,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["General Arts", "General Science", "Home Economics", "STEM", "Technical", "Visual Arts"]
+                code: "0051620",
+                programs: ["General Arts", "General Science", "Home Economics", "STEM", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3", "Appendix 5"],
             },
             {
                 id: 95,
@@ -873,7 +1155,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Automotive Mechanics", "Bio-medical Science", "Building Construction Technology", "Computing", "Electrical Engineering Technology", "Engineering Science", "Plumbing", "Robotics"]
+                code: null,
+                programs: ["Automotive Mechanics", "Bio-medical Science", "Building Construction Technology", "Computing", "Electrical Engineering Technology", "Engineering Science", "Plumbing", "Robotics"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 96,
@@ -882,7 +1167,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0050706",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 97,
@@ -891,7 +1179,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "",
-                programs: ["Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Electronics"]
+                code: null,
+                programs: ["Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Electronics"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 98,
@@ -900,7 +1191,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Information Technology", "Plumbing & Gas Technology"]
+                code: "9052000",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Information Technology", "Plumbing & Gas Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 99,
@@ -909,7 +1203,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051610",
+                programs: ["General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 100,
@@ -918,7 +1215,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050116",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 101,
@@ -927,7 +1227,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "STEM",
                 status: "Day/Boarding",
-                programs: []
+                code: "0050811",
+                programs: [],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3", "Appendix 5"],
             },
             {
                 id: 102,
@@ -936,7 +1239,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "STEM",
                 status: "Day/Boarding",
-                programs: ["Aviation & Aerospace Engineering", "Bio-medical Science", "Computing", "Robotics"]
+                code: null,
+                programs: ["Aviation & Aerospace Engineering", "Bio-medical Science", "Computing", "Robotics"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 103,
@@ -945,7 +1251,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0050212",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 104,
@@ -954,7 +1263,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051602",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 105,
@@ -963,7 +1275,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Computer Hardware & Software", "Garment/Fashion Technology", "Information Technology"]
+                code: "9052803",
+                programs: ["Computer Hardware & Software", "Garment/Fashion Technology", "Information Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 106,
@@ -972,7 +1287,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0050303",
+                programs: ["Agriculture", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 107,
@@ -981,7 +1299,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051603",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 108,
@@ -990,7 +1311,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology"]
+                code: "9050303",
+                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 109,
@@ -999,7 +1323,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0051101",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 110,
@@ -1008,7 +1335,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "Home Economics"]
+                code: "0051007",
+                programs: ["Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 111,
@@ -1017,7 +1347,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Building Construction Technology", "Business", "Electrical Engineering Technology", "Electronics", "Engineering Science", "General Arts", "General Science", "Home Economics", "STEM", "Technical", "Visual Arts", "Woodwork"]
+                code: "0050109",
+                programs: ["Building Construction Technology", "Business", "Electrical Engineering Technology", "Electronics", "Engineering Science", "General Arts", "General Science", "Home Economics", "STEM", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2", "Appendix 5"],
             },
             {
                 id: 112,
@@ -1026,7 +1359,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0050705",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 113,
@@ -1035,7 +1371,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "",
-                programs: ["Applied Electricity", "Building Construction Technology", "Metal Work", "Woodwork"]
+                code: null,
+                programs: ["Applied Electricity", "Building Construction Technology", "Metal Work", "Woodwork"],
+                programs_code: null,
+                classification: ["Appendix 2"],
             },
             {
                 id: 114,
@@ -1044,7 +1383,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "Home Economics", "STEM", "Technical", "Visual Arts"]
+                code: "0050607",
+                programs: ["Business", "General Arts", "Home Economics", "STEM", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 115,
@@ -1053,7 +1395,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "",
-                programs: ["Applied Electricity", "Building Construction Technology", "Woodwork"]
+                code: null,
+                programs: ["Applied Electricity", "Building Construction Technology", "Woodwork"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 116,
@@ -1062,7 +1407,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9050319",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 117,
@@ -1071,7 +1419,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050603",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 118,
@@ -1080,7 +1431,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9052801",
+                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 119,
@@ -1089,7 +1443,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051002",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 120,
@@ -1098,7 +1455,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Solar PV Technology (CBT Option)", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9051801",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Solar PV Technology (CBT Option)", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1"],
             },
             {
                 id: 121,
@@ -1107,7 +1467,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Bio-medical Science", "Business", "Computing", "General Arts", "General Science", "Home Economics", "Robotics", "STEM", "Visual Arts"]
+                code: "0050105",
+                programs: ["Agriculture", "Bio-medical Science", "Business", "Computing", "General Arts", "General Science", "Home Economics", "Robotics", "STEM", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 5"],
             },
             {
                 id: 122,
@@ -1116,7 +1479,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050103",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 123,
@@ -1125,7 +1491,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science"]
+                code: "0050111",
+                programs: ["Agriculture", "Business", "General Arts", "General Science"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 124,
@@ -1134,7 +1503,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0050112",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 125,
@@ -1143,7 +1515,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Architectural Draughtsmanship", "Autobody Repairs", "Automotive Engineering Technology", "Biodigester", "Building Construction", "Building Construction Technology (CBT Option)", "Computer Hardware & Software", "Electrical Engineering Technology", "Electrical Machine/Motor Rewinding", "Electronics Engineering Technology", "Furniture Technology", "Garment/Fashion Technology", "Heavy Duty Mechanics", "Industrial Mechanics", "Plumbing & Gas Technology", "Recycling Technology (CBT Option)", "Refrigeration & Air-conditioning", "Upholstery", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9050101",
+                programs: ["Agricultural Mechanization Technology", "Architectural Draughtsmanship", "Autobody Repairs", "Automotive Engineering Technology", "Biodigester", "Building Construction", "Building Construction Technology (CBT Option)", "Computer Hardware & Software", "Electrical Engineering Technology", "Electrical Machine/Motor Rewinding", "Electronics Engineering Technology", "Furniture Technology", "Garment/Fashion Technology", "Heavy Duty Mechanics", "Industrial Mechanics", "Plumbing & Gas Technology", "Recycling Technology (CBT Option)", "Refrigeration & Air-conditioning", "Upholstery", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 126,
@@ -1152,7 +1527,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050114",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 127,
@@ -1161,7 +1539,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9052900",
+                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1"],
             },
             {
                 id: 128,
@@ -1170,7 +1551,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "Home Economics"]
+                code: "0051008",
+                programs: ["Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 129,
@@ -1179,7 +1563,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "",
-                programs: ["Building Construction Technology"]
+                code: null,
+                programs: ["Building Construction Technology"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 130,
@@ -1188,7 +1575,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "",
-                programs: ["Applied Electricity", "Building Construction Technology", "Woodwork"]
+                code: null,
+                programs: ["Applied Electricity", "Building Construction Technology", "Woodwork"],
+                programs_code: null,
+                classification: ["Appendix 2"],
             },
             {
                 id: 131,
@@ -1197,7 +1587,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0051402",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 132,
@@ -1206,7 +1599,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Bio-medical Science", "Engineering Science"]
+                code: "0050159",
+                programs: ["Bio-medical Science", "Engineering Science"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3", "Appendix 5"],
             },
             {
                 id: 133,
@@ -1215,7 +1611,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "STEM", "Visual Arts"]
+                code: null,
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "STEM", "Visual Arts"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 134,
@@ -1224,7 +1623,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051501",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 135,
@@ -1233,7 +1635,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050403",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 136,
@@ -1242,7 +1647,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050401",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 137,
@@ -1251,7 +1659,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Information Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9050102",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Information Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1"],
             },
             {
                 id: 138,
@@ -1260,7 +1671,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["General Arts", "Home Economics", "Technical"]
+                code: "0051009",
+                programs: ["General Arts", "Home Economics", "Technical"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 139,
@@ -1269,7 +1683,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0050205",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 140,
@@ -1278,7 +1695,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0050803",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 141,
@@ -1287,7 +1707,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing"]
+                code: "9050401",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 142,
@@ -1296,7 +1719,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Architectural Draughtsmanship", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9051400",
+                programs: ["Architectural Draughtsmanship", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 143,
@@ -1305,7 +1731,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051301",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 144,
@@ -1314,7 +1743,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0050204",
+                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 145,
@@ -1323,7 +1755,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0050805",
+                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 146,
@@ -1332,7 +1767,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050501",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 147,
@@ -1341,7 +1779,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050175",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 148,
@@ -1350,7 +1791,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050207",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 149,
@@ -1359,7 +1803,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Woodwork"]
+                code: "0051202",
+                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 150,
@@ -1368,7 +1815,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9050600",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 151,
@@ -1377,7 +1827,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050172",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 3"],
             },
             {
                 id: 152,
@@ -1386,7 +1839,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Technical", "Woodwork"]
+                code: "0051103",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 153,
@@ -1395,7 +1851,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050601",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 154,
@@ -1404,7 +1863,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051615",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 155,
@@ -1413,7 +1875,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "Building Construction Technology", "Elective ICT", "General Arts", "General Science", "Home Economics", "Languages", "Technical", "Woodwork"]
+                code: "0050608",
+                programs: ["Agriculture", "Building Construction Technology", "Elective ICT", "General Arts", "General Science", "Home Economics", "Languages", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 156,
@@ -1422,7 +1887,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Bio-medical Science", "Business", "General Arts", "General Science", "Robotics", "STEM", "Visual Arts"]
+                code: "0050110",
+                programs: ["Bio-medical Science", "Business", "General Arts", "General Science", "Robotics", "STEM", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 5"],
             },
             {
                 id: 157,
@@ -1431,7 +1899,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050302",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 158,
@@ -1440,7 +1911,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0051614",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 159,
@@ -1449,7 +1923,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050106",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 160,
@@ -1458,7 +1935,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Visual Arts"]
+                code: "0050203",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 161,
@@ -1467,7 +1947,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9055601",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 162,
@@ -1476,7 +1959,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050604",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 163,
@@ -1485,7 +1971,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"]
+                code: "0051004",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 164,
@@ -1494,7 +1983,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Electronics Engineering Technology", "Information Technology", "Jewellery", "Mechatronics Engineering Technology"]
+                code: "9054022",
+                programs: ["Electronics Engineering Technology", "Information Technology", "Jewellery", "Mechatronics Engineering Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 165,
@@ -1503,7 +1995,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050194",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 166,
@@ -1512,7 +2007,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0050154",
+                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 167,
@@ -1521,7 +2019,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Bio-medical Science", "Business", "General Arts", "General Science", "Robotics", "STEM", "Visual Arts"]
+                code: "0050108",
+                programs: ["Bio-medical Science", "Business", "General Arts", "General Science", "Robotics", "STEM", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 5"],
             },
             {
                 id: 168,
@@ -1530,7 +2031,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0050196",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 169,
@@ -1539,7 +2043,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051102",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 170,
@@ -1548,7 +2055,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0050505",
+                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 171,
@@ -1557,7 +2067,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050117",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 172,
@@ -1566,7 +2079,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Wood Technology"]
+                code: "9050112",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 173,
@@ -1575,7 +2091,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050602",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 174,
@@ -1584,7 +2103,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050301",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 175,
@@ -1593,7 +2115,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["General Arts", "Home Economics", "Technical", "Visual Arts"]
+                code: "0051503",
+                programs: ["General Arts", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 176,
@@ -1602,7 +2127,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050150",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 177,
@@ -1611,7 +2139,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0050902",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 178,
@@ -1620,7 +2151,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051812",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 179,
@@ -1629,7 +2163,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050139",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 180,
@@ -1638,7 +2175,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050702",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 181,
@@ -1647,7 +2187,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "",
-                programs: ["Applied Electricity", "Building Construction Technology", "Woodwork"]
+                code: null,
+                programs: ["Applied Electricity", "Building Construction Technology", "Woodwork"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 182,
@@ -1656,7 +2199,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Business", "General Arts", "Home Economics", "Technical"]
+                code: "0050214",
+                programs: ["Business", "General Arts", "Home Economics", "Technical"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 183,
@@ -1665,7 +2211,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics"]
+                code: "0051612",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 184,
@@ -1674,7 +2223,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "Electronics", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts"]
+                code: "0051608",
+                programs: ["Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "Electronics", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 185,
@@ -1683,7 +2235,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science"]
+                code: "0050119",
+                programs: ["Business", "General Arts", "General Science"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 186,
@@ -1692,7 +2247,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050804",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 187,
@@ -1701,7 +2259,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050504",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 188,
@@ -1710,7 +2271,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0050304",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 189,
@@ -1719,7 +2283,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050102",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 190,
@@ -1728,7 +2295,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051704",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 191,
@@ -1737,7 +2307,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0050708",
+                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 192,
@@ -1746,7 +2319,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Architectural Draughtsmanship", "Building Construction", "Catering & Hospitality Management", "Creative Art Technology", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9052800",
+                programs: ["Architectural Draughtsmanship", "Building Construction", "Catering & Hospitality Management", "Creative Art Technology", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1"],
             },
             {
                 id: 193,
@@ -1755,7 +2331,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050502",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 194,
@@ -1764,7 +2343,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Autobody Repairs", "Automotive Engineering Technology", "Catering & Hospitality Management", "Computer Networking (CBT Option, For Girls Only)", "Heavy Duty Mechanics", "Mechanical Engineering Technology", "Printing", "Solar PV Technology (CBT Option)", "Welding & Fabrication Technology"]
+                code: "9050103",
+                programs: ["Autobody Repairs", "Automotive Engineering Technology", "Catering & Hospitality Management", "Computer Networking (CBT Option, For Girls Only)", "Heavy Duty Mechanics", "Mechanical Engineering Technology", "Printing", "Solar PV Technology (CBT Option)", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 195,
@@ -1773,7 +2355,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology"]
+                code: "9050109",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 196,
@@ -1782,7 +2367,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051803",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 197,
@@ -1791,7 +2379,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050104",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 198,
@@ -1800,7 +2391,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050140",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 199,
@@ -1809,7 +2403,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051401",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 200,
@@ -1818,7 +2415,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Architectural Draughtsmanship", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9052802",
+                programs: ["Architectural Draughtsmanship", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 201,
@@ -1827,7 +2427,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0051805",
+                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 202,
@@ -1836,7 +2439,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050202",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 203,
@@ -1845,7 +2451,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"]
+                code: "9050900",
+                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 204,
@@ -1854,7 +2463,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Automotive Engineering Technology", "Electrical Engineering Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology"]
+                code: "9050500",
+                programs: ["Automotive Engineering Technology", "Electrical Engineering Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 205,
@@ -1863,7 +2475,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Garment/Fashion Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology"]
+                code: "9053000",
+                programs: ["Garment/Fashion Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 206,
@@ -1872,7 +2487,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Garment/Fashion Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology"]
+                code: "9050402",
+                programs: ["Garment/Fashion Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 207,
@@ -1881,7 +2499,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "Home Economics"]
+                code: "0050312",
+                programs: ["Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 208,
@@ -1890,7 +2511,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9052300",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 209,
@@ -1899,7 +2523,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051802",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 210,
@@ -1908,7 +2535,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0050158",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 211,
@@ -1917,7 +2547,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050307",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 212,
@@ -1926,7 +2559,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0051703",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 213,
@@ -1935,7 +2571,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "Home Economics"]
+                code: "0050808",
+                programs: ["Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 214,
@@ -1944,7 +2583,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "General Arts", "Home Economics"]
+                code: "0051504",
+                programs: ["Agriculture", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 215,
@@ -1953,7 +2595,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0050201",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 216,
@@ -1962,8 +2607,11 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Building Construction Technology (CBT Option)", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing"]
-            }
+                code: "9057771",
+                programs: ["Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Building Construction Technology (CBT Option)", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
+            },
         ],
         private: []
     },
@@ -1980,16 +2628,22 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical"]
+                code: null,
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 218,
                 name: "Badu Senior High/Technical School",
-                location: "",
+                location: "Badu/Wenchi",
                 gender: "Mixed",
                 school_type: "SHTS",
-                status: "",
-                programs: ["Applied Electricity", "Building Construction Technology"]
+                status: "Day/Boarding",
+                code: "0060602",
+                programs: ["Applied Electricity", "Building Construction Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 219,
@@ -1998,16 +2652,22 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: null,
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 220,
                 name: "Bandaman Senior High Technical Sch",
-                location: "",
+                location: "Banda Ahenkro",
                 gender: "Mixed",
                 school_type: "SHTS",
-                status: "",
-                programs: ["Applied Electricity", "Building Construction Technology", "Woodwork"]
+                status: "Day/Boarding",
+                code: "0060610",
+                programs: ["Applied Electricity", "Building Construction Technology", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 221,
@@ -2016,7 +2676,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060303",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 222,
@@ -2025,7 +2688,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060301",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 223,
@@ -2034,7 +2700,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060102",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 224,
@@ -2043,7 +2712,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0060507",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 3"],
             },
             {
                 id: 225,
@@ -2052,7 +2724,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Agricultural Mechanization Technology", "Automotive Engineering Technology", "Building Construction", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9062601",
+                programs: ["Agricultural Mechanization Technology", "Automotive Engineering Technology", "Building Construction", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 226,
@@ -2061,7 +2736,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0061001",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 227,
@@ -2070,7 +2748,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Beauty Therapy", "Building Construction", "Business Secretarial", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Plumbing & Gas Technology", "Wood Technology"]
+                code: "9061001",
+                programs: ["Beauty Therapy", "Building Construction", "Business Secretarial", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Plumbing & Gas Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 228,
@@ -2079,7 +2760,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060501",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 229,
@@ -2088,25 +2772,34 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "Home Economics", "Technical"]
+                code: null,
+                programs: ["Business", "General Arts", "Home Economics", "Technical"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 230,
                 name: "Duadaso No. 1 Senior High/Tech. Sch.",
-                location: "",
+                location: "Duadaso",
                 gender: "Mixed",
                 school_type: "SHTS",
-                status: "",
-                programs: ["Agricultural Mechanical Technology", "Automotive Electric", "Building Construction Technology", "Electrical Engineering Technology", "Hospitality & Catering Management", "Woodwork"]
+                status: "Day",
+                code: "0060512",
+                programs: ["Agricultural Mechanical Technology", "Automotive Electric", "Building Construction Technology", "Electrical Engineering Technology", "Hospitality & Catering Management", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 231,
                 name: "Goka Senior High/Tech",
-                location: "",
+                location: "Goka",
                 gender: "Mixed",
                 school_type: "SHTS",
-                status: "",
-                programs: ["Applied Electricity", "Building Construction Technology", "Metal Work", "Woodwork"]
+                status: "Day/Boarding",
+                code: "0060504",
+                programs: ["Applied Electricity", "Building Construction Technology", "Metal Work", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 232,
@@ -2115,7 +2808,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical"]
+                code: null,
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 233,
@@ -2124,7 +2820,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Visual Arts"]
+                code: "0060509",
+                programs: ["Agriculture", "Business", "General Arts", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 234,
@@ -2133,7 +2832,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060607",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 235,
@@ -2142,16 +2844,22 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060302",
+                programs: ["Agriculture", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 236,
                 name: "Koase Senior High Technical School",
-                location: "",
+                location: "Koase/Wenchi",
                 gender: "Mixed",
                 school_type: "SHTS",
-                status: "",
-                programs: ["Applied Electricity", "Building Construction Technology", "Metal Work", "Technical Drawing", "Woodwork"]
+                status: "Day/Boarding",
+                code: "0060603",
+                programs: ["Applied Electricity", "Building Construction Technology", "Metal Work", "Technical Drawing", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 5"],
             },
             {
                 id: 237,
@@ -2160,7 +2868,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Bio-medical Science", "Business", "General Arts", "General Science", "Home Economics", "Robotics", "Technical", "Visual Arts"]
+                code: null,
+                programs: ["Agriculture", "Bio-medical Science", "Business", "General Arts", "General Science", "Home Economics", "Robotics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 238,
@@ -2169,7 +2880,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0060125",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 239,
@@ -2178,7 +2892,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0061003",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 3"],
             },
             {
                 id: 240,
@@ -2187,7 +2904,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060605",
+                programs: ["Agriculture", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 3"],
             },
             {
                 id: 241,
@@ -2196,7 +2916,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical"]
+                code: "0060304",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 242,
@@ -2205,7 +2928,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "",
-                programs: ["Applied Electricity", "Building Construction Technology", "Metal Work", "Woodwork"]
+                code: null,
+                programs: ["Applied Electricity", "Building Construction Technology", "Metal Work", "Woodwork"],
+                programs_code: null,
+                classification: ["Appendix 2"],
             },
             {
                 id: 243,
@@ -2214,7 +2940,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060502",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 244,
@@ -2223,16 +2952,22 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060604",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 245,
                 name: "Nkrankwanta Comm Senior High",
-                location: "",
+                location: "Nkrankwanta",
                 gender: "Mixed",
                 school_type: "SHTS",
-                status: "",
-                programs: ["Building Construction Technology", "Woodwork"]
+                status: "Day/Boarding",
+                code: "0061004",
+                programs: ["Building Construction Technology", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 246,
@@ -2241,7 +2976,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical"]
+                code: null,
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 247,
@@ -2250,7 +2988,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0060611",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 248,
@@ -2259,7 +3000,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060107",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 249,
@@ -2268,7 +3012,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0060608",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 3"],
             },
             {
                 id: 250,
@@ -2277,7 +3024,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Plumbing & Gas Technology", "Wood Technology"]
+                code: "9062602",
+                programs: ["Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Plumbing & Gas Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 251,
@@ -2286,7 +3036,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060103",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 252,
@@ -2295,7 +3048,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Business Secretarial", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9061100",
+                programs: ["Building Construction", "Business Secretarial", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 253,
@@ -2304,7 +3060,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0060505",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 254,
@@ -2313,7 +3072,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060111",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 3"],
             },
             {
                 id: 255,
@@ -2322,7 +3084,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060105",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 256,
@@ -2331,7 +3096,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0061005",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 3"],
             },
             {
                 id: 257,
@@ -2340,7 +3108,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Textile Technology"]
+                code: "9060107",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Textile Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 258,
@@ -2349,7 +3120,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["General Arts", "General Science", "Home Economics"]
+                code: "0060513",
+                programs: ["General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 3"],
             },
             {
                 id: 259,
@@ -2358,7 +3132,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0060308",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 260,
@@ -2367,7 +3144,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science"]
+                code: "0060106",
+                programs: ["Business", "General Arts", "General Science"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 261,
@@ -2376,7 +3156,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0060503",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 262,
@@ -2384,8 +3167,11 @@ export const SCHOOLS_BY_REGION = {
                 location: "Sunyani",
                 gender: "Mixed",
                 school_type: "TVET",
-                status: "",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                status: "Day/Boarding",
+                code: "9060101",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 263,
@@ -2394,7 +3180,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Bio-medical Science", "Business", "General Arts", "General Science", "Home Economics", "STEM", "Visual Arts"]
+                code: "0060104",
+                programs: ["Agriculture", "Bio-medical Science", "Business", "General Arts", "General Science", "Home Economics", "STEM", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 5"],
             },
             {
                 id: 264,
@@ -2403,7 +3192,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Computer Networking (CBT Option, For Girls Only)", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9060106",
+                programs: ["Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Computer Networking (CBT Option, For Girls Only)", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 265,
@@ -2412,7 +3204,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"]
+                code: "9061000",
+                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 266,
@@ -2421,7 +3216,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"]
+                code: "9060500",
+                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 267,
@@ -2430,7 +3228,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Building Construction Technology", "Business", "Electrical Engineering Technology", "General Arts", "General Science", "Home Economics", "Metal Work", "Motor Vehicle Technology", "Technical", "Visual Arts", "Welding & Fabrication Technology", "Woodwork"]
+                code: "0060101",
+                programs: ["Building Construction Technology", "Business", "Electrical Engineering Technology", "General Arts", "General Science", "Home Economics", "Metal Work", "Motor Vehicle Technology", "Technical", "Visual Arts", "Welding & Fabrication Technology", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 268,
@@ -2439,7 +3240,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Woodwork"]
+                code: "0061002",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 269,
@@ -2448,8 +3252,11 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
-            }
+                code: "0060601",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 4"],
+            },
         ],
         private: []
     },
@@ -2466,7 +3273,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060406",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 271,
@@ -2475,7 +3285,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "Home Economics"]
+                code: "0060715",
+                programs: ["Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 272,
@@ -2484,7 +3297,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0060702",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 273,
@@ -2493,7 +3309,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "STEM", "Visual Arts"]
+                code: "0060404",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "STEM", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 274,
@@ -2502,7 +3321,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060402",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 275,
@@ -2511,7 +3333,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0061103",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 276,
@@ -2520,7 +3345,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0060902",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 277,
@@ -2529,7 +3357,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060905",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 278,
@@ -2538,7 +3369,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0060705",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 3"],
             },
             {
                 id: 279,
@@ -2547,7 +3381,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060713",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 280,
@@ -2556,7 +3393,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060802",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 281,
@@ -2565,7 +3405,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9067793",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 282,
@@ -2574,7 +3417,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0061102",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 283,
@@ -2583,7 +3429,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0060712",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 284,
@@ -2592,7 +3441,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060801",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 285,
@@ -2601,7 +3453,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9060301",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 286,
@@ -2610,7 +3465,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0060806",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 287,
@@ -2619,7 +3477,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0060904",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 288,
@@ -2628,7 +3489,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "Business", "Electrical Engineering Technology", "Electronics", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Woodwork"]
+                code: "0061101",
+                programs: ["Agriculture", "Building Construction Technology", "Business", "Electrical Engineering Technology", "Electronics", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 289,
@@ -2637,7 +3501,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0060714",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 290,
@@ -2646,7 +3513,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060409",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 291,
@@ -2655,7 +3525,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060612",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 292,
@@ -2664,7 +3537,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0060901",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 293,
@@ -2673,7 +3549,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Architectural Draughtsmanship", "Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Information Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Refrigeration & Air-conditioning", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9060901",
+                programs: ["Agricultural Mechanization Technology", "Architectural Draughtsmanship", "Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Information Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Refrigeration & Air-conditioning", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 294,
@@ -2682,7 +3561,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9060905",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 295,
@@ -2691,7 +3573,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060903",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 296,
@@ -2700,7 +3585,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0060707",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 297,
@@ -2709,7 +3597,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060403",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 298,
@@ -2718,7 +3609,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Visual Arts"]
+                code: "0060704",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 299,
@@ -2727,7 +3621,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0060701",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 300,
@@ -2736,16 +3633,22 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology"]
+                code: "9061200",
+                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 301,
                 name: "Tuobodom Senior High Tech. Sch",
-                location: "",
+                location: "Tuobodom",
                 gender: "Mixed",
                 school_type: "SHTS",
-                status: "",
-                programs: ["Applied Electricity", "Building Construction Technology", "Metal Work"]
+                status: "Day/Boarding",
+                code: "0060703",
+                programs: ["Applied Electricity", "Building Construction Technology", "Metal Work"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 302,
@@ -2754,7 +3657,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical"]
+                code: null,
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 303,
@@ -2763,16 +3669,22 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics"]
+                code: "0060709",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 3"],
             },
             {
                 id: 304,
                 name: "Yeji Senior High Tech",
-                location: "",
+                location: "Yeji",
                 gender: "Mixed",
                 school_type: "SHTS",
-                status: "",
-                programs: ["Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Woodwork"]
+                status: "Day/Boarding",
+                code: "0060401",
+                programs: ["Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 305,
@@ -2781,8 +3693,11 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
-            }
+                code: null,
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: [],
+            },
         ],
         private: []
     },
@@ -2799,7 +3714,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "Elective Maths", "Elective Physics", "General Arts", "General Science", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"]
+                code: "0030403",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "Elective Maths", "Elective Physics", "General Arts", "General Science", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 307,
@@ -2808,7 +3726,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0030308",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 308,
@@ -2817,7 +3738,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030402",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 309,
@@ -2826,7 +3750,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030109",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 310,
@@ -2835,7 +3762,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0031205",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 311,
@@ -2844,7 +3774,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Visual Arts"]
+                code: "0030102",
+                programs: ["Business", "General Arts", "General Science", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 312,
@@ -2853,7 +3786,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030401",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 313,
@@ -2862,7 +3798,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030915",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 314,
@@ -2871,7 +3810,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030909",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 315,
@@ -2880,7 +3822,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Plumbing & Gas Technology", "Wood Technology"]
+                code: "9031101",
+                programs: ["Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Plumbing & Gas Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 316,
@@ -2889,7 +3834,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9030802",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 317,
@@ -2898,7 +3846,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0030312",
+                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 318,
@@ -2907,7 +3858,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030501",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 319,
@@ -2916,7 +3870,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing"]
+                code: "9030321",
+                programs: ["Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 320,
@@ -2925,7 +3882,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Solar PV Technology (CBT Option)", "Wood Technology"]
+                code: "9030701",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Solar PV Technology (CBT Option)", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 321,
@@ -2934,7 +3894,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9030707",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 322,
@@ -2943,7 +3906,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0031201",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 323,
@@ -2952,7 +3918,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "Business", "Elective Maths", "Elective Physics", "Electrical Engineering Technology", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0031204",
+                programs: ["Agriculture", "Building Construction Technology", "Business", "Elective Maths", "Elective Physics", "Electrical Engineering Technology", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 324,
@@ -2961,7 +3930,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0031206",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 325,
@@ -2970,7 +3942,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0031207",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 326,
@@ -2978,8 +3953,11 @@ export const SCHOOLS_BY_REGION = {
                 location: "Asuansi",
                 gender: "Mixed",
                 school_type: "TVET",
-                status: "",
-                programs: ["Agricultural Mechanization Technology", "Architectural Draughtsmanship", "Automotive Engineering Technology", "Building Construction", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Creative Art Technology", "Electrical Engineering Technology", "Furniture Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                status: "Day/Boarding",
+                code: "9030401",
+                programs: ["Agricultural Mechanization Technology", "Architectural Draughtsmanship", "Automotive Engineering Technology", "Building Construction", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Creative Art Technology", "Electrical Engineering Technology", "Furniture Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 327,
@@ -2988,7 +3966,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030628",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 328,
@@ -2997,7 +3978,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030613",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 3"],
             },
             {
                 id: 329,
@@ -3006,7 +3990,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0031006",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 330,
@@ -3015,7 +4002,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Leather Works Technology", "Refrigeration & Air-conditioning", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9030301",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Leather Works Technology", "Refrigeration & Air-conditioning", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 331,
@@ -3024,7 +4014,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030702",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 332,
@@ -3033,7 +4026,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0031001",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 333,
@@ -3042,7 +4038,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Applied Electricity", "Building Construction Technology", "Electronics", "General Arts", "Home Economics", "Technical", "Woodwork"]
+                code: "0030633",
+                programs: ["Applied Electricity", "Building Construction Technology", "Electronics", "General Arts", "Home Economics", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 334,
@@ -3051,7 +4050,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "Elective Maths", "Elective Physics", "General Arts", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"]
+                code: "0030803",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "Elective Maths", "Elective Physics", "General Arts", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 335,
@@ -3060,7 +4062,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0030801",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 336,
@@ -3069,7 +4074,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Business Secretarial", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9031300",
+                programs: ["Building Construction", "Business Secretarial", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 337,
@@ -3078,7 +4086,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Architectural Draughtsmanship", "Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Furniture Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Refrigeration & Air-conditioning", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9030101",
+                programs: ["Architectural Draughtsmanship", "Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Furniture Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Refrigeration & Air-conditioning", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 338,
@@ -3087,7 +4098,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "Home Economics"]
+                code: "0030507",
+                programs: ["Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 339,
@@ -3096,7 +4110,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0031003",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 3"],
             },
             {
                 id: 340,
@@ -3105,7 +4122,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "Elective ICT", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0031002",
+                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "Elective ICT", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 341,
@@ -3114,7 +4134,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030201",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 342,
@@ -3123,7 +4146,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0030110",
+                programs: ["Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 343,
@@ -3132,16 +4158,22 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030202",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 344,
                 name: "Ekumfi T. I. Ahmadiiyya SHTS",
-                location: "",
+                location: "Esakyir",
                 gender: "Mixed",
                 school_type: "SHTS",
-                status: "",
-                programs: ["Applied Electricity", "Building Construction Technology", "Elective Maths", "Elective Physics", "Technical Drawing", "Woodwork"]
+                status: "Day/Boarding",
+                code: "0030302",
+                programs: ["Applied Electricity", "Building Construction Technology", "Elective Maths", "Elective Physics", "Technical Drawing", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 345,
@@ -3150,7 +4182,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical"]
+                code: null,
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 346,
@@ -3159,7 +4194,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Business Accounting", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9030801",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Business Accounting", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 347,
@@ -3168,7 +4206,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "",
-                programs: ["Building Construction Technology", "Woodwork"]
+                code: null,
+                programs: ["Building Construction Technology", "Woodwork"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 348,
@@ -3177,7 +4218,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical"]
+                code: "0030703",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 349,
@@ -3186,7 +4230,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030706",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 350,
@@ -3195,7 +4242,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030615",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 351,
@@ -3204,7 +4254,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030106",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 4"],
             },
             {
                 id: 352,
@@ -3213,7 +4266,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Wood Technology"]
+                code: "9030500",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 353,
@@ -3222,7 +4278,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030508",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 354,
@@ -3231,7 +4290,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0030503",
+                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 355,
@@ -3240,7 +4302,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"]
+                code: "9030102",
+                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 356,
@@ -3249,7 +4314,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0031208",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 357,
@@ -3258,7 +4326,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030103",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 358,
@@ -3267,7 +4338,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030309",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 359,
@@ -3276,7 +4350,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0031102",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 360,
@@ -3285,7 +4362,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Business", "General Arts", "Home Economics"]
+                code: "0030313",
+                programs: ["Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 361,
@@ -3294,7 +4374,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0030203",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 362,
@@ -3303,7 +4386,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030904",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 363,
@@ -3312,7 +4398,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Applied Electricity", "Building Construction Technology", "Business", "Elective Maths", "Elective Physics", "General Arts", "General Science", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"]
+                code: "0030305",
+                programs: ["Applied Electricity", "Building Construction Technology", "Business", "Elective Maths", "Elective Physics", "General Arts", "General Science", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 364,
@@ -3321,7 +4410,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0031007",
+                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 365,
@@ -3330,7 +4422,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0030701",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 366,
@@ -3339,7 +4434,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts"]
+                code: "0030303",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 367,
@@ -3348,7 +4446,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology"]
+                code: "9030300",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 368,
@@ -3357,7 +4458,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030304",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 369,
@@ -3366,7 +4470,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030301",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 370,
@@ -3375,7 +4482,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Applied Electricity", "Building Construction Technology", "General Arts", "General Science", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0030104",
+                programs: ["Applied Electricity", "Building Construction Technology", "General Arts", "General Science", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 2"],
             },
             {
                 id: 371,
@@ -3384,7 +4494,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics"]
+                code: "0031107",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 372,
@@ -3393,7 +4506,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0030406",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 373,
@@ -3402,7 +4518,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "",
-                programs: ["Applied Electricity", "Building Construction Technology", "Elective ICT", "Elective Maths", "Elective Physics", "Technical Drawing", "Woodwork"]
+                code: null,
+                programs: ["Applied Electricity", "Building Construction Technology", "Elective ICT", "Elective Maths", "Elective Physics", "Technical Drawing", "Woodwork"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 374,
@@ -3411,7 +4530,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030504",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 375,
@@ -3420,7 +4542,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Business Secretarial", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9030414",
+                programs: ["Building Construction", "Business Secretarial", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 376,
@@ -3429,7 +4554,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0030903",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 377,
@@ -3438,7 +4566,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Applied Electricity", "Building Construction Technology", "Business", "Elective Maths", "General Arts", "General Science", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"]
+                code: "0030901",
+                programs: ["Applied Electricity", "Building Construction Technology", "Business", "Elective Maths", "General Arts", "General Science", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 378,
@@ -3447,7 +4578,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0031203",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 379,
@@ -3456,7 +4590,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Woodwork"]
+                code: "0031202",
+                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 380,
@@ -3465,7 +4602,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0030603",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 381,
@@ -3474,7 +4614,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030802",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 382,
@@ -3483,7 +4626,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030629",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 383,
@@ -3492,7 +4638,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "Elective Maths", "Elective Physics", "General Arts", "General Science", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"]
+                code: "0030108",
+                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "Elective Maths", "Elective Physics", "General Arts", "General Science", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 384,
@@ -3501,7 +4650,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Business", "General Arts", "Home Economics", "Technical"]
+                code: "0030509",
+                programs: ["Business", "General Arts", "Home Economics", "Technical"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 385,
@@ -3510,7 +4662,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Graphics Design Technology", "Information Technology", "Plumbing & Gas Technology"]
+                code: "9030601",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Graphics Design Technology", "Information Technology", "Plumbing & Gas Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 386,
@@ -3519,7 +4674,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Building Construction Technology", "Business", "Elective ICT", "Elective Maths", "Elective Physics", "General Arts", "General Science", "Home Economics", "Hospitality & Catering Management", "Metal Work", "Technical", "Technical Drawing", "Visual Arts"]
+                code: "0030502",
+                programs: ["Building Construction Technology", "Business", "Elective ICT", "Elective Maths", "Elective Physics", "General Arts", "General Science", "Home Economics", "Hospitality & Catering Management", "Metal Work", "Technical", "Technical Drawing", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 387,
@@ -3528,7 +4686,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030907",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 388,
@@ -3537,7 +4698,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030602",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 389,
@@ -3546,7 +4710,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030906",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 390,
@@ -3555,7 +4722,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Beauty Therapy", "Catering & Hospitality Management", "Garment/Fashion Technology", "Hairdressing", "Textile Technology"]
+                code: "9030103",
+                programs: ["Beauty Therapy", "Catering & Hospitality Management", "Garment/Fashion Technology", "Hairdressing", "Textile Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 391,
@@ -3564,7 +4734,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science"]
+                code: "0030101",
+                programs: ["Agriculture", "Business", "General Arts", "General Science"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 392,
@@ -3573,7 +4746,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "Home Economics"]
+                code: "0030624",
+                programs: ["Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 393,
@@ -3582,7 +4758,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Languages", "Visual Arts"]
+                code: "0030902",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Languages", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 394,
@@ -3591,7 +4770,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030905",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 395,
@@ -3600,7 +4782,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"]
+                code: "9030700",
+                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 396,
@@ -3609,7 +4794,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"]
+                code: "9031200",
+                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 397,
@@ -3618,7 +4806,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0031104",
+                programs: ["Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 398,
@@ -3627,7 +4818,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0031101",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 399,
@@ -3636,7 +4830,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030105",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 400,
@@ -3645,7 +4842,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030107",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 401,
@@ -3654,7 +4854,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0030601",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 402,
@@ -3663,8 +4866,11 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Information Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology"]
-            }
+                code: "9030900",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Information Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
+            },
         ],
         private: []
     },
@@ -3681,7 +4887,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Boarding",
-                programs: ["Agricultural Mechanization Technology", "Architectural Draughtsmanship", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9021002",
+                programs: ["Agricultural Mechanization Technology", "Architectural Draughtsmanship", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 404,
@@ -3690,7 +4899,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0021001",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 405,
@@ -3699,7 +4911,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Electrical Machine/Motor Rewinding", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9021001",
+                programs: ["Agricultural Mechanization Technology", "Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Electrical Machine/Motor Rewinding", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1"],
             },
             {
                 id: 406,
@@ -3708,7 +4923,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing"]
+                code: "9021602",
+                programs: ["Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 407,
@@ -3717,7 +4935,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "STEM",
                 status: "Day/Boarding",
-                programs: ["Bio-medical Science", "Computing", "Engineering Science", "Robotics"]
+                code: "0021315",
+                programs: ["Bio-medical Science", "Computing", "Engineering Science", "Robotics"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 5"],
             },
             {
                 id: 408,
@@ -3726,7 +4947,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0021303",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 409,
@@ -3735,7 +4959,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020301",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 410,
@@ -3744,7 +4971,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020604",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 411,
@@ -3753,7 +4983,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020503",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 412,
@@ -3762,7 +4995,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "Elective Maths", "Elective Physics", "General Arts", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0020802",
+                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "Elective Maths", "Elective Physics", "General Arts", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 413,
@@ -3771,7 +5007,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020302",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 414,
@@ -3780,7 +5019,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0021306",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 415,
@@ -3789,7 +5031,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020602",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 416,
@@ -3798,7 +5043,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Woodwork"]
+                code: "0020701",
+                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 417,
@@ -3807,7 +5055,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Automotive Electric", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Languages", "Technical", "Visual Arts", "Woodwork"]
+                code: "0021505",
+                programs: ["Agriculture", "Applied Electricity", "Automotive Electric", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Languages", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 418,
@@ -3816,7 +5067,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9022200",
+                programs: ["Agricultural Mechanization Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 419,
@@ -3825,7 +5079,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0020607",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 420,
@@ -3834,7 +5091,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9020301",
+                programs: ["Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3", "Appendix 4"],
             },
             {
                 id: 421,
@@ -3843,16 +5103,22 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0021504",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 422,
                 name: "Akwamuman Senior High",
-                location: "Atimpoku-Akosomb\u00e9",
+                location: "Atimpoku-Akosombé",
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020803",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 423,
@@ -3861,7 +5127,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Business Accounting", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9021101",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Business Accounting", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 424,
@@ -3870,7 +5139,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9020901",
+                programs: ["Agricultural Mechanization Technology", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 425,
@@ -3879,7 +5151,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0020705",
+                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 426,
@@ -3888,7 +5163,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science"]
+                code: "0020808",
+                programs: ["Agriculture", "Business", "General Arts", "General Science"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 427,
@@ -3897,7 +5175,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020801",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 428,
@@ -3906,7 +5187,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Boarding",
-                programs: ["Beauty Therapy", "Building Construction", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology"]
+                code: "9020800",
+                programs: ["Beauty Therapy", "Building Construction", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 429,
@@ -3915,7 +5199,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0021314",
+                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 430,
@@ -3924,7 +5211,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020805",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 431,
@@ -3933,7 +5223,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Business", "General Arts", "Home Economics", "Technical", "Visual Arts"]
+                code: "0020611",
+                programs: ["Business", "General Arts", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 432,
@@ -3942,7 +5235,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0021404",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 433,
@@ -3951,7 +5247,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9022201",
+                programs: ["Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 434,
@@ -3960,7 +5259,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9022301",
+                programs: ["Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 435,
@@ -3969,7 +5271,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020501",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 436,
@@ -3978,7 +5283,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"]
+                code: "0021503",
+                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 437,
@@ -3987,7 +5295,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0021101",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 438,
@@ -3996,7 +5307,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "Elective ICT", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0020606",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "Elective ICT", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 439,
@@ -4005,7 +5319,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0020608",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 440,
@@ -4014,7 +5331,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0020703",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 441,
@@ -4023,7 +5343,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020403",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 442,
@@ -4032,7 +5355,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0021009",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 443,
@@ -4041,7 +5367,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Applied Electricity", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0020804",
+                programs: ["Applied Electricity", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 444,
@@ -4050,7 +5379,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9021105",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 445,
@@ -4059,7 +5391,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020307",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 446,
@@ -4068,7 +5403,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020901",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 447,
@@ -4077,7 +5415,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9020102",
+                programs: ["Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 448,
@@ -4086,7 +5427,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0021018",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 449,
@@ -4095,7 +5439,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020104",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 450,
@@ -4104,7 +5451,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020406",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 451,
@@ -4113,7 +5463,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020204",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 452,
@@ -4122,7 +5475,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9021601",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 453,
@@ -4131,7 +5487,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Woodwork"]
+                code: "0021102",
+                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 454,
@@ -4140,7 +5499,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "Electronics", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0021305",
+                programs: ["Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "Electronics", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 455,
@@ -4149,7 +5511,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9021302",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 456,
@@ -4158,7 +5523,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0021402",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 457,
@@ -4167,7 +5535,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Automotive Engineering Technology", "Electrical Engineering Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology"]
+                code: "9020104",
+                programs: ["Automotive Engineering Technology", "Electrical Engineering Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 458,
@@ -4176,7 +5547,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Applied Electricity", "Building Construction Technology", "General Arts", "General Science", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0020101",
+                programs: ["Applied Electricity", "Building Construction Technology", "General Arts", "General Science", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 2"],
             },
             {
                 id: 459,
@@ -4185,7 +5559,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Biodigester", "Building Construction", "Building Construction Technology (CBT Option)", "Business Accounting", "Catering & Hospitality Management", "Computer Hardware & Software", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9020101",
+                programs: ["Automotive Engineering Technology", "Biodigester", "Building Construction", "Building Construction Technology (CBT Option)", "Business Accounting", "Catering & Hospitality Management", "Computer Hardware & Software", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 460,
@@ -4194,7 +5571,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Plumbing & Gas Technology", "Wood Technology"]
+                code: "9021502",
+                programs: ["Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Plumbing & Gas Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 461,
@@ -4203,7 +5583,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0020203",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 462,
@@ -4212,7 +5595,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0021501",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 463,
@@ -4221,7 +5607,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0021307",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 464,
@@ -4230,7 +5619,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0021005",
+                programs: ["Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 465,
@@ -4239,7 +5631,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0021010",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 466,
@@ -4248,7 +5643,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Languages", "Visual Arts"]
+                code: "0020507",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Languages", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 467,
@@ -4257,7 +5655,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020904",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 468,
@@ -4266,7 +5667,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020409",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 469,
@@ -4275,7 +5679,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0021502",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 470,
@@ -4284,7 +5691,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "Building Construction Technology", "General Arts", "Home Economics", "Technical", "Technical Drawing"]
+                code: "0020903",
+                programs: ["Agriculture", "Building Construction Technology", "General Arts", "Home Economics", "Technical", "Technical Drawing"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 471,
@@ -4293,7 +5703,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Bio-medical Science", "Business", "General Arts", "General Science", "Home Economics", "Robotics", "STEM", "Visual Arts"]
+                code: "0020410",
+                programs: ["Agriculture", "Bio-medical Science", "Business", "General Arts", "General Science", "Home Economics", "Robotics", "STEM", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 5"],
             },
             {
                 id: 472,
@@ -4302,7 +5715,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0021002",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 473,
@@ -4311,7 +5727,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020702",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 474,
@@ -4320,7 +5739,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Languages", "Visual Arts"]
+                code: "0020103",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Languages", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 475,
@@ -4329,7 +5751,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0021203",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 476,
@@ -4338,7 +5763,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020401",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 477,
@@ -4347,7 +5775,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0021004",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 478,
@@ -4356,7 +5787,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0021006",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 479,
@@ -4365,7 +5799,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020304",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 480,
@@ -4374,7 +5811,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020601",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 481,
@@ -4383,7 +5823,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0021302",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 482,
@@ -4392,7 +5835,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020402",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 4"],
             },
             {
                 id: 483,
@@ -4401,7 +5847,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0021202",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 484,
@@ -4410,7 +5859,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020105",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 485,
@@ -4419,7 +5871,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020106",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 486,
@@ -4428,7 +5883,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020108",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 487,
@@ -4437,7 +5895,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Visual Arts"]
+                code: "0020102",
+                programs: ["Business", "General Arts", "General Science", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 488,
@@ -4446,7 +5907,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Business", "Computing", "General Arts", "General Science", "Visual Arts"]
+                code: "0021106",
+                programs: ["Business", "Computing", "General Arts", "General Science", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3", "Appendix 5"],
             },
             {
                 id: 489,
@@ -4455,7 +5919,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0021201",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 490,
@@ -4464,7 +5931,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020408",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 491,
@@ -4473,7 +5943,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020202",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 492,
@@ -4482,7 +5955,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0020305",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 493,
@@ -4491,7 +5967,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0020407",
+                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 494,
@@ -4500,7 +5979,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0020405",
+                programs: ["Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 495,
@@ -4509,7 +5991,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0020109",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 496,
@@ -4518,7 +6003,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0021601",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 497,
@@ -4527,7 +6015,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0021104",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 498,
@@ -4536,7 +6027,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0021313",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 499,
@@ -4545,7 +6039,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9021401",
+                programs: ["Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 500,
@@ -4554,8 +6051,11 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "Electronics", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
-            }
+                code: "0021008",
+                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "Electronics", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
+            },
         ],
         private: []
     },
@@ -4572,7 +6072,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Visual Arts"]
+                code: "0010121",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 525,
@@ -4581,7 +6084,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010112",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 526,
@@ -4590,7 +6096,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Applied Electricity", "Bio-medical Science", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "STEM", "Technical", "Visual Arts"]
+                code: "0010106",
+                programs: ["Applied Electricity", "Bio-medical Science", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "STEM", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2", "Appendix 5"],
             },
             {
                 id: 527,
@@ -4599,7 +6108,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "STEM",
                 status: "Day",
-                programs: ["Aviation & Aerospace Engineering", "Bio-medical Science", "Computing", "Engineering Science"]
+                code: "0012305",
+                programs: ["Aviation & Aerospace Engineering", "Bio-medical Science", "Computing", "Engineering Science"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 5"],
             },
             {
                 id: 528,
@@ -4608,7 +6120,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Architectural Draughtsmanship", "Autobody Repairs", "Automotive Engineering Technology", "Building Construction", "Computer Hardware & Software", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Industrial Mechanics", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Refrigeration & Air-conditioning", "Small Engines Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9010101",
+                programs: ["Architectural Draughtsmanship", "Autobody Repairs", "Automotive Engineering Technology", "Building Construction", "Computer Hardware & Software", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Industrial Mechanics", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Refrigeration & Air-conditioning", "Small Engines Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 529,
@@ -4617,7 +6132,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010148",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 530,
@@ -4626,7 +6144,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agricultural Science", "Agriculture", "General Arts", "General Science", "Home Economics", "STEM", "Visual Arts"]
+                code: "0010110",
+                programs: ["Agricultural Science", "Agriculture", "General Arts", "General Science", "Home Economics", "STEM", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 5"],
             },
             {
                 id: 531,
@@ -4635,7 +6156,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010301",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 532,
@@ -4644,7 +6168,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0010302",
+                programs: ["Agriculture", "Applied Electricity", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 533,
@@ -4653,7 +6180,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Information Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Solar PV Technology (CBT Option)", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9011601",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Information Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Solar PV Technology (CBT Option)", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 534,
@@ -4662,7 +6192,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0010186",
+                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 535,
@@ -4671,7 +6204,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9010602",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1"],
             },
             {
                 id: 536,
@@ -4680,7 +6216,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Wood Technology"]
+                code: "9010702",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 537,
@@ -4689,7 +6228,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010195",
+                programs: ["Agriculture", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 538,
@@ -4698,7 +6240,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0010504",
+                programs: ["Agriculture", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 539,
@@ -4707,7 +6252,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010203",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 540,
@@ -4716,7 +6264,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Welding & Fabrication Technology"]
+                code: "9011001",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 541,
@@ -4725,7 +6276,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9010500",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 542,
@@ -4734,7 +6288,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["General Arts", "Home Economics", "Visual Arts"]
+                code: "0010711",
+                programs: ["General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 543,
@@ -4743,7 +6300,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0010202",
+                programs: ["Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 544,
@@ -4752,7 +6312,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010119",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 545,
@@ -4761,7 +6324,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9010906",
+                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 546,
@@ -4770,7 +6336,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9010700",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 547,
@@ -4779,7 +6348,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Heavy Duty Mechanics"]
+                code: "9011400",
+                programs: ["Automotive Engineering Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Heavy Duty Mechanics"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 548,
@@ -4788,7 +6360,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010101",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 549,
@@ -4797,7 +6372,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Languages", "Technical", "Visual Arts"]
+                code: "0010115",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Languages", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 550,
@@ -4806,7 +6384,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010535",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 551,
@@ -4815,7 +6396,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010401",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 552,
@@ -4824,7 +6408,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Autobody Repairs", "Automotive Engineering Technology", "Welding & Fabrication Technology"]
+                code: "9010108",
+                programs: ["Autobody Repairs", "Automotive Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 553,
@@ -4833,7 +6420,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010104",
+                programs: ["General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 554,
@@ -4842,7 +6432,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Catering & Hospitality Management", "Garment/Fashion Technology"]
+                code: "9010106",
+                programs: ["Catering & Hospitality Management", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 555,
@@ -4851,7 +6444,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Applied Electricity", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0010120",
+                programs: ["Applied Electricity", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 556,
@@ -4860,7 +6456,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0010109",
+                programs: ["Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 557,
@@ -4869,7 +6468,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010227",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 558,
@@ -4878,7 +6480,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts"]
+                code: "0010534",
+                programs: ["Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 559,
@@ -4887,7 +6492,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010128",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 560,
@@ -4896,7 +6504,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010117",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 561,
@@ -4905,7 +6516,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010545",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 562,
@@ -4914,7 +6528,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing"]
+                code: "9010901",
+                programs: ["Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 563,
@@ -4923,7 +6540,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Architectural Draughtsmanship", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Leather Works Technology", "Plumbing & Gas Technology", "Refrigeration & Air-conditioning", "Wood Technology"]
+                code: "9010104",
+                programs: ["Architectural Draughtsmanship", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Leather Works Technology", "Plumbing & Gas Technology", "Refrigeration & Air-conditioning", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 564,
@@ -4932,7 +6552,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010503",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 565,
@@ -4941,7 +6564,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Autobody Repairs", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9011302",
+                programs: ["Autobody Repairs", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 566,
@@ -4950,7 +6576,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Catering & Hospitality Management", "Garment/Fashion Technology"]
+                code: "9010112",
+                programs: ["Catering & Hospitality Management", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 567,
@@ -4959,7 +6588,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010403",
+                programs: ["Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 568,
@@ -4968,7 +6600,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010114",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 569,
@@ -4977,7 +6612,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010108",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 570,
@@ -4986,7 +6624,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010118",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 571,
@@ -4995,7 +6636,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Business Secretarial", "Catering & Hospitality Management", "Creative Art Technology", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology"]
+                code: "9010123",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Business Secretarial", "Catering & Hospitality Management", "Creative Art Technology", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1"],
             },
             {
                 id: 572,
@@ -5004,7 +6648,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0010402",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 573,
@@ -5013,7 +6660,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010213",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 574,
@@ -5022,7 +6672,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Architectural Draughtsmanship", "Building Construction", "Computer Hardware & Software", "Database Management (CBT Option, For Girls Only)", "Electrical Engineering Technology", "Electronics Engineering Technology", "Mechanical Engineering Technology", "Refrigeration & Air-conditioning", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9010105",
+                programs: ["Architectural Draughtsmanship", "Building Construction", "Computer Hardware & Software", "Database Management (CBT Option, For Girls Only)", "Electrical Engineering Technology", "Electronics Engineering Technology", "Mechanical Engineering Technology", "Refrigeration & Air-conditioning", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 575,
@@ -5031,7 +6684,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Wood Technology"]
+                code: "9010601",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 576,
@@ -5040,7 +6696,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010404",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 577,
@@ -5049,7 +6708,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Visual Arts"]
+                code: "0010111",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 578,
@@ -5058,7 +6720,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010107",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 579,
@@ -5067,7 +6732,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010210",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 580,
@@ -5076,7 +6744,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010116",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 581,
@@ -5085,7 +6756,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Garment/Fashion Technology", "Hairdressing", "Wood Technology"]
+                code: "9010102",
+                programs: ["Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Garment/Fashion Technology", "Hairdressing", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1"],
             },
             {
                 id: 582,
@@ -5094,7 +6768,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Beauty Therapy", "Catering & Hospitality Management", "Garment/Fashion Technology", "Hairdressing"]
+                code: "9010107",
+                programs: ["Beauty Therapy", "Catering & Hospitality Management", "Garment/Fashion Technology", "Hairdressing"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1"],
             },
             {
                 id: 583,
@@ -5103,7 +6780,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010501",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 584,
@@ -5112,7 +6792,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0010142",
+                programs: ["Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 585,
@@ -5121,7 +6804,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010102",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 586,
@@ -5130,7 +6816,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Visual Arts"]
+                code: "0010105",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 587,
@@ -5139,7 +6828,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0010204",
+                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 588,
@@ -5148,7 +6840,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010205",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 589,
@@ -5157,7 +6852,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Solar PV Technology (CBT Option)", "Wood Technology"]
+                code: "9010206",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Solar PV Technology (CBT Option)", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 590,
@@ -5166,7 +6864,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010201",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 591,
@@ -5175,7 +6876,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Architectural Draughtsmanship", "Automotive Engineering Technology", "Biodigester", "Building Construction", "Building Construction Technology (CBT Option)", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Industrial Mechanics", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Printing", "Solar PV Technology (CBT Option)", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9010201",
+                programs: ["Architectural Draughtsmanship", "Automotive Engineering Technology", "Biodigester", "Building Construction", "Building Construction Technology (CBT Option)", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Industrial Mechanics", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Printing", "Solar PV Technology (CBT Option)", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 592,
@@ -5184,7 +6888,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Building Construction", "Business Accounting", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9011701",
+                programs: ["Building Construction", "Business Accounting", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 593,
@@ -5193,7 +6900,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0010103",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 594,
@@ -5202,8 +6912,11 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
-            }
+                code: "0010502",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
+            },
         ],
         private: []
     },
@@ -5220,7 +6933,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Building Construction Technology", "General Arts", "Home Economics", "Technical", "Technical Drawing"]
+                code: "0081412",
+                programs: ["Building Construction Technology", "General Arts", "Home Economics", "Technical", "Technical Drawing"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 596,
@@ -5229,7 +6945,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Technical", "Woodwork"]
+                code: "0080502",
+                programs: ["Agriculture", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 597,
@@ -5238,7 +6957,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Technical", "Woodwork"]
+                code: "0080901",
+                programs: ["Agriculture", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 598,
@@ -5247,7 +6969,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0080504",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 599,
@@ -5256,7 +6981,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["General Arts", "Home Economics"]
+                code: "0080511",
+                programs: ["General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 600,
@@ -5265,7 +6993,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "Building Construction Technology", "General Arts", "Home Economics", "Technical", "Woodwork"]
+                code: "0080608",
+                programs: ["Agriculture", "Building Construction Technology", "General Arts", "Home Economics", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 601,
@@ -5274,7 +7005,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "STEM",
                 status: "Day/Boarding",
-                programs: ["Agricultural Science", "Bio-medical Science", "Computing", "Robotics"]
+                code: "0080609",
+                programs: ["Agricultural Science", "Bio-medical Science", "Computing", "Robotics"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 5"],
             },
             {
                 id: 602,
@@ -5283,7 +7017,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Applied Electricity", "Building Construction Technology", "General Arts", "Home Economics", "Technical", "Woodwork"]
+                code: "0080507",
+                programs: ["Applied Electricity", "Building Construction Technology", "General Arts", "Home Economics", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 603,
@@ -5292,7 +7029,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Garment/Fashion Technology", "Information Technology", "Textile Technology"]
+                code: "9080701",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Garment/Fashion Technology", "Information Technology", "Textile Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 604,
@@ -5301,7 +7041,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "Home Economics"]
+                code: "0080503",
+                programs: ["Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 605,
@@ -5310,7 +7053,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0080501",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 606,
@@ -5319,7 +7065,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Textile Technology", "Wood Technology"]
+                code: "9081000",
+                programs: ["Agricultural Mechanization Technology", "Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Textile Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 607,
@@ -5328,7 +7077,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "General Arts", "Home Economics"]
+                code: "0080509",
+                programs: ["Agriculture", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 608,
@@ -5337,7 +7089,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "Electrical Engineering Technology", "General Arts", "Home Economics", "Technical", "Visual Arts"]
+                code: "0080505",
+                programs: ["Agriculture", "Electrical Engineering Technology", "General Arts", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 609,
@@ -5346,7 +7101,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Building Construction Technology", "General Arts", "Home Economics", "Technical", "Woodwork"]
+                code: "0080506",
+                programs: ["Building Construction Technology", "General Arts", "Home Economics", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 610,
@@ -5355,7 +7113,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0080601",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 611,
@@ -5364,7 +7125,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "",
-                programs: ["Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Woodwork"]
+                code: null,
+                programs: ["Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Woodwork"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 612,
@@ -5373,7 +7137,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Software Development (CBT Option, For Girls Only)", "Textile Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9080601",
+                programs: ["Agricultural Mechanization Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Software Development (CBT Option, For Girls Only)", "Textile Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 613,
@@ -5382,7 +7149,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "General Arts", "General Science", "Home Economics"]
+                code: "0080602",
+                programs: ["Agriculture", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 614,
@@ -5391,7 +7161,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical"]
+                code: "0080604",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 615,
@@ -5400,7 +7173,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "",
-                programs: ["Building Construction Technology"]
+                code: null,
+                programs: ["Building Construction Technology"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 616,
@@ -5409,7 +7185,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0080619",
+                programs: ["Agriculture", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 617,
@@ -5418,8 +7197,11 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
-            }
+                code: "0080508",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
+            },
         ],
         private: []
     },
@@ -5436,7 +7218,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0080117",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 619,
@@ -5445,7 +7230,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0080401",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 620,
@@ -5454,7 +7242,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0080104",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 621,
@@ -5463,7 +7254,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Automotive Engineering Technology", "Biodigester", "Building Construction", "Building Construction Technology (CBT Option)", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Recycling Technology (CBT Option)", "Refrigeration & Air-conditioning", "Small Engines Technology", "Software Development (CBT Option, For Girls Only)", "Solar PV Technology (CBT Option)", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9080101",
+                programs: ["Agricultural Mechanization Technology", "Automotive Engineering Technology", "Biodigester", "Building Construction", "Building Construction Technology (CBT Option)", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Recycling Technology (CBT Option)", "Refrigeration & Air-conditioning", "Small Engines Technology", "Software Development (CBT Option, For Girls Only)", "Solar PV Technology (CBT Option)", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 622,
@@ -5472,7 +7266,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "Electrical Engineering Technology", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0080802",
+                programs: ["Agriculture", "Building Construction Technology", "Electrical Engineering Technology", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 623,
@@ -5481,7 +7278,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "General Arts", "General Science", "Home Economics"]
+                code: "0081102",
+                programs: ["Agriculture", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 624,
@@ -5490,7 +7290,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Beauty Therapy", "Garment/Fashion Technology", "Hairdressing", "Textile Technology"]
+                code: "9080110",
+                programs: ["Beauty Therapy", "Garment/Fashion Technology", "Hairdressing", "Textile Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 625,
@@ -5499,7 +7302,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0080102",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 626,
@@ -5508,7 +7314,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"]
+                code: "9080104",
+                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 627,
@@ -5517,7 +7326,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0081001",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 628,
@@ -5526,7 +7338,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "General Science", "Home Economics"]
+                code: "0080108",
+                programs: ["Agriculture", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 629,
@@ -5535,7 +7350,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0080105",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 630,
@@ -5544,7 +7362,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0081401",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 631,
@@ -5553,7 +7374,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Languages"]
+                code: "0081203",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Languages"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 632,
@@ -5562,7 +7386,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Information Technology"]
+                code: "9081601",
+                programs: ["Agricultural Mechanization Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Information Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 633,
@@ -5571,7 +7398,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0080302",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 634,
@@ -5580,7 +7410,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0081202",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 635,
@@ -5589,7 +7422,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Beauty Therapy", "Garment/Fashion Technology", "Hairdressing", "Wood Technology"]
+                code: "9087782",
+                programs: ["Beauty Therapy", "Garment/Fashion Technology", "Hairdressing", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 636,
@@ -5598,7 +7434,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9080103",
+                programs: ["Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 637,
@@ -5607,7 +7446,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Woodwork"]
+                code: "0081514",
+                programs: ["Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 638,
@@ -5616,7 +7458,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0080103",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 639,
@@ -5625,7 +7470,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["General Arts", "General Science", "Home Economics"]
+                code: "0080132",
+                programs: ["General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 640,
@@ -5634,7 +7482,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Wood Technology"]
+                code: "9080105",
+                programs: ["Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 641,
@@ -5643,7 +7494,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9080301",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 642,
@@ -5652,7 +7506,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0081302",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 643,
@@ -5661,7 +7518,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0080111",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 644,
@@ -5670,7 +7530,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "General Arts", "General Science", "Home Economics"]
+                code: "0080902",
+                programs: ["Agriculture", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 645,
@@ -5679,7 +7542,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0080805",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 646,
@@ -5688,7 +7554,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0081301",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 647,
@@ -5697,7 +7566,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Catering & Hospitality Management", "Garment/Fashion Technology"]
+                code: "9081903",
+                programs: ["Catering & Hospitality Management", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1"],
             },
             {
                 id: 648,
@@ -5706,7 +7578,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science"]
+                code: "0080107",
+                programs: ["Agriculture", "Business", "General Arts", "General Science"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 649,
@@ -5715,7 +7590,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9080901",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 650,
@@ -5724,7 +7602,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Beauty Therapy", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Small Engines Technology", "Textile Technology"]
+                code: "9080102",
+                programs: ["Beauty Therapy", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Small Engines Technology", "Textile Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 651,
@@ -5733,7 +7614,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0080109",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 652,
@@ -5742,7 +7626,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Languages", "Technical", "Visual Arts"]
+                code: "0080101",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Languages", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 2"],
             },
             {
                 id: 653,
@@ -5751,7 +7638,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9081901",
+                programs: ["Agricultural Mechanization Technology", "Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 654,
@@ -5760,7 +7650,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Electrical Engineering Technology", "Garment/Fashion Technology", "Information Technology"]
+                code: "9082045",
+                programs: ["Electrical Engineering Technology", "Garment/Fashion Technology", "Information Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 655,
@@ -5769,7 +7662,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0081201",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 656,
@@ -5778,7 +7674,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "General Arts", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0080106",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "General Arts", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 657,
@@ -5787,7 +7686,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "General Arts", "General Science", "Home Economics"]
+                code: "0080903",
+                programs: ["Agriculture", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 658,
@@ -5796,7 +7698,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0080402",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 659,
@@ -5805,7 +7710,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0080801",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 660,
@@ -5814,7 +7722,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0081101",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 661,
@@ -5823,7 +7734,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Garment/Fashion Technology", "Textile Technology"]
+                code: "9081606",
+                programs: ["Garment/Fashion Technology", "Textile Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 662,
@@ -5832,8 +7746,11 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
-            }
+                code: "9081600",
+                programs: ["Agricultural Mechanization Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
+            },
         ],
         private: []
     },
@@ -5850,7 +7767,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0071203",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 664,
@@ -5859,7 +7779,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0071002",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 665,
@@ -5868,7 +7791,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0070204",
+                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 666,
@@ -5877,7 +7803,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"]
+                code: "0071105",
+                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 667,
@@ -5886,7 +7815,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0071109",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 668,
@@ -5895,7 +7827,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Building Construction Technology", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0071108",
+                programs: ["Building Construction Technology", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 669,
@@ -5904,7 +7839,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0071101",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 670,
@@ -5913,7 +7851,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Textile Technology", "Wood Technology"]
+                code: "9073012",
+                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Textile Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 671,
@@ -5922,7 +7863,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0071202",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 672,
@@ -5931,7 +7875,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Plumbing & Gas Technology", "Wood Technology"]
+                code: "9070401",
+                programs: ["Agricultural Mechanization Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Plumbing & Gas Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 673,
@@ -5940,7 +7887,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9072001",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 674,
@@ -5949,7 +7899,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0071201",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 675,
@@ -5958,7 +7911,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Technical Drawing", "Woodwork"]
+                code: "0070202",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Technical Drawing", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 676,
@@ -5967,7 +7923,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0070303",
+                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 677,
@@ -5976,7 +7935,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070201",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 678,
@@ -5985,7 +7947,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0070305",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 679,
@@ -5994,7 +7959,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0071001",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 680,
@@ -6003,7 +7971,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Building Construction Technology (CBT Option)", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9072112",
+                programs: ["Building Construction Technology (CBT Option)", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 681,
@@ -6012,7 +7983,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070208",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 682,
@@ -6021,7 +7995,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0071103",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 683,
@@ -6030,7 +8007,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Visual Arts"]
+                code: "0070304",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 684,
@@ -6039,7 +8019,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070301",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 685,
@@ -6048,7 +8031,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0070302",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 686,
@@ -6057,7 +8043,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0071104",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 687,
@@ -6066,7 +8055,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Woodwork"]
+                code: "0070203",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 688,
@@ -6075,7 +8067,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Building Construction", "Business Secretarial", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9070800",
+                programs: ["Agricultural Mechanization Technology", "Building Construction", "Business Secretarial", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 689,
@@ -6084,7 +8079,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Visual Arts"]
+                code: "0071005",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 690,
@@ -6093,7 +8091,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Applied Electricity", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0071106",
+                programs: ["Applied Electricity", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 691,
@@ -6102,7 +8103,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0071102",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 692,
@@ -6111,8 +8115,11 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
-            }
+                code: "0070211",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
+            },
         ],
         private: []
     },
@@ -6129,7 +8136,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "General Arts", "General Science", "Home Economics"]
+                code: "0080704",
+                programs: ["Agriculture", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 694,
@@ -6138,7 +8148,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0080701",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 695,
@@ -6147,7 +8160,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Textile Technology", "Welding & Fabrication Technology"]
+                code: "9080700",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Textile Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 696,
@@ -6156,7 +8172,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0081503",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 697,
@@ -6165,7 +8184,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Building Construction", "Business Accounting", "Catering & Hospitality Management", "Creative Art Technology", "Electrical Engineering Technology", "Garment/Fashion Technology", "Textile Technology", "Wood Technology"]
+                code: "9081501",
+                programs: ["Agricultural Mechanization Technology", "Building Construction", "Business Accounting", "Catering & Hospitality Management", "Creative Art Technology", "Electrical Engineering Technology", "Garment/Fashion Technology", "Textile Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 698,
@@ -6174,7 +8196,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0082201",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 699,
@@ -6183,7 +8208,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0080201",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 700,
@@ -6192,7 +8220,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Garment/Fashion Technology"]
+                code: "9082100",
+                programs: ["Building Construction", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1"],
             },
             {
                 id: 701,
@@ -6201,7 +8232,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "General Arts", "Home Economics"]
+                code: "0080207",
+                programs: ["Agriculture", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 702,
@@ -6210,7 +8244,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "General Arts", "Home Economics"]
+                code: "0081504",
+                programs: ["Agriculture", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 703,
@@ -6219,7 +8256,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "Electrical Engineering Technology", "Electronics", "General Arts", "Home Economics", "Metal Work", "Motor Vehicle Technology", "Technical", "Visual Arts", "Woodwork"]
+                code: "0080202",
+                programs: ["Agriculture", "Building Construction Technology", "Electrical Engineering Technology", "Electronics", "General Arts", "Home Economics", "Metal Work", "Motor Vehicle Technology", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 704,
@@ -6228,7 +8268,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0080301",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 705,
@@ -6237,7 +8280,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0080303",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 706,
@@ -6246,7 +8292,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Garment/Fashion Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology"]
+                code: "9081500",
+                programs: ["Garment/Fashion Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 707,
@@ -6255,7 +8304,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Business Secretarial", "Catering & Hospitality Management", "Garment/Fashion Technology", "Textile Technology"]
+                code: "9080655",
+                programs: ["Business Secretarial", "Catering & Hospitality Management", "Garment/Fashion Technology", "Textile Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 708,
@@ -6264,7 +8316,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "Home Economics"]
+                code: "0080205",
+                programs: ["Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 709,
@@ -6273,7 +8328,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Building Construction Technology", "General Arts", "Home Economics", "Technical", "Woodwork"]
+                code: "0080703",
+                programs: ["Building Construction Technology", "General Arts", "Home Economics", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 710,
@@ -6282,8 +8340,11 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanical Technology", "Agriculture", "Building Construction Technology", "Business", "Elective Maths", "Elective Physics", "Electrical Engineering Technology", "General Arts", "Home Economics", "Technical", "Woodwork"]
-            }
+                code: "0080702",
+                programs: ["Agricultural Mechanical Technology", "Agriculture", "Building Construction Technology", "Business", "Elective Maths", "Elective Physics", "Electrical Engineering Technology", "General Arts", "Home Economics", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
+            },
         ],
         private: []
     },
@@ -6300,7 +8361,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0090504",
+                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 712,
@@ -6309,7 +8373,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts"]
+                code: "0090604",
+                programs: ["Business", "General Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 713,
@@ -6318,7 +8385,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0090101",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 714,
@@ -6327,7 +8397,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0090102",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 715,
@@ -6336,7 +8409,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9090101",
+                programs: ["Agricultural Mechanization Technology", "Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 716,
@@ -6345,7 +8421,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0090701",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 717,
@@ -6354,7 +8433,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0090401",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 718,
@@ -6363,7 +8445,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0090413",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 719,
@@ -6372,7 +8457,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Architectural Draughtsmanship", "Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9090401",
+                programs: ["Architectural Draughtsmanship", "Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 720,
@@ -6380,8 +8468,11 @@ export const SCHOOLS_BY_REGION = {
                 location: "Bolgatanga",
                 gender: "Mixed",
                 school_type: "TVET",
-                status: "",
-                programs: ["Building Construction", "Business Secretarial", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Welding & Fabrication Technology"]
+                status: "Day/Boarding",
+                code: "9090403",
+                programs: ["Building Construction", "Business Secretarial", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 721,
@@ -6390,7 +8481,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0090403",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 722,
@@ -6399,7 +8493,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0090601",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 723,
@@ -6408,7 +8505,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9090701",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 724,
@@ -6417,7 +8517,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0090503",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 725,
@@ -6426,7 +8529,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0090302",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 726,
@@ -6435,7 +8541,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "General Science", "Visual Arts"]
+                code: "0090414",
+                programs: ["Business", "General Arts", "General Science", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 727,
@@ -6444,7 +8553,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0090106",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 728,
@@ -6453,7 +8565,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0090602",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 729,
@@ -6462,7 +8577,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"]
+                code: "9090402",
+                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 730,
@@ -6471,7 +8589,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0090305",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 731,
@@ -6480,7 +8601,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics"]
+                code: "0090404",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 732,
@@ -6489,7 +8613,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Business Secretarial", "Garment/Fashion Technology", "Plumbing & Gas Technology"]
+                code: "9090102",
+                programs: ["Building Construction", "Business Secretarial", "Garment/Fashion Technology", "Plumbing & Gas Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 733,
@@ -6498,7 +8625,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0090202",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 734,
@@ -6507,7 +8637,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9090600",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 735,
@@ -6516,7 +8649,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Business", "General Arts", "Home Economics"]
+                code: "0090510",
+                programs: ["Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 736,
@@ -6525,7 +8661,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical"]
+                code: "0090301",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 737,
@@ -6534,7 +8673,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Applied Electricity", "Building Construction Technology", "General Arts", "Home Economics", "Technical"]
+                code: "0090511",
+                programs: ["Applied Electricity", "Building Construction Technology", "General Arts", "Home Economics", "Technical"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 738,
@@ -6543,7 +8685,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Building Construction", "Garment/Fashion Technology", "Textile Technology"]
+                code: "9095606",
+                programs: ["Building Construction", "Garment/Fashion Technology", "Textile Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 739,
@@ -6552,7 +8697,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Textile Technology"]
+                code: "9091200",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Textile Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 740,
@@ -6561,7 +8709,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0090501",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 741,
@@ -6569,8 +8720,11 @@ export const SCHOOLS_BY_REGION = {
                 location: "Navrongo",
                 gender: "Mixed",
                 school_type: "TVET",
-                status: "",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Leather Works Technology"]
+                status: "Day/Boarding",
+                code: "9090902",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Leather Works Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 742,
@@ -6579,7 +8733,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["General Arts", "General Science"]
+                code: "0090505",
+                programs: ["General Arts", "General Science"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 743,
@@ -6588,7 +8745,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0090502",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 744,
@@ -6597,7 +8757,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0090509",
+                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 745,
@@ -6606,7 +8769,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "General Arts", "General Science", "Home Economics"]
+                code: "0090107",
+                programs: ["Agriculture", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 746,
@@ -6615,7 +8781,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0090303",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 747,
@@ -6624,7 +8793,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "",
-                programs: ["Building Construction Technology", "Metal Work", "Woodwork"]
+                code: null,
+                programs: ["Building Construction Technology", "Metal Work", "Woodwork"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 748,
@@ -6633,7 +8805,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9091000",
+                programs: ["Agricultural Mechanization Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 749,
@@ -6642,7 +8817,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics"]
+                code: "0090506",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3", "Appendix 4"],
             },
             {
                 id: 750,
@@ -6651,7 +8829,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Creative Art Technology", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9090901",
+                programs: ["Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Creative Art Technology", "Electrical Engineering Technology", "Garment/Fashion Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 751,
@@ -6660,7 +8841,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "Business", "Elective ICT", "Elective Maths", "Elective Physics", "General Arts", "General Science", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"]
+                code: "0090507",
+                programs: ["Agriculture", "Building Construction Technology", "Business", "Elective ICT", "Elective Maths", "Elective Physics", "General Arts", "General Science", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 4"],
             },
             {
                 id: 752,
@@ -6669,7 +8853,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0090103",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 753,
@@ -6678,7 +8865,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Applied Electricity", "Building Construction Technology", "Business", "Elective Maths", "Elective Physics", "General Arts", "Home Economics", "Technical", "Technical Drawing", "Woodwork"]
+                code: "0090412",
+                programs: ["Applied Electricity", "Building Construction Technology", "Business", "Elective Maths", "Elective Physics", "General Arts", "Home Economics", "Technical", "Technical Drawing", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 754,
@@ -6687,16 +8877,22 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"]
+                code: "9090800",
+                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 755,
                 name: "TSC Technical Institute -Kassena Nankana",
-                location: "",
+                location: "Navrongo",
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Information Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9090903",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Information Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 756,
@@ -6705,7 +8901,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts"]
+                code: "0090304",
+                programs: ["Business", "General Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 757,
@@ -6714,7 +8913,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0090402",
+                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 758,
@@ -6723,7 +8925,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Woodwork"]
+                code: "0090201",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 759,
@@ -6732,7 +8937,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics"]
+                code: "0090603",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 760,
@@ -6741,8 +8949,11 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
-            }
+                code: "0090405",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
+            },
         ],
         private: []
     },
@@ -6759,7 +8970,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Garment/Fashion Technology", "Information Technology", "Wood Technology"]
+                code: "9100741",
+                programs: ["Garment/Fashion Technology", "Information Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 762,
@@ -6768,7 +8982,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["General Arts", "Home Economics", "Visual Arts"]
+                code: "0100206",
+                programs: ["General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 763,
@@ -6777,7 +8994,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0100502",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 764,
@@ -6786,7 +9006,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0100403",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 765,
@@ -6795,7 +9018,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Electronics", "Home Economics", "Metal Work", "Technical", "Woodwork"]
+                code: "0100203",
+                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Electronics", "Home Economics", "Metal Work", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 766,
@@ -6804,7 +9030,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "Home Economics"]
+                code: "0100108",
+                programs: ["Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 767,
@@ -6813,7 +9042,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"]
+                code: "9100103",
+                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 768,
@@ -6822,7 +9054,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Garment/Fashion Technology", "Textile Technology", "Wood Technology"]
+                code: "9101103",
+                programs: ["Building Construction", "Garment/Fashion Technology", "Textile Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 769,
@@ -6831,7 +9066,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["General Arts", "Home Economics"]
+                code: "0100305",
+                programs: ["General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 770,
@@ -6840,7 +9078,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["General Arts", "Home Economics"]
+                code: "0100404",
+                programs: ["General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 771,
@@ -6849,7 +9090,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "Home Economics"]
+                code: "0100205",
+                programs: ["Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 772,
@@ -6858,7 +9102,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0100105",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 773,
@@ -6867,7 +9114,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9100800",
+                programs: ["Agricultural Mechanization Technology", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 774,
@@ -6876,7 +9126,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "Home Economics"]
+                code: "0100110",
+                programs: ["Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 775,
@@ -6885,7 +9138,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0100304",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 776,
@@ -6894,7 +9150,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Woodwork"]
+                code: "0100501",
+                programs: ["Agriculture", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 777,
@@ -6903,7 +9162,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0100401",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 778,
@@ -6912,7 +9174,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "Home Economics"]
+                code: "0100204",
+                programs: ["Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 779,
@@ -6921,7 +9186,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0100601",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 780,
@@ -6930,7 +9198,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["General Arts", "General Science", "Home Economics"]
+                code: "0100104",
+                programs: ["General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 781,
@@ -6939,7 +9210,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0100202",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 782,
@@ -6948,7 +9222,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics"]
+                code: "0100111",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 783,
@@ -6957,7 +9234,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Information Technology", "Textile Technology", "Wood Technology"]
+                code: "9100104",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Information Technology", "Textile Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 784,
@@ -6966,7 +9246,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Beauty Therapy", "Garment/Fashion Technology", "Hairdressing", "Textile Technology", "Wood Technology"]
+                code: "9100102",
+                programs: ["Beauty Therapy", "Garment/Fashion Technology", "Hairdressing", "Textile Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 785,
@@ -6975,7 +9258,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science"]
+                code: "0100201",
+                programs: ["Business", "General Arts", "General Science"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 786,
@@ -6984,7 +9270,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "Home Economics"]
+                code: "0100109",
+                programs: ["Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 787,
@@ -6993,7 +9282,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0100303",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 788,
@@ -7002,7 +9294,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0100503",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 789,
@@ -7011,7 +9306,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts"]
+                code: "0100506",
+                programs: ["Business", "General Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 790,
@@ -7019,8 +9317,11 @@ export const SCHOOLS_BY_REGION = {
                 location: "Nandom",
                 gender: "Girls",
                 school_type: "TVET",
-                status: "",
-                programs: ["Beauty Therapy", "Catering & Hospitality Management", "Garment/Fashion Technology", "Information Technology", "Textile Technology"]
+                status: "Day/Boarding",
+                code: "9100902",
+                programs: ["Beauty Therapy", "Catering & Hospitality Management", "Garment/Fashion Technology", "Information Technology", "Textile Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 791,
@@ -7028,8 +9329,11 @@ export const SCHOOLS_BY_REGION = {
                 location: "",
                 gender: "Mixed",
                 school_type: "SHTS",
-                status: "",
-                programs: ["Building Construction Technology", "Electrical Engineering Technology", "Hospitality & Catering Management", "Welding & Fabrication Technology", "Woodwork"]
+                status: "Day/Boarding",
+                code: "0100505",
+                programs: ["Building Construction Technology", "Electrical Engineering Technology", "Hospitality & Catering Management", "Welding & Fabrication Technology", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 792,
@@ -7038,7 +9342,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["General Arts", "Home Economics"]
+                code: null,
+                programs: ["General Arts", "Home Economics"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 793,
@@ -7047,7 +9354,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Solar PV Technology (CBT Option)", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9101001",
+                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology", "Solar PV Technology (CBT Option)", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 794,
@@ -7056,7 +9366,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Textile Technology"]
+                code: "9100400",
+                programs: ["Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Textile Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 795,
@@ -7065,7 +9378,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics"]
+                code: "0100302",
+                programs: ["Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 796,
@@ -7074,7 +9390,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Electrical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9100901",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Electrical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 797,
@@ -7083,7 +9402,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0100106",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 798,
@@ -7092,7 +9414,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics"]
+                code: "0100504",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 799,
@@ -7101,7 +9426,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Garment/Fashion Technology", "Textile Technology", "Wood Technology"]
+                code: "9100415",
+                programs: ["Building Construction", "Garment/Fashion Technology", "Textile Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 800,
@@ -7110,7 +9438,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"]
+                code: "9101002",
+                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 801,
@@ -7119,7 +9450,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Woodwork"]
+                code: "0100402",
+                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 802,
@@ -7128,7 +9462,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics"]
+                code: "0100301",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 803,
@@ -7137,7 +9474,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0100102",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 4"],
             },
             {
                 id: 804,
@@ -7146,7 +9486,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Woodwork"]
+                code: "0100101",
+                programs: ["Agriculture", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 805,
@@ -7155,8 +9498,11 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Automotive Engineering Technology", "Building Construction", "Business Accounting", "Catering & Hospitality Management", "Computer Hardware & Software", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"]
-            }
+                code: "9100101",
+                programs: ["Agricultural Mechanization Technology", "Automotive Engineering Technology", "Building Construction", "Business Accounting", "Catering & Hospitality Management", "Computer Hardware & Software", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
+            },
         ],
         private: []
     },
@@ -7173,7 +9519,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0070503",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 807,
@@ -7182,7 +9531,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0070114",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 808,
@@ -7191,7 +9543,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070108",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 809,
@@ -7200,7 +9555,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070801",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 4"],
             },
             {
                 id: 810,
@@ -7209,7 +9567,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Woodwork"]
+                code: "0071007",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 811,
@@ -7218,7 +9579,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0070709",
+                programs: ["Building Construction Technology", "Business", "General Arts", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 812,
@@ -7227,7 +9591,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "Elective ICT", "General Arts", "General Science", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"]
+                code: "0070711",
+                programs: ["Agriculture", "Business", "Elective ICT", "General Arts", "General Science", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 813,
@@ -7236,7 +9603,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0071003",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 3"],
             },
             {
                 id: 814,
@@ -7245,7 +9615,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070113",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 815,
@@ -7254,7 +9627,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0070401",
+                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 816,
@@ -7263,7 +9639,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0070111",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 817,
@@ -7272,7 +9651,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "",
-                programs: ["Applied Electricity", "Building Construction Technology", "Metal Work", "Technical Drawing", "Woodwork"]
+                code: null,
+                programs: ["Applied Electricity", "Building Construction Technology", "Metal Work", "Technical Drawing", "Woodwork"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 818,
@@ -7281,7 +9663,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0071008",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 819,
@@ -7290,7 +9675,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Automotive Engineering Technology", "Building Construction", "Business Accounting", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9070101",
+                programs: ["Agricultural Mechanization Technology", "Automotive Engineering Technology", "Building Construction", "Business Accounting", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 820,
@@ -7299,7 +9687,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070604",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 821,
@@ -7308,7 +9699,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Information Technology", "Plumbing & Gas Technology", "Wood Technology"]
+                code: "9070155",
+                programs: ["Agricultural Mechanization Technology", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Information Technology", "Plumbing & Gas Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1"],
             },
             {
                 id: 822,
@@ -7317,7 +9711,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070507",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 823,
@@ -7326,7 +9723,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0070508",
+                programs: ["Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 824,
@@ -7335,7 +9735,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070501",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 825,
@@ -7344,7 +9747,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Textile Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9070501",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Creative Art Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Textile Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 826,
@@ -7353,7 +9759,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Woodwork"]
+                code: "0070506",
+                programs: ["Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 827,
@@ -7362,7 +9771,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Information Technology", "Textile Technology", "Welding & Fabrication Technology"]
+                code: "9070500",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Information Technology", "Textile Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 828,
@@ -7371,7 +9783,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070103",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 829,
@@ -7380,7 +9795,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0070402",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 830,
@@ -7389,7 +9807,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9072401",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 831,
@@ -7398,7 +9819,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0070403",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 832,
@@ -7407,7 +9831,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9072400",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 833,
@@ -7416,7 +9843,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9070150",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 834,
@@ -7425,7 +9855,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Technical"]
+                code: "0070803",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Technical"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 835,
@@ -7434,7 +9867,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070104",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 836,
@@ -7443,7 +9879,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070806",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 837,
@@ -7452,7 +9891,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Visual Arts"]
+                code: "0070601",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 838,
@@ -7461,7 +9903,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Wood Technology"]
+                code: "9071201",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 839,
@@ -7470,7 +9915,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Architectural Draughtsmanship", "Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Business Accounting", "Catering & Hospitality Management", "Computer Hardware & Software", "Computer Networking (CBT Option, For Girls Only)", "Electrical Engineering Technology", "Electronics Engineering Technology", "Furniture Technology", "Garment/Fashion Technology", "Hairdressing", "Plumbing & Gas Technology", "Textile Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9070602",
+                programs: ["Agricultural Mechanization Technology", "Architectural Draughtsmanship", "Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Business Accounting", "Catering & Hospitality Management", "Computer Hardware & Software", "Computer Networking (CBT Option, For Girls Only)", "Electrical Engineering Technology", "Electronics Engineering Technology", "Furniture Technology", "Garment/Fashion Technology", "Hairdressing", "Plumbing & Gas Technology", "Textile Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 840,
@@ -7479,7 +9927,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Catering & Hospitality Management", "Garment/Fashion Technology"]
+                code: "9070503",
+                programs: ["Catering & Hospitality Management", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 841,
@@ -7488,7 +9939,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Printing", "Solar PV Technology (CBT Option)", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9070901",
+                programs: ["Agricultural Mechanization Technology", "Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Printing", "Solar PV Technology (CBT Option)", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 842,
@@ -7497,7 +9951,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0070902",
+                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 843,
@@ -7506,7 +9963,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070805",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 844,
@@ -7515,7 +9975,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070703",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 845,
@@ -7524,7 +9987,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Textile Technology"]
+                code: "9070710",
+                programs: ["Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Textile Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 846,
@@ -7533,7 +9999,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0070109",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 847,
@@ -7542,7 +10011,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0071006",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 848,
@@ -7551,7 +10023,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Business Accounting", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9071002",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Business Accounting", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 849,
@@ -7560,7 +10035,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070106",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 850,
@@ -7569,7 +10047,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070131",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 851,
@@ -7578,7 +10059,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9072100",
+                programs: ["Agricultural Mechanization Technology", "Automotive Engineering Technology", "Building Construction", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 852,
@@ -7587,7 +10071,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing"]
+                code: "9070704",
+                programs: ["Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 853,
@@ -7596,7 +10083,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9070703",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 854,
@@ -7605,7 +10095,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Technical", "Visual Arts"]
+                code: "0071010",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 855,
@@ -7614,7 +10107,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Fine Arts - Painting", "Garment/Fashion Technology", "Graphics Design Technology", "Wood Technology"]
+                code: "9070514",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Fine Arts - Painting", "Garment/Fashion Technology", "Graphics Design Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 856,
@@ -7623,16 +10119,22 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"]
+                code: "0070504",
+                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Technical Drawing", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 857,
                 name: "Keta Senior High/Tech",
-                location: "",
+                location: "Keta",
                 gender: "Mixed",
                 school_type: "SHTS",
-                status: "",
-                programs: ["Building Construction Technology", "Electronics", "Woodwork"]
+                status: "Day/Boarding",
+                code: "0070502",
+                programs: ["Building Construction Technology", "Electronics", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 858,
@@ -7641,7 +10143,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: null,
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 859,
@@ -7650,7 +10155,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9070705",
+                programs: ["Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 860,
@@ -7659,7 +10167,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Electronics", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0070705",
+                programs: ["Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Electronics", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 861,
@@ -7668,7 +10179,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070602",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 862,
@@ -7677,7 +10191,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Automotive Engineering Technology", "Biodigester", "Building Construction", "Building Construction Technology (CBT Option)", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Creative Art Technology", "Electrical Engineering Technology", "Furniture Technology", "Garment/Fashion Technology", "Information Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9070601",
+                programs: ["Agricultural Mechanization Technology", "Automotive Engineering Technology", "Biodigester", "Building Construction", "Building Construction Technology (CBT Option)", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Creative Art Technology", "Electrical Engineering Technology", "Furniture Technology", "Garment/Fashion Technology", "Information Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 863,
@@ -7686,7 +10203,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070105",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 864,
@@ -7695,7 +10215,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "",
-                programs: ["Applied Electricity", "Building Construction Technology"]
+                code: null,
+                programs: ["Applied Electricity", "Building Construction Technology"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 865,
@@ -7704,7 +10227,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Technical", "Visual Arts"]
+                code: "0070608",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 866,
@@ -7713,7 +10239,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0071004",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 867,
@@ -7722,7 +10251,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0070802",
+                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 868,
@@ -7731,7 +10263,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0070102",
+                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 2", "Appendix 4"],
             },
             {
                 id: 869,
@@ -7740,7 +10275,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0070804",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 870,
@@ -7749,7 +10287,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070101",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 871,
@@ -7758,7 +10299,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070603",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 872,
@@ -7767,7 +10311,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0070607",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 873,
@@ -7776,7 +10323,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0071012",
+                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 874,
@@ -7785,7 +10335,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0070122",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 875,
@@ -7794,7 +10347,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070901",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 876,
@@ -7803,7 +10359,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9071904",
+                programs: ["Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 877,
@@ -7812,7 +10371,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0070119",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 878,
@@ -7821,7 +10383,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070702",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 879,
@@ -7830,7 +10395,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070510",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 880,
@@ -7839,7 +10407,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Agricultural Mechanization Technology", "Architectural Draughtsmanship", "Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9072101",
+                programs: ["Agricultural Mechanization Technology", "Architectural Draughtsmanship", "Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 881,
@@ -7848,7 +10419,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Visual Arts"]
+                code: "0070701",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 882,
@@ -7857,7 +10431,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0070112",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 883,
@@ -7866,7 +10443,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070107",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 884,
@@ -7875,7 +10455,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070704",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 885,
@@ -7884,7 +10467,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9071200",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 886,
@@ -7893,7 +10479,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0070609",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 887,
@@ -7902,7 +10491,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Building Construction Technology", "Business", "Elective ICT", "General Arts", "Home Economics", "Technical"]
+                code: "0070509",
+                programs: ["Building Construction Technology", "Business", "Elective ICT", "General Arts", "Home Economics", "Technical"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 888,
@@ -7911,7 +10503,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9070113",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 889,
@@ -7920,7 +10515,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0070110",
+                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 890,
@@ -7929,7 +10527,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070605",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 891,
@@ -7938,16 +10539,22 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: null,
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 892,
                 name: "Vakpo Senior High/Technical",
-                location: "",
+                location: "Vakpo",
                 gender: "Mixed",
                 school_type: "SHTS",
-                status: "",
-                programs: ["Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Metal Work", "Woodwork"]
+                status: "Day/Boarding",
+                code: "0070606",
+                programs: ["Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Metal Work", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 893,
@@ -7956,7 +10563,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0071009",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 894,
@@ -7965,7 +10575,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9071014",
+                programs: ["Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 895,
@@ -7974,7 +10587,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070808",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 896,
@@ -7983,7 +10599,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"]
+                code: "0070511",
+                programs: ["Business", "General Arts", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 897,
@@ -7992,7 +10611,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Business Accounting", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9070702",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Business Accounting", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 898,
@@ -8001,7 +10623,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0070708",
+                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 899,
@@ -8010,7 +10635,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9070515",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 900,
@@ -8019,7 +10647,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0070706",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 901,
@@ -8028,7 +10659,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Languages", "Technical", "Visual Arts"]
+                code: "0070130",
+                programs: ["Agriculture", "Business", "General Arts", "Home Economics", "Languages", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 902,
@@ -8037,7 +10671,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0070505",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 903,
@@ -8046,8 +10683,11 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
-            }
+                code: "0070125",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
+            },
         ],
         private: []
     },
@@ -8064,7 +10704,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"]
+                code: "9040800",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 905,
@@ -8073,7 +10716,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040110",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 906,
@@ -8082,7 +10728,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040106",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 907,
@@ -8091,7 +10740,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040502",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 908,
@@ -8100,7 +10752,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040402",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 909,
@@ -8109,7 +10764,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040103",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 910,
@@ -8118,7 +10776,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040501",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 911,
@@ -8127,7 +10788,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Woodwork"]
+                code: "0040503",
+                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 912,
@@ -8136,7 +10800,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing"]
+                code: "9040415",
+                programs: ["Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 913,
@@ -8145,7 +10812,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040305",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 914,
@@ -8154,7 +10824,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Plumbing & Gas Technology", "Welding & Fabrication Technology"]
+                code: "9040301",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Plumbing & Gas Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 915,
@@ -8163,7 +10836,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "Elective ICT", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0040202",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "Elective ICT", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 916,
@@ -8172,7 +10848,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical"]
+                code: "0040906",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2", "Appendix 3"],
             },
             {
                 id: 917,
@@ -8181,7 +10860,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0040108",
+                programs: ["Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 918,
@@ -8190,7 +10872,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040304",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 919,
@@ -8198,8 +10883,11 @@ export const SCHOOLS_BY_REGION = {
                 location: "Sanzule",
                 gender: "Mixed",
                 school_type: "TVET",
-                status: "",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Welding & Fabrication Technology"]
+                status: "Day/Boarding",
+                code: "9040402",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 920,
@@ -8208,7 +10896,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0041101",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 921,
@@ -8217,7 +10908,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts"]
+                code: "0040109",
+                programs: ["Agriculture", "Applied Electricity", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 922,
@@ -8226,7 +10920,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0040303",
+                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 923,
@@ -8235,7 +10932,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Refrigeration & Air-conditioning", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9040106",
+                programs: ["Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Refrigeration & Air-conditioning", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 924,
@@ -8244,7 +10944,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0040903",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 925,
@@ -8253,7 +10956,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Bio-medical Science", "Business", "General Arts", "General Science", "Home Economics", "Robotics", "STEM", "Visual Arts"]
+                code: "0040105",
+                programs: ["Bio-medical Science", "Business", "General Arts", "General Science", "Home Economics", "Robotics", "STEM", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 5"],
             },
             {
                 id: 926,
@@ -8262,7 +10968,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Aviation & Aerospace Engineering", "Building Construction Technology", "General Arts", "General Science", "Manufacturing", "Metal Work", "STEM", "Technical", "Woodwork"]
+                code: "0040104",
+                programs: ["Aviation & Aerospace Engineering", "Building Construction Technology", "General Arts", "General Science", "Manufacturing", "Metal Work", "STEM", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 2", "Appendix 5"],
             },
             {
                 id: 927,
@@ -8271,7 +10980,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040308",
+                programs: ["General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 928,
@@ -8280,7 +10992,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040401",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 929,
@@ -8289,7 +11004,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0040901",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 930,
@@ -8298,7 +11016,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Architectural Draughtsmanship", "Automotive Engineering Technology", "Building Construction", "Computer Hardware & Software", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Solar PV Technology (CBT Option)", "Welding & Fabrication Technology", "Wood Technology"]
+                code: "9040401",
+                programs: ["Architectural Draughtsmanship", "Automotive Engineering Technology", "Building Construction", "Computer Hardware & Software", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Solar PV Technology (CBT Option)", "Welding & Fabrication Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 931,
@@ -8307,7 +11028,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040301",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 932,
@@ -8316,7 +11040,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9040705",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1"],
             },
             {
                 id: 933,
@@ -8325,7 +11052,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: []
+                code: "9041200",
+                programs: [],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 934,
@@ -8334,7 +11064,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: null,
+                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 935,
@@ -8343,7 +11076,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Textile Technology"]
+                code: "9041412",
+                programs: ["Catering & Hospitality Management", "Computer Hardware & Software", "Electrical Engineering Technology", "Garment/Fashion Technology", "Textile Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 936,
@@ -8352,7 +11088,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040112",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 937,
@@ -8361,7 +11100,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0041102",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 938,
@@ -8370,7 +11112,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"]
+                code: "0040302",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 939,
@@ -8379,7 +11124,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: []
+                code: "9040105",
+                programs: [],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 940,
@@ -8388,7 +11136,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "",
-                programs: ["Architectural Draughtsmanship", "Building Construction", "Business Secretarial", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Textile Technology", "Welding & Fabrication Technology"]
+                code: null,
+                programs: ["Architectural Draughtsmanship", "Building Construction", "Business Secretarial", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Textile Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: [],
             },
             {
                 id: 941,
@@ -8397,7 +11148,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0040905",
+                programs: ["Agriculture", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 942,
@@ -8406,7 +11160,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040203",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 943,
@@ -8415,7 +11172,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040102",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 944,
@@ -8423,8 +11183,11 @@ export const SCHOOLS_BY_REGION = {
                 location: "Takoradi",
                 gender: "Mixed",
                 school_type: "TVET",
-                status: "",
-                programs: ["Automotive Engineering Technology", "Electrical Engineering Technology", "Garment/Fashion Technology", "Information Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Refrigeration & Air-conditioning", "Welding & Fabrication Technology"]
+                status: "Day",
+                code: "9040102",
+                programs: ["Automotive Engineering Technology", "Electrical Engineering Technology", "Garment/Fashion Technology", "Information Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Refrigeration & Air-conditioning", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 945,
@@ -8433,7 +11196,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Information Technology", "Welding & Fabrication Technology"]
+                code: "9040108",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Information Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 946,
@@ -8442,7 +11208,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040111",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 947,
@@ -8451,7 +11220,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Architectural Draughtsmanship", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing"]
+                code: "9041100",
+                programs: ["Architectural Draughtsmanship", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 948,
@@ -8460,7 +11232,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Catering & Hospitality Management", "Garment/Fashion Technology", "Welding & Fabrication Technology"]
+                code: "9041201",
+                programs: ["Catering & Hospitality Management", "Garment/Fashion Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 949,
@@ -8469,7 +11244,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0040902",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 950,
@@ -8478,7 +11256,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Visual Arts"]
+                code: "0040107",
+                programs: ["Business", "General Arts", "General Science", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category A"],
             },
             {
                 id: 951,
@@ -8487,7 +11268,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Boys",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Visual Arts"]
+                code: "0040201",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 952,
@@ -8496,7 +11280,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"]
+                code: "9040107",
+                programs: ["Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 953,
@@ -8505,7 +11292,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040101",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 954,
@@ -8514,7 +11304,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Architectural Draughtsmanship", "Automotive Engineering Technology", "Biodigester", "Building Construction", "Building Construction Technology (CBT Option)", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Digital Designing Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Information Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Recycling Technology (CBT Option)", "Refrigeration & Air-conditioning", "Small Engines Technology", "Software Development (CBT Option, For Girls Only)", "Solar PV Technology (CBT Option)", "Welding & Fabrication Technology"]
+                code: "9040101",
+                programs: ["Architectural Draughtsmanship", "Automotive Engineering Technology", "Biodigester", "Building Construction", "Building Construction Technology (CBT Option)", "Business Accounting", "Business Secretarial", "Catering & Hospitality Management", "Computer Hardware & Software", "Digital Designing Technology", "Electrical Engineering Technology", "Electronics Engineering Technology", "Garment/Fashion Technology", "Information Technology", "Mechanical Engineering Technology", "Plumbing & Gas Technology", "Recycling Technology (CBT Option)", "Refrigeration & Air-conditioning", "Small Engines Technology", "Software Development (CBT Option, For Girls Only)", "Solar PV Technology (CBT Option)", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 1"],
             },
             {
                 id: 955,
@@ -8523,7 +11316,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040904",
+                programs: ["Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 956,
@@ -8532,7 +11328,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Welding & Fabrication Technology"]
+                code: "9040201",
+                programs: ["Automotive Engineering Technology", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 957,
@@ -8541,7 +11340,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day",
-                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"]
+                code: "9041300",
+                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 958,
@@ -8550,7 +11352,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"]
+                code: "9040700",
+                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
             },
             {
                 id: 959,
@@ -8559,8 +11364,11 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
-            }
+                code: "0040306",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
+            },
         ],
         private: []
     },
@@ -8577,7 +11385,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0040806",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 961,
@@ -8586,7 +11397,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0040804",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 962,
@@ -8595,7 +11409,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0040604",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 963,
@@ -8604,7 +11421,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040603",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 964,
@@ -8613,7 +11433,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "STEM",
                 status: "Day/Boarding",
-                programs: ["Bio-medical Science", "Engineering Science", "Robotics"]
+                code: "0040706",
+                programs: ["Bio-medical Science", "Engineering Science", "Robotics"],
+                programs_code: null,
+                classification: ["Category A", "Appendix 5"],
             },
             {
                 id: 965,
@@ -8622,7 +11445,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Woodwork"]
+                code: "0040802",
+                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 966,
@@ -8631,7 +11457,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0040701",
+                programs: ["Agriculture", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 967,
@@ -8640,7 +11469,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0040803",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 3"],
             },
             {
                 id: 968,
@@ -8649,7 +11481,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Plumbing & Gas Technology", "Wood Technology"]
+                code: "9040901",
+                programs: ["Automotive Engineering Technology", "Beauty Therapy", "Building Construction", "Catering & Hospitality Management", "Electrical Engineering Technology", "Garment/Fashion Technology", "Hairdressing", "Plumbing & Gas Technology", "Wood Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1"],
             },
             {
                 id: 969,
@@ -8658,7 +11493,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0040705",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 970,
@@ -8667,7 +11505,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0041002",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 971,
@@ -8676,7 +11517,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040801",
+                programs: ["Agriculture", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 972,
@@ -8685,7 +11529,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"]
+                code: "0040504",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 973,
@@ -8694,7 +11541,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"]
+                code: "0041001",
+                programs: ["Agriculture", "Applied Electricity", "Automotive Mechanics", "Building Construction Technology", "Business", "General Arts", "General Science", "Home Economics", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 2"],
             },
             {
                 id: 974,
@@ -8703,7 +11553,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040607",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 3"],
             },
             {
                 id: 975,
@@ -8712,7 +11565,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Girls",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040704",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category C"],
             },
             {
                 id: 976,
@@ -8721,7 +11577,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040702",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 977,
@@ -8730,7 +11589,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040601",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 978,
@@ -8739,7 +11601,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHTS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Applied Electricity", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"]
+                code: "0040602",
+                programs: ["Agriculture", "Applied Electricity", "Business", "General Arts", "General Science", "Home Economics", "Metal Work", "Technical", "Visual Arts", "Woodwork"],
+                programs_code: null,
+                classification: ["Category B", "Appendix 2"],
             },
             {
                 id: 979,
@@ -8748,7 +11613,10 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "SHS",
                 status: "Day/Boarding",
-                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"]
+                code: "0040605",
+                programs: ["Agriculture", "Business", "General Arts", "General Science", "Home Economics", "Visual Arts"],
+                programs_code: null,
+                classification: ["Category B"],
             },
             {
                 id: 980,
@@ -8757,8 +11625,11 @@ export const SCHOOLS_BY_REGION = {
                 gender: "Mixed",
                 school_type: "TVET",
                 status: "Day/Boarding",
-                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"]
-            }
+                code: "9040600",
+                programs: ["Mechanical Engineering Technology", "Welding & Fabrication Technology"],
+                programs_code: null,
+                classification: ["Category C", "Appendix 1", "Appendix 3"],
+            },
         ],
         private: []
     }
@@ -8823,13 +11694,6 @@ export const getAllPrograms = () => {
     return Array.from(programs).sort();
 };
 
-/**
- * Get school categories (A, B, C)
- */
-export const getSchoolCategory = (school) => {
-    return 'C';
-};
-
 // Export default
 export default {
     SCHOOLS_BY_REGION,
@@ -8838,5 +11702,9 @@ export default {
     getSchoolsByProgram,
     getRegions,
     getAllPrograms,
-    getSchoolCategory
 };
+
+
+
+
+

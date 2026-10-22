@@ -1,0 +1,252 @@
+/* ========================================
+   Placement form (A4 sheet)
+   ========================================
+   Reproduces the official "Five Main Choice and Two Alternatives" form so the
+   review page can show the candidate's choices in the layout that will print.
+   Every class is prefixed .pf- so the form can never collide with the
+   application's own styles, whatever else is on the page. */
+
+@page {
+    size: A4;
+    margin: 10mm;
+}
+
+/* Gray backdrop the paper sits on, screen only. */
+.pf-band {
+    background: #e9e9e9;
+    padding: var(--space-xl) var(--container-padding);
+}
+
+.pf-sheet {
+    position: relative;
+    width: 210mm;
+    max-width: 100%;
+    min-height: 297mm;
+    margin: 0 auto;
+    padding: 6mm 8mm 8mm;
+    background: var(--white);
+    color: #000;
+    font-family: Calibri, Carlito, "Segoe UI", Arial, sans-serif;
+    font-size: 13px;
+    overflow: hidden;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.25);
+}
+
+.pf-sheet > * {
+    position: relative;
+    z-index: 1;
+}
+
+/* ---- Watermark ---- */
+.pf-watermark {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    pointer-events: none;
+}
+
+.pf-watermark img {
+    width: 150mm;
+    max-width: 90%;
+    height: auto;
+    opacity: 0.12;
+}
+
+/* ---- Section banners ---- */
+.pf-banner {
+    padding: 4px 0 5px;
+    border-bottom: 1px solid #000;
+    font-size: 17px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.pf-banner--second {
+    margin-top: 10px;
+    border-top: 1px solid #000;
+}
+
+/* ---- Dotted-line detail fields ---- */
+.pf-row {
+    display: flex;
+    gap: 14px;
+    align-items: flex-end;
+    margin: 14px 8px 0;
+}
+
+.pf-field {
+    display: flex;
+    flex: 1 1 auto;
+    align-items: flex-end;
+    min-width: 0;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+
+.pf-field--wide {
+    flex: 2.4;
+}
+
+.pf-field--narrow {
+    flex: 1.15;
+}
+
+.pf-value {
+    flex: 1 1 auto;
+    min-width: 0;
+    min-height: 17px;
+    padding: 0 3px;
+    border-bottom: 1.5px dotted #000;
+    font-weight: 500;
+    line-height: 16px;
+    text-transform: none;
+    white-space: normal;
+    overflow-wrap: anywhere;
+}
+
+/* ---- Choice tables ---- */
+.pf-table {
+    width: 100%;
+    margin-top: 26px;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+.pf-table + .pf-banner {
+    margin-top: 10px;
+}
+
+.pf-table th,
+.pf-table td {
+    padding: 0;
+    border: 1px solid #000;
+}
+
+.pf-table th {
+    height: 62px;
+    padding: 4px 2px;
+    font-size: 12.5px;
+    font-weight: 700;
+    line-height: 1.15;
+    text-align: center;
+    text-transform: uppercase;
+    vertical-align: middle;
+}
+
+.pf-table td {
+    height: 32px;
+}
+
+.pf-table td.pf-sn {
+    width: 32px;
+    padding: 3px 4px;
+    font-weight: 700;
+    vertical-align: top;
+}
+
+.pf-cell {
+    display: flex;
+    align-items: center;
+    min-height: 31px;
+    padding: 2px 5px;
+}
+
+.pf-alt th {
+    height: 38px;
+    font-weight: 400;
+}
+
+/* Column widths (shared by both tables) */
+.pf-col-sn { width: 5%; }
+.pf-col-code { width: 11%; }
+.pf-col-name { width: 28%; }
+.pf-col-cat { width: 11%; }
+.pf-col-pcode { width: 11%; }
+.pf-col-pname { width: 22%; }
+.pf-col-day { width: 12%; }
+
+/* ---- Sign-off block and closing note ---- */
+.pf-sign {
+    margin-top: 62px;
+}
+
+.pf-sign .pf-row {
+    margin-top: 36px;
+}
+
+.pf-note {
+    margin: 42px 8px 0;
+    font-size: 12.5px;
+    font-weight: 600;
+    line-height: 1.4;
+    text-transform: uppercase;
+}
+
+/* Screen-only helper text (never printed). */
+.pf-screen-only {
+    margin: 10px 8px 0;
+    font-size: 12px;
+    font-style: italic;
+    color: #444;
+}
+
+/* ---- Small screens ---- */
+@media (max-width: 800px) {
+    .pf-sheet {
+        width: 100%;
+        min-height: 0;
+        padding: 12px 8px;
+    }
+
+    .pf-row {
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .pf-field,
+    .pf-field--wide,
+    .pf-field--narrow {
+        flex: 1 1 100%;
+    }
+
+    .pf-tablewrap {
+        overflow-x: auto;
+    }
+
+    .pf-table {
+        min-width: 640px;
+    }
+
+    .pf-note {
+        margin-right: 0;
+        margin-left: 0;
+    }
+}
+
+/* ---- Print: the sheet fills the page ---- */
+@media print {
+    .pf-band {
+        padding: 0;
+        background: var(--white);
+    }
+
+    .pf-sheet {
+        width: auto;
+        min-height: 0;
+        margin: 0;
+        padding: 0;
+        box-shadow: none;
+    }
+
+    .pf-screen-only {
+        display: none !important;
+    }
+}

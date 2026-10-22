@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Your five main choices and two alternatives on the placement form, ready to check and print. A preparation preview, not an official CSSPS submission.">
+    <title>Review your form &mdash; School Selection Guide</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/main.css">
+</head>
+<body data-page="review" data-base="../">
+    <div id="site-header"></div>
+
+    <main id="main">
+        <div class="page-header">
+            <div class="container">
+                <span class="page-eyebrow">Final review</span>
+                <h1 class="page-title">Your completed form</h1>
+                <p class="page-lead">
+                    Your five main choices and two alternatives are on the form below. Fill in your
+                    details, check everything, then print.
+                </p>
+                <p class="page-meta" id="review-meta">&mdash;</p>
+            </div>
+        </div>
+
+        <div class="rev-toolbar">
+            <div class="container">
+                <div class="rev-toolbar-inner">
+                    <div class="rev-toolbar-actions">
+                        <button type="button" class="btn btn-primary" id="rev-print">Print form</button>
+                        <a class="btn btn-outline" href="../selection/index.html#choices">Edit main choices</a>
+                        <a class="btn btn-outline" href="../selection/index.html#alternatives">Edit alternatives</a>
+                    </div>
+                    <div id="review-status" class="rev-status-slot"></div>
+                </div>
+                <div class="rev-toolbar-note">
+                    <p>
+                        Preview only. Nothing is sent to CSSPS or to any school, and no placement is
+                        reserved.
+                    </p>
+                    <div id="review-issues"></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="review-alert" class="container"></div>
+
+        <section class="rev-details" aria-labelledby="rev-details-heading">
+            <div class="container">
+                <details class="rev-details-panel" open>
+                    <summary class="rev-details-summary">
+                        <span class="rev-details-summary-text" id="rev-details-heading">Your details</span>
+                        <span class="rev-details-summary-hint">
+                            These fill the form below.
+                        </span>
+                        <span class="rev-details-chevron" aria-hidden="true"></span>
+                    </summary>
+                    <div class="rev-details-grid" id="review-details"></div>
+                    <p class="rev-details-note">
+                        Saved in this browser only. Signatures and the school stamp are added by hand.
+                    </p>
+                </details>
+            </div>
+        </section>
+
+        <div class="pf-band">
+            <div class="pf-sheet" id="placement-form">
+
+                <div class="pf-watermark" aria-hidden="true"><img src="coat-of-arms.jpg" alt=""></div>
+
+                <div class="pf-banner" id="pf-main-banner">Five Main Choice</div>
+
+                <div class="pf-row">
+                    <div class="pf-field pf-field--wide">
+                        <span>Candidate's Name :</span>
+                        <span class="pf-value" id="pf-candidate"></span>
+                    </div>
+                    <div class="pf-field pf-field--narrow">
+                        <span>Index Number:</span>
+                        <span class="pf-value" id="pf-index"></span>
+                    </div>
+                </div>
+                <div class="pf-row">
+                    <div class="pf-field pf-field--wide">
+                        <span>Name of JHS</span>
+                        <span class="pf-value" id="pf-jhs"></span>
+                    </div>
+                    <div class="pf-field pf-field--narrow">
+                        <span>Gender:</span>
+                        <span class="pf-value" id="pf-gender"></span>
+                    </div>
+                </div>
+                <div class="pf-row">
+                    <div class="pf-field pf-field--wide">
+                        <span>District:</span>
+                        <span class="pf-value" id="pf-district"></span>
+                    </div>
+                    <div class="pf-field pf-field--narrow">
+                        <span>Region:</span>
+                        <span class="pf-value" id="pf-region"></span>
+                    </div>
+                </div>
+                <div class="pf-row">
+                    <div class="pf-field">
+                        <span>Residential Location ( Suburb/Town/Village):</span>
+                        <span class="pf-value" id="pf-location"></span>
+                    </div>
+                </div>
+
+                <div class="pf-tablewrap">
+                    <table class="pf-table pf-main" aria-labelledby="pf-main-banner">
+                        <colgroup>
+                            <col class="pf-col-sn"><col class="pf-col-code"><col class="pf-col-name">
+                            <col class="pf-col-cat"><col class="pf-col-pcode"><col class="pf-col-pname">
+                            <col class="pf-col-day">
+                        </colgroup>
+                        <thead>
+                            <tr>
+                                <th scope="col">SN</th>
+                                <th scope="col">School Code</th>
+                                <th scope="col">School Name</th>
+                                <th scope="col">Category</th>
+                                <th scope="col">Programme Code</th>
+                                <th scope="col">Programme Name</th>
+                                <th scope="col">Day/ Boarding</th>
+                            </tr>
+                        </thead>
+                        <tbody id="rev-main-rows"></tbody>
+                    </table>
+                </div>
+
+                <div class="pf-banner pf-banner--second" id="pf-alt-banner">Two Alternatives</div>
+
+                <div class="pf-tablewrap">
+                    <table class="pf-table pf-alt" aria-labelledby="pf-alt-banner">
+                        <colgroup>
+                            <col class="pf-col-sn"><col class="pf-col-code"><col class="pf-col-name">
+                            <col class="pf-col-cat"><col class="pf-col-pcode"><col class="pf-col-pname">
+                            <col class="pf-col-day">
+                        </colgroup>
+                        <thead>
+                            <tr>
+                                <th scope="col">SN</th>
+                                <th scope="col">School Code</th>
+                                <th scope="col">School Name</th>
+                                <th scope="col">Category</th>
+                                <th scope="col">Programme Code</th>
+                                <th scope="col">Programme Name</th>
+                                <th scope="col">Day/ Boarding</th>
+                            </tr>
+                        </thead>
+                        <tbody id="rev-alt-rows"></tbody>
+                    </table>
+                </div>
+
+                <div class="pf-sign">
+                    <div class="pf-row">
+                        <div class="pf-field pf-field--wide">
+                            <span>Name of Parent/Guardian:.</span>
+                            <span class="pf-value" id="pf-parent"></span>
+                        </div>
+                        <div class="pf-field pf-field--narrow">
+                            <span>Contact</span>
+                            <span class="pf-value" id="pf-contact"></span>
+                        </div>
+                    </div>
+                    <div class="pf-row">
+                        <div class="pf-field pf-field--wide">
+                            <span>Parent's/Guardian's Signature:.</span>
+                            <span class="pf-value"></span>
+                        </div>
+                        <div class="pf-field pf-field--narrow">
+                            <span>Date:</span>
+                            <span class="pf-value" id="pf-date"></span>
+                        </div>
+                    </div>
+                    <div class="pf-row">
+                        <div class="pf-field">
+                            <span>Headteacher's Contact:.</span>
+                            <span class="pf-value" id="pf-hcontact"></span>
+                        </div>
+                        <div class="pf-field">
+                            <span>Headteacher's Stamp &amp; Signature:.</span>
+                            <span class="pf-value"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <p class="pf-note">Note that this form must not be submitted without the consent of parent/guardian and must be validated by the headteacher.</p>
+
+            </div>
+        </div>
+    </main>
+
+    <div id="site-footer"></div>
+
+    <p id="rev-announcer" class="sel-sr-only" role="status" aria-live="polite"></p>
+
+    <noscript>
+        <p style="padding: 1rem; text-align: center; background: #fff3cd; color: #664d03;">
+            This prototype uses JavaScript to fill the form. Please enable it to use the app.
+        </p>
+    </noscript>
+
+    <script type="module" src="../js/layout.js"></script>
+    <script type="module" src="../js/review.js"></script>
+</body>
+</html>

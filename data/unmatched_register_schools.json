@@ -1,0 +1,823 @@
+{
+ "unmatched_masters": [
+  {
+   "code": "9020500",
+   "name": "St. Mary's Technical Institute, Asamankese",
+   "region": "Eastern",
+   "type": "TVET",
+   "sections": [
+    "Category A",
+    "Appendix 1"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "0021103",
+   "name": "St. Rose's Senior High, Akwatia",
+   "region": "Eastern",
+   "type": "SHS",
+   "sections": [
+    "Category A"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "0021003",
+   "name": "St. Peter's Senior High, Nkwatia",
+   "region": "Eastern",
+   "type": "SHS",
+   "sections": [
+    "Category A"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "9022001",
+   "name": "St. Joseph's Tech. Inst.",
+   "region": "Eastern",
+   "type": "TVET",
+   "sections": [
+    "Category B",
+    "Appendix 1"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "9020701",
+   "name": "Suhum Technical Institute",
+   "region": "Eastern",
+   "type": "TVET",
+   "sections": [
+    "Category B",
+    "Appendix 1"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "0061301",
+   "name": "Mim Senior High",
+   "region": "Ahafo",
+   "type": "SHS",
+   "sections": [
+    "Category B"
+   ],
+   "shares_token_with_dataset": false
+  },
+  {
+   "code": "0061303",
+   "name": "Kukuom Agric Senior High",
+   "region": "Ahafo",
+   "type": "SHS",
+   "sections": [
+    "Category B"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "0061304",
+   "name": "Sankore Senior High",
+   "region": "Ahafo",
+   "type": "SHS",
+   "sections": [
+    "Category B",
+    "Appendix 3"
+   ],
+   "shares_token_with_dataset": false
+  },
+  {
+   "code": "0061202",
+   "name": "Acherensua Senior High",
+   "region": "Ahafo",
+   "type": "SHS",
+   "sections": [
+    "Category B"
+   ],
+   "shares_token_with_dataset": false
+  },
+  {
+   "code": "0061203",
+   "name": "Hwidiem Senior High",
+   "region": "Ahafo",
+   "type": "SHS",
+   "sections": [
+    "Category B"
+   ],
+   "shares_token_with_dataset": false
+  },
+  {
+   "code": "0060208",
+   "name": "Yamfo Anglican Senior High School",
+   "region": "Ahafo",
+   "type": "SHS",
+   "sections": [
+    "Category B"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "0060205",
+   "name": "Bomaa Comm. Senior High",
+   "region": "Ahafo",
+   "type": "SHS",
+   "sections": [
+    "Category B",
+    "Appendix 3"
+   ],
+   "shares_token_with_dataset": false
+  },
+  {
+   "code": "0060207",
+   "name": "Derma Comm. Day School",
+   "region": "Ahafo",
+   "type": "SHS",
+   "sections": [
+    "Category B",
+    "Appendix 3"
+   ],
+   "shares_token_with_dataset": false
+  },
+  {
+   "code": "0060202",
+   "name": "Samuel Otu Presby Senior High.",
+   "region": "Ahafo",
+   "type": "SHS",
+   "sections": [
+    "Category B"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "0020603",
+   "name": "St. Francis Senior High/Tech",
+   "region": "Eastern",
+   "type": "SHTS",
+   "sections": [
+    "Category B"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "0021301",
+   "name": "W.B.M. Zion Senior High, Old Tafo",
+   "region": "Eastern",
+   "type": "SHS",
+   "sections": [
+    "Category B"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "0020201",
+   "name": "Suhum Senior High/Tech",
+   "region": "Eastern",
+   "type": "SHTS",
+   "sections": [
+    "Category B",
+    "Appendix 2"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "9022600",
+   "name": "Takrowase Technical Institute",
+   "region": "Eastern",
+   "type": "TVET",
+   "sections": [
+    "Category C",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "9020902",
+   "name": "St. Mary's Voc./Tech. Inst.",
+   "region": "Eastern",
+   "type": "TVET",
+   "sections": [
+    "Category C",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "9020903",
+   "name": "TSC Technical Institute, Donkorkrom",
+   "region": "Eastern",
+   "type": "TVET",
+   "sections": [
+    "Category C",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "9020501",
+   "name": "TSC Technical Institute, Asamankese",
+   "region": "Eastern",
+   "type": "TVET",
+   "sections": [
+    "Category C",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "9021603",
+   "name": "Tutu Methodist Technical Institute",
+   "region": "Eastern",
+   "type": "TVET",
+   "sections": [
+    "Category C",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "0020902",
+   "name": "St. Fidelis Senior High/Tech",
+   "region": "Eastern",
+   "type": "SHS",
+   "sections": [
+    "Category C",
+    "Appendix 2",
+    "Appendix 3"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "0021105",
+   "name": "Takrowase Comm. Senior High",
+   "region": "Eastern",
+   "type": "SHTS",
+   "sections": [
+    "Category C",
+    "Appendix 3"
+   ],
+   "shares_token_with_dataset": false
+  },
+  {
+   "code": "0021304",
+   "name": "St. Stephen's Presby Snr. High/Tech, Asiakwa",
+   "region": "Eastern",
+   "type": "SHS",
+   "sections": [
+    "Category C",
+    "Appendix 2",
+    "Appendix 3"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "0021007",
+   "name": "St. Paul's Senior High, Asakraka Kwahu",
+   "region": "Eastern",
+   "type": "SHTS",
+   "sections": [
+    "Category C"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "0020502",
+   "name": "St. Thomas Senior High/Tech",
+   "region": "Eastern",
+   "type": "SHS",
+   "sections": [
+    "Category C",
+    "Appendix 2"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "0021401",
+   "name": "Yilo Krobo Senior High/Com",
+   "region": "Eastern",
+   "type": "SHTS",
+   "sections": [
+    "Category C"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "9021301",
+   "name": "St. Paul's Tech. Inst.",
+   "region": "Eastern",
+   "type": "",
+   "sections": [
+    "Category A",
+    "Appendix 1"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": null,
+   "name": "Pina Senior High",
+   "region": "Upper West",
+   "type": "",
+   "sections": [
+    "Appendix 3"
+   ],
+   "shares_token_with_dataset": false
+  },
+  {
+   "code": null,
+   "name": "St. Francis Senior High/Tech, Akim Oda",
+   "region": "Eastern",
+   "type": "",
+   "sections": [
+    "Appendix 2"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "0020704",
+   "name": "St. Michael's Senior High, Akoase (Nkawkaw)",
+   "region": "Eastern",
+   "type": "SHS",
+   "sections": [
+    "Category C",
+    "Appendix 3"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": "0020303",
+   "name": "St. Martin's Senior High, Nsawam",
+   "region": "Eastern",
+   "type": "SHS",
+   "sections": [
+    "Category B"
+   ],
+   "shares_token_with_dataset": true
+  },
+  {
+   "code": null,
+   "name": "Mampong Akuapem Senior High/Technical School",
+   "region": "Eastern",
+   "type": "",
+   "sections": [
+    "Appendix 4"
+   ],
+   "shares_token_with_dataset": true
+  }
+ ],
+ "unmatched_dataset": [
+  {
+   "id": 8,
+   "name": "Danso Agyei Senior High/Tech",
+   "region": "Ahafo",
+   "type": "SHTS",
+   "best_master": "Danso Agyei Senior high technical",
+   "best_code": "0061205",
+   "master_assigned_to": 7,
+   "old_classification": []
+  },
+  {
+   "id": 44,
+   "name": "Akwesi Awobaa Senior High/Tech.",
+   "region": "Ashanti",
+   "type": "SHTS",
+   "best_master": "Akwesi Awobaa Senior High/Tech.",
+   "best_code": "0050907",
+   "master_assigned_to": 43,
+   "old_classification": []
+  },
+  {
+   "id": 95,
+   "name": "Ghana STEM Technical School",
+   "region": "Ashanti",
+   "type": "SHTS",
+   "best_master": "Ghana Stem Technical School",
+   "best_code": "0051620",
+   "master_assigned_to": 94,
+   "old_classification": []
+  },
+  {
+   "id": 97,
+   "name": "Gyaama Pensan SHTS",
+   "region": "Ashanti",
+   "type": "SHTS",
+   "best_master": "Gyaama Pensan Senior High/Tech",
+   "best_code": "0050706",
+   "master_assigned_to": 96,
+   "old_classification": []
+  },
+  {
+   "id": 102,
+   "name": "J.A. Kufour STEM Technical School",
+   "region": "Ashanti",
+   "type": "STEM",
+   "best_master": "J.A. Kufour Stem Technical School",
+   "best_code": "0050811",
+   "master_assigned_to": 101,
+   "old_classification": []
+  },
+  {
+   "id": 115,
+   "name": "Kofiase Adventist Snr High/Tech.",
+   "region": "Ashanti",
+   "type": "SHTS",
+   "best_master": "Kofiase Adventist Senior High/Tech.",
+   "best_code": "0050607",
+   "master_assigned_to": 114,
+   "old_classification": []
+  },
+  {
+   "id": 129,
+   "name": "Kwanwoma Senior High/Tech",
+   "region": "Ashanti",
+   "type": "SHTS",
+   "best_master": "Atwima Kwanwoma Snr High/Tech",
+   "best_code": "0050208",
+   "master_assigned_to": 57,
+   "old_classification": []
+  },
+  {
+   "id": 133,
+   "name": "Mancell Girls' Senior High/Tech.",
+   "region": "Ashanti",
+   "type": "SHS",
+   "best_master": "Mancell Girls' Senior High/Tech.",
+   "best_code": "0050159",
+   "master_assigned_to": 132,
+   "old_classification": []
+  },
+  {
+   "id": 181,
+   "name": "Spiritan Senior High",
+   "region": "Ashanti",
+   "type": "SHTS",
+   "best_master": "Spiritan Senior High/Tech",
+   "best_code": "0050214",
+   "master_assigned_to": 182,
+   "old_classification": []
+  },
+  {
+   "id": 217,
+   "name": "Badu Senior High/Tech.",
+   "region": "Bono",
+   "type": "SHTS",
+   "best_master": "Badu Senior High/Technical School",
+   "best_code": "0060602",
+   "master_assigned_to": 218,
+   "old_classification": []
+  },
+  {
+   "id": 219,
+   "name": "Bandaman Senior High",
+   "region": "Bono",
+   "type": "SHS",
+   "best_master": "Bandaman Senior High Technical Sch",
+   "best_code": "0060610",
+   "master_assigned_to": 220,
+   "old_classification": []
+  },
+  {
+   "id": 229,
+   "name": "Duadaso No. 1 Senior High/Tech.",
+   "region": "Bono",
+   "type": "SHS",
+   "best_master": "Duadaso No. 1 Senior High/Tech. Sch.",
+   "best_code": "0060512",
+   "master_assigned_to": 230,
+   "old_classification": []
+  },
+  {
+   "id": 232,
+   "name": "Goka Senior High/Tech.",
+   "region": "Bono",
+   "type": "SHTS",
+   "best_master": "Goka Senior High/Tech.",
+   "best_code": "0060504",
+   "master_assigned_to": 231,
+   "old_classification": []
+  },
+  {
+   "id": 237,
+   "name": "Koase Senior High/Tech",
+   "region": "Bono",
+   "type": "SHS",
+   "best_master": "Koase Senior High Technical School",
+   "best_code": "0060603",
+   "master_assigned_to": 236,
+   "old_classification": []
+  },
+  {
+   "id": 246,
+   "name": "Nkrankwanta Senior High/Tech",
+   "region": "Bono",
+   "type": "SHTS",
+   "best_master": "Nkrankwanta Comm Senior High",
+   "best_code": "0061004",
+   "master_assigned_to": 245,
+   "old_classification": []
+  },
+  {
+   "id": 302,
+   "name": "Tuobodom Senior High/Tech",
+   "region": "Bono East",
+   "type": "SHTS",
+   "best_master": "Tuobodom Senior High Tech. Sch",
+   "best_code": "0060703",
+   "master_assigned_to": 301,
+   "old_classification": []
+  },
+  {
+   "id": 305,
+   "name": "Yeji Senior High/Tech",
+   "region": "Bono East",
+   "type": "SHTS",
+   "best_master": "Yeji Senior High Tech",
+   "best_code": "0060401",
+   "master_assigned_to": 304,
+   "old_classification": []
+  },
+  {
+   "id": 345,
+   "name": "Ekumifi T. I. Anmadiiyya SHTS",
+   "region": "Central",
+   "type": "SHTS",
+   "best_master": "Ekumfi T. I. Ahmadiiyya SHTS",
+   "best_code": "0030302",
+   "master_assigned_to": 344,
+   "old_classification": []
+  },
+  {
+   "id": 347,
+   "name": "Enyan Denkyira Senior High",
+   "region": "Central",
+   "type": "SHTS",
+   "best_master": "Enyan Denkyira Senior High/Tech",
+   "best_code": "0030703",
+   "master_assigned_to": 348,
+   "old_classification": []
+  },
+  {
+   "id": 373,
+   "name": "Moree Senior High/Tech",
+   "region": "Central",
+   "type": "SHTS",
+   "best_master": "Moree Comm. Senior High",
+   "best_code": "0030406",
+   "master_assigned_to": 372,
+   "old_classification": []
+  },
+  {
+   "id": 611,
+   "name": "Walewale Senior High/Tech",
+   "region": "North East",
+   "type": "SHTS",
+   "best_master": "Walewale Senior High",
+   "best_code": "0080601",
+   "master_assigned_to": 610,
+   "old_classification": []
+  },
+  {
+   "id": 615,
+   "name": "Yagaba Senior High/Tech",
+   "region": "North East",
+   "type": "SHTS",
+   "best_master": "Yagaba Senior High School",
+   "best_code": "0080604",
+   "master_assigned_to": 614,
+   "old_classification": []
+  },
+  {
+   "id": 747,
+   "name": "Sandema Senior High/Tech.",
+   "region": "Upper East",
+   "type": "SHTS",
+   "best_master": "Sandema Senior High",
+   "best_code": "0090303",
+   "master_assigned_to": 746,
+   "old_classification": []
+  },
+  {
+   "id": 792,
+   "name": "St. Augustine Senior High/Tech, Saan Charikpong",
+   "region": "Upper West",
+   "type": "SHS",
+   "best_master": "St. Augustine Senior High/Tech, Saan Charikpon Saan, Charikpong",
+   "best_code": "0100505",
+   "master_assigned_to": 791,
+   "old_classification": []
+  },
+  {
+   "id": 817,
+   "name": "Akpafu Senior High/Tech.",
+   "region": "Volta",
+   "type": "SHTS",
+   "best_master": "Akpafu Senior High/Tech.",
+   "best_code": "0071002",
+   "master_assigned_to": 664,
+   "old_classification": []
+  },
+  {
+   "id": 858,
+   "name": "Keta Senior High/Tech.",
+   "region": "Volta",
+   "type": "SHTS",
+   "best_master": "Keta Senior High/Tech .",
+   "best_code": "0070502",
+   "master_assigned_to": 857,
+   "old_classification": []
+  },
+  {
+   "id": 864,
+   "name": "Kpeve Senior High",
+   "region": "Volta",
+   "type": "SHTS",
+   "best_master": "Kpeve Senior High Tech",
+   "best_code": "0070608",
+   "master_assigned_to": 865,
+   "old_classification": []
+  },
+  {
+   "id": 891,
+   "name": "Vakpo Senior High/Tech",
+   "region": "Volta",
+   "type": "SHTS",
+   "best_master": "Vakpo Senior High/Technical",
+   "best_code": "0070606",
+   "master_assigned_to": 892,
+   "old_classification": []
+  },
+  {
+   "id": 934,
+   "name": "Manso-Amentfi Technical Institute",
+   "region": "Western",
+   "type": "TVET",
+   "best_master": "Manso-Amenfi Technical Institute",
+   "best_code": "9041200",
+   "master_assigned_to": 933,
+   "old_classification": []
+  },
+  {
+   "id": 940,
+   "name": "Opportunities Industrialisation Technical Institute - Takoradi",
+   "region": "Western",
+   "type": "TVET",
+   "best_master": "Takoradi Tech. Inst.",
+   "best_code": "9040101",
+   "master_assigned_to": 954,
+   "old_classification": []
+  }
+ ],
+ "ambiguous": [],
+ "dataset_duplicates": [
+  {
+   "master": "Kofiase Adventist Senior High/Tech.",
+   "code": "0050607",
+   "kept": 114,
+   "kept_name": "Kofiase Adventist Senior High/Tech.",
+   "duplicate_of": [
+    {
+     "id": 115,
+     "name": "Kofiase Adventist Snr High/Tech."
+    }
+   ]
+  },
+  {
+   "master": "Goka Senior High/Tech.",
+   "code": "0060504",
+   "kept": 231,
+   "kept_name": "Goka Senior High/Tech",
+   "duplicate_of": [
+    {
+     "id": 232,
+     "name": "Goka Senior High/Tech."
+    }
+   ]
+  },
+  {
+   "master": "Yeji Senior High Tech",
+   "code": "0060401",
+   "kept": 304,
+   "kept_name": "Yeji Senior High Tech",
+   "duplicate_of": [
+    {
+     "id": 305,
+     "name": "Yeji Senior High/Tech"
+    }
+   ]
+  },
+  {
+   "master": "Keta Senior High/Tech .",
+   "code": "0070502",
+   "kept": 857,
+   "kept_name": "Keta Senior High/Tech",
+   "duplicate_of": [
+    {
+     "id": 858,
+     "name": "Keta Senior High/Tech."
+    }
+   ]
+  },
+  {
+   "master": "Akwesi Awobaa Senior High/Tech.",
+   "code": "0050907",
+   "kept": 43,
+   "kept_name": "Akwesi Awobaa Senior High/Tech",
+   "duplicate_of": [
+    {
+     "id": 44,
+     "name": "Akwesi Awobaa Senior High/Tech."
+    }
+   ]
+  },
+  {
+   "master": "Mancell Girls' Senior High/Tech.",
+   "code": "0050159",
+   "kept": 132,
+   "kept_name": "Mancell Girls' Senior High/Tech",
+   "duplicate_of": [
+    {
+     "id": 133,
+     "name": "Mancell Girls' Senior High/Tech."
+    }
+   ]
+  },
+  {
+   "master": "Ghana Stem Technical School",
+   "code": "0051620",
+   "kept": 94,
+   "kept_name": "Ghana Stem Technical School",
+   "duplicate_of": [
+    {
+     "id": 95,
+     "name": "Ghana STEM Technical School"
+    }
+   ]
+  },
+  {
+   "master": "J.A. Kufour Stem Technical School",
+   "code": "0050811",
+   "kept": 101,
+   "kept_name": "J.A. Kufour Stem Technical School",
+   "duplicate_of": [
+    {
+     "id": 102,
+     "name": "J.A. Kufour STEM Technical School"
+    }
+   ]
+  },
+  {
+   "master": "St. Augustine Senior High/Tech, Saan Charikpon Saan, Charikpong",
+   "code": "0100505",
+   "kept": 791,
+   "kept_name": "St. Augustine Senior High/Tech, Saan Charikpong",
+   "duplicate_of": [
+    {
+     "id": 792,
+     "name": "St. Augustine Senior High/Tech, Saan Charikpong"
+    }
+   ]
+  }
+ ],
+ "category_conflicts": [],
+ "post_union_category_conflicts": [],
+ "code_conflicts": [],
+ "region_mismatch_accepts": [
+  {
+   "id": 574,
+   "dataset": "Pilot Technical Institute",
+   "dataset_region": "Greater Accra",
+   "master": "Pilot Technical Institute",
+   "code": "9010105",
+   "master_region": [
+    "Central"
+   ]
+  },
+  {
+   "id": 964,
+   "dataset": "Awaso STEM Senior High",
+   "dataset_region": "Western North",
+   "master": "Awaso STEM Senior High",
+   "code": "0040706",
+   "master_region": []
+  },
+  {
+   "id": 570,
+   "dataset": "Odorgonno Senior High",
+   "dataset_region": "Greater Accra",
+   "master": "Odorgonno Senior High",
+   "code": "0010118",
+   "master_region": [
+    "Central"
+   ]
+  },
+  {
+   "id": 666,
+   "dataset": "Baglo Ridge Senior High/Tech.",
+   "dataset_region": "Oti",
+   "master": "Baglo Ridge Senior High/Tech.",
+   "code": "0071105",
+   "master_region": []
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+PROGRAMMES ||
+Wu
+a
+SCHOOL NO. OF Fa
+S/N DISTRICT CODE SCHOOL NAME LOCATION AGRIC TECH] tom. | vis. |GEN.|GEN.|STEM|LANG] Dogg STATUS =
+ECON. |ARTS|ARTS| SCI g
+|_101 | 201] 301 401 | 402 | 501 | 502 | 503 | 504 |
+
+9 |Eastern Denkyembour 19021105 _| Denkyembour Technical Institute [Boadua ss Mixed ‘| Refer to Appendix 1 for detailed technical Programs |} 4 | Day/Boarding | TVET |
+70 |Eastern [KwahuSouth ————=*[ 9022301 | Asakraka Technical Institute [Asakraka ——_—s|- Mixed | Refer to Appendix 1 for detailed technical Programs eo er
+71 |Eastern Yilo Krobo 9021401 |Somanya Technical Institute [Somanya ——__—si|- Mixed | Refer to Appendix 1 for detailed technical Programs | 6 | Day/Boarding
+
+72 |Eastern Akuampem North Tutu Methodist Technical Institute Mixed | Refer to Appendix 1 for detailed technical Programs Day TVET
+73 |Eastern Atiwa East Applied Technology Institute - Anyinam Mixed |Refer to Appendix 1 for detailed technical Programs Day TVET
+74 |Greater Accra |Ashiaman Municipal Ashiaman Technical Institute Mixed |Refer to Appendix 1 for detailed technical Programs Day TVET
+
+75 |Greater Accra |Ayawaso West Municipal [9010123 [Opportunities Industrialization Tech. Inst. |EastLegon___|_ Mixed |Refer to Appendix 1 fordetailedtechnicalPrograms| 8 [Day | TVET |
+76 |Greater Accra |AyawasoEastMunicipal__ [9010106 _[KandaTechnicalinstitute [Kanda | Mixed [Refer to Appendix 1 for detailed technical Programs| 2 _|Day/Boarding | TVET |
+77|GreaterAccra |AdaEast_ [9010500 [BedekuTechnicalinstitute ss [Bedeku | Mixed [Refer to Appendix 1 fordetailedtechnicalPrograms| 6 [Day __|_ TVET |
+78|Greater Accra |GaSouth Municipal __—_—_—-[9011302_[Ngleshie Amanfro Technical Institute __|[Ngleshie Amanfro | Mixed [Refer to Appendix 1 fordetailedtechnicalPrograms| 5 [Day __|_ TVET |
+79|Greater Accra |Ledzokuku Municipal___—*[9011701_[TeshieTech.Instittute ss [Teshie | Mixed [Refer to Appendix 1 for detailed technical Programs| 7 [Day ___|_ TVET |
+80|Greater Accra |NingoPrampram [9010601 _[PrampramTechnical Institute [Prampram___|_ Mixed [Refer to Appendix 1 for detailed technical Programs| 9 _|Day/Boarding |_TVET |
+82 |Greater Accra |Shai Osudoku 9010702 |Agomeda Technical Institute Agomeda Refer to Appendix 1 for detailed technical Programs Day TVET
+
+83|Greater Accra |ShaiOsudoku 9010700 [DodowaTechnicalinstitute ss [Dodowa | Mixed [Refer to Appendix 1 fordetailedtechnicalPrograms| 5 [Day | TVET |
+84 |Greater Accra |LaNkwantanangMunicipal_ [9010906 [DanfaTechnicalinstitute —[Danfa__ | Mixed [Refer to Appendix 1 fordetailedtechnicalPrograms| 4 [Day __|_ TVET |
+85 |Greater Accra |AyawasoEastMunicipal__ [9010112 [NimaTechnicalinstitute [Nima | Mixed [Refer to Appendix 1 fordetailedtechnicalPrograms| 2 [Day _‘|_ TVET |
+86|NorthEast__|EastMamprusi___—— [9081000 [NaleriguTechnicalinstitute —[Nalerigu | Mixed [Refer to Appendix 1 for detailed technical Programs| 6 _|Day/Boarding |_TVET |
+87|NorthEast___|WestMampusi__—_—_—[9080601_[Walewale Technical institute [Walawale | Mixed [Refer to Appendix 1 for detailed technical Programs| 13 _|Day/Boarding |_TVET |
+88|NorthEast___|MampuruguMoagduri___[9080701_|LoagriTechnicalinstitute __——[Loagri__—___| Mixed [Refer to Appendix 1 for detailed technical Programs| 5 _|Day/ Boarding | TVET |
+
+89 |Northern Kumbungu Fa Dabogni Technical Institute Mixed |Refer to Appendix 1 for detailed technical Programs Day/Boarding TVET
+90 |Northern Sagnerigu Tamale Technical Institute Mixed |Refer to Appendix 1 for detailed technical Programs Day/Boarding | TVET
+91 |Northern Tamale Metro Gbewa Technical Institute Mixed |Refer to Appendix 1 for detailed technical Programs Day TVET
+
+92|Northern [TamaleMetro [9080102 _[St.Mary'sTechnicallnstitute,Tamale [Tamale | Girls. [Refer to Appendix 1 for detailed technical Programs| 9 |Day/Boarding |_TVET |
+93|Northern _|TamaleMetro [9080103 [LamasheguTechnicalInstitute [Tamale | Mixed |Refer to Appendix 1 for detailed technical Programs| _11__|Day/Boarding |_TVET |
+94|Northern — |Kumbungu [9087782 [Kumbungu Vocational Technecal Institute [Kumbungu___—|_ Mixed |Referto Appendix 1 for detailed technical Programs| 4 [Day __—i|_ TVET |
+95|Northern _|TamaleMetro [9080104 |GRATISTechnical institute, Tamale [Tamale Mixed [Refer to Appendix 1 fordetailed technical Programs| 2 |Day __—i|_ TVET |
+96 [Northern [TamaleMun [9080105 [NyohiniCommunityTechnical institute [Tamale Mixed [Refer to Appendix 1 for detailed technical Programs| _7 _|Day/Boarding |_TVET |
+97|Northern __[Tatale_ ——SSSs« [9082045 [Tatale Technicalinstitute sss s[Tatale | Mixed [Refer to Appendix 1 fordetailed technical Programs| 3 |Day _—i|_TVET |
+99 |Northern Kumbungu 9081601 {Kofi Annan Technical Institute Nwodua Mixed |Refer to Appendix 1 for detailed technical Programs Day/Boarding | TVET
+
+100|Northern —[Karaga_*[9080301 |NyongTechnicalinstitute Ss [Nyong | Mixed [Refer to Appendix 1 for detailed technical Programs| 6 _|Day/Boarding | TVET |
+101|Northern __[SaveluguMunicipal_ [9081903 _|SaveluguTechnical institute [Savelugu | Mixed [Refer to Appendix 1 for detailed technical Programs| 2 |Day/ Boarding |_TVET |
+102| Oti Jasikan [9070401 Fr. DogliMemorialTechnicalInstitute —— [NewAyoma__|_ Mixed |Refer to Appendix 1 for detailed technical Programs| _11__|Day/Boarding |_TVET |
+103 Oti Kete Krachi__|9072001_|KaalyiTechnicalinstitute __|KeteKrachi__| Mixed [Refer to Appendix 1 for detailed technical Programs| 6 _|Day__} Tver |
+104 Oti rash Nera 7a [Pe TneTESaTS Tecra erga amar | eine eter te Anpendis for aetaied technioa! Programs| 7. Dav/Goarding | TVET
+105|Oti Jcuan——Ss«[9072112 [LolobiTechnicalinstitute  ——[LolobiAshiambi__| Mixed |Referto Appendix 1 fordetailed technical Programs| 5 |Day |
+107|Savannah Bole 9080700 _ {Bole Technical Institute Bole Mixed |Refer to Appendix 1 for detailed technical Programs Day/Boarding
+
+108|Savannah___[CentralGonja__ [9081501 |BuipeTechnicalinstitute ——[Buipe | Mixed [Refer to Appendix 1 for detailed technical Programs| 9 _|Day/ Boarding | TVET |
+109|Savannah_——[SawlaTunaKalba [9080655 _|SawlaGirlsVocationalInstitute —[Sawla_ | Girls [Refer to Appendix 1 for detailed technical Programs| 4 _|Day/Boarding |_TVET |
+
+110}Savannah |EastGona sid 9081500 |Salaga Technical Institute [Salaga ss Mixed | Refer to Appendix 1 for detailed technical Programs | 3 [Day/Boarding | TVET |
+111|Savannah West Gonja 9082100 |Damongo Technical Institute Damongo Mixed |Refer to Appendix 1 for detailed technical Programs | Day/ Boarding
+
+2025 SECOND CYCLE PUBLIC
+CATEGORY C Page 16 of 67 SCHOOLS REGISTER

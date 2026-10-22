@@ -1,0 +1,1131 @@
+{
+ "sample_size": 50,
+ "passed": 50,
+ "failed": 0,
+ "records": [
+  {
+   "id": 1,
+   "name": "Adrobaa Technical Institute",
+   "code": "9060201",
+   "labels": [
+    "Category C",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "Adrobaa Technical Institute",
+    "Adrobaa Technical Institute",
+    "Adrobaa Technical Institute"
+   ],
+   "register_regions": [
+    "Ahafo"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 20,
+   "name": "Yamfo Technical Institute",
+   "code": "9060200",
+   "labels": [
+    "Category A",
+    "Appendix 1"
+   ],
+   "register_names": [
+    "Yamfo Technical Institute",
+    "Yamfo Technical Institute"
+   ],
+   "register_regions": [
+    "Ahafo"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 38,
+   "name": "Agona Technical Institute",
+   "code": "9052701",
+   "labels": [
+    "Category B",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "Agona Technical Institute",
+    "Agona Technical Institute",
+    "Agona Technical Institute"
+   ],
+   "register_regions": [
+    "Ashanti"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 57,
+   "name": "Atwima Kwanwoma Snr High/Tech",
+   "code": "0050208",
+   "labels": [
+    "Category C",
+    "Appendix 2",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "Atwima Kwanwoma Snr High/Tech",
+    "Atwima Kwanwoma Snr High/Tech"
+   ],
+   "register_regions": [
+    "Ashanti"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [
+    [
+     "Appendix 2",
+     1.0
+    ]
+   ],
+   "verdict": "PASS"
+  },
+  {
+   "id": 75,
+   "name": "Christ the King Cath., Obuasi",
+   "code": "0051204",
+   "labels": [
+    "Category B"
+   ],
+   "register_names": [
+    "Christ the King Cath., Obuasi"
+   ],
+   "register_regions": [
+    "Ashanti"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 93,
+   "name": "Ghana Muslim Mission Senior High",
+   "code": "0050508",
+   "labels": [
+    "Category B"
+   ],
+   "register_names": [
+    "Ghana Muslim Mission Senior High"
+   ],
+   "register_regions": [
+    "Ashanti"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 114,
+   "name": "Kofiase Adventist Senior High/Tech.",
+   "code": "0050607",
+   "labels": [
+    "Category B",
+    "Appendix 2",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "Kofiase Adventist Senior High/Tech.",
+    "Kofiase Adventist Senior High/Tech."
+   ],
+   "register_regions": [
+    "Ashanti"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [
+    [
+     "Appendix 2",
+     0.95
+    ]
+   ],
+   "verdict": "PASS"
+  },
+  {
+   "id": 135,
+   "name": "Manso-Adubia Senior High",
+   "code": "0050403",
+   "labels": [
+    "Category C",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "Manso-Adubia Senior High",
+    "Manso-Adubia Senior High"
+   ],
+   "register_regions": [
+    "Ashanti"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 153,
+   "name": "Okomfo Anokye Senior High",
+   "code": "0050601",
+   "labels": [
+    "Category B"
+   ],
+   "register_names": [
+    "Okomfo Anokye Senior High"
+   ],
+   "register_regions": [
+    "Ashanti"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 171,
+   "name": "Prince Of Peace Girls",
+   "code": "0050117",
+   "labels": [
+    "Category C",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "Prince Of Peace Girls",
+    "Prince Of Peace Girls"
+   ],
+   "register_regions": [
+    "Ashanti"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 190,
+   "name": "St. Mary's Girl's Senior High, Konongo",
+   "code": "0051704",
+   "labels": [
+    "Category B"
+   ],
+   "register_names": [
+    "St. Mary's Girl's Senior High, Konongo"
+   ],
+   "register_regions": [
+    "Ashanti"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 208,
+   "name": "Twedie Technical Institute",
+   "code": "9052300",
+   "labels": [
+    "Category C",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "Twedie Technical Institute",
+    "Twedie Technical Institute",
+    "Twedie Technical Institute"
+   ],
+   "register_regions": [
+    "Ashanti"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 228,
+   "name": "Drobo Senior High",
+   "code": "0060501",
+   "labels": [
+    "Category B"
+   ],
+   "register_names": [
+    "Drobo Senior High"
+   ],
+   "register_regions": [
+    "Bono"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 250,
+   "name": "Nsoatre Technical Institute",
+   "code": "9062602",
+   "labels": [
+    "Category B",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "Nsoatre Technical Institute",
+    "Nsoatre Technical Institute",
+    "Nsoatre Technical Institute"
+   ],
+   "register_regions": [
+    "Bono"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 268,
+   "name": "Wamanafo Senior High/Tech",
+   "code": "0061002",
+   "labels": [
+    "Category B",
+    "Appendix 2"
+   ],
+   "register_names": [
+    "Wamanafo Senior High/Tech"
+   ],
+   "register_regions": [
+    "Bono"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [
+    [
+     "Appendix 2",
+     1.0
+    ]
+   ],
+   "verdict": "PASS"
+  },
+  {
+   "id": 286,
+   "name": "Krobo Comm.Senior High",
+   "code": "0060806",
+   "labels": [
+    "Category C",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "Krobo Comm.Senior High",
+    "Krobo Comm.Senior High"
+   ],
+   "register_regions": [
+    "Bono East"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 306,
+   "name": "Abakrampa Senior High/Tech",
+   "code": "0030403",
+   "labels": [
+    "Category C",
+    "Appendix 2"
+   ],
+   "register_names": [
+    "Abakrampa Senior High/Tech"
+   ],
+   "register_regions": [
+    "Central"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [
+    [
+     "Appendix 2",
+     1.0
+    ]
+   ],
+   "verdict": "PASS"
+  },
+  {
+   "id": 324,
+   "name": "Assin Nsuta Senior High School",
+   "code": "0031206",
+   "labels": [
+    "Category C",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "Assin Nsuta Senior High School",
+    "Assin Nsuta Senior High School"
+   ],
+   "register_regions": [
+    "Central"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 342,
+   "name": "Effutu Senior High/Tech",
+   "code": "0030110",
+   "labels": [
+    "Category C",
+    "Appendix 2"
+   ],
+   "register_names": [
+    "Effutu Senior High/Tech"
+   ],
+   "register_regions": [
+    "Central"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [
+    [
+     "Appendix 2",
+     1.0
+    ]
+   ],
+   "verdict": "PASS"
+  },
+  {
+   "id": 362,
+   "name": "Kwanyarko Senior High",
+   "code": "0030904",
+   "labels": [
+    "Category C"
+   ],
+   "register_names": [
+    "Kwanyarko Senior High"
+   ],
+   "register_regions": [
+    "Central"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 381,
+   "name": "Odoben Senior High",
+   "code": "0030802",
+   "labels": [
+    "Category C"
+   ],
+   "register_names": [
+    "Odoben Senior High"
+   ],
+   "register_regions": [
+    "Central"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 399,
+   "name": "University Practice Senior High",
+   "code": "0030105",
+   "labels": [
+    "Category B"
+   ],
+   "register_names": [
+    "University Practice Senior High"
+   ],
+   "register_regions": [
+    "Central"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 417,
+   "name": "Akro Senior High/Tech",
+   "code": "0021505",
+   "labels": [
+    "Category C",
+    "Appendix 2"
+   ],
+   "register_names": [
+    "Akro Senior High/Tech"
+   ],
+   "register_regions": [
+    "Eastern"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [
+    [
+     "Appendix 2",
+     1.0
+    ]
+   ],
+   "verdict": "PASS"
+  },
+  {
+   "id": 435,
+   "name": "Asamankese Senior High",
+   "code": "0020501",
+   "labels": [
+    "Category B"
+   ],
+   "register_names": [
+    "Asamankese Senior High"
+   ],
+   "register_regions": [
+    "Eastern"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 453,
+   "name": "Kade Senior High/Tech.",
+   "code": "0021102",
+   "labels": [
+    "Category B",
+    "Appendix 2"
+   ],
+   "register_names": [
+    "Kade Senior High/Tech."
+   ],
+   "register_regions": [
+    "Eastern"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [
+    [
+     "Appendix 2",
+     1.0
+    ]
+   ],
+   "verdict": "PASS"
+  },
+  {
+   "id": 471,
+   "name": "Methodist Girls Senior High, Mamfe",
+   "code": "0020410",
+   "labels": [
+    "Category B",
+    "Appendix 5"
+   ],
+   "register_names": [
+    "Methodist Girls Senior High, Mamfe",
+    "Methodist Girls Senior High Mamfe"
+   ],
+   "register_regions": [
+    "Eastern"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 489,
+   "name": "Presby Senior High, Begoro",
+   "code": "0021201",
+   "labels": [
+    "Category B"
+   ],
+   "register_names": [
+    "Presby Senior High, Begoro"
+   ],
+   "register_regions": [
+    "Eastern"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 530,
+   "name": "Achimota Senior High",
+   "code": "0010110",
+   "labels": [
+    "Category A",
+    "Appendix 5"
+   ],
+   "register_names": [
+    "Achimota Senior High",
+    "Achimota Senior High"
+   ],
+   "register_regions": [
+    "Greater Accra"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 548,
+   "name": "Ebenezer Senior High",
+   "code": "0010101",
+   "labels": [
+    "Category C"
+   ],
+   "register_names": [
+    "Ebenezer Senior High"
+   ],
+   "register_regions": [
+    "Greater Accra"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 566,
+   "name": "Nima Technical Institute",
+   "code": "9010112",
+   "labels": [
+    "Category C",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "Nima Technical Institute",
+    "Nima Technical Institute",
+    "Nima Technical Institute"
+   ],
+   "register_regions": [
+    "Greater Accra"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 584,
+   "name": "St. Margaret Mary Snr.High/Tech",
+   "code": "0010142",
+   "labels": [
+    "Category B",
+    "Appendix 2"
+   ],
+   "register_names": [
+    "St. Margaret Mary Snr.High/Tech"
+   ],
+   "register_regions": [
+    "Greater Accra"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [
+    [
+     "Appendix 2",
+     1.0
+    ]
+   ],
+   "verdict": "PASS"
+  },
+  {
+   "id": 602,
+   "name": "Langbinsi Senior High/Tech",
+   "code": "0080507",
+   "labels": [
+    "Category C",
+    "Appendix 2",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "Langbinsi Senior High/Tech",
+    "Langbinsi Senior High/Tech"
+   ],
+   "register_regions": [
+    "North East"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [
+    [
+     "Appendix 2",
+     1.0
+    ]
+   ],
+   "verdict": "PASS"
+  },
+  {
+   "id": 622,
+   "name": "Dagbon State Senior High/Tech",
+   "code": "0080802",
+   "labels": [
+    "Category C",
+    "Appendix 2"
+   ],
+   "register_names": [
+    "Dagbon State Senior High/Tech"
+   ],
+   "register_regions": [
+    "Northern"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [
+    [
+     "Appendix 2",
+     1.0
+    ]
+   ],
+   "verdict": "PASS"
+  },
+  {
+   "id": 640,
+   "name": "Nyohini Community Technical Institute",
+   "code": "9080105",
+   "labels": [
+    "Category C",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "Nyohini Community Technical Institute",
+    "Nyohini Community Technical Institute",
+    "Nyohini Community Technical Institute"
+   ],
+   "register_regions": [
+    "Northern"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 658,
+   "name": "Wulensi Senior High",
+   "code": "0080402",
+   "labels": [
+    "Category C",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "Wulensi Senior High",
+    "Wulensi Senior High"
+   ],
+   "register_regions": [
+    "Northern"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 676,
+   "name": "Kpassa Senior High/Tech",
+   "code": "0070303",
+   "labels": [
+    "Category C",
+    "Appendix 2"
+   ],
+   "register_names": [
+    "Kpassa Senior High/Tech"
+   ],
+   "register_regions": [
+    "Oti"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [
+    [
+     "Appendix 2",
+     1.0
+    ]
+   ],
+   "verdict": "PASS"
+  },
+  {
+   "id": 694,
+   "name": "Bole Senior High",
+   "code": "0080701",
+   "labels": [
+    "Category C"
+   ],
+   "register_names": [
+    "Bole Senior High"
+   ],
+   "register_regions": [
+    "Savannah"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 712,
+   "name": "Azeem-Namoa Senior High/Tech",
+   "code": "0090604",
+   "labels": [
+    "Category C",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "Azeem-Namoa Senior High/Tech",
+    "Azeem-Namoa Senior High/Tech"
+   ],
+   "register_regions": [
+    "Upper East"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 730,
+   "name": "Kanjarga Comm. Senior High",
+   "code": "0090305",
+   "labels": [
+    "Category C",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "Kanjarga Comm. Senior High",
+    "Kanjarga Comm. Senior High"
+   ],
+   "register_regions": [
+    "Upper East"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 749,
+   "name": "Sirigu Senior High",
+   "code": "0090506",
+   "labels": [
+    "Category C",
+    "Appendix 3",
+    "Appendix 4"
+   ],
+   "register_names": [
+    "Sirigu Senior High",
+    "Sirigu Senior High"
+   ],
+   "register_regions": [
+    "Upper East"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [
+    [
+     "Appendix 4",
+     0.72
+    ]
+   ],
+   "verdict": "PASS"
+  },
+  {
+   "id": 767,
+   "name": "GRATIS Technical Institute, Wa",
+   "code": "9100103",
+   "labels": [
+    "Category C",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "GRATIS Technical Institute, Wa",
+    "GRATlSTechnicalInstitute,Wa",
+    "GRATIS Technical Institute, Wa"
+   ],
+   "register_regions": [
+    "Upper West"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 785,
+   "name": "Nandom Senior High",
+   "code": "0100201",
+   "labels": [
+    "Category A"
+   ],
+   "register_names": [
+    "Nandom Senior High"
+   ],
+   "register_regions": [
+    "Upper West"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 804,
+   "name": "Wa Senior High/Tech.",
+   "code": "0100101",
+   "labels": [
+    "Category C",
+    "Appendix 2"
+   ],
+   "register_names": [
+    "Wa Senior High/Tech."
+   ],
+   "register_regions": [
+    "Upper West"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [
+    [
+     "Appendix 2",
+     1.0
+    ]
+   ],
+   "verdict": "PASS"
+  },
+  {
+   "id": 823,
+   "name": "Anlo Awomefia Senior High",
+   "code": "0070508",
+   "labels": [
+    "Category C",
+    "Appendix 2",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "Anlo Awomefia Senior High",
+    "Anlo Awomefia Senior High"
+   ],
+   "register_regions": [
+    "Volta"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [
+    [
+     "Appendix 2",
+     1.0
+    ]
+   ],
+   "verdict": "PASS"
+  },
+  {
+   "id": 841,
+   "name": "Comboni Tech/Voc Inst.",
+   "code": "9070901",
+   "labels": [
+    "Category B",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "Comboni Tech/Voc Inst.",
+    "ComboniTech/Voc Inst.",
+    "Comboni Tech/Voc Inst."
+   ],
+   "register_regions": [
+    "Volta"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 860,
+   "name": "Klikor Senior High/Tech.",
+   "code": "0070705",
+   "labels": [
+    "Category C",
+    "Appendix 2",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "Klikor Senior High/Tech.",
+    "Klikor Senior High/Tech."
+   ],
+   "register_regions": [
+    "Volta"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [
+    [
+     "Appendix 2",
+     1.0
+    ]
+   ],
+   "verdict": "PASS"
+  },
+  {
+   "id": 879,
+   "name": "St. Catherine Girls Senior High School",
+   "code": "0070510",
+   "labels": [
+    "Category C"
+   ],
+   "register_names": [
+    "St. Catherine Girls Senior High School"
+   ],
+   "register_regions": [
+    "Volta"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  },
+  {
+   "id": 898,
+   "name": "Weta Senior High/Tech.",
+   "code": "0070708",
+   "labels": [
+    "Category C",
+    "Appendix 2",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "Weta Senior High/Tech.",
+    "Weta Senior High/Tech."
+   ],
+   "register_regions": [
+    "Volta"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [
+    [
+     "Appendix 2",
+     1.0
+    ]
+   ],
+   "verdict": "PASS"
+  },
+  {
+   "id": 916,
+   "name": "Benso Senior High/Tech",
+   "code": "0040906",
+   "labels": [
+    "Category C",
+    "Appendix 2",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "Benso Senior High/Tech",
+    "Benso Senior High/Tech"
+   ],
+   "register_regions": [
+    "Western"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [
+    [
+     "Appendix 2",
+     1.0
+    ]
+   ],
+   "verdict": "PASS"
+  },
+  {
+   "id": 935,
+   "name": "Mesu Akompi Technical Institute",
+   "code": "9041412",
+   "labels": [
+    "Category C",
+    "Appendix 1",
+    "Appendix 3"
+   ],
+   "register_names": [
+    "Mesu Akompi Technical Institute",
+    "MesuAkompiTechnicalInstitute",
+    "Mesu Akompi Technical Institute"
+   ],
+   "register_regions": [
+    "Western"
+   ],
+   "name_similarity": 1.0,
+   "code_sections_match_labels": true,
+   "unexplained_labels": [],
+   "name_only_memberships": [],
+   "verdict": "PASS"
+  }
+ ]
+}

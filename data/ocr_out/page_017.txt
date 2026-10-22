@@ -1,0 +1,49 @@
+MINISTRY OF EDUCATION
+GHANA EDUCATION SERVICE
+REGISTER OF COURSES FOR PUBLIC SENIOR HIGH SCHOOLS AND TVET, 2025
+LIST OF CATEGORY C SCHOOLS
+
+Pp ISTP CATEGORY CSCHOOKS =e 7-7
+| PROGRAMMES.—S—S~=S&Y
+a
+S/N DISTRICT oor SCHOOL NAME LOCATION AGRIC TECH] tom. | vis. | GEN.| GEN.| STEM| LANG wroe. STATUS F
+ECON.|ARTS|ARTS| SCI 9
+101 301 402 | 501 | 502| 503 | 504
+
+Ahafo | Mixed [Refer to Appendix 1 for detailed technical Programs| _5 _|Day/Boarding | _TVET |
+2 [anafo curafo North Municivat—[s06Ta00 ~[FawohoyetenYechnice nttuia” | rewstoyeden—[ Mina Refer to Appendix 1 for detailed technical Programs| 6 _[Day/Boarding |_TVET |
+3 |Ahafo fsutiiNorh [5062400 ~[Gyedu Technical nettute [eyed | Minea | Refer to Appendix 1 for detailed technical Programs
+4 |Ahafo [TanoSouth [9060800 [TSC Technicallnstitute,Bechem __——|Bechem ____|_ Mixed [Refer to Appendix 1 for detailed technical Programs| 2 _|Day/boarding | TVET |
+5 |Ahafo [Asunafo North Municipal [9060139 _AkrodieTechnicalInstitute ss [Akrodie | Mixed Refer to Appendix 1 for detailed technical Programs| 4 _|Day/Boarding |_TVET |
+6 |Ahafo [TanoNorth [9060201 |AdrobaaTechnicalinstitute —[Adrobaa_—| Mixed [Refer to Appendix 1 for detailed technical Programs| 3 [Day ___—|_ TVET |
+7 |Ahafo [AsunafoSouth [9063011 _|KwapongTechnicalInstitute Ss [Kwapong | Mixed [Refer to Appendix 1 for detailed technical Programs| 6 __|Day/ Boarding | TVET |
+8 |Ahafo [TanoNorth [9060205 Islamic Mission Technical institute [Duayaw Nkwanta | Mixed |Refer to Appendix 1 for detailed technical Programs| 4 _|Day/ Boarding | TVET |
+9 [Ashanti lAfigya Kwabre South [9052000 |HemangBuohoTechnical Institute [HemangBuoho _| Mixed |Refer to Appendix 1 for detailed technical Programs| 6 _|Day/Boarding |_TVET |
+10 [Ashanti [AsanteAkimCentral____—_—‘([9050900_[TSCTechnicallnstitute, Konongo___——|Konongo | Mixed [Refer to Appendix 1 fordetailed technical Programs| 2 [Day __—|_ TVET |
+11 [Ashanti [AsokwaMunicipal___—([9050104_|Business Secretarial and Technical Institute |Chirapatre _| Mixed |Refer to Appendix 1 for detailed technical Programs| 7 _|Day/Boarding |_TVET |
+12 [Ashanti [AtwimNwabiagya [9051400 |NerebehiTechnicalinstitute —[Nerebehi___—__ | Mixed [Refer to Appendix 1 for detailed technical Programs| 6 _|Day/Boarding |_TVET |
+13 [Ashanti |AtwimaKwawoma___—|9052300_[TwedieTechnicalinstitute ss (Twedie | Mixed [Refer to Appendix 1 for detailed technical Programs| 4 _|Day/Boarding | TVET |
+14 [Ashanti [Bekwai Municipal [9050401 |NanaAmpontuaTechnicalinstitute _——[Bekwai_____| Mixed | Refer to Appendix 1 for detailed technical Programs| 6 _|Day/Boarding |_TVET |
+16 | Ashanti Offinso North 9057771 _ |Yaa Pokua Technical Institute Nkekaasu Mixed |Refer to Appendix 1 for detailed technical Programs Day TVET
+17 [Ashanti [Bekwai Municipal [9050403 |AmoafoTechnicalinstitute ss [Bekwai__| Mixed [Refer to Appendix 1 for detailed technical Programs| _11_|Day/Boarding |_TVET |
+19 | Ashanti Bosomtwi speaaog Konkoma Technical Institute wonkombe Mixed | Refer to Appendix 1 for detailed technical Programs Day/Boarding
+20 [Ashanti [Bosomtwi___— [9052802 [TetrefuTechnicalinstitute _——[Tetrefu___— | Mixed [Refer to Appendix 1 for detailed technical Programs| 7 |Day/Boarding | TVET |
+22 |Ashanti ise Maneipat Sekyedumase 050302 7 Ejuraman Technical Institute Rawors ices Refer to Appendix 1 for detailed technical Programs Day/Boarding
+23 | Ashanti 19050302 | Baworo Technical Institute [Baworo si [Refer to Appendix 1 fordetailed technical Programs| 4 _|Day/Boarding | TVET |
+25 | Ashanti Juaben Municipal 9050312 |Achiase Technical Institute Achiase Mixed | Refer to Appendix 1 for detailed technical Programs Day a
+26 [Ashanti [OffinsoNorth [9057772 _|Akumadan Applied Technology Institute [Akumadan___|_ Mixed [Refer to Appendix 1 for detailed technical Programs| 5 |Day __—|_ TVET |
+27 [Ashanti [KumasiMetro [9050109 [SuntresoTechnical institute [North Suntreso__| Mixed |Refer to Appendix 1 fordetailed technical Programs| 7 [Day __—|_ TVET |
+28 |Ashanti [MampongMunicipal___—‘([9050500_|TSC Technical institute, Mampong ___[Mampong__—| Mixed [Refer to Appendix 1 for detailed technical Programs| 4 [Day __—|_ TVET |
+29 [Ashanti [OfinsoMunicipal____———[9050600 |OffinsoTechnicalinstitute —[Offinso | Mixed [Refer to Appendix 1 for detailed technical Programs| 5 _|Day/Boarding |_TVET |
+30 [Ashanti [SekyereKumawu [9052900 |Kumawu Technical institute [Kumawu______|_ Mixed [Refer to Appendix 1 for detailed technical Programs| 3 [Day/Boarding | TVET |
+31 [Ashanti [Bosomtwe «(9052803 [Jachie Technical Institute ss [Jachie | Mixed [Refer to Appendix 1 for detailed technical Programs| 3 __|Day/Boarding |_TVET |
+32 [Ashanti [SekyereKumawu [9053000 _|TSC Technical Institute, Sekyere Kumawu__|Sekyere Kumawu_| Mixed [Refer to Appendix 1 for detailed technical Programs| 3 |Day __—|_ TVET |
+33 [Ashanti [BosomeFreho [9050319 [KokobenTechnicalinstitute _——|Asiwa-Kokoben _| Mixed |Refer to Appendix 1 for detailed technical Programs| 5 _|Day/Boarding | TVET |
+34 |Ashanti [Asante AkyemCentrat___[9051301_|Dwease-Praaso Technical Institute __——‘[Dwease-Praaso__Mixed [Refer to Appendix 1 for detailed technical Programs| 4 _|Day/Boarding |_TVET |
+35 [Ashanti KumasiMetro [9050105 [Catholic Technical Institute [Kumasi | Mixed [Refer to Appendix 1 for detailed technical Programs| 7 _|Day/Boarding |_TVET |
+36 [Ashanti [Asokwa Municipal __—_—_—|9050112_[RamseyerTechnical institute [Asokwa_ | Mixed [Refer to Appendix 1 for detailed technical Programs| 7 _|Day/Boarding | TVET |
+37 [Ashanti Juaben Municipal [9050303 |JuabenTechnicalinstitute —[Juaben | Mixed [Refer to Appendix 1 for detailed technical Programs| 4 [Day __—|_ TVET |
+38 [Ashanti JAmansieWest_ 9054022 [PakyiAppliedTechnologyinstitute ——[Pakyi__— | Mixed |Referto Appendix 1 fordetailed technical Programs|__4 |Day __—|_ TVET |
+
+2025 SECOND CYCLE PUBLIC
+CATEGORY C Page 14 of 61 SCHOOLS REGISTER

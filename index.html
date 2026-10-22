@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Learn the 2025 BECE school-selection rules, choose and rank five schools plus two alternatives, and check your choices. Prototype.">
+    <title>School Selection Guide &mdash; prepare your BECE school choices</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body data-page="home">
+    <div id="site-header"></div>
+
+    <main id="main">
+        <!-- Welcome -->
+        <section class="hero">
+            <div class="container hero-inner">
+                <div class="hero-content">
+                    <span class="hero-eyebrow">BECE school-selection preparation</span>
+                    <h1 class="hero-title">Prepare your <span class="text-gradient">school choices</span> with confidence</h1>
+                    <p class="hero-lead">
+                        Learn the rules, choose and rank five schools, add two alternatives, and check
+                        your choices before you fill the official form.
+                    </p>
+                    <div class="hero-actions">
+                        <a class="btn btn-primary btn-large" href="selection/index.html">Start school selection</a>
+                        <a class="btn btn-outline btn-large" href="guidelines/index.html">Read the guidelines</a>
+                    </div>
+                </div>
+
+                <aside class="hero-panel" aria-label="How the selection process works">
+                    <h2 class="hero-panel-title">How the process works</h2>
+                    <div class="process-list">
+                        <a class="process-item" href="guidelines/index.html">
+                            <span class="process-num" aria-hidden="true">1</span>
+                            <span class="process-text">
+                                <strong>Read the guidelines</strong>
+                                <span>Learn the rules.</span>
+                            </span>
+                        </a>
+                        <a class="process-item" href="selection/index.html">
+                            <span class="process-num" aria-hidden="true">2</span>
+                            <span class="process-text">
+                                <strong>Choose and rank five schools</strong>
+                                <span>Pick your main choices in order.</span>
+                            </span>
+                        </a>
+                        <a class="process-item" href="selection/index.html">
+                            <span class="process-num" aria-hidden="true">3</span>
+                            <span class="process-text">
+                                <strong>Add programmes and Day/Boarding</strong>
+                                <span>One of each for every school.</span>
+                            </span>
+                        </a>
+                        <a class="process-item" href="review/index.html">
+                            <span class="process-num" aria-hidden="true">4</span>
+                            <span class="process-text">
+                                <strong>Add alternatives</strong>
+                                <span>Choose two backup schools.</span>
+                            </span>
+                        </a>
+                         <a class="process-item" href="review/index.html">
+                            <span class="process-num" aria-hidden="true">5</span>
+                            <span class="process-text">
+                                <strong>Review and catch mistakes</strong>
+                                <span>Check everything on the form.</span>
+                            </span>
+                        </a>
+                    </div>
+                </aside>
+            </div>
+        </section>
+
+    
+
+        <!-- Disclaimer -->
+        <section class="notice-band" id="disclaimer">
+            <div class="container notice-inner">
+                <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
+                    <path d="M12 4l9 16H3L12 4Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+                    <path d="M12 10v4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                    <circle cx="12" cy="17" r="1" fill="currentColor"/>
+                </svg>
+                <p>
+                    <strong>Important:</strong> This is not an official CSSPS or GES service. It cannot
+                    submit, change or guarantee a placement. Confirm details with your school and the
+                    official instructions.
+                </p>
+            </div>
+        </section>
+
+        <!-- Dataset snapshot -->
+        <section class="data-snapshot">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Schools in this prototype</h2>
+                    <p class="section-subtitle">Live counts from the school data.</p>
+                </div>
+                <div class="snapshot-grid">
+                    <div class="snapshot-card">
+                        <span class="snapshot-value" id="stat-schools">&mdash;</span>
+                        <span class="snapshot-label">School records</span>
+                    </div>
+                    <div class="snapshot-card">
+                        <span class="snapshot-value" id="stat-regions">&mdash;</span>
+                        <span class="snapshot-label">Regions</span>
+                    </div>
+                    <div class="snapshot-card">
+                        <span class="snapshot-value" id="stat-cat-a">&mdash;</span>
+                        <span class="snapshot-label">Category A</span>
+                    </div>
+                    <div class="snapshot-card">
+                        <span class="snapshot-value" id="stat-cat-b">&mdash;</span>
+                        <span class="snapshot-label">Category B</span>
+                    </div>
+                    <div class="snapshot-card">
+                        <span class="snapshot-value" id="stat-cat-c">&mdash;</span>
+                        <span class="snapshot-label">Category C</span>
+                    </div>
+                </div>
+                <p class="snapshot-note" id="snapshot-note">
+                    Source: GES 2025 second-cycle schools register. The selection workflow uses a
+                    smaller, checked subset of these schools.
+                </p>
+            </div>
+        </section>
+
+        <!-- Scope -->
+        <section class="scope" id="scope">
+            <div class="container">
+                <div class="scope-card">
+                    <h2 class="scope-title">What this prototype covers</h2>
+                    <ul class="scope-list">
+                        <li>
+                            <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false"><path d="M5 12l4 4 10-10" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            <span>A checked subset of the 2025 register: 27 general schools plus a few TVET, STEM and SEN schools. Not the full national list.</span>
+                        </li>
+                        <li>
+                            <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false"><path d="M5 12l4 4 10-10" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            <span>Uses official 2025 categories. Where a detail is missing, such as a programme code, it is left blank rather than guessed.</span>
+                        </li>
+                        <li>
+                            <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false"><path d="M5 12l4 4 10-10" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            <span>Special pathways change which schools are offered. Some pathway and Day/Boarding rules are still being confirmed, so they are marked needs verification, not enforced.</span>
+                        </li>
+                        <li>
+                            <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false"><path d="M5 12l4 4 10-10" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            <span>Your choices are saved in this browser only. Nothing is submitted.</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <div id="site-footer"></div>
+
+    <noscript>
+        <p style="padding: 1rem; text-align: center; background: #fff3cd; color: #664d03;">
+            This prototype needs JavaScript to load navigation and school data. Please enable it to use the app.
+        </p>
+    </noscript>
+
+    <script type="module" src="js/layout.js"></script>
+    <script type="module" src="js/home.js"></script>
+</body>
+</html>

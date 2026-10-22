@@ -1,0 +1,218 @@
+# School Selection Project: All Implementation Phases and Tasks
+
+## Phase 1: Data Foundation & Category Extraction
+
+**Objective:** Extract school categories and codes from the PDF register; build enhanced dataset.
+
+**Tasks:**
+
+1. Extract all school categories (A/B/C) from the PDF.
+2. Extract school codes and programme codes.
+3. Extract Appendix 3, 4, 5 lists from the PDF.
+4. Augment `school-data.js` with:
+                   id:
+                   name:
+                   location:
+                   gender:
+                   school_type:
+                   status:
+                   programs:
+  	           programs_code:
+                   classification:
+
+5. Write data-extraction documentation.
+
+**Dependencies:** Access to the PDF register; manual verification of extracted data.
+
+**Verification:**
+
+- Cross-check a sample of 50 schools against the PDF.
+- Confirm all 16 regions are present.
+- Confirm category distribution is reasonable.
+
+## Phase 2: Core Application Shell & Design System
+
+**Objective:** Build the HTML structure, adapt CSS, create the home page and navigation.
+
+**Tasks:**
+
+1. Create `index.html` (welcome page).
+2. Rewrite `css/pages.css` for the school-selection product.
+3. Adapt `css/components.css` (remove JOURNA-specific navbar, create new).
+4. Adapt `css/layout.css` as needed.
+5. Create `css/main.css` importing all files.
+6. Set up responsive navigation between sections.
+
+**Dependencies:** Phase 1 (for accurate school count/stats on home page).
+
+**Verification:**
+
+- Home page renders correctly on mobile and desktop.
+- Navigation works.
+- No JOURNA branding remains.
+
+## Phase 3: Guidelines Section
+
+**Objective:** Build the interactive guidelines section from `OFFICIAL_GUIDELINES.md` content.
+
+**Tasks:**
+
+1. Create `guidelines/index.html`.
+2. Create `js/guidelines-data.js` (structured guideline content).
+3. Create `js/guidelines.js` (rendering + interaction).
+4. Implement step-by-step or card-based presentation.
+5. Separate official wording from explanations visually.
+6. Add progress indicator.
+
+**Dependencies:** Phase 2 (navigation to reach guidelines).
+
+**Verification:**
+
+- All 24 guidelines present.
+- Official vs. explanation visually distinct.
+- Readable on mobile.
+
+## Phase 4: Selection Workflow — Main Choices
+
+**Objective:** Build the core 5-main-school selection interface with validation.
+
+**Tasks:**
+
+1. Create `selection/index.html`.
+2. Create `js/validation.js` (all validation rules as pure functions).
+3. Create `js/selection-state.js` (state management).
+4. Create `js/school-search.js` (search/filter by region, type, category).
+5. Create `js/selection.js` (workflow controller).
+6. Implement school selection → programme selection → Day/Boarding selection.
+7. Implement category limit enforcement (max 1 A, max 2 B).
+8. Implement 3 Boarding / 2 Day tracking.
+9. Implement editing and reordering choices.
+
+**Dependencies:** Phase 1 (data), Phase 2 (shell).
+
+**Verification:**
+
+- Can select 5 schools.
+- Category limits enforced.
+- Day/Boarding tracked.
+- Can edit/reorder.
+- Validation messages clear.
+
+## Phase 5: Alternative Choices
+
+**Objective:** Add the 2-alternative-school selection (1 Category B + 1 Category C from Appendix 3).
+
+**Tasks:**
+
+1. Extend `selection/index.html` with alternatives section.
+2. Implement Appendix 3 eligibility filtering.
+3. Implement duplicate-school prevention (alternatives vs. main choices).
+4. Add validation for alternatives.
+
+**Dependencies:** Phase 4 (main choices complete), Phase 1 (Appendix 3 data).
+
+**Verification:**
+
+- Can select 1 B + 1 C alternative.
+- Duplicates with main choices blocked.
+- Only Appendix 3 schools shown.
+
+## Phase 6: Special Pathways
+
+**Objective:** Add TVET, STEM, and SEN pathway support.
+
+**Tasks:**
+
+1. Add pathway selection at start of workflow.
+2. Implement TVET pathway (5 TVET institutes from A/B/C).
+3. Implement STEM pathway (5 STEM schools from A/B/C).
+4. Implement SEN pathway (if data available).
+5. Each pathway has its own validation rules.
+
+**Dependencies:** Phase 4, Phase 5, Phase 1 (pathway data).
+
+**Verification:**
+
+- Each pathway can be completed.
+- Correct schools shown.
+- Pathway-specific rules enforced.
+
+## Phase 7: Final Review & Form Preview
+
+**Objective:** Build the form-like review showing all 7 choices.
+
+**Tasks:**
+
+1. Create `review/index.html`.
+2. Create `js/review.js`.
+3. Display all 5 main choices ranked with full details.
+4. Display 2 alternatives separately.
+5. Show validation status (valid / invalid / unverified).
+6. Add edit buttons that return to selection.
+7. Add official submission disclaimer.
+8. Match the structure of the CSSPS form (from screenshots).
+
+**Dependencies:** Phase 4, Phase 5, Phase 6.
+
+**Verification:**
+
+- All 7 choices displayed correctly.
+- Validation status accurate.
+- Edit returns preserve data.
+- Disclaimer present.
+
+## Phase 8: Testing & Polish
+
+**Objective:** Comprehensive testing and refinement.
+
+**Tasks:**
+
+1. Test all valid/invalid selection combinations.
+2. Test responsive layouts.
+3. Test edge cases (duplicate schools, category limits, missing data).
+4. Accessibility audit.
+5. Performance check.
+6. Fix any issues found.
+
+**Dependencies:** All prior phases.
+
+**Verification:**
+
+- Test results documented.
+- All acceptance criteria from `PRODUCT_SPECIFICATION.md` met.
+
+## Decisions Requiring Approval
+
+### Q1: How should category data be extracted from the PDF?
+
+- Extract manually by reading the PDF and building a mapping of school → category.
+- Use a PDF text extraction tool to pull the data programmatically, then manually verify.
+- Provide a pre-processed list if one is available.
+
+### Q2: Should TVET/STEM/SEN pathways be built now or deferred?
+
+- Build the general selection workflow first (Phases 1–5, 7–8), then add pathways once the core is solid and appendix data is extracted.
+
+### Q3: Should the app persist selections using localStorage?
+
+- Use localStorage. It's simple, requires no backend, and prevents frustration if someone accidentally closes the browser. Document what is saved and where.
+
+### Q4: Should the existing `school-data.js` be enhanced or should a new file be created?
+
+- Create `js/school-data-enhanced.js` that imports the existing data and augments it with categories, codes, and appendix flags. This preserves the original dataset while keeping enhancements separate and maintainable.
+
+- **DECISION (Phase 1, applied):** augment **in place** in `js/school-data.js` (single source of
+  truth). `js/school-data-enhanced.js` does not exist and was not created. All pre-existing
+  field values are preserved (verified against `data/school-data.baseline.json`); the new
+  fields are `code` and `programs_code`, and `classification` is replaced with register-derived
+  labels. See `docs/DATA_EXTRACTION.md`.
+
+### Q5: Is the Appendix 3 school list available?
+
+- The PDF should contain it, but a separate, verified list would save extraction time and reduce errors.
+
+## Summary
+
+The critical path is Phase 1 (category extraction). Without school categories, the core validation cannot work. The recommended approach is to proceed with vanilla HTML/CSS/JS, reuse the CSS tokens, and build the phases in order, prioritizing data accuracy over completeness.
+
+Implementation should begin after the approach has been reviewed and approved.

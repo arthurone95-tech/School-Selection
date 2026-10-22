@@ -1,0 +1,50 @@
+CODE TYPE
+
+[243 Ashanti |AtwimaNwabiagyaNorth [0050811 [J.A.KufourStem/TechnicalSchool _—[Dabaa__— [Mixed [Day/Boarding|  C__|SHTS|
+[244 [Ashanti |BekwaiMunicipal «0050172 [Ofoase KokobenSeniorHigh SS [Ofoase Kokobin [Mixed |Day/Boarding| _B__|SHS |
+[245 [Ashanti |[Bosumtwe_ «0051702 [BeposoSeniorHigh ss (Beposo [Mixed |Day/Boarding| BB __ SHS |
+[246 |Ashanti___—|MampongMunicipal___————« 0050607 [Kofiase Adventist Senior High/Tech. _—__—[Kofiase_—— [Mixed |Day/Boarding| BB __|SHTS|
+|247|Ashanti___—|SekyereKumawu «(0050903 [BankomanSeniorHigh Ss [Banko Mixed |Day/Boarding| BB __|SHS |
+|248|Bono [Banda SCSCSCSC*dtOOGOGIO [BandamanSeniorHigh [Banda Ahenkro [Mixed |Day/Boarding| _C_|SHS |
+|249|Bono _—|SunyaniWest_—SSS« 0060125 [Kye Amponsah Senior High School, Fiapre__[Fiapre_ [Mixed _|Day/Boarding| C_|SHS |
+[250|Bono —[BerekumWest_ «0060308 St. Augustine Senior High School, Nsapor-Berek/Nsapor-Berekum [Mixed [Day ||_——C___—[SHS |
+[251|BonoJamanNorth «0060512 [DuadasoNo.1SeniorHigh/Tech.  [Duadaso_— [Mixed [Day | CHT
+|252|Bono |WenchiMunicipal «0060611 [NkyeraaSeniorHighSch. Ss [Nehiraa [Mixed |Day/Boarding| C__|SHS |
+[253|Bono i |JamanSouth «0060509 [Hidaayah Islamic Senior High School ___[Japekrom [Mixed |Day/Boarding|  C__|SHS |
+|254|Bono _—|[DormaaCentralMunicipal_ 0061005 [Salvation Army Senior High, Aboabo Dormaa__[Aboabo-Dormaa___ [Mixed _|Day/Boarding| __B__|SHS |
+|255|Bono —|[DormaaEast_ «0061003 [MansenSeniorHigh ss  [Wamfie, Mixed [Day/Boarding| BB __|SHS |
+|256|Bono ——[DormaaWest_ «0061004 [Nkrankwanta Senior High/Tech —[Nkrankwanta___—_ [Mixed _|Day/Boarding|__B__|SHTS|
+|257|Bono ——|JamanNorth «0060507 [DiamonoSeniorHighSch. __—— [DuadasoNo.2 [Mixed |Day/Boarding| _B__|SHS |
+|258|Bono Ss JamanNorth «0060504 [GokaSeniorHigh/Tech. Ss [Goka Mixed [Day/Boarding| BB __|SHTS|
+[259|Bono JamanNorth «0060513 [St.Ann'sGirlsSeniorHigh,Sampa_[Sampa__ (Girls [Day/Boarding| BB __ SHS |
+|260|Bono —|SunyaniMunicipal «0060111 [S.D.ASenior High, Sunyani SS [Sunyani_ [Mixed [Day |B SHS |
+[261|Bono Tain SS «*f0060605 [MenjiSeniorHigh Meni Mixed [Day |B SHS |
+[262|Bono Tain = CCCCCCSC«*0060G08 [NsaWkawState SeniorHigh [Nsawkaw [Mixed |Day/Boarding| BB __|SHS |
+|263|BonoEast__|KintampoNorthMunicipal_ 10060612 [NewLongoroComm.School(Dega) _—[NewLongoro [Mixed [Day || C___|SHS |
+|264|BonoEast_ [Pru «0060406 [AbeasemanComm.DaySeniorHigh _——[Abease_— [Mixed [Day || CC SHS |
+|265|BonoEast___|TechimanMunicipal_ «0060714 [KwartengAnkomah SeniorHigh __——[Tanoso-Techmian [Mixed |Day/Boarding| __C__|SHS |
+|266|BonoEast___|TechimanMunicipal «0060713 [GyarkoComm.DaySeniorHigh Ss [Techiman [Mixed [Day | CC SHS |
+|267|BonoEast___|TechimanMunicipal_ _—S——S« 0060712 [KesseBasahyiaSeniorHighSchool __—([TechimanOforikrom [Mixed |Day _—|_—C__— SHS |
+[268 |BonoEast__|TechimanNorth 0060704 [St.Francis Seminary Senior High, Buoyem ___[Buoyem [Boys [Day/Boarding| C__|SHS |
+[269|BonoEast__|TechimanNorth 0060806 [KroboComm.SeniorHigh SS [Krobo [Mixed [Day | CHS |
+[270|BonoEast__|SeneEast_ «0061103 [Bassa CommunitySeniorHigh [Bassa [Mixed [Day/Boarding|  C__|SHS |
+[271 |BonoEast__|TechimanNorth 0060715 [AbrafiSeniorHign Ss [Techiman [Mixed [Day | CC SHS |
+|272|BonoEast__|NkoranzaSouthMunicipal_——— [0060905 _[Donkro-NkwantaSenior HighSchool___—[Donkro-Nkwanta [Mixed [Day ||_—C___| SHS |
+|273|BonoEast___|TechimanMunicipal «10060709 [YeboahAsuamahSeniorHigh ss [Nsuta [Mixed |Day/Boarding| BB __|SHS |
+|274|BonoEast____|TechimanNorth «0060705 [GuakroEffahSeniorHigh [Offuman [Mixed |Day/Boarding| BB __|SHS |
+|275|Central___—(|Abura/Asebu/Kwamankese 0030406 [MoreeComm.SeniorHigh [Moree Mixed |Day/Boarding| C_|SHS |
+|276|Central__—|AgonaEast_ ss SSSSS«* 0030909 [AgonaNamonworaComm.Senior High _—‘[AgonaNamonwora__|Mixed |Day _—|_—C___— SHS |
+|277|Central__—_—(|AgonaWestMunicipal__———* 0030915 [AgonaFankobaaSeniorHigh [Aon Abodom _—[Mixed [Day | CC SHS
+[278 Central |Ajumako/Enyan/Esiam_— [0030706 [EnyanMaimComm.DaySchool [EnyanMaim [Mixed [Day | C__SHS |
+|279|Central_ __—|[Asikuma/Odoben/Brakwa_ 0030803 [BrakwaSeniorHigh/Tech Ss [Brakwa_ [Mixed |Day/Boarding| —C__|SHTS|
+|280|Central_—|AssinNorth «0031208 [Gyaase Community Senior High [Assin-Akonfudi__ [Mixed _|Day/Boarding| C__|SHS |
+[281 |Central__—|AssinSouth «0031206 [Asin NsutaSeniorHighSchool —[AssinNsuta_ [Mixed _|Day/Boarding| C__|SHS |
+|282|Central___——|AssinSouth 0031203 [NyankumasiAhenkroSnr.Hign [NyankumasiAhenkro [Mixed |Day/Boarding|  C__|SHS |
+|283|Central____——|AwutuSenyaEastMunicipal 0030628 [Awutu Bawjiase Comm. Senior HighSchool__[AwutuBawjiase [Mixed _|Day/Boarding| ___C__|SHS |
+|284|Central___——|AwutuSenyaEastMunicipal 0030629 [OdupongComm.DaySchool __—[KasoaOfaakor [Mixed [Day || Cd SHS |
+[285 Central |Ekumfi__—— «0030309 EA. Mills Senior High  [Otuam Mixed [Day | SC SHS |
+|286|Central__——|GomoaCentral Ss SSS«* 0030508 [GomoaGyamanSeniorHigh = [GomoaGyaman _ [Mixed |Day/Boarding]| _C_| SHS |
+
+2025 SECOND CYCLE PUBLIC
+APPENDIX 3 Page 52 of 61 SCHOOLS REGISTER
+

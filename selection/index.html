@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Choose and rank five schools, add two alternatives, and check your choices against the 2025 selection rules. Prototype.">
+    <title>Select schools &mdash; School Selection Guide</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/main.css">
+</head>
+<body data-page="selection" data-base="../">
+    <div id="site-header"></div>
+
+    <main id="main">
+        <div class="page-header">
+            <div class="container">
+                <span class="page-eyebrow">Main choices</span>
+                <h1 class="page-title">Choose and rank five schools</h1>
+                <p class="page-lead">
+                    Rank up to five schools, with a programme and Day/Boarding option for each. Your
+                    choices are checked against the selection rules as you go.
+                </p>
+                <p class="page-meta" id="selection-meta">&mdash;</p>
+            </div>
+        </div>
+
+        <div class="sel-layout">
+            <div class="container sel-container">
+                <aside class="sel-aside" aria-label="Selection summary and validation">
+                    <div id="sel-progress"></div>
+                    <div id="sel-validation"></div>
+                    <div id="sel-tools"></div>
+                </aside>
+
+                <div class="sel-main">
+                    <section class="sel-section" id="pathway" aria-labelledby="pathway-heading">
+                        <header class="sel-section-header">
+                            <h2 class="sel-section-title" id="pathway-heading">Choose a pathway</h2>
+                            <p class="sel-section-desc">
+                                Your pathway decides which schools are offered for your five main
+                                choices. Your two alternatives are unchanged.
+                            </p>
+                        </header>
+                        <div id="sel-pathways" class="sel-pathways" role="radiogroup" aria-labelledby="pathway-heading"></div>
+                        <div id="sel-pathway-note"></div>
+                    </section>
+
+                    <section class="sel-section" id="choices" aria-labelledby="choices-heading">
+                        <header class="sel-section-header">
+                            <h2 class="sel-section-title" id="choices-heading">Your five main choices</h2>
+                            <p class="sel-section-desc">
+                                Ranked from most to least preferred. You can reorder, replace or remove
+                                any choice.
+                            </p>
+                        </header>
+                        <div id="sel-choices" class="sel-choices"></div>
+                    </section>
+
+                    <section class="sel-section" id="browse" aria-labelledby="browse-heading">
+                        <header class="sel-section-header">
+                            <h2 class="sel-section-title" id="browse-heading">Find a school to add</h2>
+                            <p class="sel-section-desc">
+                                Search or filter, then add a school to your choices.
+                            </p>
+                        </header>
+
+                        <div id="sel-replace-note"></div>
+
+                        <form class="sel-search" id="sel-search" role="search" aria-label="Search and filter schools">
+                            <div class="form-group sel-search-query">
+                                <label class="form-label" for="sel-query">Search by name, region, location or code</label>
+                                <input class="form-input" type="search" id="sel-query" name="query" autocomplete="off" placeholder="e.g. Accra, TVET, Star, 0010121">
+                            </div>
+                            <div id="sel-filters" class="sel-filters"></div>
+                            <button type="button" class="btn btn-small btn-outline" id="sel-filters-clear">Clear filters</button>
+                        </form>
+
+                        <p class="sel-results-count" id="sel-results-count" aria-live="polite"></p>
+                        <div id="sel-results" class="sel-results"></div>
+                    </section>
+
+                    <section class="sel-section" id="alternatives" aria-labelledby="alternatives-heading">
+                        <header class="sel-section-header">
+                            <h2 class="sel-section-title" id="alternatives-heading">Alternative choices (Appendix 3)</h2>
+                            <p class="sel-section-desc">
+                                Choose two backups from Appendix 3 &mdash; one Category B and one Category
+                                C &mdash; with a programme and Day/Boarding option for each. They must
+                                differ from your five main choices.
+                            </p>
+                        </header>
+
+                        <div id="sel-alternatives" class="sel-alternatives"></div>
+                        <div id="sel-alternatives-validation"></div>
+                    </section>
+                </div>
+            </div>
+        </div>
+
+        <div class="sel-footer-cta">
+            <div class="container sel-footer-inner">
+                <p>
+                    Saved in this browser only. Nothing is submitted to CSSPS and no placement is
+                    guaranteed.
+                </p>
+                <div class="sel-footer-actions">
+                    <a class="btn btn-outline" href="../guidelines/index.html">Review the guidelines</a>
+                    <a class="btn btn-primary" href="../review/index.html">Continue to review</a>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <div id="site-footer"></div>
+
+    <p id="sel-announcer" class="sel-sr-only" role="status" aria-live="polite"></p>
+
+    <noscript>
+        <p style="padding: 1rem; text-align: center; background: #fff3cd; color: #664d03;">
+            This prototype uses JavaScript to load the school list. Please enable it to use the app.
+        </p>
+    </noscript>
+
+    <script type="module" src="../js/layout.js"></script>
+    <script type="module" src="../js/selection.js"></script>
+</body>
+</html>
